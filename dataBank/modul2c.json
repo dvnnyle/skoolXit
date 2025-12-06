@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "section": "Kap4.1",
+    "question": "Hva handler norming-fasen om i prosjektets utvikling?",
+    "options": [
+      "Fasen der prosjektet avsluttes og resultatene dokumenteres",
+      "En fase preget av konflikter og uenigheter som må løses",
+      "Perioden der teamet etablerer felles normer, verdier og samarbeidermønstre",
+      "En fase der gruppen må oppfinne helt nye arbeidsmetoder"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Norming-fasen handler om etablering av felles normer og samarbeid.",
+    "explanation": "Etter forming og storming går prosjektet inn i norming-fasen, perioden der teamet begynner å fungere som en helhet. Her etableres felles normer, verdier og samarbeidermønstre, og gruppen finner balansen mellom struktur og fleksibilitet. Denne fasen handler om å bygge prosjektkultur, utvikle tillit og skape felles forståelse av mål og arbeidsform. (Se 'Hva er norming' i notatene)"
+  },
+  {
+    "id": 2,
+    "section": "Kap4.2",
+    "question": "Hva er 'implisitte kontrakter' i norming-fasen?",
+    "options": [
+      "Formelle skrevne avtaler mellom ledelse og medlemmene",
+      "Uuttalte avtaler og forventninger mellom medlemmene basert på gjensiddig forståelse",
+      "Kontrakter som bestemmer lønn og arbeidsbetingelser",
+      "Avtaler som handler kun om sosiale aktiviteter"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Implisitte kontrakter er uuttalte avtaler mellom medlemmene.",
+    "explanation": "I norming-fasen oppstår implisitte kontrakter - uuttalte avtaler og forventninger mellom medlemmene. Disse bygger på gjensiddig forståelse og tidligere erfaringer, og former hvordan teamet samarbeider i praksis. De er viktige for å skape stabilitet og forutsigbarhet. (Se 'Implisitte og psykologiske kontrakter' i notatene)"
+  },
+  {
+    "id": 3,
+    "section": "Kap4.3",
+    "question": "Hva er 'psykologiske kontrakter' i prosjektsammenheng?",
+    "options": [
+      "Avtaler om hvilke psykologiske tester medlemmene må gjennomgå",
+      "Forventninger mellom den enkelte og organisasjonen om rettferdighet, anerkjennelse og støtte",
+      "Regler for hvordan medlemmene skal oppføre seg på arbeid",
+      "En form for psykologisk terapi som ledelsen tilbyr"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Psykologiske kontrakter handler om forventninger og gjensidighet.",
+    "explanation": "Psykologiske kontrakter utvikles mellom den enkelte og organisasjonen. De handler om personlige forventninger og rettferdighet, anerkjennelse og støtte. Når slike kontrakter oppfylles, øker motivasjonen og lojaliteten. Hvis de brytes, kan det skape misnøye og tillitsbrudd. (Se 'Implisitte og psykologiske kontrakter' i notatene)"
+  },
+  {
+    "id": 4,
+    "section": "Kap4.4",
+    "question": "Hva er 'prosjektkultur'?",
+    "options": [
+      "En liste over regler som alle medlemmene må følge nøyaktig",
+      "De felles verdiene, holdningene og normene som styrer hvordan teamet jobber sammen",
+      "En type kunstnerisk aktivitet som prosjektmedlemmer deltar i",
+      "En formell dokumentasjon av alle avgjørelser som er tatt"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Prosjektkultur er felles verdier og normer som styrer samarbeidet.",
+    "explanation": "En prosjektkultur er de felles verdiene, holdningene og normene som styrer hvordan teamet jobber sammen. Den oppstår gjennom erfaringer, interaksjon og ledelse, og blir synlig i måten gruppen løser problemer, kommuniserer og feirer resultater på. En sterk prosjektkultur fremmer felles målforståelse, åpen kommunikasjon, engasjement og tillit. (Se 'Felles prosjektkultur' i notatene)"
+  },
+  {
+    "id": 5,
+    "section": "Kap4.5",
+    "question": "Hva er 'sosial kapital' i grupper?",
+    "options": [
+      "Hvor mye penger gruppen har til rådighet",
+      "Graden av tillit og felles normer i gruppen som gjør det lettere å koordinere oppgaver",
+      "De fysiske ressursene som gruppen bruker i sitt arbeid",
+      "En type kapital som kun store organisasjoner kan oppnå"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Sosial kapital er tillit og felles normer i gruppen.",
+    "explanation": "Sosial kapital viser til graden av tillit og felles normer i gruppen. Høy sosial kapital gjør det lettere å koordinere oppgaver og løse problemer uten konflikt. Det oppstår når medlemmene samarbeider godt, deler informasjon åpent og har felles mål. (Se 'Felles prosjektkultur' i notatene)"
+  },
+  {
+    "id": 6,
+    "section": "Kap4.6",
+    "question": "Hva er de fire nøkkelnormene i effektive team ifølge Jacobsen?",
+    "options": [
+      "Gevinst, effektivitet, læring og innovasjon",
+      "Felles skjebne, samhold, engagement og tillit",
+      "Struktur, planlegging, kontroll og rapportering",
+      "Konkurranse, hierarki, fokus og individuell prestasjon"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Fire normer: felles skjebne, samhold, engagement og tillit.",
+    "explanation": "Jacobsen beskriver fire sentrale normer som kjennetegner velfungerende prosjektgrupper: Felles skjebne (medlemmene forstår gjensidig avhengighet), Samhold (vi-følelse og inkludering), Engagement (emosjonell tilknytning til prosjektet), og Tillit (tro på at andre er kompetente og vil det beste). Disse normene må bygges bevisst gjennom kommunikasjon og felles opplevelser. (Se 'Fire nøkkelnormer i effektive team' i notatene)"
+  },
+  {
+    "id": 7,
+    "section": "Kap4.7",
+    "question": "Hva innebærer 'prososial atferd' i norming-fasen?",
+    "options": [
+      "Når medlemmene fokuserer kun på sine egne oppgaver og ikke hjelper andre",
+      "Medlemmene bruker tid og energi på å hjelpe gruppen som helhet, støtter kollegaer og deler informasjon",
+      "En atferd som kun ledere kan vise i gruppen",
+      "En type atferd som er skadelig for gruppedynamikken"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Prososial atferd er når medlemmene hjelper gruppen som helhet.",
+    "explanation": "Et tegn på at en gruppe fungerer godt i norming-fasen er fremveksten av prososial atferd - når medlemmene bruker tid og energi på å hjelpe gruppen som helhet. Dette kan være å støtte kollegaer, dele informasjon, oppmuntre andre eller løse problemer som ikke direkte er deres ansvar. Slike handlinger styrker samhold og bygger tillit. (Se 'Prososial atferd' i notatene)"
+  },
+  {
+    "id": 8,
+    "section": "Kap4.8",
+    "question": "Hva er 'oppstartstillit' eller 'initial trust'?",
+    "options": [
+      "Tillit som oppstår etter mange år med samarbeid",
+      "Den umiddelbare tilliten basert på andres rolle eller rykte",
+      "Tillit som må bevises gjennom hard arbeidsystematisk testing",
+      "En type tillit som kun eksisterer mellom nære venner"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Oppstartstillit er umiddelbar tillit basert på rolle eller rykte.",
+    "explanation": "Oppstartstillit (initial trust) er den umiddelbare tilliten basert på andres rolle eller rykte. Den starter prosessen med tillit, men må senere støttes av systemtillit og interpersonlig tillit. Høy tillit fører til større åpenhet og lavere kontrollbehov, mens lav tillit kan skape mistenksomhet og defensiv atferd. (Se 'Tillit som drivkraft' i notatene)"
+  },
+  {
+    "id": 9,
+    "section": "Kap4.9",
+    "question": "Hva er 'systemtillit' i prosjekter?",
+    "options": [
+      "Tillit til at datamaskinen fungerer korrekt",
+      "Tillit som bygger på rettferdige prosedyrer og systemer, som møterutiner og rapportering",
+      "En form for tillit som kun eksisterer i små grupper",
+      "Tillit som handler kun om økonomiske transaksjoner"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Systemtillit bygger på rettferdige prosedyrer og systemer.",
+    "explanation": "Systemtillit er tillit som bygger på prosedyrer og rettferdige systemer - for eksempel møterutiner og rapportering. Den signaliserer at den enkelte deltaker har mulighet til deltakelse og blir hørt. Prosjekter der kommunikasjon flyter fritt, utvikler ofte høyere grad av systemtillit. (Se 'Tillit som drivkraft' i notatene)"
+  },
+  {
+    "id": 10,
+    "section": "Kap4.10",
+    "question": "Hva er 'interpersonlig tillit'?",
+    "options": [
+      "Tillit som handler kun om personlig kjemi mellom mennesker",
+      "Tillit som utvikler over tid gjennom direkte samarbeid og relasjoner",
+      "En type tillit som ikke kan bygges opp på nytt hvis den brytes",
+      "Tillit som kun eksisterer mellom ledere og ansatte"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Interpersonlig tillit bygges gjennom direkte samarbeid over tid.",
+    "explanation": "Interpersonlig tillit er tillit som utvikler gjennom over tid gjennom direkte samarbeid og relasjoner. Det oppstår når medlemmene jobber sammen, lærer hverandres styrker og svakheter, og opplever gjensidighet og respekt. Små seire, felles opplevelser og sosiale aktiviteter styrker denne typen tillit. (Se 'Tillit som drivkraft' i notatene)"
+  },
+  {
+    "id": 11,
+    "section": "Kap4.11",
+    "question": "Hvorfor er 'små seire' viktig i norming-fasen?",
+    "options": [
+      "De beviser at gruppen var dum hvis bare små resultater oppnås",
+      "De synliggjør fremgang, gir energi, stolthet og mestringsfølelse",
+      "De er irrelevante fordi kun det endelige resultatet teller",
+      "De forrenger større suksess og bør unngås"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Små seire gir energi og styrker motivasjonen og selvtillit.",
+    "explanation": "Et enkelt virkemiddel i norming-fasen er å synliggjøre små seire, delresultater og milepæler som markerer fremgang. Det gir energi, stolthet og mestringsfølelse. Felles sosiale opplevelser, som uformelle møter eller teambyggingsaktiviteter, styrker samholdet og bygger interpersonlig tillit. Slik skapes balanse mellom oppgavefokus og relasjonsfokus. (Se 'Små seire og felles opplevelser' i notatene)"
+  },
+  {
+    "id": 12,
+    "section": "Kap4.12",
+    "question": "Hva handler 'åpen kommunikasjon og informasjonsdeling' om?",
+    "options": [
+      "Å dele all informasjon med alle mennesker uavhengig av relevans",
+      "Å snakke negativt om medlemmene når de ikke er tilstede",
+      "Å sikre at alle har tilgang til nødvendig informasjon for å redusere misforståelser",
+      "Å unngå å snakke om følelser og personlige forhold på jobben"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Åpen kommunikasjon sikrer at alle har nødvendig informasjon.",
+    "explanation": "Åpen kommunikasjon og delt informasjon er avgjørende for godt samarbeid. Når alle har tilgang til nødvendig informasjon, reduseres misforståelser og konflikter. Prosjekter der kommunikasjonen flyter fritt, utvikler ofte høyere grad av systemtillit - tillit som bygger på prosedyrer og systemer som signaliserer at deltakerne blir hørt. (Se 'Kommunikasjon og informasjonsdeling' i notatene)"
+  },
+  {
+    "id": 13,
+    "section": "Kap4.13",
+    "question": "Hvordan påvirker 'tid' utviklingen av prosjektkultur?",
+    "options": [
+      "Tid har ingen betydning for utviklingen av kultur",
+      "Korte prosjekter skaper alltid den beste kulturen",
+      "Tid gir rom for å bygge kjennskap og erfaring sammen",
+      "Kultur utvikles best under ekstrem tidspress"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Tid gir rom for å bygge relasjon og erfaring sammen.",
+    "explanation": "Norming-fasen påvirkes av tid: tid gir mer rom for å bygge kjennskap og erfaring sammen. Mangfold av bakgrunner og perspektiver styrker prosjektet, men krever bevisst ledelse for å unngå misforståelser. God prosjektkultur bygger på inkludering og respekt for ulikheter, slik at alle føler eierskap til gruppens arbeid. (Se 'Tid, mangfold og samspill' i notatene)"
+  },
+  {
+    "id": 14,
+    "section": "Kap4.14",
+    "question": "Hva er betydningen av 'mangfold' i norming-fasen?",
+    "options": [
+      "Mangfold er alltid negativt og bør unngås",
+      "Det trenger ikke fokus på mangfold siden alle mennesker er like",
+      "Mangfold av bakgrunner styrker prosjektet, men krever bevisst ledelse for å unngå misforståelser",
+      "Mangfold er bare relevant for store multinasjonale selskaper"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Mangfold styrker prosjektet men krever bevisst ledelse.",
+    "explanation": "Mangfold av bakgrunner og perspektiver styrker prosjektet med innovasjon og bedre problemløsning, men krever bevisst ledelse for å unngå misforståelser. God prosjektkultur bygger på inkludering og respekt for ulikheter, slik at alle føler eierskap til gruppens arbeid og kan bidra fullt ut. (Se 'Tid, mangfold og samspill' i notatene)"
+  },
+  {
+    "id": 15,
+    "section": "Kap4.15",
+    "question": "Hva innebærer overgangen 'fra samordning til samarbeid'?",
+    "options": [
+      "En måte å kvitte seg med medlemmer som ikke samarbeidet",
+      "Gruppen utvikler fra å trenge styring til å koordinere oppgaver selv gjennom dialog",
+      "En prosess der ledelsen gir mer kontroll i stedet for mindre",
+      "En endring der medlemmene slutter å snakke med hverandre"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Fra samordning til samarbeid betyr økt selvstyre og dialog.",
+    "explanation": "I begynnelsen kan gruppen trenge samordning - styring fra leder eller struktur. Etter hvert som tillit vokser, utvikles dette til samarbeid, der medlemmene selv koordinerer oppgaver gjennom dialog og gjensidig tilpasning. Denne overgangen markerer at gruppen har blitt selvregulerende, en forutsetning for høy ytelse i performing-fasen. (Se 'Fra samordning til samarbeid' i notatene)"
+  },
+  {
+    "id": 16,
+    "section": "Kap4.16",
+    "question": "Hva er 'målforskyving' som en risiko i prosjekter?",
+    "options": [
+      "Når medlemmene skifter sine personlige mål",
+      "Når delmål blir viktigere enn hovedmålet og helheten mistes av syne",
+      "Når målene blir for ambisiøse og uoppnåelige",
+      "En prosess der alle medlemmene alltid er enige om målet"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Målforskyving oppstår når delmål overtar for hovedmålet.",
+    "explanation": "I prosjektets tidligere og midtre faser finnes flere potensielle fallgruver. Målforskyving er når delmål blir viktigere enn hovedmålet og helheten mistes av syne. Dette kan skje gradvis når gruppen fokuserer på å oppfylle delmål uten å reflektere over hvordan det tjener det større målet. (Se 'Utfordring og risiko' i notatene)"
+  },
+  {
+    "id": 17,
+    "section": "Kap4.17",
+    "question": "Hva er 'kontekstuell risiko' i prosjekter?",
+    "options": [
+      "Risiko for at medlemmene blir lei av konteksten",
+      "Uventede hendelser i omgivelsen som påvirker fremdrift eller ressurser",
+      "Risiko som kun handler om kontorer og fysiske lokaler",
+      "En type risiko som er umulig å forutse eller håndtere"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Kontekstuell risiko er uventede ytre hendelser som påvirker prosjektet.",
+    "explanation": "Kontekstuell risiko er uventede hendelser i omgivelsen som påvirker fremdrift eller ressurser - for eksempel endringer i marked, lovgivning eller tilgjengelighet av ressurser. Bevissthet om denne risikoen gjør prosjektlederen bedre rustet til å tilpasse planene og bygge læringskultur. (Se 'Utfordring og risiko' i notatene)"
+  },
+  {
+    "id": 18,
+    "section": "Kap4.18",
+    "question": "Hva betyr 'tapt tillit' som risiko i prosjekter?",
+    "options": [
+      "Når ett medlem mister sin lommebok eller dokumenter",
+      "Når psykologiske kontrakter brytes eller kommunikasjonen svikter",
+      "En naturlig del av alle prosjekter som ikke kan unngås",
+      "Noe som kun påvirker veldig små grupper"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Tapt tillit oppstår når kontrakter brytes eller kommunikasjon svikter.",
+    "explanation": "Tapt tillit er en risiko som oppstår hvis psykologiske kontrakter brytes eller kommunikasjonen svikter. Dette kan skje når ledelsen ikke oppfyller sine løfter, når informasjon ikke deles åpent, eller når medlemmene føler seg urettferdig behandlet. Gjenoppretting av tillit krever bevisst arbeid og åpenhet. (Se 'Utfordring og risiko' i notatene)"
+  },
+  {
+    "id": 19,
+    "section": "Kap4.19",
+    "question": "Hvordan kan 'læringskultur' hjelpe med å håndtere risiko i prosjekter?",
+    "options": [
+      "Læringskultur gjør at gruppen ignorerer all risiko",
+      "En kultur der medlemmene lærer av erfaringer og tilpasser seg gjør prosjektet mer resilient",
+      "Læringskultur handler kun om formell utdanning",
+      "Det er ikke mulig å bygge læringskultur i et prosjekt"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Læringskultur gjør at gruppen lærer av erfaring og tilpasser seg.",
+    "explanation": "En læringskultur er viktig for å håndtere risiko og utfordringer. Den oppstår når gruppen reflekterer over erfaringer, deler lærdommer og tilpasser seg basert på det de lærer. Bevissthet om planleggingsfeller, kontekstuell risiko og tap av tillit gjør prosjektlederen bedre rustet til å bygge en slik kultur og opprettholde balanse. (Se 'Utfordring og risiko' i notatene)"
+  },
+  {
+    "id": 20,
+    "section": "Kap4.20",
+    "question": "Hva er den overordnede betydningen av norming-fasen for prosjektets suksess?",
+    "options": [
+      "Norming-fasen er ikke viktig siden det egentlige arbeidet skjer i performing-fasen",
+      "Det handler kun om å følge regler og ikke å tenke selv",
+      "Norming etablerer de kulturelle og relasjonelle grunnpilarene som holder prosjektet sammen",
+      "Norming-fasen er bare en formalitet som ikke påvirker faktiske resultater"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Norming etablerer grunnlaget for tillit, kultur og effektivitet.",
+    "explanation": "I norming-fasen etableres de kulturelle og relasjonelle grunnpilarene som holder prosjektet sammen. Gjennom utviklingen av implisitte og psykologiske kontrakter, felles normer og åpen kommunikasjon, bygges tillit, samhold og engasjement. Ved å anerkjenne små seire, dele informasjon og skape felles opplevelser, utvikler teamet en sterk prosjektkultur - kjernen i et velfungerende og resilient prosjektteam. (Se 'Oppsumering' i notatene)"
+  },
+  {
+    "id": 21,
+    "section": "Kap4.1",
+    "question": "Hva handler norming-fasen om i prosjektets utvikling?",
+    "options": [
+      "Å innføre strenge regler og straffe brudd",
+      "Å etablere felles normer, verdier og samarbeidsmønstre, og bygge prosjektkultur og tillit",
+      "Å planlegge det praktiske arbeidet",
+      "Å eliminere alle uenigheter"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Norming handler om å etablere kultur, normer og tillit.",
+    "explanation": "Norming-fasen er tredje fase i Tuckmans modell, der teamet begynner å fungere som en helhet. Her etableres felles normer, verdier og samarbeidsmønstre, og gruppen finner balansen mellom struktur og fleksibilitet. Det handler om å bygge prosjektkultur, utvikle tillit og skape felles forståelse av mål og arbeidsform - grunnlaget for teameffektivitet. (Se 'Hva er norming' i notatene)"
+  },
+  {
+    "id": 22,
+    "section": "Kap4.2",
+    "question": "Hva er en implisitt kontrakt i prosjektteam?",
+    "options": [
+      "En skriftlig avtale som alle medlemmer må signere",
+      "Uformelle forventninger og avtaler mellom medlemmene om hvordan man skal samarbeide",
+      "En regel som lederen setter ensidig",
+      "Noe som bare finnes i store organisasjoner"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Implisitt kontrakt er uformelle avtaler om samarbeid.",
+    "explanation": "En implisitt kontrakt er de uformelle forventningene og avtalene som utvikler seg naturlig mellom teammedlemmene om hvordan man skal samarbeide, kommunisere og håndtere problemer. I motsetning til en eksplisitt kontrakt som er skriftlig, bygger implisitte kontrakter på felles forståelse og tillit. De er essensielle for å skape et godt samarbeidsmiljø. (Se 'Implisitte og psykologiske kontrakter' i notatene)"
+  },
+  {
+    "id": 23,
+    "section": "Kap4.3",
+    "question": "Hva karakteriserer en psykologisk kontrakt?",
+    "options": [
+      "En formell avtale med juridisk bindende kraft",
+      "De dypere oppfatningene og forventningene medlemmene har til hverandre og til prosjektet",
+      "En metode for å løse konflikter",
+      "Et dokument som styrer budget og ressurser"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Psykologisk kontrakt er medlemmenes dypere forventninger.",
+    "explanation": "En psykologisk kontrakt består av de dypere oppfatningene og forventningene medlemmene har til hverandre og til prosjektet - på et følelsesmessig og meningsfullt nivå. Den bygger på tillit, verdier og hvordan man oppfatter at man blir behandlet. Hvis psykologiske kontrakter brytes, kan det skape stor skuffelse og tillitstap. En sterk prosjektkultur sikrer at disse kontraktene er alignet og respektert. (Se 'Implisitte og psykologiske kontrakter' i notatene)"
+  },
+  {
+    "id": 24,
+    "section": "Kap4.4",
+    "question": "Hva betyr det at norming skaper en prosjektkultur?",
+    "options": [
+      "Det betyr at alle medlemmene må oppføre seg likt",
+      "Det handler om å utvikle en felles identitet, verdier og arbeidsformer som karakteriserer prosjektet",
+      "Kultur er ikke viktig for prosjektsuksess",
+      "Det handler bare om formelle regler og prosedyrer"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Prosjektkultur er den felles identiteten og arbeidsmåten.",
+    "explanation": "Prosjektkultur handler om å utvikle en felles identitet, verdier og arbeidsformer som karakteriserer prosjektet. Det gjøres gjennom små seire, deling av informasjon og opplevelser, samt anerkjennelse av bidrag. En sterk prosjektkultur skaper samhold, engasjement og resiliens - evnen til å håndtere utfordringer og endringer. Den er kjernen i et velfungerende prosjektteam. (Se 'Prosjektkultur' i notatene)"
+  },
+  {
+    "id": 25,
+    "section": "Kap4.5",
+    "question": "Hvordan bygger man tillit i norming-fasen?",
+    "options": [
+      "Gjennom streng kontroll og overvåking",
+      "Gjennom åpen kommunikasjon, deling av informasjon, små seire og respekt for ulikheter",
+      "Tillit oppstår automatisk uten at det kreves noe innsats",
+      "Tillit er ikke viktig for prosjektarbeid"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Tillit bygges gjennom åpen kommunikasjon og respekt.",
+    "explanation": "Tillit i norming-fasen bygges gjennom åpen kommunikasjon, deling av informasjon og transparens. Ved å anerkjenne små seire, vise respekt for ulikheter og følge opp på det man sier, viser prosjektlederen og teamet at de er pålitelige. Tillit er fundamentet for all god samarbeid og utvikler seg gradvis gjennom konsekvent atferd over tid. (Se 'Tillit og fellesskap' i notatene)"
+  }
+]

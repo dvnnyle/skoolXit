@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "section": "2.1",
+    "question": "Hva er prosessen der mennesker utveksler informasjon, erfaring og følelser for å skape felles mening?",
+    "options": [
+      "En sosial aktivitet som kun skjer i formelle møtesituasjoner",
+      "Kommunikasjon, som kan være både verbal gjennom ord og ikke-verbal gjennom kroppsspråk",
+      "En naturlig menneskelig instinkt som ikke krever læring eller bevissthet",
+      "En teknikk som kun brukes i profesjonelle organisasjoner og virksomheter"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Kommunikasjon er prosessen for å utveksle informasjon og skape felles mening.",
+    "explanation": "Kommunikasjon er prosessen der mennesker utveksler informasjon, erfaring og følelser for å skape en felles mening. Det kan være både verbal gjennom ord, eller ikke verbal, gjennom kroppsspråk - f.eks tonefall, kroppsspråk og ansiktsuttrykk. Kommunikasjon er en grunnleggende del av sosialt samspill i grupper, organisasjoner og hverdagsliv. (Se 'Hva er kommunikasjon' i notatene)"
+  },
+  {
+    "id": 2,
+    "section": "2.2",
+    "question": "I sender-budskap-mottaker modellen, hva representerer 'støy'?",
+    "options": [
+      "Den lydstyrken på stemmen til senderen under kommunikasjonen",
+      "Medlemmer av gruppen som ikke aktiv deltaker i samtalen",
+      "Alt som forstyrrer eller forvrenger kommunikasjonen, enten fysisk støy eller indre forstyrrelser",
+      "Den delen av budskapet som er uklart formulert fra starten av"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Støy i kommunikasjonsmodellen er alt som forstyrrer eller forvrenger budskapet.",
+    "explanation": "I sender-budskap-mottaker modellen er støy alt som forstyrrer eller forvrenger kommunikasjonen. Det kan være både fysisk støy som lyd eller dårlig forbindelse, eller indre støy som tanker, stress og misforståelser. Støy påvirker hvordan budskapet mottas og tolkes, og kan føre til misforståelser dersom det ikke håndteres. (Se 'Sender-Budskap-mottaker modellen' i notatene)"
+  },
+  {
+    "id": 3,
+    "section": "2.3",
+    "question": "Hva karakteriserer enveis-kommunikasjon?",
+    "options": [
+      "Budskapet går fra sender til mottaker uten mulighet for direkte tilbakemelding, brukes ofte i TV, radio og foredrag",
+      "En samtale der både sender og mottaker har like stor innflytelse over hvilke emner som diskuteres",
+      "En kommunikasjonsform som primært brukes mellom venner eller familie fordi den er mindre formell",
+      "En type kommunikasjon der flere mennesker snakker samtidig og bygger videre på hverandres ideer"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Enveis-kommunikasjon går en retning uten direkte tilbakemelding.",
+    "explanation": "Enveis-kommunikasjon er når budskapet går fra sender til mottaker uten direkte tilbakemelding. Det brukes ofte i informasjonssituasjoner som TV, radio og foredrag. Det er effektivt for å formidle informasjon, men kan føre til misforståelser fordi mottakeren ikke kan stille spørsmål eller be om oppklaring. (Se 'Enveis- og toveis kommunikasjon' i notatene)"
+  },
+  {
+    "id": 4,
+    "section": "2.4",
+    "question": "Hva gir toveis-kommunikasjon som enveis-kommunikasjon ikke kan tilby?",
+    "options": [
+      "En raskere og mer effektiv måte å formidle store mengder informasjon på",
+      "Mulighet for dialog, spørsmål, oppklaring og større forståelse mellom partene",
+      "En mer formell og profesjonell ramme for å diskutere viktige temaer",
+      "Beskyttelse mot misforståelser gjennom bruk av skrevne dokumenter i stedet for muntlig kommunikasjon"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Toveis-kommunikasjon gir mulighet for dialog og større forståelse.",
+    "explanation": "Toveis-kommunikasjon gir begge veier - sender og mottaker bytter roller. Det gir mulighet for dialog, spørsmål og oppklaring, og skaper større forståelse. I jevnbyrdig toveiskommunikasjon har alle parter omtrent like stor mulighet til å uttrykke seg, og samspillet preges av respekt og tillit. (Se 'Enveis- og toveis kommunikasjon' i notatene)"
+  },
+  {
+    "id": 5,
+    "section": "2.5",
+    "question": "Hva er ikke-verbal kommunikasjon?",
+    "options": [
+      "All kommunikasjon som skjer gjennom skrevne ord, som brev, e-post eller tekstmeldinger",
+      "Alt som formidles uten ord, inkludert kroppsspråk, tonefall, blikk og ansiktsuttrykk",
+      "En form for kommunikasjon som kun brukes når verbal kommunikasjon ikke er mulig",
+      "Når mennesker snakker med en annen person uten at noen andre hører det"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Ikke-verbal kommunikasjon formidles gjennom kroppsspråk og ansiktsuttrykk.",
+    "explanation": "Ikke-verbal kommunikasjon er alt som formidles uten ord - kroppsspråk, tonefall, blikk, ansiktsutrykk osv. Den ikke-verbale delen kan forsterke eller svekke det som sies. Hvis den ikke samsvarer med det verbale, oppstår det dobbel kommunikasjon - for eksempel når noen sier det går bra, men med et surt ansikt. (Se 'Verbal- og ikke verbal kommunikasjon' i notatene)"
+  },
+  {
+    "id": 6,
+    "section": "2.6",
+    "question": "Hva innebærer meta-kommunikasjon?",
+    "options": [
+      "Å bruke metaforer og symbolsk språk for å formidle komplekse ideer",
+      "Å snakke om selve kommunikasjonen for å klargjøre misforståelser eller forbedre samspillet",
+      "En kommunikasjonsform som kun fagfolk eller terapeuter bruker i profesjonelle sammenhenger",
+      "En analyse av hvordan språk har utviklet seg over tid i ulike kulturer"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Meta-kommunikasjon betyr å snakke om selve kommunikasjonen.",
+    "explanation": "Meta-kommunikasjon betyr å snakke om selve kommunikasjonen. Det brukes for å klargjøre misforståelser eller forbedre samspillet - for eksempel ved å si: 'Jeg opplever at vi snakker forbi hverandre, kan vi prøve å forklare det på en annen måte?' Slik bevisst refleksjon skaper trygghet og forbedrer forståelsen i en samtale. (Se 'Meta kommunikasjon' i notatene)"
+  },
+  {
+    "id": 7,
+    "section": "2.7",
+    "question": "Hva er hovedforskjellen mellom diskursiv og retorisk kommunikasjon?",
+    "options": [
+      "Diskursiv kommunikasjon handler om å dele informasjon, mens retorisk handler om å gjøre det underholdende",
+      "Diskursiv bygger på dialog og å finne sannhet sammen, mens retorisk har som mål å overtale og påvirke",
+      "Diskursiv kommunikasjon brukes i skolen, mens retorisk kun brukes i politikk og reklame",
+      "Retorisk kommunikasjon er mer effektiv fordi den fokuserer på å vinne argumenter raskt"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Diskursiv kommunikasjon søker forståelse, retorisk søker å overtale.",
+    "explanation": "Diskursiv kommunikasjon bygger på dialog og jevnbyrdighet. Målet er å utforske og forstå, finne sannhet eller løsning sammen gjennom argumenter og refleksjon. Retorisk kommunikasjon har som mål å overtale og påvirke, brukt ofte i politikk, reklame eller taler. Diskursiv kommunikasjon skaper mest læring og tillit i samarbeidssituasjoner. (Se 'Diskursiv og retorisk kommunikasjon' i notatene)"
+  },
+  {
+    "id": 8,
+    "section": "2.8",
+    "question": "Hvordan påvirker proksemikk (kroppslig avstand) kommunikasjonen?",
+    "options": [
+      "Avstanden har ingen innvirkning på hvordan kommunikasjonen oppfattes eller tolkes",
+      "Bare svært store avstander påvirker kommunikasjonen, mens normale avstander ikke har betydning",
+      "Kroppslig avstand påvirker hvordan kommunikasjon oppfattes og signaliserer respekt og passende sosial kontekst",
+      "Avstand påvirker kun hvor høyt personer må snakke for å bli hørt av hverandre"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Avstand påvirker hvordan kommunikasjon oppfattes og respekt.",
+    "explanation": "Kroppslig avstand påvirker hvordan kommunikasjon oppfattes. Det kalles proksemikk. Intim avstand (0-0,5m) brukes for nære relasjoner, personlig avstand (0,5-1,5m) for samtaler med venner, sosial avstand (1,5-4m) for profesjonelle situasjoner, og offisiell avstand (3-100m) for formelle sammenhenger. Å tilpasse avstanden riktig viser respekt og påvirker hvordan budskapet blir mottatt. (Se 'Avstand og kommunikasjon' i notatene)"
+  },
+  {
+    "id": 9,
+    "section": "2.9",
+    "question": "Hvordan påvirker kulturell identitet kommunikasjonen?",
+    "options": [
+      "Kulturell identitet har ingen innvirkning på hvordan mennesker kommuniserer eller oppfatter budskap",
+      "Den påvirker kun hvordan mennesker kler seg, ikke hvordan de snakker eller kommuniserer",
+      "Kulturell identitet påvirker hvilke verdier, normer og uttrykksformer som anses som høflig og passende",
+      "Alle kulturer har eksakt samme kommunikasjonsstil fordi mennesker er biologisk identiske"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Kulturell identitet påvirker hva som anses som høflig og passende kommunikasjon.",
+    "explanation": "Kulturell identitet påvirker hvordan vi kommuniserer. Det som anses som høflig, passende eller effektivt varierer mellom kulturer. De verdiene, normene og uttrykksformene vi lærer gjennom oppvekst og samfunn, preger hvordan vi forstår og tolker verbal og ikke-verbal kommunikasjon. (Se 'Kulturell identitet og kommunikasjon' i notatene)"
+  },
+  {
+    "id": 10,
+    "section": "2.10",
+    "question": "Hva er aktivt lytting?",
+    "options": [
+      "Å holde øynene åpne og være stille mens andre snakker uten å si noe tilbake",
+      "Å høre på musikk eller podcast mens man gjør annet arbeid",
+      "Å vise at man følger med ved å nikke, bruke småord som 'ja' og 'hmmm', og oppsummere det som blir sagt",
+      "Å lytte kun til de delene av en samtale som er interessante eller relevant for en selv"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Aktivt lytting innebærer å vise interesse og oppsummere det andre sier.",
+    "explanation": "Aktivt lytting betyr å vise at man følger med, for eksempel ved å nikke, bruke småord som 'ja' og 'hmmmm', og oppsummere det som blir sagt. Passiv lytting betyr å lytte uten å avbryte, men fortsatt vise interesse med blikk og kroppsspråk. Gjennom speiling av følelser kan man sette ord på den andres følelser, noe som skaper trygghet og forståelse. (Se 'Kjennetegn på effekt kommunikasjon' i notatene)"
+  },
+  {
+    "id": 11,
+    "section": "2.11",
+    "question": "Hva handler 'likeverd' om i konteksten av god kommunikasjon?",
+    "options": [
+      "At alle mennesker må ha identisk lønn og samme arbeidstittel",
+      "At alle deltakeres erfaring og synspunkter blir tatt på alvor, og ingen dominerer samtalen",
+      "At bare ledere eller personer med høy status får lov til å snakke",
+      "At alle må være enige med hverandre for å unngå konflikter"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Likeverd betyr at alle deltakeres syn blir respektert og hørt.",
+    "explanation": "God kommunikasjon bygger på likeverd, der alle deltakeres erfaring og synspunkter blir tatt på alvor. Taletidfordeling bør være jevn, slik at ingen dominerer samtalen. Sekvensering av taletid betyr at innleggen bygger på hverandre og utvikler temaet, i stedet for å bli separate monologer. Møtediseplin handler om felles regeler for samtaler. (Se 'Likeverd, taletid og møtediseplin' i notatene)"
+  },
+  {
+    "id": 12,
+    "section": "2.12",
+    "question": "Hva er tematisk interaksjon i grupper?",
+    "options": [
+      "Når medlemmene bruker tema som betegnelse for de ulike avdelingene i gruppen",
+      "Å introdusere relevante temaer, bygge videre på andres bidrag og skape en felles forståelse",
+      "En regel som forplikter alle til å snakke om det samme emnet hver dag",
+      "En form for kommunikasjon som kun brukes i formelle møter med ledelsespersoner"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Tematisk interaksjon handler om å utvikle temaer sammen.",
+    "explanation": "Tematisk interaksjon handler om å introdusere relevante temaer, bygge videre på andres bidrag og skape en felles forståelse. God kommunikasjon oppstår når deltakerne klarer å holde samtalen tematisk fokusert, det vil si at man utvikler et tema sammen og holder seg til saken. Felleskap-interesser innebærer å trekke fram erfaring og synspunkter som er relevante for gruppens felles mål, ikke bare egne interesser. (Se 'Tematisk interaksjon og felles interesser' i notatene)"
+  },
+  {
+    "id": 13,
+    "section": "2.13",
+    "question": "Hva er saks-orientert kommunikasjon?",
+    "options": [
+      "Kommunikasjon som fokuserer på personlige egenskaper, motivasjoner og følelser hos medlemmene",
+      "En kommunikasjonsform som oppfatter konflikter som positive og oppfordrer til strid",
+      "Kommunikasjon som fokuserer på fakta, argumenter og løsninger, handler om saken",
+      "Kommunikasjon som skjer kun mellom mennesker som jobber med det samme fagfeltet"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Saks-orientert kommunikasjon fokuserer på fakta, argumenter og løsninger.",
+    "explanation": "Saks-orientert kommunikasjon fokuserer på fakta, argumenter og løsninger. Den handler om saken. Person-orientert kommunikasjon handler mer om personene - for eksempel motivasjoner, følelser eller personlige egenskaper. For å oppnå god dialog bør kommunikasjon i hovedsak være saksoreintert, men samtidig ta hensyn til de menneskelige sidene ved samtalene. (Se 'Saks-orientert og person-orientert kommunikasjon' i notatene)"
+  },
+  {
+    "id": 14,
+    "section": "2.14",
+    "question": "Hvilken rolle kan humor spille i kommunikasjon?",
+    "options": [
+      "Humor bør aldri brukes i profesjonelle sammenhenger da det reduserer alvorligheten",
+      "Humor skaper samhold, reduserer spenninger og gjør samspill lettere, men må brukes med omtanke",
+      "Humor er irrelevant for kommunikasjon og påvirker ikke gruppedynamikken på noen måte",
+      "All humor er alltid hensiktsmessig og positiv, uansett kontekst eller hvordan den oppfattes"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Humor kan styrke kommunikasjon, men må brukes ansvarlig.",
+    "explanation": "Humor kan være et nyttig virkemiddel i kommunikasjon fordi det skaper samhold, reduserer spenninger og gjør samspill lettere. Men den må brukes med omtanke - misforstått humor kan virke sårende eller ekskluderende. Ironi innebærer å si det motsatte av det man mener, ofte med et bestemt tonefall. Ironi kan være morsomt, men også skape usikkerhet hvis det ikke forstås. (Se 'Humor, ironi og konfrontasjon' i notatene)"
+  },
+  {
+    "id": 15,
+    "section": "2.15",
+    "question": "Hva er transaksjonanalyse (TA) ifølge Erice Berne?",
+    "options": [
+      "En metode for å oppgjøre økonomiske transaksjoner mellom forretningspartnere",
+      "En teori som beskriver kommunikasjon som samspill mellom tre jeg-tilstander: Foreldre-jeget, Voksen-jeget og Barne-jeget",
+      "En teknikk for å analysere hvor ofte mennesker bytter jobs eller organisasjoner",
+      "En form for gruppeterapi der bare mennesker med psykologisk utdanning kan lede sesjonene"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Transaksjonanalyse analyserer samspill mellom tre jeg-tilstander.",
+    "explanation": "Transaksjonanalyse (TA), utviklet av Erice Berne, beskriver kommunikasjon som samspill mellom tre jeg-tilstander i personligheten: Foreldre-jeget (normer og holdninger), Voksen-jeget (logisk og rasjonell), og Barne-jeget (følelsestyrte og spontan). Komplementære transaksjoner har naturlig kommunikasjonsflyt, kryssende transaksjoner bryter kommunikasjonen, og doble transaksjoner har skjulte budskap. (Se 'Transaksjon-analyse og jeg-tilstander' i notatene)"
+  },
+  {
+    "id": 16,
+    "section": "2.16",
+    "question": "Hvilken jeg-tilstand i transaksjonanalysen er preget av logikk og rasjonell tenking?",
+    "options": [
+      "Foreldre-jeget, som inneholder normer og holdninger fra oppveksten",
+      "Barne-jeget, som er følelsestyrte og spontan med kreativitet og lek",
+      "Voksen-jeget, den logiske og vurderende delen som baserer seg på fakta og rasjonell tenking",
+      "Lederjegeg, som er en fjerde jeg-tilstand som kun eksisterer i organisasjoner"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Voksen-jeget er den logiske og rasjonelle delen.",
+    "explanation": "I transaksjonanalyse er Voksen-jeget den logiske og vurderende delen som baserer seg på fakta og rasjonell tenking. Foreldre-jeget inneholder normer, holdninger og erfaringer fra oppveksten og kan være kritisk eller omsorgsfullt. Barne-jeget er den følelsestyrte og spontane delen preget av kreativitet, lek eller opprør. En samtale preget av voksen-til-voksen-kommunikasjon er ofte effektiv og konstruktiv. (Se 'Transaksjon-analyse og jeg-tilstander' i notatene)"
+  },
+  {
+    "id": 17,
+    "section": "2.17",
+    "question": "Hva innebærer grunnholdningen 'Jeg er OK - du er OK' i kommunikasjon?",
+    "options": [
+      "Jeg er OK - du er OK = Jeg er OK - du er ikke OK som er en domineres og kritisk holdning",
+      "Jeg er OK - du er OK = En pessimistisk og defensiv kommunikasjon der ingen tror på hverandre",
+      "Jeg er OK - du er OK = Sunn og balansert kommunikasjon der begge parter møtes med respekt",
+      "Jeg er OK - du er OK = En usikker og underdanig holdning der man alltid gir etter for andre"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Jeg er OK - du er OK er sunn, respektfull kommunikasjon.",
+    "explanation": "Et mål i all god kommunikasjon er å være i posisjonen 'Jeg er OK - du er OK', der begge parter møtes med respekt og forståelse. Dette er sunn og balansert kommunikasjon. Andre grunnholdninger som 'Jeg er OK - du er ikke OK' (dominerende, kritisk) eller 'Jeg er ikke OK - du er OK' (usikker, underdanig) eller 'Jeg er ikke OK - du er ikke OK' (pessimistisk, defensiv) er mindre konstruktive for kommunikasjonen. (Se 'Grunnlegende og sosial intelligens' i notatene)"
+  },
+  {
+    "id": 18,
+    "section": "2.18",
+    "question": "Hva er social intelligens eller 'samtale-intelligens'?",
+    "options": [
+      "Evnen til å prate høyt og få oppmerksomheten fra mange mennesker samtidig",
+      "En IQ-test som viser hvor intelligent mennesker er i abstrakt matematikk",
+      "Evnen til å forstå og tilpasse seg andre, lese situasjoner, vise empati og kommunisere hensiktsmessig",
+      "En psykologisk tilstand som bare mennesker som er født med spesielle evner har"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Social intelligens er evnen til å forstå og tilpasse seg andre.",
+    "explanation": "Social intelligens, eller samtale-intelligens, er evnen til å forstå og tilpasse seg andre. Den gjør at man kan lese situasjoner, vise empati og kommunisere hensiktsmessig i ulike sammenhenger. Dette er sentralt for god kommunikasjon. Ulike personligheter kommuniserer på ulike måter - noen direkte og handlingsorienterte, andre mer lyttende og reflekterende. God kommunikasjon handler om å tilpasse stil og språk til situasjonen uten å miste seg selv. (Se 'Grunnlegende og sosial intelligens' i notatene)"
+  },
+  {
+    "id": 19,
+    "section": "2.19",
+    "question": "Hva kan du gjøre hvis du er usikker eller misforstått i en kommunikasjon?",
+    "options": [
+      "Slutte å snakke helt med de menneskene og unngå videre kontakt med dem",
+      "Skyld det på at den andre personen ikke lytter godt nok og ikke prøve å forbedre noe selv",
+      "Bruke meta-kommunikasjon - å snakke om hvordan man snakker for å rygge opp i uklarheter",
+      "Anta at det er en bevisst misforståelse og reagere defensivt for å beskytte seg selv"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Meta-kommunikasjon hjelper til å rygge opp i misforståelser.",
+    "explanation": "Ved usikkerhet i kommunikasjon, kan man bli defensiv eller misforstått. Da hjelper det å bruke meta-kommunikasjon - å snakke om hvordan man snakker, for å rygge opp i uklarhetene. Dette er en bevisst refleksjon som skaper trygghet og forbedrer forståelsen. Personligheter påvirker hvordan vi kommuniserer, og god kommunikasjon handler om å tilpasse seg situasjonen og menneskene man snakker med. (Se 'Personlighet og kommunikasjon' i notatene)"
+  },
+  {
+    "id": 20,
+    "section": "2.20",
+    "question": "Hva er de viktigste grunnpilarene for god kommunikasjon ifølge kursmaterialet?",
+    "options": [
+      "Å snakke fort og effektivt, og å unngå at andre mennesker snakker",
+      "Likeverd, respekt, aktiv lytting og balanse mellom sak og relasjon, med tydelighet og struktur",
+      "Å ha rett i alle argumenter og å overbevise andre om sitt syn ved enhver mulighet",
+      "Å fokusere kun på fagstoff og helt ignorere følelsesmessige sider av kommunikasjonen"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "God kommunikasjon bygger på likeverd, respekt og aktiv lytting.",
+    "explanation": "God kommunikasjon bygger på likeverd, respekt, aktiv lytting og balanse mellom sak og relasjon. Den krever tydelighet, struktur, felles fokus og evne til å håndtere både følelser og uenighet. Gjennom transaksjonanalyse, bevisst bruk av jeg-tilstander, og sosial intelligens, kan man skape kommunikasjon som er både effektiv, trygg og menneskelig. Kommunikasjon er grunnlaget for alt samspill mellom mennesker. (Se 'God kommunikasjon' i notatene)"
+  },
+  {
+    "id": 21,
+    "section": "Kap4.8",
+    "question": "Hva er proksemikk?",
+    "options": [
+      "En teori om hvordan mennesker tenker",
+      "Studien av personlig kroppslig avstand og hvordan det påvirker kommunikasjon",
+      "En metode for å organisere møter",
+      "En type av ikke-verbal kommunikasjon som ikke påvirker budskapet"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Proksemikk er studien av personlig avstand i kommunikasjon.",
+    "explanation": "Proksemikk handler om hvordan kroppslig avstand påvirker hvordan kommunikasjon oppfattes. Intim avstand (0-0,5m) brukes for nære relasjoner, personlig avstand (0,5-1,5m) for venner og kollegaer, sosial avstand (1,5-4m) for profesjonelle situasjoner, og offisiell avstand (3-100m) for formelle sammenhenger. Å tilpasse seg avstanden riktig viser respekt og påvirker hvordan budskapet mottas. (Se 'Avstand og kommunikasjon' i notatene)"
+  },
+  {
+    "id": 22,
+    "section": "Kap4.9",
+    "question": "Hva er forskel mellom enveis og toveis kommunikasjon?",
+    "options": [
+      "Enveis kommunikasjon er mer effektiv og sikrer bedre forståelse",
+      "Enveis kommunikasjon går fra sender til mottaker uten tilbakemelding, toveis tillater dialog og oppklaring",
+      "De er identiske, bare med ulike navn",
+      "Toveis kommunikasjon brukes bare i private sammenhenger"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Enveis kommunikasjon mangles tilbakemelding, toveis tillater dialog.",
+    "explanation": "Enveis kommunikasjon går fra sender til mottaker uten direkte tilbakemelding og brukes i informasjonssituasjoner som TV eller foredrag. Toveis kommunikasjon tillater dialog, spørsmål og oppklaring, noe som skaper større forståelse. I jevnbyrdig toveis kommunikasjon har alle parter omtrent like stor mulighet til å uttrykke seg, og samspillet preges av respekt og tillit. (Se 'Enveis- og toveis kommunikasjon' i notatene)"
+  },
+  {
+    "id": 23,
+    "section": "Kap4.10",
+    "question": "Hva happens når ikke-verbal kommunikasjon ikke samsvarer med verbal kommunikasjon?",
+    "options": [
+      "Det har ingen betydning for kommunikasjonen",
+      "Det oppstår dobbelt kommunikasjon og budskapet blir svekket",
+      "Det forbedrer alltid budskapet",
+      "Det skjer bare i formelle situasjoner"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Utsamsvar mellom verbal og ikke-verbal kommunikasjon skaper forvirring.",
+    "explanation": "Når ikke-verbal kommunikasjon ikke samsvarer med det som sies verbalt, oppstår det dobbelt kommunikasjon som kan svekke budskapet. Eksempel: hvis noen sier det går bra, men har et surt ansikt, vil mottakeren oppleve inkonsistens. God kommunikasjon krever at verbal og ikke-verbal kommunikasjon samsvarer. (Se 'Verbal- og ikke verbal kommunikasjon' i notatene)"
+  },
+  {
+    "id": 24,
+    "section": "Kap4.11",
+    "question": "Hva er diskursiv kommunikasjon?",
+    "options": [
+      "En form for kommunikasjon som har som mål å overtale og påvirke andre",
+      "En kommunikasjonsform bygget på dialog og jevnbyrdighet med mål å forstå og finne løsninger sammen",
+      "En type kommunikasjon som bare brukes i politikk",
+      "En kommunikasjon som ignorerer andres meninger"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Diskursiv kommunikasjon bygger på dialog og jevnbyrdighet.",
+    "explanation": "Diskursiv kommunikasjon bygger på dialog og jevnbyrdighet med mål å utforske, forstå og finne sannhet eller løsning sammen gjennom argumenter og refleksjon. Det brukes i undervisning, veiledning og gruppesamtaler. I motsetning til retorisk kommunikasjon som har som mål å overtale, skaper diskursiv kommunikasjon mest læring og tillit i samarbeidssituasjoner. (Se 'Diskursiv og retorisk kommunikasjon' i notatene)"
+  },
+  {
+    "id": 25,
+    "section": "Kap5.1",
+    "question": "Hva handler god kommunikasjon om?",
+    "options": [
+      "Å snakke så mye som mulig og dominere samtalen",
+      "Å skape forståelse, tillit og samarbeid gjennom åpen, respektfull og likeverdig måte",
+      "Å få andre til å godta dine meninger",
+      "Å unngå vanskelige samtaler"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "God kommunikasjon handler om å skape forståelse og samarbeid.",
+    "explanation": "God kommunikasjon handler om å skape forståelse, tillit og samarbeid mellom mennesker. Det innebærer å formidle og motta budskap på en åpen, respektfull og likeverdig måte, slik at alle føler seg hørt og verdsatt. I grupper og prosjekter er god kommunikasjon avgjørende for å oppnå mål, bygge relasjoner og forebygge misforståelser og konflikter. (Se 'Hva er god kommunikasjon' i notatene)"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "section": "2.1",
+    "question": "Hvorfor oppstår performing-fasen?",
+    "options": [
+      "En prosess som skjer tilfeldig uten mønster",
+      "Noe som kun forekommer i store organisasjoner",
+      "En aktivitet uten betydning i grupper",
+      "At prosjektgruppen jobber effektivt"
+    ],
+    "answerIndex": 3,
+    "shortExplanation": "Performing-fasen oppstår når prosjektgruppen jobber effektivt mot målet.",
+    "explanation": "Performing-fasen er arbeidsfasen der prosjektgruppen har etablert rutiner og samarbeider effektivt for å nå målet. Medlemmene stoler på hverandre, og energi brukes på oppgaven, ikke på problemer. (Se 'Performing - arbeidsfasen' i notatene)"
+  },
+  {
+    "id": 2,
+    "section": "2.2",
+    "question": "I hvilken situasjon kan unike leveranser beskrives?",
+    "options": [
+      "At prosjektet skal skape noe nytt",
+      "En prosess som skjer tilfeldig uten mønster",
+      "En aktivitet uten betydning i grupper",
+      "Noe som kun forekommer i store organisasjoner"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Unike leveranser betyr at prosjektet skaper noe nytt.",
+    "explanation": "Prosjekter kjennetegnes ved at de skal føre til et unikt resultat, som et nytt produkt, tjeneste eller løsning. Dette skiller prosjekter fra rutinearbeid. (Se 'Kjennetegn ved prosjekter' i notatene)"
+  },
+  {
+    "id": 3,
+    "section": "2.3",
+    "question": "I hvilken situasjon kan norming-fasen beskrives?",
+    "options": [
+      "At gruppen finner felles arbeidsmåter",
+      "Noe som kun forekommer i store organisasjoner",
+      "En prosess som skjer tilfeldig uten mønster",
+      "En aktivitet uten betydning i grupper"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Norming-fasen handler om å finne felles arbeidsmåter og normer.",
+    "explanation": "I norming-fasen finner gruppen felles normer, regler og arbeidsmåter. Samholdet øker, og kommunikasjonen blir mer åpen. (Se 'Norming - stabiliseringsfasen' i notatene)"
+  },
+  {
+    "id": 4,
+    "section": "2.4",
+    "question": "Hva skiller kan performing-fasen beskrives?",
+    "options": [
+      "En prosess som skjer tilfeldig uten mønster",
+      "At prosjektgruppen jobber effektivt",
+      "En aktivitet uten betydning i grupper",
+      "Noe som kun forekommer i store organisasjoner"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Performing-fasen kjennetegnes av effektivt og målrettet arbeid.",
+    "explanation": "I performing-fasen fungerer prosjektgruppen effektivt og målrettet. Medlemmene stoler på hverandre, og konflikter håndteres. (Se 'Performing - arbeidsfasen' i notatene)"
+  },
+  {
+    "id": 5,
+    "section": "2.5",
+    "question": "Når kan storming-fasen typisk oppstå?",
+    "options": [
+      "At uenigheter og rolleavklaringer oppstår",
+      "En prosess som skjer tilfeldig uten mønster",
+      "Noe som kun forekommer i store organisasjoner",
+      "En aktivitet uten betydning i grupper"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Storming-fasen oppstår når uenigheter og rolleavklaringer skjer.",
+    "explanation": "Storming-fasen er konfliktfasen der uenigheter og rolleavklaringer oppstår. Dette er en naturlig fase som må håndteres for at gruppen skal vokse. (Se 'Storming - konfliktfasen' i notatene)"
+  },
+  {
+    "id": 6,
+    "section": "2.6",
+    "question": "I hvilken situasjon kan tverrfaglighet beskrives?",
+    "options": [
+      "Noe som kun forekommer i store organisasjoner",
+      "En prosess som skjer tilfeldig uten mønster",
+      "At flere fagdisipliner samarbeider i prosjektet",
+      "En aktivitet uten betydning i grupper"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Tverrfaglighet betyr at flere fagdisipliner samarbeider i prosjektet.",
+    "explanation": "Prosjekter kjennetegnes ofte av tverrfaglig samarbeid, der personer fra ulike fagområder jobber sammen for å nå målet. (Se 'Kjennetegn ved prosjekter' i notatene)"
+  },
+  {
+    "id": 7,
+    "section": "2.7",
+    "question": "Hva skiller kan tidsavgrensning beskrives?",
+    "options": [
+      "At prosjektet har en definert start og slutt",
+      "En aktivitet uten betydning i grupper",
+      "Noe som kun forekommer i store organisasjoner",
+      "En prosess som skjer tilfeldig uten mønster"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Tidsavgrensning betyr at prosjektet har en klar start og slutt.",
+    "explanation": "Et prosjekt har en avgrenset tid, med en start- og sluttdato. Prosjektet eksisterer bare så lenge oppgaven pågår. (Se 'Kjennetegn ved prosjekter' i notatene)"
+  },
+  {
+    "id": 8,
+    "section": "2.8",
+    "question": "Hva innebærer kan interessenter beskrives?",
+    "options": [
+      "En prosess som skjer tilfeldig uten mønster",
+      "En aktivitet uten betydning i grupper",
+      "At de påvirker eller påvirkes av prosjektet",
+      "Noe som kun forekommer i store organisasjoner"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Interessenter er de som påvirker eller påvirkes av prosjektet.",
+    "explanation": "Interessenter er personer eller grupper som har interesse av prosjektet, og som enten påvirker eller blir påvirket av det. Dette kan være prosjektmedlemmer, ledelse, brukere eller eksterne parter. (Se 'Prosjekter som midlertidige organisasjoner' i notatene)"
+  },
+  {
+    "id": 9,
+    "section": "2.9",
+    "question": "Når kan forming-fasen typisk oppstå?",
+    "options": [
+      "En prosess som skjer tilfeldig uten mønster",
+      "At teamet blir kjent og orienterer seg",
+      "Noe som kun forekommer i store organisasjoner",
+      "En aktivitet uten betydning i grupper"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Forming-fasen oppstår når teamet blir kjent og orienterer seg.",
+    "explanation": "Forming-fasen er orienteringsfasen der gruppen dannes, og medlemmene blir kjent og orienterer seg om oppgaven og roller. (Se 'Forming - orienteringsfasen' i notatene)"
+  },
+  {
+    "id": 10,
+    "section": "2.10",
+    "question": "Hva kjennetegner kan unike leveranser beskrives?",
+    "options": [
+      "Noe som kun forekommer i store organisasjoner",
+      "At prosjektet skal skape noe nytt",
+      "En prosess som skjer tilfeldig uten mønster",
+      "En aktivitet uten betydning i grupper"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Unike leveranser betyr at prosjektet skaper noe nytt.",
+    "explanation": "Prosjekter kjennetegnes ved at de skal føre til et unikt resultat, som et nytt produkt, tjeneste eller løsning. Dette skiller prosjekter fra rutinearbeid. (Se 'Kjennetegn ved prosjekter' i notatene)"
+  },
+  {
+    "id": 11,
+    "section": "2.11",
+    "question": "Hvorfor oppstår ressursrammer?",
+    "options": [
+      "En aktivitet uten betydning i grupper",
+      "At tiden, budsjettet og personell er fastsatt",
+      "En prosess som skjer tilfeldig uten mønster",
+      "Noe som kun forekommer i store organisasjoner"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Ressursrammer betyr at tid, budsjett og personell er fastsatt.",
+    "explanation": "Prosjekter har klare ressursrammer, der tid, budsjett og personell er fastsatt. Dette gir struktur og forutsigbarhet for gjennomføringen. (Se 'Kjennetegn ved prosjekter' i notatene)"
+  },
+  {
+    "id": 12,
+    "section": "2.12",
+    "question": "Hvorfor oppstår adjourning-fasen?",
+    "options": [
+      "En prosess som skjer tilfeldig uten mønster",
+      "Noe som kun forekommer i store organisasjoner",
+      "At prosjektet avsluttes og gruppen oppløses",
+      "En aktivitet uten betydning i grupper"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Adjourning-fasen oppstår når prosjektet avsluttes og gruppen oppløses.",
+    "explanation": "Adjourning-fasen er oppløsningsfasen der prosjektet avsluttes og gruppen oppløses etter at målet er nådd. Det preges av stolthet, lettelse og vemod. (Se 'Adjourning - oppløsningsfasen' i notatene)"
+  },
+  {
+    "id": 13,
+    "section": "2.13",
+    "question": "I hvilken situasjon kan adjourning-fasen beskrives?",
+    "options": [
+      "At prosjektet avsluttes og gruppen oppløses",
+      "Noe som kun forekommer i store organisasjoner",
+      "En prosess som skjer tilfeldig uten mønster",
+      "En aktivitet uten betydning i grupper"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Adjourning-fasen oppstår når prosjektet avsluttes og gruppen oppløses.",
+    "explanation": "Adjourning-fasen er oppløsningsfasen der prosjektet avsluttes og gruppen oppløses etter at målet er nådd. Det preges av stolthet, lettelse og vemod. (Se 'Adjourning - oppløsningsfasen' i notatene)"
+  },
+  {
+    "id": 14,
+    "section": "2.14",
+    "question": "Når kan ressursrammer typisk oppstå?",
+    "options": [
+      "At tiden, budsjettet og personell er fastsatt",
+      "En aktivitet uten betydning i grupper",
+      "Noe som kun forekommer i store organisasjoner",
+      "En prosess som skjer tilfeldig uten mønster"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Ressursrammer betyr at tid, budsjett og personell er fastsatt.",
+    "explanation": "Prosjekter har klare ressursrammer, der tid, budsjett og personell er fastsatt. Dette gir struktur og forutsigbarhet for gjennomføringen. (Se 'Kjennetegn ved prosjekter' i notatene)"
+  },
+  {
+    "id": 15,
+    "section": "2.15",
+    "question": "Når kan prosjekter typisk oppstå?",
+    "options": [
+      "En aktivitet uten betydning i grupper",
+      "At de er midlertidige organisasjoner med klare mål",
+      "Noe som kun forekommer i store organisasjoner",
+      "En prosess som skjer tilfeldig uten mønster"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Prosjekter oppstår som midlertidige organisasjoner med klare mål.",
+    "explanation": "Prosjekter er midlertidige organisasjoner som opprettes for å løse en oppgave eller nå et konkret mål innenfor en tidsramme. (Se 'Prosjekter som midlertidige organisasjoner' i notatene)"
+  },
+  {
+    "id": 16,
+    "section": "2.16",
+    "question": "Hvilket utsagn beskriver best kan prosjekter beskrives?",
+    "options": [
+      "At de er midlertidige organisasjoner med klare mål",
+      "En prosess som skjer tilfeldig uten mønster",
+      "Noe som kun forekommer i store organisasjoner",
+      "En aktivitet uten betydning i grupper"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Prosjekter er midlertidige organisasjoner med klare mål.",
+    "explanation": "Prosjekter er midlertidige organisasjoner med klare mål, avgrenset tid og ressursrammer. De skiller seg fra faste organisasjoner ved å ha en klar start og slutt. (Se 'Prosjekter som midlertidige organisasjoner' i notatene)"
+  },
+  {
+    "id": 17,
+    "section": "2.17",
+    "question": "Hva kjennetegner kan prosjekter beskrives?",
+    "options": [
+      "En prosess som skjer tilfeldig uten mønster",
+      "Noe som kun forekommer i store organisasjoner",
+      "At de er midlertidige organisasjoner med klare mål",
+      "En aktivitet uten betydning i grupper"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Prosjekter er midlertidige organisasjoner med klare mål.",
+    "explanation": "Prosjekter er midlertidige organisasjoner med klare mål, avgrenset tid og ressursrammer. De skiller seg fra faste organisasjoner ved å ha en klar start og slutt. (Se 'Prosjekter som midlertidige organisasjoner' i notatene)"
+  },
+  {
+    "id": 18,
+    "section": "2.18",
+    "question": "Hvilket utsagn beskriver best kan storming-fasen beskrives?",
+    "options": [
+      "En prosess som skjer tilfeldig uten mønster",
+      "Noe som kun forekommer i store organisasjoner",
+      "En aktivitet uten betydning i grupper",
+      "At uenigheter og rolleavklaringer oppstår"
+    ],
+    "answerIndex": 3,
+    "shortExplanation": "Storming-fasen oppstår når uenigheter og rolleavklaringer skjer.",
+    "explanation": "Storming-fasen er konfliktfasen der uenigheter og rolleavklaringer oppstår. Dette er en naturlig fase som må håndteres for at gruppen skal vokse. (Se 'Storming - konfliktfasen' i notatene)"
+  },
+  {
+    "id": 19,
+    "section": "2.19",
+    "question": "Hvordan kan prosjektlederrollen beskrives?",
+    "options": [
+      "Noe som kun forekommer i store organisasjoner",
+      "En aktivitet uten betydning i grupper",
+      "At den skal koordinere, lede og følge opp",
+      "En prosess som skjer tilfeldig uten mønster"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Prosjektlederrollen handler om å koordinere, lede og følge opp prosjektet.",
+    "explanation": "Prosjektlederrollen innebærer å koordinere, lede og følge opp prosjektet, og sikre at målene nås innenfor ressursrammene. (Se 'Prosjekter som midlertidige organisasjoner' i notatene)"
+  },
+  {
+    "id": 20,
+    "section": "2.20",
+    "question": "Når kan prosjektlederrollen typisk oppstå?",
+    "options": [
+      "Noe som kun forekommer i store organisasjoner",
+      "En aktivitet uten betydning i grupper",
+      "At den skal koordinere, lede og følge opp",
+      "En prosess som skjer tilfeldig uten mønster"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Prosjektlederrollen handler om å koordinere, lede og følge opp prosjektet.",
+    "explanation": "Prosjektlederrollen innebærer å koordinere, lede og følge opp prosjektet, og sikre at målene nås innenfor ressursrammene. (Se 'Prosjekter som midlertidige organisasjoner' i notatene)"
+  },
+  {
+    "id": 21,
+    "section": "2.21",
+    "question": "Hvordan kan storming-fasen beskrives?",
+    "options": [
+      "At uenigheter og rolleavklaringer oppstår",
+      "Noe som kun forekommer i store organisasjoner",
+      "En prosess som skjer tilfeldig uten mønster",
+      "En aktivitet uten betydning i grupper"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Storming-fasen oppstår når uenigheter og rolleavklaringer skjer.",
+    "explanation": "Storming-fasen er konfliktfasen der uenigheter og rolleavklaringer oppstår. Dette er en naturlig fase som må håndteres for at gruppen skal vokse. (Se 'Storming - konfliktfasen' i notatene)"
+  },
+  {
+    "id": 22,
+    "section": "2.22",
+    "question": "Hvordan kan prosjektlederrollen beskrives?",
+    "options": [
+      "Noe som kun forekommer i store organisasjoner",
+      "En aktivitet uten betydning i grupper",
+      "At den skal koordinere, lede og følge opp",
+      "En prosess som skjer tilfeldig uten mønster"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Prosjektlederrollen handler om å koordinere, lede og følge opp prosjektet.",
+    "explanation": "Prosjektlederrollen innebærer å koordinere, lede og følge opp prosjektet, og sikre at målene nås innenfor ressursrammene. (Se 'Prosjekter som midlertidige organisasjoner' i notatene)"
+  },
+  {
+    "id": 23,
+    "section": "2.23",
+    "question": "Hvorfor oppstår prosjekter?",
+    "options": [
+      "En prosess som skjer tilfeldig uten mønster",
+      "At de er midlertidige organisasjoner med klare mål",
+      "En aktivitet uten betydning i grupper",
+      "Noe som kun forekommer i store organisasjoner"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Prosjekter oppstår som midlertidige organisasjoner med klare mål.",
+    "explanation": "Prosjekter er midlertidige organisasjoner som opprettes for å løse en oppgave eller nå et konkret mål innenfor en tidsramme. (Se 'Prosjekter som midlertidige organisasjoner' i notatene)"
+  },
+  {
+    "id": 24,
+    "section": "2.24",
+    "question": "Hva innebærer kan forming-fasen beskrives?",
+    "options": [
+      "En prosess som skjer tilfeldig uten mønster",
+      "Noe som kun forekommer i store organisasjoner",
+      "At teamet blir kjent og orienterer seg",
+      "En aktivitet uten betydning i grupper"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Forming-fasen oppstår når teamet blir kjent og orienterer seg.",
+    "explanation": "Forming-fasen er orienteringsfasen der gruppen dannes, og medlemmene blir kjent og orienterer seg om oppgaven og roller. (Se 'Forming - orienteringsfasen' i notatene)"
+  },
+  {
+    "id": 25,
+    "section": "2.25",
+    "question": "Når kan storming-fasen typisk oppstå?",
+    "options": [
+      "At uenigheter og rolleavklaringer oppstår",
+      "En aktivitet uten betydning i grupper",
+      "Noe som kun forekommer i store organisasjoner",
+      "En prosess som skjer tilfeldig uten mønster"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Storming-fasen oppstår når uenigheter og rolleavklaringer skjer.",
+    "explanation": "Storming-fasen er konfliktfasen der uenigheter og rolleavklaringer oppstår. Dette er en naturlig fase som må håndteres for at gruppen skal vokse. (Se 'Storming - konfliktfasen' i notatene)"
+  },
+  {
+    "id": 26,
+    "section": "2.26",
+    "question": "Hva kjennetegner kan unike leveranser beskrives?",
+    "options": [
+      "At prosjektet skal skape noe nytt",
+      "En aktivitet uten betydning i grupper",
+      "En prosess som skjer tilfeldig uten mønster",
+      "Noe som kun forekommer i store organisasjoner"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Unike leveranser betyr at prosjektet skaper noe nytt.",
+    "explanation": "Prosjekter kjennetegnes ved at de skal føre til et unikt resultat, som et nytt produkt, tjeneste eller løsning. Dette skiller prosjekter fra rutinearbeid. (Se 'Kjennetegn ved prosjekter' i notatene)"
+  },
+  {
+    "id": 27,
+    "section": "2.27",
+    "question": "Hva skiller kan ressursrammer beskrives?",
+    "options": [
+      "At tiden, budsjettet og personell er fastsatt",
+      "En prosess som skjer tilfeldig uten mønster",
+      "Noe som kun forekommer i store organisasjoner",
+      "En aktivitet uten betydning i grupper"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Ressursrammer betyr at tid, budsjett og personell er fastsatt.",
+    "explanation": "Prosjekter har klare ressursrammer, der tid, budsjett og personell er fastsatt. Dette gir struktur og forutsigbarhet for gjennomføringen. (Se 'Kjennetegn ved prosjekter' i notatene)"
+  },
+  {
+    "id": 28,
+    "section": "2.28",
+    "question": "Hvilken konsekvens har kan forming-fasen beskrives?",
+    "options": [
+      "En aktivitet uten betydning i grupper",
+      "Noe som kun forekommer i store organisasjoner",
+      "En prosess som skjer tilfeldig uten mønster",
+      "At teamet blir kjent og orienterer seg"
+    ],
+    "answerIndex": 3,
+    "shortExplanation": "Forming-fasen oppstår når teamet blir kjent og orienterer seg.",
+    "explanation": "Forming-fasen er orienteringsfasen der gruppen dannes, og medlemmene blir kjent og orienterer seg om oppgaven og roller. (Se 'Forming - orienteringsfasen' i notatene)"
+  },
+  {
+    "id": 29,
+    "section": "2.29",
+    "question": "På hvilken måte kan ressursrammer beskrives?",
+    "options": [
+      "En prosess som skjer tilfeldig uten mønster",
+      "Noe som kun forekommer i store organisasjoner",
+      "At tiden, budsjettet og personell er fastsatt",
+      "En aktivitet uten betydning i grupper"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Ressursrammer betyr at tid, budsjett og personell er fastsatt.",
+    "explanation": "Prosjekter har klare ressursrammer, der tid, budsjett og personell er fastsatt. Dette gir struktur og forutsigbarhet for gjennomføringen. (Se 'Kjennetegn ved prosjekter' i notatene)"
+  },
+  {
+    "id": 30,
+    "section": "2.30",
+    "question": "I hvilken situasjon kan prosjektlederrollen beskrives?",
+    "options": [
+      "Noe som kun forekommer i store organisasjoner",
+      "En prosess som skjer tilfeldig uten mønster",
+      "En aktivitet uten betydning i grupper",
+      "At den skal koordinere, lede og følge opp"
+    ],
+    "answerIndex": 3,
+    "shortExplanation": "Prosjektlederrollen handler om å koordinere, lede og følge opp prosjektet.",
+    "explanation": "Prosjektlederrollen innebærer å koordinere, lede og følge opp prosjektet, og sikre at målene nås innenfor ressursrammene. (Se 'Prosjekter som midlertidige organisasjoner' i notatene)"
+  }
+]

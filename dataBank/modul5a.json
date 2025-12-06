@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "section": "Kap3.1",
+    "question": "Hva er stormings-fasen i gruppeutvikling?",
+    "options": [
+      "Den første fasen der gruppen blir dannet og medlemmene møtes for første gang",
+      "Den andre fasen der uenighet og konflikter oppstår når samarbeidet går fra plan til handling",
+      "Den tredje fasen der samhold og tillit vokser fram",
+      "En fase som bare forekommer i små grupper"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Stormings-fasen er når teamet møter de første konfliktene under samarbeidet.",
+    "explanation": "Stormings-fasen er den andre fasen i gruppe- og prosjektutviklingen, som kommer etter formings-fasen. Her begynner det virkelige samarbeidet, og ulikheter i oppfatninger, forventninger og arbeidsstil blir tydeligere. Selv om storming kan være krevende, er det en nødvendig og sunn prosess for gruppeutviklingen. (Se 'Stormings-fasen' i notatene)"
+  },
+  {
+    "id": 2,
+    "section": "Kap3.2",
+    "question": "Hva er interdependens i prosjekter?",
+    "options": [
+      "At hvert medlem av prosjektet arbeider helt uavhengig av de andre",
+      "Gjensidig avhengighet der deltakernes handlinger påvirker hverandres resultater",
+      "En form for lederskap hvor lederen bestemmer alt",
+      "En situasjon der bare en person er ansvarlig for prosjektet"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Interdependens betyr at medlemmene er gjensidig avhengige av hverandre.",
+    "explanation": "Interdependens (gjensidig avhengighet) er en sentral årsak til konflikter i prosjekter. Det betyr at deltakerne er avhengige av hverandre for å lykkes, og når den enes handlinger påvirker andres resultater, kan uenighet raskt oppstå. Prosjekter preges særlig av høy interdependens fordi mennesker med ulik bakgrunn, kompetanse og interesser må jobbe sammen. (Se 'Årsaker til konflikter i prosjektet' i notatene)"
+  },
+  {
+    "id": 3,
+    "section": "Kap3.3",
+    "question": "Hvilke faktorer gjør prosjekter spesielt utsatt for konflikter?",
+    "options": [
+      "Bare tidspress og høy kompleksitet",
+      "Høy kompleksitet, tidspress, ulike faglige perspektiver, uklare roller, mangelfull kommunikasjon og knappe ressurser",
+      "Kun at mennesker ikke er vennlige nok mot hverandre",
+      "Bare at ledelsen ikke lytter til medlemmene"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Flere faktorer gjør prosjekter sårbare for konflikter.",
+    "explanation": "Flere faktorer gjør prosjekter spesielt utsatt for konflikter: høy kompleksitet og tidspress, ulike faglige perspektiver og mål (heterogenitet), uklare roller og ansvar, mangelfull kommunikasjon, knappe ressurser og motstridende interesser, samt dual lojalitet mellom prosjektet og basisorganisasjonen. Samspillet av disse faktorene skaper et miljø som favoriserer konflikter. (Se 'Årsaker til konflikter i prosjektet' i notatene)"
+  },
+  {
+    "id": 4,
+    "section": "Kap3.4",
+    "question": "Hva er forskjellen mellom latent og manifest konflikt?",
+    "options": [
+      "Latent konflikt er alltid verre enn manifest konflikt",
+      "Latent konflikt ligger under overflaten som spenninger, manifest konflikt er uttalt og synlig",
+      "Latent konflikt bare dreier seg om følelser, manifest konflikt bare om sak",
+      "Det er ingen forskjell, de er to ord for det samme"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Latent konflikt er skjult, manifest konflikt er åpen og synlig.",
+    "explanation": "Latent konflikt er konflikter som ligger under overflaten, gjerne knyttet til strukturelle forhold som ressursknapphet, autonomi eller uklare mål. Disse er ofte ikke uttalt, men kan merkes som spenninger eller misnøye. Manifest konflikt er når uenighetene kommer til uttrykk gjennom ord, handlinger eller atferd, og blir synlig for andre. Konflikter tenderer til å bli sterkere rundt 'halveis-punktet' i prosjektets tidsløp. (Se 'Latent og manifest konflikter' i notatene)"
+  },
+  {
+    "id": 5,
+    "section": "Kap3.5",
+    "question": "Hva er sakskonflikt?",
+    "options": [
+      "En konflikt som aldri kan løses fordi den dreier seg om følelser",
+      "Uenighet i oppgaver, mål eller metoder med rasjonelt grunnlag som kan fremme bedre løsninger",
+      "En konflikt som alltid fører til destruktivt samarbeid",
+      "En type konflikt som bare oppstår mellom ledelse og ansatte"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Sakskonflikt handler om uenighet i oppgaver, mål eller arbeidsmetoder.",
+    "explanation": "Sakskonflikt (kognitiv konflikt) handler om uenighet i oppgaver, mål eller metoder. Grunnlaget er rasjonelt og kan bidra positivt ved å fremme refleksjon og bedre løsninger. Typiske eksempler er uenighet om prosjektet, prioriteringer eller metodevalg. I motsetning til personkonflikter kan sakskonflikter konstruktivt håndteres gjennom dialog og problemløsning. (Se 'Ulike typer konflikter' i notatene)"
+  },
+  {
+    "id": 6,
+    "section": "Kap3.6",
+    "question": "Hva er personkonflikt?",
+    "options": [
+      "En konflikt som bare dreier seg om arbeidsoppgaver",
+      "Personlige motsetninger bygget på antipati eller følelser som svekker samarbeid",
+      "En konflikt som aldri påvirker arbeidsmiljøet",
+      "Noe som bare oppstår hvis ledelsen ikke er dyktig"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Personkonflikt bygger på personlige motsetninger og følelser.",
+    "explanation": "Personkonflikt (emosjonell konflikt) bygger på personlige motsetninger, antipati eller følelser. Det skaper mistrivsel, frustrasjon og svekket samarbeid. Personkonflikter kan ofte starte som sakskonflikter som utvikler seg til å bli personlige. Disse konfliktene er mer vanskelige å håndtere fordi de berører selvbildet og følelsen av verdi. (Se 'Ulike typer konflikter' i notatene)"
+  },
+  {
+    "id": 7,
+    "section": "Kap3.7",
+    "question": "Hva er lojalitetskonflikter?",
+    "options": [
+      "Konflikter som bare dreier seg om penger",
+      "Motstridende krav fra ulike parter, som når en medarbeider har 'dual-lojalitet' til prosjektleder og linjeleder",
+      "Konflikter som ikke påvirker prosjektets arbeid",
+      "Noe som bare oppstår i offentlige virksomheter"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Lojalitetskonflikter oppstår fra motstridende krav fra ulike parter.",
+    "explanation": "Lojalitetskonflikter (intrapersonlig konflikt) oppstår når en person opplever motstridende krav fra ulike parter. Dette er vanlig i prosjekter der medarbeidere har 'dual-lojalitet', både til prosjektlederen og sin linjeleder i basisorganisasjonen. Disse konfliktene kan skape indre stress og usikkerhet om prioriteringer. (Se 'Ulike typer konflikter' i notatene)"
+  },
+  {
+    "id": 8,
+    "section": "Kap3.8",
+    "question": "Hva betyr det at konflikter har både kognitive og emosjonelle dimensjoner?",
+    "options": [
+      "Det betyr at konflikter alltid skyldes dårlig logikk",
+      "Det betyr at det både finnes rasjonelle uenigheter og følelsesmessige reaksjoner som må håndteres",
+      "Det betyr at følelser alltid er viktigere enn fakta",
+      "Det betyr at man burde ignorere følelsene og fokusere kun på logikk"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Konflikter har både rasjonelle og følelsesmessige sider.",
+    "explanation": "Alle konflikter har både kognitive (rasjonelle) og emosjonelle sider. Det er viktig å skille mellom uenighet om sak og reaksjoner på måten man blir møtt på. Menneskers kognitive filter spiller en sentral rolle - hvordan vi tolker informasjon gjennom våre erfaringer, verdier og forventninger. To personer kan oppleve samme situasjon helt forskjellig, og misforståelse kan oppstå uten at noen har gjort feil med vilje. (Se 'Konfliktetens rasjonelle og emosjonelle dimensjoner' i notatene)"
+  },
+  {
+    "id": 9,
+    "section": "Kap3.9",
+    "question": "Hva er unnvikelse som konflikthåndteringsstrategi?",
+    "options": [
+      "En effektiv strategi som alltid løser konflikter",
+      "Å ignorere konflikten og håpe den går over, fungerer ved små midlertidige konflikter men fører oftere til opphopning",
+      "Den mest konstruktive måten å håndtere konflikter på",
+      "En strategi som garanterer at alle blir fornøyde"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Unnvikelse betyr å ignorere konflikten og håpe den løses av seg selv.",
+    "explanation": "Unnvikelse er når partene ignorerer konflikten og håper den går over. Denne strategien kan fungere ved små, midlertidige konflikter, men fører oftere til opphopning og større problemer senere. Det betyr at underliggende spenninger ikke løses, men bygger seg opp over tid. (Se 'Fire strategier for konflikthåndtering' i notatene)"
+  },
+  {
+    "id": 10,
+    "section": "Kap3.10",
+    "question": "Hva er tvang eller dominans som konflikthåndteringsstrategi?",
+    "options": [
+      "En strategi som alltid fører til gode resultater",
+      "En part påtvinger sin løsning ved makt eller autoritet, effektiv i akutte situasjoner men skaper gjerne misnøye",
+      "Det samme som problemløsning",
+      "En strategi som ikke brukes i moderne arbeidslivet"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Tvang betyr at en part påtvinger sin løsning ved makt.",
+    "explanation": "Tvang eller dominans er når en part påtvinger sin løsning mellom makt eller autoritet. Denne strategien kan være effektiv ved akutte situasjoner der raske beslutninger er nødvendige, men den skaper gjerne misnøye og lav motivasjon hos den som 'taper'. Det kan påvirke samarbeidet negativt på sikt. (Se 'Fire strategier for konflikthåndtering' i notatene)"
+  },
+  {
+    "id": 11,
+    "section": "Kap3.11",
+    "question": "Hva er kompromiss som konflikthåndteringsstrategi?",
+    "options": [
+      "En strategi der en part vinner og den andre taper",
+      "Partene gir og tar for å oppnå en løsning begge kan leve med, fungerer raskt men gir ofte mellomløsninger",
+      "Den mest konstruktive strategien for konflikthåndtering",
+      "En strategi som bare brukes i små organisasjoner"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Kompromiss betyr at begge parter gir litt og får litt.",
+    "explanation": "Kompromiss er når partene gir og tar for å oppnå en løsning begge kan leve med. Denne strategien kan være hensiktsmessig for å komme videre raskt, men gir ofte en mellomløsning som ikke fullt ut tilfredsstiller noen. Både parter må gi avkall på noe, noe som kan føre til restverdi misnøye. (Se 'Fire strategier for konflikthåndtering' i notatene)"
+  },
+  {
+    "id": 12,
+    "section": "Kap3.12",
+    "question": "Hva er problemløsning eller integrasjon som konflikthåndteringsstrategi?",
+    "options": [
+      "En strategi som alltid mislykkes",
+      "Den mest konstruktive strategien der partene analyserer årsakene sammen og søker løsning som ivaretar alles behov",
+      "En strategi som bare fungerer for små konflikter",
+      "En metode som krever at en part gir helt etter"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Problemløsning er den mest konstruktive strategien for konfliktløsning.",
+    "explanation": "Problemløsning eller integrasjon er den mest konstruktive strategien for konflikthåndtering. Partene analyserer årsakene til konflikten sammen og søker en felles løsning som ivaretar alles behov. Dette krever åpen kommunikasjon, tillit og vilje til samarbeid, men resultatet er ofte at begge parter blir fornøyde. (Se 'Fire strategier for konflikthåndtering' i notatene)"
+  },
+  {
+    "id": 13,
+    "section": "Kap3.13",
+    "question": "Hva er proaktiv konflikthåndtering?",
+    "options": [
+      "Å vente og se om konflikten løser seg av seg selv",
+      "Å håndtere konflikter reaktivt når de allerede har eskalert",
+      "Å forebygge konflikter gjennom åpen kommunikasjon, avklaring av roller og tillit i teamet",
+      "Å unngå alle former for konflikter"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Proaktiv konflikthåndtering handler om forebyggelse før konfliktene eskalerer.",
+    "explanation": "Proaktiv konflikthåndtering handler ikke bare om å reagere, men også om å forebygge. Det gjøres gjennom åpen og ærlig kommunikasjon, avklaring av roller og forventninger tidlig, oppbygging av trygghet og tillit i teamet, klar struktur og felles mål, samt lederens tilstedeværelse og sensitivitet for spenninger. En god prosjektleder griper tidlig inn og legger til rette for dialog før konflikten eskalerer. (Se 'Proaktiv konflikt håndtering' i notatene)"
+  },
+  {
+    "id": 14,
+    "section": "Kap3.14",
+    "question": "Hva mener Tuckmans modell om konflikter i gruppeutvikling?",
+    "options": [
+      "At konflikter bør unngås helt",
+      "At stormings-fasen er unødvendig og bør hoppes over",
+      "At stormings-fasen er en nødvendig del av gruppeutviklingen som fører til læring og tillit",
+      "At konflikter alltid ødellegger grupper"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Tuckmans modell ser konflikter som nødvendig for gruppens modenhet.",
+    "explanation": "Ifølge Tuckmans modell er stormings-fasen en nødvendig del av gruppeutviklingen. Gjennom å ta opp og bearbeide uenigheter, utvikler gruppen mot større modenhet, tydeligere roller og samhold. Konflikter bør derfor ikke nødvendigvis unngås, men håndteres konstruktivt slik at de fører til læring og tillit i neste fase (normings-fasen). (Se 'Konflikter som del av gruppeutvikling' i notatene)"
+  },
+  {
+    "id": 15,
+    "section": "Kap3.15",
+    "question": "Hva kan riktig håndterte konflikter føre til?",
+    "options": [
+      "Alltid økt misnøye og frustrasjon",
+      "Økt forståelse for andres perspektiver, styrket samarbeid, klargjøring av normer og bedre løsninger",
+      "Reduksjon av alle sammarbeid",
+      "At ledelsen mister kontrollen over gruppen"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Riktig håndterte konflikter kan føre til læring og sterkere samhold.",
+    "explanation": "Riktig håndtert konflikter kan føre til økt forståelse for andres perspektiver, styrket samarbeid og tillit, klargjøring av normer og roller, og bedre beslutninger og løsninger. Dermed blir stormings-fasen en modningsfase der gruppen beveger seg mot mer effektivt samarbeid i normings-fasen. (Se 'Fra konflikt til læring' i notatene)"
+  },
+  {
+    "id": 16,
+    "section": "Kap3.16",
+    "question": "Hvorfor oppstår konflikter i prosjekter ifølge notatene?",
+    "options": [
+      "Bare fordi mennesker ikke liker hverandre",
+      "Fordi prosjekter preges av gjensidig avhengighet hvor mennesker med ulik bakgrunn må jobbe sammen under tidspress",
+      "Fordi ledelsen aldri tar gode beslutninger",
+      "Konflikter oppstår ikke i godt organiserte prosjekter"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Konflikter oppstår fordi mennesker er gjensidig avhengige i prosjekter.",
+    "explanation": "Konflikter oppstår ofte fordi prosjekter preges av interdependens (gjensidig avhengighet), der deltakerne er avhengige av hverandre for å lykkes. Mennesker med ulik bakgrunn, kompetanse og interesser må jobbe sammen under tidspress og usikkerhet. Når den enes handlinger påvirker andres resultater, kan uenighet raskt oppstå. (Se 'Årsaker til konflikter i prosjektet' i notatene)"
+  },
+  {
+    "id": 17,
+    "section": "Kap3.17",
+    "question": "Hva er 'dual lojalitet' i prosjekter?",
+    "options": [
+      "At en person er lojal mot bare en leder",
+      "At en medarbeider har motstridende lojalitet både til prosjektlederen og sin linjeleder i basisorganisasjonen",
+      "At en person aldri skifter jobb",
+      "En form for ekslusiv avtale mellom to organisasjoner"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Dual lojalitet oppstår når en person rapporterer til flere ledere.",
+    "explanation": "Dual lojalitet er en situasjon der en medarbeider har motstridende lojalitet både til prosjektlederen og sin linjeleder i basisorganisasjonen. Dette er en av faktorene som gjør prosjekter særlig utsatt for konflikter, fordi medarbeidere kan oppleve motstridende krav og forventninger fra de to lederne. (Se 'Årsaker til konflikter i prosjektet' i notatene)"
+  },
+  {
+    "id": 18,
+    "section": "Kap3.18",
+    "question": "Når tenderer konflikter til å bli sterkere i prosjekter?",
+    "options": [
+      "I slutten av prosjektet når mennesker er trøtte",
+      "Rundt 'halveis-punktet' når like mye tid er brukt som det som er igjen, og tidspress øker",
+      "I starten av prosjektet når alle er entusiastiske",
+      "Konflikter blir aldri sterkere, de bare skifter form"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Konflikter blir sterkere rundt halveis-punktet i prosjektet.",
+    "explanation": "Konflikter tenderer til å bli sterkere rundt 'halveis-punktet' i prosjektets tidsløp, når like mye tid er brukt på det som er igjen, og opplevelsen av tidspress øker betydelig. Da intensiveres samarbeidsutfordringer og følelsesmessige reaksjoner. Dette er en kritisk periode i prosjektet. (Se 'Latent og manifest konflikter' i notatene)"
+  },
+  {
+    "id": 19,
+    "section": "Kap3.19",
+    "question": "Hvordan påvirker menneskenes kognitive filter konflikter?",
+    "options": [
+      "Kognitive filter har ingen påvirkning på konflikter",
+      "Kognitive filter er hvordan vi tolker informasjon gjennom våre erfaringer og verdier, noe som kan føre til misforståelser",
+      "Kognitive filter gjør at alle tolker situasjoner identisk",
+      "Kognitive filter er bare relevante for psykologer"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Kognitive filter påvirker hvordan vi tolker informasjon.",
+    "explanation": "Menneskers kognitive filter spiller en sentral rolle i konflikter - det vil si hvordan vi tolker informasjon gjennom våre egne erfaringer, verdier og forventninger. To personer kan oppleve samme situasjon helt forskjellig, og misforståelse kan oppstå uten at noen har gjort feil med vilje. Dette gjør at det er viktig å søke forståelse for andre perspektiver. (Se 'Konfliktetens rasjonelle og emosjonelle dimensjoner' i notatene)"
+  },
+  {
+    "id": 20,
+    "section": "Kap3.20",
+    "question": "Hva er hovedpunktet i oppsummeringen om storming og konflikthåndtering?",
+    "options": [
+      "Alle konflikter bør unngås helt",
+      "Konflikter er alltid destruktive og skadelige",
+      "Konflikter kan være både destruktive og konstruktive avhengig av hvordan de håndteres, og kan føre til vekst og sterkere samhold",
+      "Konflikthåndtering er bare lederens ansvar"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Konflikter kan bli konstruktive hvis de håndteres riktig.",
+    "explanation": "Hovedpunktet er at storming og konflikthåndtering handler om å forstå og håndtere uenighet som en naturlig del av prosjektarbeidet. Konflikter kan være både destruktive og konstruktive, alt avhenger av hvordan de forstås og behandles. Gjennom åpenhet, proaktiv ledelse, refleksjon og felles problemløsning kan konflikter bidra til vekst, læring og sterkere samhold. En god prosjektleder ser ikke konflikt som et nederlag, men som en mulighet til utvikling. (Se 'Oppsumering' i notatene)"
+  },
+  {
+    "id": 21,
+    "section": "Kap3.3",
+    "question": "Hva er latent og manifest konflikt?",
+    "options": [
+      "Det finnes bare en type konflikt",
+      "Latent ligger under overflaten og merkes som spenning, manifest er når konflikten kommer til uttrykk",
+      "Latent og manifest er det samme",
+      "Manifest er alltid dårligere enn latent"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Latent konflikt ligger skjult; manifest konflikt er synlig.",
+    "explanation": "Latent konflikt er konflikter som ligger under overflaten og ikke er uttalt, gjerne knyttet til strukturelle forhold som ressursknapphet eller uklare mål. De merkes som spenninger eller misnøye. Manifest konflikt er når uenighetene kommer til uttrykk gjennom ord, handlinger eller atferd, og blir synlig for andre. Konflikter tenderer til å bli sterkere rundt halvveis-punktet i prosjektets tidsløp, når opplevelsen av tidspress øker. (Se 'Latent og manifest konflikter' i notatene)"
+  },
+  {
+    "id": 22,
+    "section": "Kap3.4",
+    "question": "Hva er differensen mellom sakskonflikt og personkonflikt?",
+    "options": [
+      "De er det samme",
+      "Sakskonflikt handler om oppgaver og kan bidra positivt; personkonflikt handler om følelser og skaper mistrivsel",
+      "Personkonflikt er alltid viktigere",
+      "Sakskonflikt kan aldri løses"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Sakskonflikt er rasjonell; personkonflikt er emosjonell.",
+    "explanation": "Sakskonflikt (kognitiv konflikt) handler om uenighet i oppgaver, mål eller metoder og har et rasjonelt grunnlag. Den kan bidra positivt ved å fremme refleksjon og bedre løsninger. Personkonflikt (emosjonell konflikt) bygger på personlige motsetninger, antipati eller følelser og skaper mistrivsel og svekket samarbeid. En sakskonflikt kan utvikle seg til personkonflikt hvis den ikke håndteres konstruktivt, noe som gjør tidlig og god kommunikasjon viktig. (Se 'Ulike typer konflikter' i notatene)"
+  },
+  {
+    "id": 23,
+    "section": "Kap3.5",
+    "question": "Hva er de fire strategiene for konflikthåndtering?",
+    "options": [
+      "Kun å ignorere alle konflikter",
+      "Unnvikelse, tvang/dominans, kompromiss og problemløsning/integrasjon",
+      "Bare å gi etter for alle",
+      "Det finnes bare en strategi"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Fire strategier: unnvikelse, tvang, kompromiss og problemløsning.",
+    "explanation": "De fire vanlige strategiene for konflikthåndtering er: Unnvikelse (ignorere konflikten, fungerer ved små konflikter men fører ofte til større problemer), Tvang/dominans (påtvinge løsning med makt, effektiv for akutte situasjoner men skaper misnøye), Kompromiss (partene gir og tar, kommer raskt videre men ofte utillfredsende løsning), og Problemløsning/integrasjon (den mest konstruktive - partene søker felles løsning som ivaretar alle behov). Problemløsning krever åpen kommunikasjon og tillit. (Se 'Fire strategier for konflikthåndtering' i notatene)"
+  },
+  {
+    "id": 24,
+    "section": "Kap3.6",
+    "question": "Hva handler proaktiv konflikthåndtering om?",
+    "options": [
+      "Å vente til konflikten blir alvorlig før man handler",
+      "Å forebygge konflikter gjennom åpen kommunikasjon, klare roller, trygghet og lederes sensitivitet",
+      "Å ignorere alle tegn på spenning",
+      "At konflikter ikke kan forebygges"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Proaktiv håndtering handler om å forebygge gjennom struktur og kommunikasjon.",
+    "explanation": "Proaktiv konflikthåndtering handler ikke bare om å reagere på konflikter, men også å forebygge dem. Dette gjøres gjennom åpen og ærlig kommunikasjon, avklaring av roller og forventninger tidlig, trygghet og tillit i teamet, klar struktur og felles mål, og lederens tilstedeværelse og sensitivitet for spenninger. En god prosjektleder griper tidlig inn og legger til rette for dialog før konflikten eskalerer. Slik unngår man mange problemer før de oppstår. (Se 'Proaktiv konflikt håndtering' i notatene)"
+  },
+  {
+    "id": 25,
+    "section": "Kap3.7",
+    "question": "Hva er forholdet mellom 2 stormings-fasen og normings-fasen?",
+    "options": [
+      "De er ikke relatert",
+      "Storming er nødvendig - riktig håndtert fører det til norming med styrket samarbeid og tillit",
+      "Norming kommer før storming",
+      "Storming løst ikke til noen positiv utvikling"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Storming er en nødvendig fase som leder til norming hvis håndtert riktig.",
+    "explanation": "Ifølge Tuckmans modell er stormings-fasen en nødvendig del av gruppeutviklingen. Gjennom å ta opp og bearbeide uenigheter konstruktivt, utvikler gruppen seg mot større modenhet, tydeligere roller og samhold. Konflikter bør derfor ikke unngås, men håndteres konstruktivt slik at de fører til læring, klargjøring av normer og tillit i neste fase - normings-fasen. En gruppe som har håndtert storming godt, blir sterkere. (Se 'Konflikter som del av gruppeutvikling' i notatene)"
+  }
+]
