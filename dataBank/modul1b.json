@@ -9,7 +9,7 @@
       "En aktivitet uten betydning i grupper",
       "At prosjektgruppen jobber effektivt"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Performing-fasen oppstår når prosjektgruppen jobber effektivt mot målet.",
     "explanation": "Performing-fasen er arbeidsfasen der prosjektgruppen har etablert rutiner og samarbeider effektivt for å nå målet. Medlemmene stoler på hverandre, og energi brukes på oppgaven, ikke på problemer\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -79,7 +79,7 @@
       "At flere fagdisipliner samarbeider i prosjektet",
       "En aktivitet uten betydning i grupper"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Tverrfaglighet betyr at flere fagdisipliner samarbeider i prosjektet.",
     "explanation": "Prosjekter kjennetegnes ofte av tverrfaglig samarbeid, der personer fra ulike fagområder jobber sammen for å nå målet."
   },
@@ -121,7 +121,7 @@
       "Noe som kun forekommer i store organisasjoner",
       "En aktivitet uten betydning i grupper"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "shortExplanation": "Forming-fasen oppstår når teamet blir kjent og orienterer seg.",
     "explanation": "Forming-fasen er orienteringsfasen der gruppen dannes, og medlemmene blir kjent og orienterer seg om oppgaven og roller\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -177,7 +177,7 @@
       "En prosess som skjer tilfeldig uten mønster",
       "En aktivitet uten betydning i grupper"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Adjourning-fasen oppstår når prosjektet avsluttes og gruppen oppløses.",
     "explanation": "Adjourning-fasen er oppløsningsfasen der prosjektet avsluttes og gruppen oppløses etter at målet er nådd. Det preges av stolthet, lettelse og vemod\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -303,7 +303,7 @@
       "En aktivitet uten betydning i grupper",
       "Noe som kun forekommer i store organisasjoner"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "shortExplanation": "Prosjekter oppstår som midlertidige organisasjoner med klare mål.",
     "explanation": "Prosjekter er midlertidige organisasjoner som opprettes for å løse en oppgave eller nå et konkret mål innenfor en tidsramme."
   },
