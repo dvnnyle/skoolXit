@@ -1,7 +1,7 @@
 import './App.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Home from './pages/home'
-import Statistics from './pages/Statistics'
+import Statistics from './pages/statistics'
 import Module1a from './pages/moduleChapters/module1a'
 import Module1b from './pages/moduleChapters/module1b'
 import Module2a from './pages/moduleChapters/module2a'
