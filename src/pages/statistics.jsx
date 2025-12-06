@@ -156,7 +156,7 @@ function Statistics() {
         <div className="chapter-stats">
           <h2>📚 Module 1</h2>
           <div className="bar-graph-container">
-            {stats.chapterProgress.filter(ch => ['modul1a', 'modul1b'].includes(ch.id)).map((chapter) => {
+            {stats.chapterProgress.filter(ch => ['module1a', 'module1b'].includes(ch.id)).map((chapter) => {
               return (
                 <div key={chapter.id} className="bar-graph-item">
                   <div className="bar-graph-label">
@@ -219,7 +219,7 @@ function Statistics() {
         <div className="chapter-stats">
           <h2>📚 Module 2</h2>
           <div className="bar-graph-container">
-            {stats.chapterProgress.filter(ch => ['modul2a', 'modul2b', 'modul2c'].includes(ch.id)).map((chapter) => {
+            {stats.chapterProgress.filter(ch => ['module2a', 'module2b', 'module2c'].includes(ch.id)).map((chapter) => {
               return (
                 <div key={chapter.id} className="bar-graph-item">
                   <div className="bar-graph-label">
@@ -282,7 +282,7 @@ function Statistics() {
         <div className="chapter-stats">
           <h2>📚 Module 3</h2>
           <div className="bar-graph-container">
-            {stats.chapterProgress.filter(ch => ['modul3a', 'modul3b', 'modul3c'].includes(ch.id)).map((chapter) => {
+            {stats.chapterProgress.filter(ch => ['module3a', 'module3b', 'module3c'].includes(ch.id)).map((chapter) => {
               return (
                 <div key={chapter.id} className="bar-graph-item">
                   <div className="bar-graph-label">
@@ -345,7 +345,7 @@ function Statistics() {
         <div className="chapter-stats">
           <h2>📚 Module 4</h2>
           <div className="bar-graph-container">
-            {stats.chapterProgress.filter(ch => ['modul4a', 'modul4b'].includes(ch.id)).map((chapter) => {
+            {stats.chapterProgress.filter(ch => ['module4a', 'module4b'].includes(ch.id)).map((chapter) => {
               return (
                 <div key={chapter.id} className="bar-graph-item">
                   <div className="bar-graph-label">
@@ -408,7 +408,7 @@ function Statistics() {
         <div className="chapter-stats">
           <h2>📚 Module 5</h2>
           <div className="bar-graph-container">
-            {stats.chapterProgress.filter(ch => ['modul5a', 'modul5b'].includes(ch.id)).map((chapter) => {
+            {stats.chapterProgress.filter(ch => ['module5a', 'module5b'].includes(ch.id)).map((chapter) => {
               return (
                 <div key={chapter.id} className="bar-graph-item">
                   <div className="bar-graph-label">
