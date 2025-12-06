@@ -1,6 +1,7 @@
 import './App.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Home from './pages/home'
+import Statistics from './pages/Statistics'
 import Module1a from './pages/moduleChapters/module1a'
 import Module1b from './pages/moduleChapters/module1b'
 import Module2a from './pages/moduleChapters/module2a'
@@ -19,6 +20,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/statistics" element={<Statistics />} />
         <Route path="/module1a" element={<Module1a />} />
         <Route path="/module1b" element={<Module1b />} />
         <Route path="/module2a" element={<Module2a />} />
