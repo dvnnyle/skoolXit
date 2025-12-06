@@ -23,7 +23,7 @@
       "En fase som fokuserer kun på planlegging og ikke på gjennomføring",
       "En fase der prosjektet blir avsluttet og alle leveranser er levert"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Performing-fasen er kjernefasen der hovedarbeidet utføres effektivt.",
     "explanation": "Performing-fasen er kjernefasen i prosjektet, preget av produksjon, ferdigstilling av leveranser, fokus på tid, kvalitet og kostnad, og høy grad av selvstendighet og effektivitet. Her er teamet på sitt mest produktive og kan levere resultater uten samme grad av lederstøtte som tidligere. Dette er hvor prosjektet faktisk oppnår sitt formål. (Se 'Prosjektets utvikling: norming - performing' i notatene)"
   },
@@ -37,7 +37,7 @@
       "Å unngå all form for kontroll for at teamet skal være fritt",
       "Å fokusere kun på kostnader og ignorere kvalitet og fremdrift"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Styring handler om å oppdage avvik og justere for å sikre levering.",
     "explanation": "Styring betyr å oppdage avvik fra fremdriftsplanen og iverksette tiltak for å sikre at prosjektet leverer som forventet. Det innebærer oppfølging, justering, koordinering og problemløsning. Styring handler ikke bare om kontroll, men også om læring, fordi informasjonen brukes til forbedring av prosessene og resultater. (Se 'Styring i prosjekter' i notatene)"
   },
@@ -51,7 +51,7 @@
       "En form for kommunikasjon mellom leder og team",
       "Kontroll av medlemmenes personlige adferd og holdninger"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Inputtkontroll fokuserer på ressursene som går inn i prosjektet.",
     "explanation": "Inputtkontroll handler om fokus på ressursene som går inn i prosjektet: kompetanse, bemanning, teknologi, tid og penger. Den brukes når det er uklart hvordan oppgaven skal løses, men ressursene er kritiske. Ved å kontrollere og sikre tilstrekkelige og riktige ressurser fra start, kan prosjektet ha større sjanse for suksess. (Se 'Kontrollformer i prosjektarbeid' i notatene)"
   },
@@ -65,7 +65,7 @@
       "Kontroll av medlemmenes personlighet og fagbakgrunn",
       "En prosess for å evaluere hvor godt lederen gjør jobben sin"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Resultatkontroll fokuserer på målebare mål og leveranser.",
     "explanation": "Resultatkontroll handler om fokus på mål og målebare resultater: milepæler, tidsfrister, leveranser og indikatorer. Den passer for prosjekter med tydelige og klart definerte mål. Ved å sette klare målekriteria på forhånd, blir det mulig å objektivt vurdere om prosjektet presterer som forventet. (Se 'Kontrollformer i prosjektarbeid' i notatene)"
   },
@@ -79,7 +79,7 @@
       "Kontroll av medlemmenes personlige meninger og verdier",
       "Kontroll av hvor mye medlemmene liker sin jobb"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Aktivitetskontroll fokuserer på arbeidsprosessene og hvordan arbeidet gjøres.",
     "explanation": "Aktivitetskontroll (atferdskontroll) handler om fokus på handlinger og arbeidsprosesser: rapportering, møter, arbeidsrutiner og observasjon. Den brukes når det er viktig at arbeidet gjøres på en bestemt måte, ikke bare hva som oppnås. Dette er særlig viktig når prosessene selv er kritiske for kvalitet og sikkerhet. (Se 'Kontrollformer i prosjektarbeid' i notatene)"
   },
@@ -93,7 +93,7 @@
       "Kontroll ved hjelp av digitale systemer og elektronisk overvåking",
       "Kontroll som kun fokuserer på økonomisk resultat"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Klankontroll er desentralisert kontroll basert på felles kultur og tillit.",
     "explanation": "Klankontroll er en desentralisert form for kontroll basert på felles kultur, tillit, uformelle normer og sosial kontroll. Den brukes når både mål og arbeidsprosesser er uklare, og teamet må løse ting selv. I denne form for kontroll blir medlemmene selv ansvarlige for å opprettholde standarder og normer fordi de deler en felles kultur og verdier. (Se 'Kontrollformer i prosjektarbeid' i notatene)"
   },
@@ -107,7 +107,7 @@
       "Risiko for at medlemmene ikke liker hverandre",
       "Risiko for at prosjektet blir for dyrrig"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Operasjonell risiko handler om uforutsette problemer i gjennomføringen.",
     "explanation": "Operasjonell risiko er uforutsette problemer i selve gjennomføringen av prosjektet, som forsinkelser, teknologiske utfordringer, eller sykdom blant medlemmene. Dette er risiko som oppstår direkte fra arbeidet som gjøres, i motsetning til relasjonell risiko som kommer fra forhold utenfor prosjektet. Å håndtere operasjonell risiko krever fleksibilitet og problemløsningskompetanse. (Se 'Tillit, risiko og samarbeid' i notatene)"
   },
@@ -135,7 +135,7 @@
       "At medlemmene må be om tillatelse før de gjør noe",
       "At det ikke finnes noen form for struktur eller retningslinjer"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Bemyndiggjøring gjør at teamet opplever kompetanse, autonomi og støtte.",
     "explanation": "Bemyndiggjøring handler om at teamet opplever kompetanse, autonomi, støtte og tiltro til egen evne. Det skaper høy motivasjon, effektivitet, bedre samarbeid og mer læring. Dette forutsetter klare delegert myndighet, støtte fra organisasjon, trygghet og tillit, og relevant kompetanseutvikling. Når medlemmene får makt og frihet til å ta beslutninger, økes deres engasjement og ansvarsfølelse. (Se 'Bemyndiggjøring (empowerment) i prosjektteam' i notatene)"
   },
@@ -149,7 +149,7 @@
       "En form for lederskap som er veldig effektiv",
       "En prosess for å dele kunnskap mellom medlemmene"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Gruppetenking oppstår når harmoni blir prioritert over kritisk vurdering.",
     "explanation": "Gruppetenking oppstår når gruppen prioriterer harmoni og enighet over kritisk refleksjon. Dette fører til at alternative løsninger overses, risiko undervurderes, og feil beslutninger tas. Gruppetenking oppstår ofte i grupper med sterkt samhold og høyt press. Det er en alvorlig trussel mot beslutningskvalitet og må forhindres gjennom å oppfordre til konstruktiv uenighet og kritisk tenking. (Se 'Boundry spanning (Grense overvåkning)' i notatene)"
   },
@@ -163,7 +163,7 @@
       "Når alle medlemmene må være enige før noen beslutning tas",
       "En form for sikkerhetsmål som gjør arbeidet tryggere"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Lock-in oppstår når teamet blir låst til en løsning på grunn av tidligere valg.",
     "explanation": "Lock-in (sti-avhengighet) oppstår når teamet låses til en løsning eller teknologi på grunn av tidligere investeringer, prestisjegrunner, tidsbruk eller lojalitet. Selv når det finnes bedre alternativer, blir det vanskelig å endre kurs fordi man har investert så mye allerede. Dette kan føre til at prosjektet fortsetter på en suboptimal vei selv når det burde endres. (Se 'Boundry spanning (Grense overvåkning)' i notatene)"
   },
@@ -177,7 +177,7 @@
       "En strategi for å få prosjektet til å gå raskere",
       "En metode for å øke budsjettet når det trengs"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Eskalering oppstår når man fortsetter å investere i dårlige løsninger.",
     "explanation": "Eskalering av feil kurs oppstår når teamet fortsetter å investere i et dødsdømt prosjekt fordi man vil rettferdigjøre tidligere valg, ikke vil 'tape ansikt', eller undervurderer risiko. Dette er en alvorlig trussel mot både økonomi og fremdrift. Det er viktig å ha mekanismer for å evaluere og eventuelt avbryte prosjekter som ikke lenger er levedyktige. (Se 'Boundry spanning (Grense overvåkning)' i notatene)"
   },
@@ -191,7 +191,7 @@
       "Å minimere all form for kommunikasjon mellom medlemmene",
       "Å unngå alle former for evaluering og refleksjon"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Gode beslutninger krever klare mål, kontroll, tillit og kontinuerlig læring.",
     "explanation": "For å få effektive prosjekter som leverer på tid, kostnad og kvalitet, må prosjektet ha klart definerte mål (når mulig), finne riktig kontrollform, integrere både tillit og styring, ha høy grad av kunnskapsdeling, unngå gruppetenking og lock-in, og jobbe aktivt med læring underveis. Dette sikrer at prosjektet ikke bare leverer, men også bygger kompetanse og organisasjonslæring. (Se 'Oppsumering' Performing-fasen i notatene)"
   },
@@ -205,7 +205,7 @@
       "En aktivitet som kun lederen er ansvarlig for",
       "En prosess som tar for mye tid og bør minimaliseres"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Læring og kunnskapsdeling er kontinuerlig og essensielt for forbedring.",
     "explanation": "Læring og kunnskapsdeling i prosjekter handler om en kontinuerlig prosess der erfaringer deles, reflekteres på og implementeres for forbedring. Dette skjer både underveis (formativ evaluering) og etter prosjektet (summativ evaluering). Gjennom aktiv læring kan organisasjonen bygge kunnskap som styrker fremtidige prosjekter og skaper en lærende organisasjon. (Se 'Performing - Styring, kontroll og læring' introduksjon i notatene)"
   },
@@ -233,7 +233,7 @@
       "Tillit hindrer kunnskapsdeling fordi det skaper usikkerhet",
       "Tillit er bare relevant mellom venner, ikke i arbeidsteam"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Tillit er essensielt for at mennesker skal dele kunnskap og erfaring.",
     "explanation": "Læring og kunnskapsdeling krever tillit. Mennesker deler bare kunnskap, innrømmer feil, og eksperimenterer når de føler seg trygge og tror at informasjonen vil bli brukt konstruktivt. Uten tillit vil mennesker holde tilbake informasjon av frykt for at det skal brukes mot dem, eller at de skal miste ansikt. Å bygge tillit er derfor en kritisk oppgave for prosjektleder. (Se 'Tillit, risiko og samarbeid' i notatene)"
   },
@@ -247,7 +247,7 @@
       "Ved å overlate all risikoansvar til leder",
       "Ved å unngå alle former for eksperimentering og innovasjon"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Risikohåndtering krever identifikasjon av både operasjonell og relasjonell risiko.",
     "explanation": "Prosjekter kan håndtere risiko bedre ved å identifisere både operasjonell risiko (problemer i gjennomføringen) og relasjonell risiko (eksterne faktorer) tidlig i prosjektet, planlegge respons på disse, og monitorere dem løpende. Dette krever åpen kommunikasjon og er en del av den kontinuerlige styringen og læringen som utgjør en av de sentrale oppgavene i et prosjekt. (Se 'Tillit, risiko og samarbeid' i notatene)"
   },
@@ -275,7 +275,7 @@
       "Å minimere kommunikasjon for å spare tid",
       "Å unngå alle former for refleksjon og fokusere kun på levering"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Vellykket ledelse krever klare mål, styring, læring og forbedring.",
     "explanation": "Kjernen i vellykket prosjektledelse i performing-fasen er å kombinere klare mål, effektiv styring og kontroll, kontinuerlig læring og kunnskapsdeling, og evne til å justere kurs basert på erfaring. Det handler om å balansere resultatleveranse med organisasjonslæring og medlemmenes utvikling. Slik skapes prosjekter som ikke bare leverer på tid, kostnad og kvalitet, men også bygger kompetanse og innovasjon. (Se 'Oppsumering' Performing-fasen i notatene)"
   },
@@ -289,7 +289,7 @@
       "Kun på menneskets følelser, ikke på resultater",
       "Å unngå alle former for måling"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Resultatkontroll fokuserer på mål og målebare resultater.",
     "explanation": "Resultatkontroll fokuserer på målene og det som skal leveres - milepæler, tidsfrister, leveranser og indikatorer for suksess. Denne kontrollformen passer godt for prosjekter med tydelige mål, fordi den gir fleksibilitet i HOW man løser oppgaven, samtidig som det er klart WHAT som skal leveres. Det gjør teamet i stand til å ta egne beslutninger mens lederen sikrer at resultatet blir som avtalt. (Se 'Resultatkontroll' i Kap 5)"
   },
@@ -303,7 +303,7 @@
       "En form for kontroll som ikke krever noen oppfølging",
       "Å unngå alle møter og rapportering"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Aktivitetskontroll fokuserer på prosessen og måten arbeidet gjøres på.",
     "explanation": "Aktivitetskontroll eller atferdskontroll fokuserer på HVORDAN arbeidet gjøres - gjennom rapportering, møter, arbeidsrutiner og observasjon. Denne kontrollformen brukes når det er viktig at arbeidet gjøres på en bestemt måte, for eksempel innen sikkerhet, kvalitetsstandard eller lovverk. Den krever mer oppfølging fra lederen enn resultatkontroll, men sikrer at prosessen følger Best Practice. (Se 'Aktivitetskontroll' i Kap 5)"
   },
@@ -317,7 +317,7 @@
       "En form for kontroll som ikke virker i moderne prosjekter",
       "Det samme som resultatkontroll"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Klankontroll er desentralisert og basert på kultur og tillit.",
     "explanation": "Klankontroll er en desentralisert form for kontroll som bygger på felles kultur, tillit, uformelle normer og sosial kontroll. I stedet for at lederen overvåker hver detalj, opprettholder gruppen selv disiplin og kvalitet gjennom felles verdier og normer. Denne formen brukes når både mål og arbeidsprosesser er UKLARE, og teamet må løse ting selv. Den forutsetter høy tillit og en sterk kultur. (Se 'Klankontroll' i Kap 5)"
   },
@@ -345,7 +345,7 @@
       "En positiv lederskap-stil",
       "Det samme som gruppetenking"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Lock-in er når teamet blir låst til en løsning selv om det finnes bedre alternativer.",
     "explanation": "Lock-in eller sti-avhengighet oppstår når teamet blir låst til en løsning eller teknologi på grunn av tidligere investeringer, prestisje, tidsbruk eller lojalitet. Selv når det finnes bedre alternativer, blir det vanskelig å endre kurs fordi man vil «ikke vedkjenne seg at man tok feil». En god prosjektleder må oppmuntre til å stille spørsmål ved tidligere valg og ha mot til å endre retning når det betyr forbedring. (Se 'Lock-in' i Kap 5)"
   }

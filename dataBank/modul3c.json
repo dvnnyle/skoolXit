@@ -23,7 +23,7 @@
       "En enkel møte der alle gir hånd og går",
       "Bare å arkivere papirer uten å evaluere prosjektet"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Praktisk avslutning inkluderer leveranser, overlevering, økonomi og dokumentasjon.",
     "explanation": "Praktisk avslutning består av flere sentrale elementer: ferdigstilling og kvalitetsikring av leveranser, overlevering til oppdragsgiver eller drift, økonomisk avslutning med fakturering og regnskap, og dokumentasjon av prosessene og resultatene. Alle disse må gjøres systematisk for å sikre at prosjektet avsluttes ordentlig og at kunnskap bevares. (Se 'Prosjektavslutnings to dimensjoner' i notatene)"
   },
@@ -37,7 +37,7 @@
       "En prosess som er mindre viktig enn praktisk avslutning",
       "Noe som bare gjelder medlemmene som slutter i jobben"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Menneskelig avslutning handler om relasjoner, anerkjennelse og refleksjon.",
     "explanation": "Menneskelig avslutning handler om avrunding av relasjoner og samarbeid, annerkjennelse av innsats og resultater, håndtering av eventuelle sorgreaksjoner når teamet løses etter langvarig samarbeid, og feiring og refleksjon over erfaringene. Dette er like viktig som praktisk avslutning fordi det sikrer at medlemmene opplever prosjektet som meningsfullt og at relasjoner blir avsluttet på en respektfull måte. (Se 'Prosjektavslutnings to dimensjoner' i notatene)"
   },
@@ -65,7 +65,7 @@
       "En teknikk for å gjøre folk arbeid hurtigere uten tanke på kvalitet",
       "Kontroll av når medlemmene starter og slutter arbeidet"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Tidslederskap handler om å balansere fremdrift med menneskelige behov.",
     "explanation": "Tidslederskap er evenen til å skape håndterbare tidspress gjennom realistiske mål, fornuftig ressursfordeling, tydelig prioritering og løpende dialog. Det handler om å balansere fremdrift og menneskelig behov, slik at produktiviteten opprettholdes uten at stressnivået blir destruktivt. Et sentral lederansvar i tidsbegrensede prosjekter er nettopp å håndtere tidsdimensjonen på en måte som både leverer resultater og bevarer medlemmenes helse og trivsel. (Se 'Middeltidige organisasjoner og tidslederskap' i notatene)"
   },
@@ -79,7 +79,7 @@
       "Bare hvor stort budsjettet er for prosjektet",
       "En irrelevant konsept i moderne prosjektledelse"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Prosjektdimensjoner er tid, ressurser, målklarhet og tverrfaglighet.",
     "explanation": "Prosjektdimensjoner er fire grunnleggende faktorer som påvirker hvert prosjekt: tidsavgrensing (prosjektets varighet og frister), ressursrammer (størrelse på budsjett, bemanning og utstyr), målklarhet (hvor tydelig mål og forventninger er definert), og tverrfaglighet (sammensetning av kompetanse og fagbakgrunn). Disse dimensjonene påvirker både kompleksitet, organisering og læringsbehov i avslutningsfasen. (Se 'Prosjektdimensjoner' i notatene)"
   },
@@ -93,7 +93,7 @@
       "En evaluering som bare gjøres når prosjektet er helt ferdig",
       "En type evaluering som bare leder skal gjøre"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Formativ evaluering skjer underveis for å justere og forbedre prosessen.",
     "explanation": "Formativ evaluering skjer underveis i prosjektet for å justere kursen mens man ennå kan påvirke resultatet. Målet er å forbedre prosessen gjennom løpende læring og refleksjon, samt justeringer og korreksjoner under oppløpet. Dette er en kontinuerlig prosess som bidrar til at prosjektet blir bedre som det går. (Se 'Evaluering: formativ og summativ' i notatene)"
   },
@@ -107,7 +107,7 @@
       "En evaluering som skjer hver uke under hele prosjektet",
       "En type evaluering som medlemmene selv ikke får se"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Summativ evaluering gjøres etter avslutning for å vurdere mål og læring.",
     "explanation": "Summativ evaluering gjennomføres etter avslutning, og vurderer hvorvidt prosjektet oppnådde sine mål. Her analyseres resultater, effektivitet og læringspunkter, både tekniske og menneskelige. Hva var bra og hva var dårlig? Summativ evaluering gir viktig tilbakemelding som kan brukes i fremtidige prosjekter. Både formativ og summativ evaluering er nødvendige for å sikre kvalitet. (Se 'Evaluering: formativ og summativ' i notatene)"
   },
@@ -121,7 +121,7 @@
       "En metode for å håndtere konflikter i gruppen",
       "En teknikk for å motivere medlemmene"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Jerntrianglet er tradisjonelt fokus på tid, kostnad og kvalitet.",
     "explanation": "Jerntrianglet er den tradisjonelle måten å måle prosjektsuksess på gjennom tid, kostnad og kvalitet. Dersom prosjektet leveres innen planlagt tid, innenfor budsjett, og med akseptabel kvalitet, anses det som vellykket. Imidlertid har moderne prosjektledelse utvidet dette synet til også å inkludere gevinstrealisering - den langsiktige verdien og nyttevirkninger av prosjektet. (Se 'Fra jerntrianglet til gevinstrealisering' i notatene)"
   },
@@ -149,7 +149,7 @@
       "Et problem som ikke er viktig for prosjektsuksess",
       "Noe som automatisk løses uten innsats"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Kunnskapsgap oppstår mellom prosjektet og de som skal ta over resultatene.",
     "explanation": "I avslutningsfasen oppstår ofte kunnskapsgap mellom prosjektgruppen og de som skal ta over resultatene. Prosjektlederen må derfor sørge for dokumentasjon av erfaringer, overføring av kompetanse til drift eller nye prosjekter, og refleksjon i teamet før oppløsning. Dette er avgjørende for å bevare verdifull kunnskap og forhindre at erfaring går tapt. (Se 'Kunnskapsoverføring og læring' i notatene)"
   },
@@ -163,7 +163,7 @@
       "Ved å la medlemmene arbeide for driftsorganisasjonen uten instruksjoner",
       "Kunnskapsoverføring er ikke viktig hvis prosjektet er ferdig"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Kunnskapsoverføring krever dokumentasjon, opplæring og refleksjon.",
     "explanation": "Kunnskapsoverføring sikres gjennom dokumentasjon av erfaringer, overføring av kompetanse til drift eller nye prosjekter gjennom opplæring og veiledning, og refleksjon i teamet før oppløsning. Dette sikrer at verdifull kunnskap ikke går tapt når prosjektet avsluttes, og at organisasjonen kan dra nytte av erfaringene i fremtiden. (Se 'Kunnskapsoverføring og læring' i notatene)"
   },
@@ -177,7 +177,7 @@
       "Noe som bare rammer medlemmer som slutter jobben",
       "Et tegn på at prosjektet ikke var vellykket"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Sorgreaksjoner er naturlige følelser når et tett samarbeidsteam oppløses.",
     "explanation": "Når prosjektet avsluttes, kan det oppstå sorgreaksjoner hos deltakerne, spesielt hvis de har hatt et nært samarbeid over tid. Å miste det daglige fellesskapet kan skape tomhet eller savn, selv om oppgaven er fullført. En god prosjektleder anerkjenner disse følelsene som normale og legger til rette for en verdig avslutning der medlemmene får mulighet til å reflektere og avskjedshilse hverandre. (Se 'De menneskelige sidene: sorgreaksjoner og stolthet' i notatene)"
   },
@@ -191,7 +191,7 @@
       "Noe som kun gjelder hvis prosjektet ga store økonomiske resultater",
       "En følelse som ikke er relevant i profesjonell sammenheng"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Stolthet er en positiv følelse over samskaping som bør feires.",
     "explanation": "Når prosjektet avsluttes, opplever mange stolthet over det de har skapt sammen. Denne følelsen bør anerkjennes og feiret. En god prosjektleder gir medlemmene mulighet til å fremvise sitt arbeid, mottar anerkjennelse, og markerer slutten på et sammarbeid som har vært meningsfullt. Å feire prestasjonene skaper også motivasjon for fremtidighet arbeid. (Se 'De menneskelige sidene: sorgreaksjoner og stolthet' i notatene)"
   },
@@ -205,7 +205,7 @@
       "At prosjektet må leveres så fort som mulig uavhengig av konsekvenser",
       "Å ignorere medlemmenes behov for å fokusere på leveranser"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Balanse handler om å kombinere levering med læring og menneskevernlig.",
     "explanation": "Avslutningsfasen kan være preget av tidspress og høye forventninger. Et godt tidslederskap sørger for at tempoet holdes oppe uten at det går utover kvalitet, helse eller trivsel. Balanse mellom levering, læring og menneskelig behov er nøkkelen til et bærekraftig prosjektløp. Medlemmene som blir brent ut ved avslutningen, vil ikke være motiverte for fremtidight arbeid. (Se 'Balanse, tid og bærekraft' i notatene)"
   },
@@ -219,7 +219,7 @@
       "Ved å være så effektiv at medlemmene ikke har tid til å føle noe",
       "Ved å ignorere alle personlige følelser og fokusere bare på arbeid"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Emosjonelle reaksjoner bør anerkjennes og håndteres på en verdig måte.",
     "explanation": "En god prosjektleder håndterer emosjonelle reaksjoner ved å anerkjenne både sorgreaksjoner (tap av fellesskap) og stolthet (mestring og prestasjon) som naturlige og normale. Lederen kan tilrettelegge for disse følelsene gjennom avsluttende møter, feiring av prestasjonene, takksigelser og rom for farvel. Dette sikrer at medlemmene opplever avslutningen som meningsfull og respektfull. (Se 'De menneskelige sidene: sorgreaksjoner og stolthet' i notatene)"
   },
@@ -233,7 +233,7 @@
       "Noe som kun lederen skal gjøre",
       "En prosess som tar for lang tid og bør hoppes over"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Læring av prosjektet handler om å identifisere og dele erfaringer.",
     "explanation": "Læring av prosjektet innebærer å identifisere hva som fungerte godt og hva som ikke gjorde det, å dokumentere erfaringer, og å dele kunnskap for å redusere fremtidige kunnskapsgap. Dette gjør at organisasjonen blir en lærende organisasjon som kontinuerlig forbedrer sine prosesser og metoder. Uten formell læring av prosjektet, risikerer organisasjonen å gjenta de samme feilene på nytt. (Se 'Læring i prosjekter' i notatene)"
   },
@@ -247,7 +247,7 @@
       "En organisasjon som aldri endrer sine metoder",
       "En organisasjon som kun fokuserer på profitt"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "En lærende organisasjon forbedrer seg kontinuerlig gjennom læring.",
     "explanation": "En lærende organisasjon er en som kontinuerlig lærer av erfaringene sine og bruker denne kunnskapen til å forbedre prosesser og metoder. Organisasjonen oppfordrer sine medlemmer til refleksjon, eksperimentering og deling av kunnskap. Gjennom formativ og summativ evaluering av prosjekter bygger organisasjonen et lager av erfaringer som styrker fremtidigt arbeid. (Se 'Læring i prosjekter' i notatene)"
   },
@@ -261,7 +261,7 @@
       "At lederen får mest mulig ros for arbeidet",
       "At medlemmene aldri snakker om prosjektet igjen"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Vellykket avslutning inkluderer levering, læring og menneskelig vekst.",
     "explanation": "En vellykket prosjektavslutning kjennetegnes ikke bare av levering innen tid, kostnad og kvalitet, men også av læring, gevinster og menneskelig vekst. Gjennom god evaluering, kunnskapsoverføring og omsorg for teamets mennesker sikres en avslutning som både er profesjonell, verdifull og meningsfull. Dette skaper grunnlag for både organisatorisk forbedring og medlemmenes videre utvikling. (Se 'Oppsumering - Prosjektavslutning og gevinstrealisering' i notatene)"
   },
@@ -289,7 +289,7 @@
       "Kun menneskelige farvel-sammenkomster",
       "Det er ikke viktig å planlegge avslutningen"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Praktisk avslutning inkluderer leveranser, dokumentasjon og overlevering.",
     "explanation": "Praktisk avslutning av prosjektet inkluderer ferdigstilling og kvalitetsikring av leveranser, overlevering til oppdragsgiver eller drift, økonomisk avslutning (fakturering, regnskap, rapportering), og dokumentasjon av prosess og resultater. Dette sikrer at alt er ordnet og at resultatet kan tas i bruk uten problemer. En god praktisk avslutning legger grunnlaget for at gevinster kan realiseres. (Se 'Prosjektavslutnings to dimensjoner' i notatene)"
   },
@@ -317,7 +317,7 @@
       "Begge handler kun om møter",
       "Formativ er mindre viktig enn summativ"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Formativ er underveis-evaluering; summativ er etterpå-evaluering.",
     "explanation": "Formativ evaluering skjer underveis i prosjektet for å justere kursen og forbedre prosessen gjennom løpende læring. Summativ evaluering gjøres etter avslutning for å vurdere om prosjektet oppnådde sine mål og hvilke læringspunkter som oppstod. Begge er nødvendige - den ene for å sikre fremdrift og læring underveis, den andre for å evaluere helhetlig suksess og gevinster. (Se 'Evaluering: formativ og summativ' i notatene)"
   },
@@ -331,7 +331,7 @@
       "Kun å skrive sluttrapporter",
       "At prosjektleder tar all kunnskap med seg"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Kunnskapsoverføring sikrer at verdifull erfaring bevares og brukes.",
     "explanation": "Kunnskapsoverføring og læring i avslutningsfasen handler om å dokumentere erfaringer, overføre kompetanse til de som skal drifte eller følge opp resultatene, og reflektere i teamet før det løses opp. Dette sikrer at verdifull kunnskap ikke går tapt, og at erfaringen fra prosjektet kan brukes i fremtiden. Uten god kunnskapsoverføring oppstår kunnskapsgap som kan svekke implementeringen av resultatene. (Se 'Kunnskapsoverføring og læring' i notatene)"
   },
@@ -345,7 +345,7 @@
       "At man ignorerer tidsplaner",
       "Å utsette alle frister så mye som mulig"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Tidslederskap balanserer fremdrift og menneskelig behov.",
     "explanation": "Tidslederskap er evenen til å skape håndterbare tidspress gjennom realistiske milepæler, fornuftig ressursfordeling, tydelig prioritering og løpende dialog. Det handler om å balansere fremdrift og menneskelig behov, slik at produktiviteten opprettholdes uten at stressnivået blir destruktivt. En god tidsleder sikrer at prosjektet beveger seg framover uten å ofre kvalitet, helse eller trivsel. (Se 'Midlertidige organisasjoner og tidslederskap' i notatene)"
   }

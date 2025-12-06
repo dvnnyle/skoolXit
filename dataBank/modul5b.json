@@ -9,7 +9,7 @@
       "Noe som bare oppstår mellom ansatte og ledelse",
       "En situasjon som aldri kan løses"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "En konflikt oppstår når menneskers interesser og verdier kolliderer.",
     "explanation": "En konflikt kan defineres som en mellommenneskelig uoverensstemmelse av viss styrke og varighet, der partenes interesser, verdier og handlinger eller holdninger kolliderer, noe som fører til frustrasjon og spenning. Konflikter har både en intern side (egne følelser, tanker og opplevelser) og en ekstern side (relasjonene mellom partene). (Se 'Hva er en konflikt' i notatene)"
   },
@@ -37,7 +37,7 @@
       "Konflikter som aldri påvirker arbeidsrelasjoner",
       "En type konflikt som bare oppstår mellem familie medlemmer"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Relasjonskonflikter handler om følelser og anerkjennelse mellom personer.",
     "explanation": "Relasjonskonflikter handler om følelser, identitet og anerkjennelse mellom personer. De oppstår ofte på grunn av misforståelser, personlige motsetninger eller sårende kommunikasjon. Disse konfliktene kan være krevende fordi de berører selvbildet og følelsen av verdi. De påvirker de personlige relasjonene dypt og kan sette sår som tar tid å hele. (Se 'Typiske konflikter' i notatene)"
   },
@@ -51,7 +51,7 @@
       "Konflikter som bare handler om penger",
       "En type konflikt som er lett å løse"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Verdikonflikter oppstår fra ulik grunnleggende holdninger og livssyn.",
     "explanation": "Verdikonflikter oppstår når personer har forskjellig grunnleggende holdninger, verdier eller livssyn. Eksempler inkluderer uenighet om etiske prinsipper eller arbeidsmåter. Disse konfliktene er vanskelige å løse gjennom rasjonelle argumenter, men er mulig å håndtere gjennom respekt og dialog. Det krever at man anerkjenner at flere verdisystemer kan være gyldige. (Se 'Typiske konflikter' i notatene)"
   },
@@ -79,7 +79,7 @@
       "Konflikter som aldri kan løses på forutsatt måte",
       "En type konflikt som bare oppstår i prosjekter"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Sakskonflikter handler om uenighet i konkrete oppgaver og mål.",
     "explanation": "Sakskonflikter handler om uenighet i konkrete mål, oppgaver eller metoder. De har et rasjonelt grunnlag og kan løses gjennom analyse, fakta eller samarbeid. Dette er den vanligste formen for konflikt i arbeidslivet, og den er ofte løselig fordi den fokuserer på objektive problemstillinger heller enn personlige motsetninger. (Se 'Typiske konflikter' i notatene)"
   },
@@ -107,7 +107,7 @@
       "En strategi for å unngå konflikter",
       "Når ledelsen benekter at konflikten finnes"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Konflikterkjennelse er når man innser at en konflikt eksisterer.",
     "explanation": "Konflikterkjennelse er stadiet der man blir klar over at en konflikt eksisterer, og føler behov for å gjøre noe med den. Det er et viktig stadium fordi anerkjennelse av konflikten er det første steget mot løsning. Dersom man ikke erkjenner konflikten, kan den vokse i det skjulte. (Se 'Konflikten utvikling - fire stadier' i notatene)"
   },
@@ -121,7 +121,7 @@
       "En måte å forhindre konflikter på",
       "Et internt feeling som ingen andre kan se"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Konflikatferd er når konflikten blir uttrykt i ord og handlinger.",
     "explanation": "Konflikatferd er når konflikten kommer til uttrykk gjennom ord, handlinger eller emosjoner. Dette er stadiet der konflikten blir synlig for andre, og hvor den kan påvirke arbeidsmiljø og relasjonene. Håndtering av konflikatferden er viktig for å hindre eskalering. (Se 'Konflikten utvikling - fire stadier' i notatene)"
   },
@@ -135,7 +135,7 @@
       "Noe som aldri påvirker organisasjonen",
       "Bare konsekvenser som oppstår for lederen"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Konfliktkonsekvernser er resultatene av konflikten.",
     "explanation": "Konfliktkonsekvernser er resultatet av konflikten, som kan være både positiv og negativ. Positive konsekvenser inkluderer læring, utvikling og bedre forståelse. Negative konsekvenser inkluderer svekkede relasjoner, lavere effektivitet og mistrivsel. Hvordan konflikten håndteres påvirker hvilket resultat den får. (Se 'Konflikten utvikling - fire stadier' i notatene)"
   },
@@ -149,7 +149,7 @@
       "Å være stille og høre på uten å reagere",
       "Å planlegge hva du skal si mens den andre snakker"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Aktiv lytting betyr å lytte for å forstå den andre personen.",
     "explanation": "Aktiv lytting er å lytte for å forstå, ikke for å svare. Det innebærer å vise oppmerksomhet med kroppspråk og blikk, bruke bekreftende signaler som 'jeg forstår' eller 'fortell mer', og forsøke å gjengi den andres budskap med egne ord for å vise forståelse. Gjennom aktiv lytting skapes grunnlag for tillit og samarbeid. (Se 'Kommunikasjon i konflikthåndtering' i notatene)"
   },
@@ -163,7 +163,7 @@
       "En strategi som aldri fungerer",
       "Noe som bare ledelsen bør gjøre"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Forhandlinger er når partene diskuterer seg frem til en løsning.",
     "explanation": "Forhandlinger er en metode der partene selv forsøker å diskutere seg frem til en løsning. Denne metoden er egnet for sakskonflikter og interessekonflikter, der det finnes konkrete løsningsalternativer. Forhandlinger kjennetegnes av åpenhet, gjensidig respekt og vilje til kompromiss. (Se 'Metoder for konflikthåndtering' i notatene)"
   },
@@ -177,7 +177,7 @@
       "En metode som bare brukes i rettsapparatet",
       "Noe som aldri kan løse konflikter"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Mekling involverer en nøytral tredjepart som hjelpemiddel.",
     "explanation": "Mekling er en metode der en nøytral tredjepart hjelper partene å kommunisere og finne en felles løsning. Mekling brukes når konflikten har låst seg, eller relasjonen er preget av mistillit. Målet er en felles, frivillig løsning som alle kan akseptere. Mekleren hjelper partene å forstå hverandres perspektiver og finne områder for enighet. (Se 'Metoder for konflikthåndtering' i notatene)"
   },
@@ -191,7 +191,7 @@
       "En strategi som tar lang tid å implementere",
       "Noe som aldri brukes i moderne organisasjoner"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Vinn-tap strategien gjør at en part taper mens den andre vinner.",
     "explanation": "Vinn-tap strategien er når den ene parten får viljen sin og vinner, mens den andre taper. Løsningen bygger gjerne på makt, autoritet eller press. Denne strategien kan skape bitterhet og redusert samarbeid på sikt, og er derfor ikke den beste løsningen for langsiktig samarbeid. (Se 'Thomas Gordon's tre strategier for konfliktløsning' i notatene)"
   },
@@ -205,7 +205,7 @@
       "En strategi som krever at begge parter er fornøyde",
       "En metode som aldri brukes i praktisk konflikthåndtering"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Tap-vin strategien innebærer at en part gir helt etter.",
     "explanation": "Tap-vin strategien er når den ene parten gir etter, mens den andre vinner. Denne strategien brukes ofte for å unngå konfrontasjon, men fører gjerne til undertrykt misnøye og lav motivasjon hos den som gir etter. Over tid kan dette skade relasjonene og teamets effektivitet. (Se 'Thomas Gordon's tre strategier for konfliktløsning' i notatene)"
   },
@@ -233,7 +233,7 @@
       "Fordi ledelsen krever det",
       "Bare for å informere administrasjonen"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Tidlig erkjennelse av konflikter forhindrer eskalering.",
     "explanation": "Det er viktig å erkjenne konflikten tidlig fordi det forhindrer at den vokser større og blir vanskeligere å løse. En konflikt som blir ignorert, tenderer til å opphopendes og eskalere. Jo tidligere man griper inn, jo lettere er det å håndtere konflikten konstruktivt. (Se 'Praktiske råd for konflikthåndtering' i notatene)"
   },
@@ -247,7 +247,7 @@
       "Man bør alltid være aggressiv for å vinne konflikten",
       "Det betyr at man skal forlate konflikten"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Fokusering på problemet skaper trygghet og respekt.",
     "explanation": "Det viktig å angripe problemet, ikke personen. Det betyr at man skal fokusere på det konkrete problemet som skal løses, heller enn å kritisere personens karakteregenskaper eller feil. Når man skaper trygghet og respekt ved å angripe problemet, ikke personen, blir det lettere å finne konstruktive løsninger sammen. (Se 'Praktiske råd for konflikthåndtering' i notatene)"
   },
@@ -275,7 +275,7 @@
       "Konflikter er alltid skadelige og burde ikke tillates",
       "Bare ledere bør håndtere konflikter"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Konflikter kan bli konstruktive hvis de håndteres riktig.",
     "explanation": "Hovedbudskapene er at konflikt og konfliktløsning handler ikke om å unngå uenighet, men om å forstå og håndtere den på en måte som fører til utvikling og bedre samarbeid. Konflikter kan ha mange former - relasjons-, verdi-, interesse- og sakskonflikter - og utvikler seg gjennom flere stadier. Gjennom aktiv lytting, respekt, samarbeid og vinn-vinn-strategier kan konflikter snus fra å være destruktive til å bli konstruktive prosesser som styrker både individet og gruppen. (Se 'Oppsumering' i notatene)"
   },
@@ -303,7 +303,7 @@
       "Det finnes bare to stadier",
       "Stadiene er alltid i samme rekkefølge for alle konflikter"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Fire stadier: kilde, erkjennelse, atferd og konsekvenser.",
     "explanation": "Konflikter oppstår og utvikler seg i fire stadier: Konfliktkilde (de underliggende årsakene), Konflikterkjennelse (når man blir klar over konflikten), Konfliktatferd (når konflikten kommer til uttrykk), og Konfliktkonsekernser (resultatene, som kan være positive eller negative). Å forstå disse stadiene hjelper oss å gripe inn tidlig og håndtere konflikter før de blir for alvorlige. (Se 'Konflikten utvikling - fire stadier' i notatene)"
   },
@@ -317,7 +317,7 @@
       "Man bør ikke lytte under konflikter",
       "Aktiv lytting er bare for psykologer"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Aktiv lytting - å lytte for å forstå - er nøkkelen til løsing.",
     "explanation": "God kommunikasjon gjennom aktiv lytting er selve nøkkelen til konfliktløsning. Aktiv lytting betyr å lytte for å forstå, ikke for å svare. Det innebærer å vise oppmerksomhet med kroppsspråk og blikk, bruke bekreftende signaler, og forsøke å gjengi den andres budskap med egne ord. Slik skapes grunnlag for tillit og samarbeid, og partene får følelsen av å bli hørt og forstått. (Se 'Kommunikasjon i konflikthåndtering' i notatene)"
   },
@@ -331,7 +331,7 @@
       "Alle tre strategier gir like gode resultater",
       "Thomas Gordon påpekte at konflikter ikke kan løses"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Tre strategier: vinn-tap, tap-vin og vinn-vinn.",
     "explanation": "Thomas Gordon beskrev tre hovedstategier: Vinn-tap (den ene vinner, den andre taper, skaper bitterhet), Tap-vin (den ene gir etter for å unngå konfrontasjon, skaper undertrykt misnøye), og Vinn-vinn (den foretrukne strategien der begge parter samarbeider for å finne løsning som ivaretar begge behov). Vinn-vinn-strategien er den mest konstruktive, skaper langsiktig tillit og bedre relasjoner. (Se 'Thomas Gordon sin tre strategier' i notatene)"
   },
@@ -345,7 +345,7 @@
       "Bare å vente til konflikten løser seg selv",
       "Alltid aggressivt angripe motparten"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Praktiske tips: erkjenne tidlig, vise respekt og bruke aktiv lytting.",
     "explanation": "Praktiske råd for konflikthåndtering inkluderer: Erkjenn konflikten tidlig og vent ikke til den vokser, skap trygghet og respekt ved å angripe problemet ikke personen, bruk aktiv lytting for først å forstå motpartens perspektiv, søk felles interesser og det dere faktisk er enige om, vær åpen for kompromiss og samarbeid, og bruk mekling ved fastlåste situasjoner. Ved å håndtere konflikter på denne måten styrker man relasjoner og forbedrer arbeidsmiljøet. (Se 'Praktiske råd for konflikthåndtering' i notatene)"
   }
