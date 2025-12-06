@@ -6,8 +6,8 @@
     "options": [
       "Personlige egenskaper som individet bringer med seg uavhengig av gruppen",
       "Forventninger til atferd som medlemmene får basert på deres funksjon eller posisjon",
-      "Naturlige hierarkier som oppstår automatisk uten formell organisering",
-      "Mønstre av kommunikasjon som utvikles helt tilfeldig over tid"
+      "Mønstre av kommunikasjon som utvikles helt tilfeldig over tid",
+      "Naturlige hierarkier som oppstår automatisk uten formell organisering"
     ],
     "answerIndex": 1,
     "shortExplanation": "Roller gir forventet atferd knyttet til funksjoner i gruppen.",
@@ -18,12 +18,12 @@
     "section": "1.2",
     "question": "Hva handler gruppedynamikk om?",
     "options": [
-      "Løpende endringer i gruppen som påvirkes av oppgaven, hvor lenge gruppen har vært sammen, og hvem medlemmene er",
       "Den stabile strukturen av roller og normer som er etablert fra gruppens start",
+      "Løpende endringer i gruppen som påvirkes av oppgaven, hvor lenge gruppen har vært sammen, og hvem medlemmene er",
       "Konflikter og uenigheter som oppstår mellom medlemmene med ulik bakgrunn",
       "Måten fysiske miljøet påvirker hvor effektivt medlemmene kan jobbe sammen"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "shortExplanation": "Gruppedynamikk handler om løpende endringer i gruppen over tid.",
     "explanation": "Gruppedynamikk refererer til de løpende endringene i gruppen som påvirkes av oppgaven, hvor lenge gruppen har vært sammen, og hvem medlemmene er. Gruppens dynamikk handler om samspill, kommunikasjon, roller og normer som påvirker hvordan gruppen fungerer."
   },
@@ -32,12 +32,12 @@
     "section": "1.3",
     "question": "Hva innebærer gruppepress?",
     "options": [
+      "Det stressnivået som medlemmene opplever når de skal samarbeide over lengre tid",
       "En naturlig tendens til at medlemmene blir mer selvsikre når gruppen blir større",
       "En prosess der medlemmer endrer sin atferd eller mening for å bli akseptert av gruppen",
-      "Ansvarsfølelsen som oppstår når mange mennesker må ta kollektive avgjørelser",
-      "Det stressnivået som medlemmene opplever når de skal samarbeide over lengre tid"
+      "Ansvarsfølelsen som oppstår når mange mennesker må ta kollektive avgjørelser"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Gruppepress gjør at medlemmene tilpasser seg for å bli akseptert.",
     "explanation": "Gruppepress oppstår når medlemmer i en gruppe endrer sin atferd eller mening for å bli akseptert av de andre. Dette kan føre til at man følger normer eller regler selv om man er uenig, for å unngå å skille seg ut. Gruppepress kan være positivt ved å motivere til innsats, men også negativt ved å hindre selvstendighet og kritisk tenkning."
   },
@@ -47,11 +47,11 @@
     "question": "Hva karakteriserer norming-fasen?",
     "options": [
       "En fase der gruppen prøver å avklare sitt formål og blir kjent med hverandre",
+      "En fase der gruppen jobber effektivt og målrettet med minimalt behov for ny justering",
       "En fase der gruppen etablerer felles normer, regler og arbeidsmåter som alle kan leve med",
-      "En fase der konflikter og maktkamp mellom medlemmene kulminerer og må løses",
-      "En fase der gruppen jobber effektivt og målrettet med minimalt behov for ny justering"
+      "En fase der konflikter og maktkamp mellom medlemmene kulminerer og må løses"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Norming-fasen handler om etablering av normer og samhold.",
     "explanation": "I norming-fasen utvikler gruppen felles normer, struktur og samhold. Medlemmene blir enige om regler og arbeidsmåter, og samarbeidet blir mer harmonisk og effektivt.\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   },
@@ -60,12 +60,12 @@
     "section": "1.5",
     "question": "Hva innebærer sosial loffing?",
     "options": [
-      "En form for samarbeid der de mest arbeidskraftige medlemmene hjelper de mindre aktive",
       "En tendens til at medlemmer bidrar mindre til gruppens arbeid når de tror andre tar ansvar",
       "Når gruppen som helhet presterer bedre enn summen av individuelle prestasjoner",
-      "En ledelsesteknikk der man gir medlemmene mindre oppgaver for å redusere stress"
+      "En ledelsesteknikk der man gir medlemmene mindre oppgaver for å redusere stress",
+      "En form for samarbeid der de mest arbeidskraftige medlemmene hjelper de mindre aktive"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Sosial loffing betyr at noen yter mindre i gruppe enn alene.",
     "explanation": "Sosial loffing oppstår når enkeltpersoner bidrar mindre til gruppens arbeid enn de ville gjort alene, ofte fordi de tror andre vil ta ansvar eller at deres innsats ikke blir lagt merke til eller at ansvaret er diffust. Dette fenomenet kan svekke gruppens effektivitet og engasjement."
   },
@@ -76,10 +76,10 @@
     "options": [
       "En fase der medlemmene har blitt kjent og er klare til å begynne det egentlige arbeidet",
       "En fase der gruppen har løst de fleste konfliktene og etablert fungerende normer",
-      "En fase der gruppen jobber effektivt og målrettet med gode rutiner og klare roller",
-      "En fase der gruppen reflekterer over arbeidet som er gjort og planlegger forbedringer"
+      "En fase der gruppen reflekterer over arbeidet som er gjort og planlegger forbedringer",
+      "En fase der gruppen jobber effektivt og målrettet med gode rutiner og klare roller"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "shortExplanation": "Performing-fasen handler om effektivt arbeid mot gruppens mål.",
     "explanation": "I performing-fasen har gruppen etablert gode rutiner og samarbeider effektivt for å nå sine mål. Medlemmene kjenner sine roller og bidrar aktivt til gruppens suksess. Gruppen fungerer effektivt og målrettet.\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   },
@@ -88,12 +88,12 @@
     "section": "1.7",
     "question": "Hva kjennetegner et forsvarsklima?",
     "options": [
-      "En atmosfære der medlemmene føler seg trygge til å dele ideer og ta visse risker",
       "Et miljø preget av konkurranse om makt og dominans med få tillit mellom medlemmene",
       "En kultur der medlemmene aktivt søker tilbakemelding for å forbedre seg",
-      "En tilstand der gruppen fokuserer på å bevare harmonien til enhver pris"
+      "En tilstand der gruppen fokuserer på å bevare harmonien til enhver pris",
+      "En atmosfære der medlemmene føler seg trygge til å dele ideer og ta visse risker"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Forsvarsklima kjennetegnes av jeg-sentret atferd og konkurranse.",
     "explanation": "Et forsvarsklima oppstår når medlemmene fokuserer på seg selv, og det blir konkurranse om makt og dominans. Dette svekker tillit og samarbeid, og kan føre til konflikter og ineffektivitet. Motsatt av et støtteklima der medlemmene hjelper hverandre."
   },
@@ -104,8 +104,8 @@
     "options": [
       "Når gruppen må håndtere de første konfliktene og avklare hvem som har ansvar",
       "Når gruppemedlemmene blir kjent med hverandre og orienterer seg om oppgaver og roller",
-      "Når gruppen har utviklet felles normer og samarbeidet blir mer harmonisk og effektivt",
-      "Når gruppen jobber målrettet med minimale forstyrrelser og høy produktivitet"
+      "Når gruppen jobber målrettet med minimale forstyrrelser og høy produktivitet",
+      "Når gruppen har utviklet felles normer og samarbeidet blir mer harmonisk og effektivt"
     ],
     "answerIndex": 1,
     "shortExplanation": "Forming-fasen oppstår når gruppen dannes og medlemmene blir kjent.",
@@ -116,12 +116,12 @@
     "section": "1.9",
     "question": "Hva er sosial fasilitering?",
     "options": [
-      "En ledelsesteknikk som brukes for å hjelpe medlemmene med å stresse mindre",
-      "Et fenomen der mennesker presterer bedre når andre observerer dem eller er til stede",
       "En metode for å dele oppgavene likt blant alle medlemmene i gruppen",
-      "En prosess der gruppen aktivt arbeider med å forbedre kommunikasjonen"
+      "En prosess der gruppen aktivt arbeider med å forbedre kommunikasjonen",
+      "En ledelsesteknikk som brukes for å hjelpe medlemmene med å stresse mindre",
+      "Et fenomen der mennesker presterer bedre når andre observerer dem eller er til stede"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Sosial fasilitering er når mennesker presterer bedre under observasjon.",
     "explanation": "Sosial fasilitering oppstår når mennesker presterer bedre i nærvær av andre, fordi de blir mer motiverte eller skjerpet av å bli observert. Dette kan føre til økt effektivitet, men også hemmet prestasjon ved stress hvis oppgaven er veldig vanskelig."
   },
@@ -130,12 +130,12 @@
     "section": "1.10",
     "question": "Hva er sekundærgrupper?",
     "options": [
-      "Mindre grupper som dannes innenfor større organisasjoner av medlemmer som blir gode venner",
-      "Grupper som er organisert rundt felles interesser men med mindre personlige og mer målrettede relasjoner",
+      "Grupper som oppstår når medlemmene fra primærgrupper samarbeider med mennesker fra andre miljøer",
       "Grupper som har en kortere varighet og mindre formell struktur enn primærgrupper",
-      "Grupper som oppstår når medlemmene fra primærgrupper samarbeider med mennesker fra andre miljøer"
+      "Mindre grupper som dannes innenfor større organisasjoner av medlemmer som blir gode venner",
+      "Grupper som er organisert rundt felles interesser men med mindre personlige og mer målrettede relasjoner"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Sekundærgrupper er mer målrettede og mindre personlige.",
     "explanation": "Sekundærgrupper kjennetegnes ved at de er mindre personlige og mer målrettede, som arbeidsgrupper eller organisasjoner. Relasjonene er ofte basert på oppgaver og mål. Sekundærgrupper er viktige for læring, samarbeid og prestasjon, og har ofte tidsbegrenset varighet."
   },
@@ -144,12 +144,12 @@
     "section": "1.11",
     "question": "Hva handler primærsosialiseringen om?",
     "options": [
-      "Læring av fagspesifikk kunnskap og profesjonelle ferdigheter gjennom formell utdanning",
       "En prosess der mennesker lærer grunnleggende normer, verdier og atferd gjennom nære relasjoner fra barndom",
       "Hvordan voksne mennesker tilpasser seg nye sosiale situasjoner og arbeidsmiljøer",
-      "Utviklingen av lederskap og beslutningsevne gjennom erfaring i arbeidsgrupper"
+      "Utviklingen av lederskap og beslutningsevne gjennom erfaring i arbeidsgrupper",
+      "Læring av fagspesifikk kunnskap og profesjonelle ferdigheter gjennom formell utdanning"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Primærsosialiseringen handler om læring av grunnleggende normer.",
     "explanation": "Primærsosialiseringen er prosessen der mennesker lærer grunnleggende normer, verdier og atferd gjennom nære relasjoner, først og fremst i familien. Dette former personligheten og verdisystemet vårt fra barndom. Disse verdiene påvirker hele livet og måten vi oppfører oss i grupper på."
   },
@@ -159,11 +159,11 @@
     "question": "Hva er ensretting i en gruppe?",
     "options": [
       "En positiv mekanisme der medlemmene blir enige om de beste løsningene etter å ha diskutert",
+      "En situation der medlemmene utvikler samme interesser og hobbyer over tid",
       "En tendens der medlemmene undertrykker sine egne meninger for å unngå konflikt og bevare harmoni",
-      "En prosess der gruppen etablerer klare retningslinjer og regler for hvordan arbeidet skal gjøres",
-      "En situation der medlemmene utvikler samme interesser og hobbyer over tid"
+      "En prosess der gruppen etablerer klare retningslinjer og regler for hvordan arbeidet skal gjøres"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Ensretting er når medlemmene undertrykker egne meninger.",
     "explanation": "Ensretting oppstår når medlemmer i en gruppe undertrykker sine egne meninger og tanker for å unngå konflikt og bevare harmoni. Dette kan føre til dårlige beslutninger fordi ulike perspektiver ikke blir hørt. Ensretting er en form for gruppepress som kan hemme kreativitet og kritisk tenkning."
   },
@@ -172,12 +172,12 @@
     "section": "1.13",
     "question": "Hva er hovedforskjellen mellom formelle og uformelle normer?",
     "options": [
+      "Formelle normer er strengere, mens uformelle normer er mer fleksible og oppmuntrer kreativitet",
       "Formelle normer gjelder kun ledelsen, mens uformelle normer gjelder vanlige medlemmer",
       "Formelle normer er skrevne og tydelig definerte regler, mens uformelle normer er uskrevne og utvikles naturlig",
-      "Formelle normer er strengere, mens uformelle normer er mer fleksible og oppmuntrer kreativitet",
       "Formelle normer handler om arbeidsoppgaver, mens uformelle normer handler om sosial oppførsel"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Formelle normer er skrevne regler, uformelle er uskrevne.",
     "explanation": "Formelle normer er klare, skrevne regler som alle forventes å følge, som lover eller regler i organisasjoner. Uformelle normer er uskrevne regler som utvikles naturlig i grupper, basert på hva som anses som akseptabel atferd. Begge er viktige for å styre gruppens funksjon."
   },
@@ -186,12 +186,12 @@
     "section": "1.14",
     "question": "Hvordan brukes sosial kontroll i grupper?",
     "options": [
-      "Medlemmene bruker det til å styre hvem som skal få større ansvar og innflytelse",
-      "Det brukes til å opprettholde gruppens normer gjennom ros av passende atferd eller sanksjoner mot avvik",
       "Det er en teknikk for å unngå at medlemmene føler seg presset til å gi av seg selv",
-      "Det handler om å maksimere gruppens produktivitet uavhengig av medlemmenes behov"
+      "Det handler om å maksimere gruppens produktivitet uavhengig av medlemmenes behov",
+      "Medlemmene bruker det til å styre hvem som skal få større ansvar og innflytelse",
+      "Det brukes til å opprettholde gruppens normer gjennom ros av passende atferd eller sanksjoner mot avvik"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Sosial kontroll opprettholdes gjennom ros, kritikk eller sanksjoner.",
     "explanation": "Sosial kontroll er mekanismene gruppen bruker for å opprettholde normer, gjennom ros av atferd som er akseptabel, kritikk av avvik, eller sanksjoner som eksklusjon. Dette sikrer at medlemmene følger normene og opprettholder gruppens kultur og struktur."
   },
@@ -200,12 +200,12 @@
     "section": "1.15",
     "question": "Hva er primærgrupper?",
     "options": [
-      "De første gruppene som mennesker tilhører i begynnelsen av sitt liv, som barnehage eller første skole",
       "Grupper som består av medlemmer som har tette, personlige og følelsesmessige relasjoner som familie og nære venner",
       "Små grupper som oppretters for å løse spesifikke problemer eller oppgaver innenfor en organisasjon",
+      "De første gruppene som mennesker tilhører i begynnelsen av sitt liv, som barnehage eller første skole",
       "Grupper som blir dannet før sekundærgrupper og fungerer som grunnlag for senere sosial organisering"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Primærgrupper består av nære og følelsesmessige relasjoner.",
     "explanation": "Primærgrupper oppstår når medlemmene har tette, personlige og følelsesmessige relasjoner, som familie og nære venner. Disse gruppene gir støtte og tilhørighet, og er sentrale i primærsosialiseringen der man lærer grunnleggende normer og verdier. Medlemmene kjenner hverandre som hele personer, ikke bare roller."
   },
@@ -229,11 +229,11 @@
     "question": "Når oppstår storming-fasen?",
     "options": [
       "Når medlemmene blir mer kjent og begynner å vise sine egentlige personligheter",
+      "Når gruppen fokuserer på å fullføre oppgavene så effektivt som mulig",
       "Når gruppen opplever konflikter, maktkamp og rolleavklaringer som må løses",
-      "Når medlemmene endelig blir enige om hvordan de skal samarbeide",
-      "Når gruppen fokuserer på å fullføre oppgavene så effektivt som mulig"
+      "Når medlemmene endelig blir enige om hvordan de skal samarbeide"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Storming-fasen oppstår når konflikter og rolleavklaring oppstår.",
     "explanation": "Storming-fasen oppstår når det er konflikter, maktkamp og rolleavklaring i gruppen. Dette er en nødvendig fase der medlemmer tester grenser og avklarer sitt forhold til hverandre og ledelsen.\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   },
@@ -242,10 +242,10 @@
     "section": "Kap2.4",
     "question": "Hva er en referansegruppe?",
     "options": [
-      "En gruppe som medlemmene tilhører og bruker til å dele informasjon med hverandre",
+      "En gruppe som oppnevnes for å støtte nye medlemmer gjennom introduksjonsfasen",
       "En gruppe som medlemmene bruker som sammenligningsgrunnlag og standard for å vurdere seg selv og oppnåelser",
-      "En gruppe som ledelsen oppnevner for å overvåke at medlemmene følger reglene",
-      "En gruppe som oppnevnes for å støtte nye medlemmer gjennom introduksjonsfasen"
+      "En gruppe som medlemmene tilhører og bruker til å dele informasjon med hverandre",
+      "En gruppe som ledelsen oppnevner for å overvåke at medlemmene følger reglene"
     ],
     "answerIndex": 1,
     "shortExplanation": "Referansegrupper brukes som sammenligningsgrunnlag.",
@@ -256,10 +256,10 @@
     "section": "1.19",
     "question": "Hva kjennetegner et støtteklima?",
     "options": [
-      "En situasjon der ledelsen gir alle medlemmene samme mengde ansvar og oppgaver",
+      "En tilstand der konflikter aktivt blir unngått for å opprettholde en behagelig atmosfære",
       "En atmosfære der medlemmene fokuserer på gruppen som helhet og hjelper hverandre for å løse oppgaver",
       "En kultur der medlemmene blir belønnet individuelt når de oppnår gode resultater",
-      "En tilstand der konflikter aktivt blir unngått for å opprettholde en behagelig atmosfære"
+      "En situasjon der ledelsen gir alle medlemmene samme mengde ansvar og oppgaver"
     ],
     "answerIndex": 1,
     "shortExplanation": "Støtteklima kjennetegnes av vi-sentret atferd og gjensidig hjelp.",
@@ -271,11 +271,11 @@
     "question": "Hva handler normer om?",
     "options": [
       "De mer stabile og sjelden endrede reglene som styres av formell ledelse",
-      "Uskrevne regler for atferd som utvikles naturlig i grupper og styrer hvordan medlemmene oppfører seg",
       "De retningslinjene som medlemmene får når de først blir med i gruppen",
+      "Uskrevne regler for atferd som utvikles naturlig i grupper og styrer hvordan medlemmene oppfører seg",
       "Systemene som brukes for å belønne medlemmene som oppfører seg best"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Normer er uskrevne regler for akseptabel atferd.",
     "explanation": "Normer er uskrevne regler for atferd som utvikles naturlig i grupper over tid. De styrer hvordan medlemmene oppfører seg og bidrar til å skape orden og forutsigbarhet. Normer kan være formelle eller uformelle, og bidrar til trygghet og forutsigbarhet, men kan også føre til gruppepress hvis de blir for strenge eller ufleksible."
   },
@@ -284,10 +284,10 @@
     "section": "Kap2.1",
     "question": "Hva er forskjellen mellom formelle og uformelle grupper?",
     "options": [
-      "Formelle grupper har ikke noe bestemt formål",
+      "Det er ingen praktisk forskjell mellom dem",
       "Formelle grupper er opprettet for et bestemt mål med klare regler, mens uformelle grupper oppstår spontant basert på interesser",
-      "Uformelle grupper har alltid en utpekt leder",
-      "Det er ingen praktisk forskjell mellom dem"
+      "Formelle grupper har ikke noe bestemt formål",
+      "Uformelle grupper har alltid en utpekt leder"
     ],
     "answerIndex": 1,
     "shortExplanation": "Formelle grupper har klare mål og struktur, uformelle oppstår naturlig.",
@@ -313,11 +313,11 @@
     "question": "Hva er en sekundærgruppe?",
     "options": [
       "En gruppe som har mindre viktige oppgaver enn primærgrupper",
-      "En gruppe som medlemmene ikke bryr seg om",
       "En gruppe med mindre personlige relasjoner basert på mål og interesser, som skolegruppe eller arbeidsgruppe",
+      "En gruppe som medlemmene ikke bryr seg om",
       "En gruppe som aldri endrer medlemmer"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "shortExplanation": "Sekundærgrupper er basert på mål, med mindre personlige relasjoner.",
     "explanation": "Sekundærgrupper som skoleklasser, arbeidsgrupper eller idrettslag kjennetegnes av mindre personlige relasjoner, samarbeid basert på mål og interesser, og oftere tidsbegrenset varighet. De er særlig viktige for læring, samarbeid og prestasjon. I motsetning til primærgrupper er sekundærgrupper mer oppgaveorientert og praktisk."
   },
@@ -327,11 +327,11 @@
     "question": "Hva er et sosialt nettverk?",
     "options": [
       "Et online forum hvor mennesker diskuterer temaer",
-      "Summen av alle formelle og uformelle relasjoner en person har - venner, familie, kollegaer osv.",
       "En gruppe som er organisert av staten",
+      "Summen av alle formelle og uformelle relasjoner en person har - venner, familie, kollegaer osv.",
       "Et system for å spore menneskers bevegelser"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Sosialt nettverk er alle relasjoner vi har med andre mennesker.",
     "explanation": "Et sosialt nettverk er summen av alle formelle og uformelle relasjoner en person har - venner, familie, kollegaer, lærere osv. Nettverket gir støtte, informasjon og sosiale ressurser som er viktige for vår trivsel og utvikling. Et godt sosialt nettverk er viktig for både psykisk og fysisk helse."
   },
@@ -340,12 +340,12 @@
     "section": "Kap2.6",
     "question": "Hva er en triade?",
     "options": [
-      "En gruppe med to personer i et parforhold",
       "En gruppe på tre personer som skiller seg fra et parforhold ved at det finnes tre relasjoner: A-B, A-C og B-C",
       "Et hierarki med tre nivåer",
-      "En teori om gruppedynamikk"
+      "En teori om gruppedynamikk",
+      "En gruppe med to personer i et parforhold"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "En triade er en gruppe på tre personer med tre relasjoner.",
     "explanation": "En triade er en gruppe på tre personer som skiller seg fra et parforhold (dyade) ved at det finnes tre relasjoner mellom medlemmene: A-B, A-C og B-C. Triader kan være stabile men også mer konfliktfylte fordi en person kan finne seg i midten av en konflikt mellom de to andre."
   },
@@ -355,11 +355,11 @@
     "question": "Hva betyr symmetriske forhold i grupper?",
     "options": [
       "At alle medlemmene har identiske roller",
-      "At medlemmene omtrent har like mye innflytelse og like viktige oppgaver",
       "At gruppen er fullstendig strukturert",
+      "At medlemmene omtrent har like mye innflytelse og like viktige oppgaver",
       "At det ikke er noen konflikter i gruppen"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Symmetriske forhold betyr lik innflytelse og viktige oppgaver.",
     "explanation": "I symmetriske forhold har medlemmene omtrent lik innflytelse og ansvar for like viktige oppgaver. Dette kontrasterer med komplementære forhold hvor medlemmene har ulike styrker og dominerer på ulike områder. Symmetriske forhold kan skape likevekt men også konkurranse, mens komplementære forhold kan skape balanse eller konflikt."
   },
@@ -368,12 +368,12 @@
     "section": "Kap2.9",
     "question": "Hva er sosial loafing?",
     "options": [
-      "Når alle medlemmene arbeider maksimalt for gruppen",
       "Når noen yter mindre i en gruppe fordi de føler at innsatsen deres ikke blir lagt merke til eller ansvaret er diffust",
       "En positiv effekt av gruppearbeid",
-      "En lederstil som fremmer samarbeid"
+      "En lederstil som fremmer samarbeid",
+      "Når alle medlemmene arbeider maksimalt for gruppen"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Sosial loafing oppstår når noen yter mindre på grunn av uklart ansvar.",
     "explanation": "Sosial loafing er fenomenet når noen yter mindre i en gruppe enn de ville gjort alene, ofte fordi de føler at innsatsen deres ikke blir lagt merke til, eller at ansvaret er diffust fordelt. Dette er motsatsen til sosial fasilitering. For å unngå sosial loafing er det viktig med klare roller, individuelt ansvar og anerkjennelse."
   },
@@ -382,12 +382,12 @@
     "section": "Kap2.10",
     "question": "Hvorfor danner mennesker grupper?",
     "options": [
-      "Bare fordi de må være sammen på arbeidsplassen",
       "Av sosiale og praktiske grunner - for trygghet, tilhørighet, støtte og for å nå mål som de ikke kan oppnå alene",
-      "Fordi det er påbudt av loven",
-      "Fordi mennesker naturlig motsetter seg å være alene"
+      "Fordi mennesker naturlig motsetter seg å være alene",
+      "Bare fordi de må være sammen på arbeidsplassen",
+      "Fordi det er påbudt av loven"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Vi danner grupper for sosiale og praktiske behov.",
     "explanation": "Mennesker danner grupper av både sosiale og praktiske grunner. Vi søker trygghet og tilhørighet, har behov for støtte og anerkjennelse, ønsker å nå mål som vi ikke kan oppnå alene, og påvirkes av andre og påvirker dem. Grupper er viktige både for identitets- og personlighetsutvikl som mennesker. Gjennom gruppetilhørighet lærer vi hvem vi er, våre verdier og hvordan vi samhandler."
   }
