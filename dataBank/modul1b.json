@@ -23,7 +23,7 @@
       "En aktivitet uten betydning i grupper",
       "Noe som kun forekommer i store organisasjoner"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "shortExplanation": "Unike leveranser betyr at prosjektet skaper noe nytt.",
     "explanation": "Prosjekter kjennetegnes ved at de skal føre til et unikt resultat, som et nytt produkt, tjeneste eller løsning. Dette skiller prosjekter fra rutinearbeid."
   },
@@ -37,7 +37,7 @@
       "En prosess som skjer tilfeldig uten mønster",
       "En aktivitet uten betydning i grupper"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "shortExplanation": "Norming-fasen handler om å finne felles arbeidsmåter og normer.",
     "explanation": "I norming-fasen finner gruppen felles normer, regler og arbeidsmåter. Samholdet øker, og kommunikasjonen blir mer åpen\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -149,7 +149,7 @@
       "En prosess som skjer tilfeldig uten mønster",
       "Noe som kun forekommer i store organisasjoner"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "shortExplanation": "Ressursrammer betyr at tid, budsjett og personell er fastsatt.",
     "explanation": "Prosjekter har klare ressursrammer, der tid, budsjett og personell er fastsatt. Dette gir struktur og forutsigbarhet for gjennomføringen."
   },
@@ -261,7 +261,7 @@
       "At den skal koordinere, lede og følge opp",
       "En prosess som skjer tilfeldig uten mønster"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Prosjektlederrollen handler om å koordinere, lede og følge opp prosjektet.",
     "explanation": "Prosjektlederrollen innebærer å koordinere, lede og følge opp prosjektet, og sikre at målene nås innenfor ressursrammene."
   },
@@ -289,7 +289,7 @@
       "En prosess som skjer tilfeldig uten mønster",
       "En aktivitet uten betydning i grupper"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Storming-fasen oppstår når uenigheter og rolleavklaringer skjer.",
     "explanation": "Storming-fasen er konfliktfasen der uenigheter og rolleavklaringer oppstår. Dette er en naturlig fase som må håndteres for at gruppen skal vokse\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -331,7 +331,7 @@
       "Noe som kun forekommer i store organisasjoner",
       "En aktivitet uten betydning i grupper"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "shortExplanation": "Ressursrammer betyr at tid, budsjett og personell er fastsatt.",
     "explanation": "Prosjekter har klare ressursrammer, der tid, budsjett og personell er fastsatt. Dette gir struktur og forutsigbarhet for gjennomføringen."
   },
@@ -359,7 +359,7 @@
       "At tiden, budsjettet og personell er fastsatt",
       "En aktivitet uten betydning i grupper"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Ressursrammer betyr at tid, budsjett og personell er fastsatt.",
     "explanation": "Prosjekter har klare ressursrammer, der tid, budsjett og personell er fastsatt. Dette gir struktur og forutsigbarhet for gjennomføringen."
   },
@@ -373,7 +373,7 @@
       "En aktivitet uten betydning i grupper",
       "At den skal koordinere, lede og følge opp"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Prosjektlederrollen handler om å koordinere, lede og følge opp prosjektet.",
     "explanation": "Prosjektlederrollen innebærer å koordinere, lede og følge opp prosjektet, og sikre at målene nås innenfor ressursrammene."
   }

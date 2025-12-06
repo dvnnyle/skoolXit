@@ -285,6 +285,9 @@ function Module1a() {
               <div className="correct-answer">
                 The correct answer is: {currentQuestion.options[currentQuestion.answerIndex]}
               </div>
+              <div className="explanation-text">
+                {currentQuestion.explanation}
+              </div>
             </div>
           )}
 
