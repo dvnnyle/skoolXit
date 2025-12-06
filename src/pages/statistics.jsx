@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
 import NavigationMenu from '../pages/widget/navigationMenu'
 import Footer from '../pages/widget/footer'
-import './Statistics.css'
+import './statistics.css'
 
 function Statistics() {
   const [stats, setStats] = useState({
