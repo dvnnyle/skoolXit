@@ -16,8 +16,8 @@ const shuffleArray = (array) => {
   return shuffled
 }
 
-function Module1a() {
-  const [questions] = useState(() => shuffleArray(questions))
+function Module2a() {
+  const [questions] = useState(() => shuffleArray(questionsData))
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0)
   const [selectedAnswer, setSelectedAnswer] = useState(null)
   const [showResult, setShowResult] = useState(false)
