@@ -4,12 +4,12 @@
     "section": "Kap6.1",
     "question": "Hva er definisjonen av ledelse?",
     "options": [
-      "Å delegere alt ansvar til andre",
       "Å ha mest penger og ressurser i organisasjonen",
+      "Å delegere alt ansvar til andre",
       "Prosessen med å påvirke mennesker mot å nå felles mål",
       "Å sette regler og straffe folk som bryter dem"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Ledelse handler om å påvirke mennesker mot felles mål.",
     "explanation": "Ledelse er prosessen med å påvirke mennesker mot å nå felles mål. Denne definisjonen understreker at ledelse ikke bare handler om formell autoritet eller posisjon, men om påvirkningsprosessen og evnen til å motivere og inspirere. En leder kan påvirke både dem som rapporterer til ham og mennesker i andre organisasjoner."
   },
@@ -18,12 +18,12 @@
     "section": "Kap6.2",
     "question": "Hva er de fire hovedfunksjonene til en leder?",
     "options": [
-      "Planlegging, organisering, veiledning og evaluering",
-      "Bare planlegging og organisering",
+      "Kommunikasjon, sosialisering, delegering og rapportering",
       "Kontroll, bestrafing, belønning og ignorering",
-      "Kommunikasjon, sosialisering, delegering og rapportering"
+      "Bare planlegging og organisering",
+      "Planlegging, organisering, veiledning og evaluering"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "De fire lederfunksjonene er planlegging, organisering, veiledning og evaluering.",
     "explanation": "Ifølge klassisk ledelseslære består lederens oppgaver av fire hovedfunksjoner: 1) Planlegging (formuleringer av mål og strategier), 2) Organisering (strukturering av ressurser og arbeidsoppdeling), 3) Veiledning (instruering og motivering av medarbeidere), og 4) Evaluering (kontroll og tilbakemelding på resultater). Disse funksjonene må integreres og balanseres."
   },
@@ -32,12 +32,12 @@
     "section": "Kap6.3",
     "question": "Hva er formell ledelse?",
     "options": [
-      "Ledelse som alle kan utøve uten tittel",
-      "Ledelse som skjer på sosiale arrangementer",
       "Ledelse som ikke har noen struktur",
-      "Ledelse gjennom offisiell rolle og makt, basert på positional autoritet"
+      "Ledelse gjennom offisiell rolle og makt, basert på positional autoritet",
+      "Ledelse som alle kan utøve uten tittel",
+      "Ledelse som skjer på sosiale arrangementer"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "shortExplanation": "Formell ledelse baseres på offisiell rolle og positional autoritet.",
     "explanation": "Formell ledelse refererer til ledelse som utøves gjennom en offisiell rolle og maktposisjon i organisasjonen. Formelle ledere har eksplisitt autoritet gjennom sin tittel og ansvar. De har makt til å bestemme arbeidsdeling, belønning og konsekvenser. Formell ledelse er strukturert og baseres på organisasjonens hierarki."
   },
@@ -48,10 +48,10 @@
     "options": [
       "Ledelse som bare skjer i små organisasjoner",
       "Ledelse som ignorerer organisasjonens struktur",
-      "Ledelse som utøves av mennesker uten formell posisjon basert på påvirkning og respekt",
-      "Ledelse som ikke har noen effekt"
+      "Ledelse som ikke har noen effekt",
+      "Ledelse som utøves av mennesker uten formell posisjon basert på påvirkning og respekt"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "shortExplanation": "Uformell ledelse utøves uten formell posisjon basert på påvirkning.",
     "explanation": "Uformell ledelse refererer til ledelse som utøves av mennesker uten offisiell rolle eller formell maktposisjon. Uformelle ledere har påvirkning basert på respekt, ekspertise, personlighet og tillit fra gruppen. Uformell ledelse kan oppstå naturlig i grupper og kan være like effektiv som formell ledelse, særlig når det handler om tillit og motivasjon."
   },
@@ -61,11 +61,11 @@
     "question": "Hva er forskjellen mellom makt og autoritet?",
     "options": [
       "Makt er evnen til å påvirke, autoritet er legitim og anerkjent rett til å påvirke",
-      "Makt er bare negativ påvirkning",
       "Det er ikke noen forskjell mellom dem",
-      "Autoritet er det samme som formell tittel"
+      "Autoritet er det samme som formell tittel",
+      "Makt er bare negativ påvirkning"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "shortExplanation": "Makt er evne til påvirkning, autoritet er legitim rett.",
     "explanation": "Makt er evnen til å påvirke andre menneskers atferd, enten gjennom overtalelse eller tvang. Autoritet er en legitim og anerkjent rett til å påvirke, basert på aksept og samtykke. All autoritet bygger på makt, men ikke all makt er autoritet. En leder kan ha formell makt men manglende autoritet hvis gruppen ikke respekterer ham."
   },
@@ -76,8 +76,8 @@
     "options": [
       "Oppfatningen at lederens rett til å påvirke er legitim og rettferdig",
       "Noe som bare handler om loven",
-      "Evnen til å dokumentere beslutninger",
-      "Et juridisk dokument"
+      "Et juridisk dokument",
+      "Evnen til å dokumentere beslutninger"
     ],
     "answerIndex": 0,
     "shortExplanation": "Legitimitet er oppfatningen at lederens autoritet er rettferdig.",
@@ -88,12 +88,12 @@
     "section": "Kap6.7",
     "question": "Hva var Lewins klassiske lederstiler?",
     "options": [
-      "Menneskelig, oppgavefokusert og balansert ledelse",
+      "Autoritær, demokratisk og laissez-faire ledelse",
       "Formell, uformell og hybrid ledelse",
       "Autoritær, sterk og svak ledelse",
-      "Autoritær, demokratisk og laissez-faire ledelse"
+      "Menneskelig, oppgavefokusert og balansert ledelse"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Lewins tre klassiske stiler er autoritær, demokratisk og laissez-faire.",
     "explanation": "Kurt Lewin klassifiserte lederstiler i tre typer: 1) Autoritær (lederen bestemmer alt, gir klare ordre), 2) Demokratisk (lederen løser problemer sammen med gruppen, stimulerer diskusjon), og 3) Laissez-faire (lederen holder seg tilbake, lar gruppen selv bestemme). Disse tre stilene har ulike effekter på gruppens motivasjon, produktivitet og trivsel."
   },
@@ -102,12 +102,12 @@
     "section": "Kap6.8",
     "question": "Hva karakteriserer autoritær ledelse ifølge Lewin?",
     "options": [
-      "Gruppen bestemmer helt alene",
       "Lederen har ingen innflytelse",
+      "Gruppen bestemmer helt alene",
       "Lederen delegerer all makt til gruppen",
       "Lederen bestemmer alt, gir klare ordre og er personlig styring"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Autoritær ledelse - lederen bestemmer alt og gir klare ordre.",
     "explanation": "I autoritær ledelse (også kalt autokratisk) bestemmer lederen alt, gir klare ordre og gjør beslutninger alene. Lederen fokuserer på oppgaver, gir instruksjoner og forventer ettergivenhet. Denne stilen kan være effektiv i kriseløpet eller når rask handling er nødvendig, men kan over tid redusere initiativ og motivasjon blant medarbeidere."
   },
@@ -117,11 +117,11 @@
     "question": "Hva karakteriserer demokratisk ledelse ifølge Lewin?",
     "options": [
       "Lederen holder seg fullstendig unna beslutninger",
-      "Lederen løser problemer sammen med gruppen og stimulerer diskusjon",
       "Lederen bestemmer alt alene",
+      "Lederen løser problemer sammen med gruppen og stimulerer diskusjon",
       "Gruppen velger lederen hver dag"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "shortExplanation": "Demokratisk ledelse innebærer samarbeid og diskusjon.",
     "explanation": "I demokratisk ledelse løser lederen problemer sammen med gruppen og stimulerer diskusjon. Lederen gir retning, men involverer medarbeiderne i beslutninger. Denne stilen bygger på samtale, respekt for gruppens meninger og felles ansvar. Demokratisk ledelse pleier å resultere i høyere motivasjon, bedre idégenering og større samhold, men kan være langsommere i beslutningsprosesser."
   },
@@ -130,8 +130,8 @@
     "section": "Kap6.10",
     "question": "Hva karakteriserer laissez-faire ledelse?",
     "options": [
-      "Lederen fokuserer på oppgaver",
       "Lederen bestemmer alt og gir klare instruksjoner",
+      "Lederen fokuserer på oppgaver",
       "Lederen holder seg tilbake og lar gruppen selv bestemme og arbeide",
       "Lederen leder gjennom demokratisk prosess"
     ],
@@ -144,12 +144,12 @@
     "section": "Kap6.11",
     "question": "Hva er oppgaveorientert ledelse?",
     "options": [
-      "Ledelse som ikke fokuserer på noe",
+      "Ledelse som fokuserer på oppgavene som skal utføres og resultater",
       "Ledelse som fokuserer på mennesker og relasjoner",
       "Ledelse som ignorerer oppgavene",
-      "Ledelse som fokuserer på oppgavene som skal utføres og resultater"
+      "Ledelse som ikke fokuserer på noe"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "shortExplanation": "Oppgaveorientert ledelse fokuserer på oppgaver og resultater.",
     "explanation": "Oppgaveorientert (eller produksjonssentrert) ledelse fokuserer på oppgavene som skal utføres, målsetninger og resultater. Lederen konsentrerer seg om hva som skal gjøres, hvordan det skal gjøres, og hvor raskt det skal være ferdig. Denne dimensjonen av ledelse er viktig for å sikre at arbeidet blir utført effektivt."
   },
@@ -158,12 +158,12 @@
     "section": "Kap6.12",
     "question": "Hva er menneskeorientert ledelse?",
     "options": [
-      "Ledelse som fokuserer på medarbeidernes velvære, motivasjon og personlig utvikling",
       "Ledelse som ikke krever empati",
-      "Ledelse som ignorerer mennesker",
-      "Ledelse som bare handler om oppgaver"
+      "Ledelse som fokuserer på medarbeidernes velvære, motivasjon og personlig utvikling",
+      "Ledelse som bare handler om oppgaver",
+      "Ledelse som ignorerer mennesker"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Menneskeorientert ledelse fokuserer på medarbeidernes velvære og motivasjon.",
     "explanation": "Menneskeorientert (eller relasjonsorientert) ledelse fokuserer på medarbeidernes velvære, motivasjon, personlig utvikling og trivsel. Lederen interesserer seg for mennesker, bygger relasjoner, lytter aktivt og skaper trygghet. Denne dimensjonen av ledelse er viktig for å skape lojalitet, engasjement og selvledelse."
   },
@@ -172,12 +172,12 @@
     "section": "Kap6.13",
     "question": "Hva er situasjonsledelse ifølge Hersey og Blanchard?",
     "options": [
-      "Ledelse som tilpasses den ansattes modenhet/forsvarsvilighet",
-      "Ledelse som ikke krever tilpasning",
+      "En lederstil som alltid fungerer",
       "En metode som ignorerer de ansatte",
-      "En lederstil som alltid fungerer"
+      "Ledelse som ikke krever tilpasning",
+      "Ledelse som tilpasses den ansattes modenhet/forsvarsvilighet"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "shortExplanation": "Situasjonsledelse tilpasses den ansattes modenhet og forsvarsvilighet.",
     "explanation": "Hersey og Blanchard utviklet situasjonsledelse, en modell som sier at effektiv ledelse avhenger av å tilpasse lederstilen til den ansattes modenhet (kunnskaper, erfaringer, motivasjon) og vilje til å arbeide på oppgaven. Modellen foreslår fire lederstiler som skal brukes avhengig av hvor modent den ansatte er."
   },
@@ -186,9 +186,9 @@
     "section": "Kap6.14",
     "question": "Hva er Telling (Directing) i situasjonsledelse?",
     "options": [
+      "En metode som ignorerer oppgaver",
       "En metode som ikke fungerer",
       "Lederstilen hvor lederen gir klare instruksjoner og overvåker nøye",
-      "En metode som ignorerer oppgaver",
       "En stil hvor gruppen bestemmer alt selv"
     ],
     "answerIndex": 3,
@@ -200,12 +200,12 @@
     "section": "Kap6.15",
     "question": "Hva er Selling (Coaching) i situasjonsledelse?",
     "options": [
-      "En metode som ignorerer medarbeidernes synspunkter",
       "En stil hvor lederen ikke involverer seg",
-      "En stil som bare handler om salg",
-      "Lederstilen hvor lederen gir instruksjoner og samtidig er støttende og oppmuntrer dialog"
+      "Lederstilen hvor lederen gir instruksjoner og samtidig er støttende og oppmuntrer dialog",
+      "En metode som ignorerer medarbeidernes synspunkter",
+      "En stil som bare handler om salg"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "shortExplanation": "Selling - lederen instruerer og støtter, oppmuntrer dialog.",
     "explanation": "Selling (Coaching) brukes når den ansatte har moderat modenhet med noen evner men manglende selvtillit eller motivasjon. Lederen gir fortsatt instruksjoner og veiledning, men fokuserer mer på å bygge forholdet, oppfordrer dialog og prøver å bygge selvtillit gjennom positiv tilbakemelding. Lederen er både direktiv og støttende."
   },
@@ -214,12 +214,12 @@
     "section": "Kap6.16",
     "question": "Hva er Participating (Supporting) i situasjonsledelse?",
     "options": [
-      "Lederstilen hvor lederen hjelper, støtter og deltar i beslutninger med en relativt moden ansatt",
-      "En stil som ignorerer medarbeideren",
+      "En metode hvor lederen bestemmer alt",
       "En stil som ikke fungerer",
-      "En metode hvor lederen bestemmer alt"
+      "Lederstilen hvor lederen hjelper, støtter og deltar i beslutninger med en relativt moden ansatt",
+      "En stil som ignorerer medarbeideren"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Participating - lederen støtter og deltar i beslutninger.",
     "explanation": "Participating (Supporting) brukes når den ansatte har høy modenhet og vilje. Lederen er mindre direktiv og gir mindre instruksjoner, men fokuserer på samarbeid og støtte. Lederen hjelper til med beslutninger, lytter aktivt og deler ansvar. Denne stilen erkjenner at den ansatte har kompetansen og motivasjonen til å gi betydelige bidrag."
   },
@@ -230,8 +230,8 @@
     "options": [
       "En metode som ignorerer resultater",
       "En stil hvor lederen er svært involvert",
-      "En metode som aldri fungerer",
-      "Lederstilen hvor lederen gir ansvar til en selv-dirigert, svært moden ansatt"
+      "Lederstilen hvor lederen gir ansvar til en selv-dirigert, svært moden ansatt",
+      "En metode som aldri fungerer"
     ],
     "answerIndex": 1,
     "shortExplanation": "Delegating - lederen gir ansvar til en svært moden ansatt.",
@@ -242,12 +242,12 @@
     "section": "Kap6.18",
     "question": "Hva er jeg-sentrert ledelse (I-centered)?",
     "options": [
+      "Ledelse hvor lederen fokuserer på sin egen posisjon, autoritet og status",
       "Ledelse som fokuserer på gruppen",
-      "Ledelse som ignorerer lederens behov",
       "Ledelse som er demokratisk",
-      "Ledelse hvor lederen fokuserer på sin egen posisjon, autoritet og status"
+      "Ledelse som ignorerer lederens behov"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Jeg-sentrert ledelse fokuserer på lederens egen posisjon og status.",
     "explanation": "Jeg-sentrert (I-centered) ledelse er hvor lederen fokuserer primært på sin egen posisjon, autoritet og status. Lederen gjør beslutninger som favoriterer hans eget behov, og kommuniserer på en måte som understreker hans viktighet. Dette kan redusere følelsen av felleskap og skape avstand mellom leder og gruppe."
   },
@@ -256,12 +256,12 @@
     "section": "Kap6.19",
     "question": "Hva er vi-sentrert ledelse (we-centered)?",
     "options": [
-      "Ledelse som ikke fungerer",
       "Ledelse som ignorerer gruppen",
-      "Ledelse hvor lederen fokuserer på gruppen som en helhet og felles mål",
-      "Ledelse som fokuserer på lederens egen status"
+      "Ledelse som ikke fungerer",
+      "Ledelse som fokuserer på lederens egen status",
+      "Ledelse hvor lederen fokuserer på gruppen som en helhet og felles mål"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Vi-sentrert ledelse fokuserer på gruppen og felles mål.",
     "explanation": "Vi-sentrert (we-centered) ledelse er hvor lederen fokuserer på gruppen som en helhet, felles mål og felleskap. Lederen kommuniserer i jeg-form (vi, oss) og gjør beslutninger som støtter gruppens behov. Dette skaper sterkere tilhørighet og fellesansvar. Vi-sentrert ledelse er vanligvis assosiert med høyere motivasjon og gruppekohesion."
   },
@@ -284,12 +284,12 @@
     "section": "Kap6.3",
     "question": "Hva er de fire sentrale lederfunksjonene?",
     "options": [
-      "Kun kontroll og regler",
-      "Å eliminere konflikter og straffe feil",
       "Å styre mennesker, ta avgjørelser, tjene høy lønn og delegere alt",
+      "Å eliminere konflikter og straffe feil",
+      "Kun kontroll og regler",
       "Planlegging, organisering, veiledning og vurdering"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "shortExplanation": "De fire lederfunksjonene er planlegging, organisering, veiledning og vurdering.",
     "explanation": "Alle ledere utfører fire grunnleggende funksjoner: Planlegging (å sette mål og skape oversikt), Organisering (å strukturere arbeidet og fordele oppgaver), Veiledning (å instruere, støtte og motivere), og Vurdering (å kontrollere fremdrift og resultat). Sammen utgjør disse funksjonene styringsverktøyet for effektiv prosjektledelse. En god leder balanserer alle fire funksjonene etter prosjektets behov."
   },
@@ -298,12 +298,12 @@
     "section": "Kap6.4",
     "question": "Hva er differensen mellom autoritær, demokratisk og laisses-faire lederstil?",
     "options": [
-      "Alle gir samme resultat",
       "Det finnes ingen forskjell",
-      "De heter bare det samme med andre ord",
-      "Autoritær tar alle beslutninger, demokratisk involverer gruppen, laisses-faire er passiv"
+      "Alle gir samme resultat",
+      "Autoritær tar alle beslutninger, demokratisk involverer gruppen, laisses-faire er passiv",
+      "De heter bare det samme med andre ord"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Tre klassiske lederstiler med ulik grad av kontroll og deltakelse.",
     "explanation": "De tre klassiske lederstilene er: Autoritær (lederen tar alle beslutninger, gir ordre, kan gi rask fremdrift men lav trivsel), Demokratisk (lederen samarbeider med gruppen, oppmuntrer diskusjon, fremmer tillit og kreativitet), og Laisses-Faire (lederen er passiv og lar gruppen styre selv, fører ofte til uorden og lav motivasjon). Demokratisk stil gir best langsiktige resultater og trivsel."
   },
@@ -312,12 +312,12 @@
     "section": "Kap6.5",
     "question": "Hva sier Hersey og Blanchard sin situasjonsbestemt ledelsesteori?",
     "options": [
-      "At lederstilen bør tilpasses medarbeidernes kompetanse og modenhet",
-      "At lederstil ikke påvirker resultatene",
       "At en lederstil fungerer best for alle situasjoner",
-      "At lederen aldri skal tilpasse seg gruppen"
+      "At lederstilen bør tilpasses medarbeidernes kompetanse og modenhet",
+      "At lederen aldri skal tilpasse seg gruppen",
+      "At lederstil ikke påvirker resultatene"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "shortExplanation": "Effektiv ledelse tilpasses medarbeidernes kompetanse og utvikling.",
     "explanation": "Hersey og Blanchard sin teori viser at effektiv ledelse må tilpasses situasjonen og medarbeidernes kompetanse og vilje (modenhet). De beskrev fire lederstiler: Instruerende (for lav kompetanse), Selgende (noe kompetanse), Deltakende (god kompetanse, trenger støtte), og Delegerende (høy kompetanse). En god leder er fleksibel og tilpasser seg gruppens utvikling og prosjektfasen."
   },
@@ -326,12 +326,12 @@
     "section": "Kap6.7",
     "question": "Hva innebærer god styring og ledelse i prosjekter ifølge sammenfattingen?",
     "options": [
-      "Å ta alle beslutninger alene",
-      "Å balansere oppgavefokus og menneskefokus, med planmessig kontroll og menneskelig ledelse",
       "Kun å planlegge på forhånd",
-      "Å ignorere menneskers behov og fokusere bare på resultater"
+      "Å ta alle beslutninger alene",
+      "Å ignorere menneskers behov og fokusere bare på resultater",
+      "Å balansere oppgavefokus og menneskefokus, med planmessig kontroll og menneskelig ledelse"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Effektiv styring krever balanse mellom oppgaver og mennesker.",
     "explanation": "God styring og ledelse i prosjekter handler om å balansere oppgavefokus (mål, struktur, fremdrift) med menneskefokus (relasjoner, trivsel, kommunikasjon). Den gode prosjektlederen planlegger og organiserer effektivt, veileder og vurderer kontinuerlig, tilpasser lederstilen til situasjonen, og skaper en trygg og motiverende kultur. Dette sikrer både fremdrift, kvalitet og trivsel."
   }

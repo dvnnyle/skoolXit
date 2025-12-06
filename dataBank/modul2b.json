@@ -4,10 +4,10 @@
     "section": "Kap2.1",
     "question": "Hva handler formingsfasen om i et prosjekts livssyklus?",
     "options": [
-      "En fase der gruppen jobber effektivt med minst mulig behov for justering",
+      "En fase der prosjektet avsluttes og resultatene evalueres",
       "En fase preget av konflikter og maktkamp mellom medlemmene",
       "Den innledende fasen der prosjektet etableres, roller fordeles, og grunnlaget for samarbeid legges",
-      "En fase der prosjektet avsluttes og resultatene evalueres"
+      "En fase der gruppen jobber effektivt med minst mulig behov for justering"
     ],
     "answerIndex": 1,
     "shortExplanation": "Formingsfasen er oppstart av prosjektet og etablering av grunnlag.",
@@ -18,12 +18,12 @@
     "section": "Kap2.2",
     "question": "Hva er 'dual lojalitet' i prosjektsammenheng?",
     "options": [
-      "Når to prosjekter deler de samme ressursene og må konkurrere",
-      "Når medlemmer er tilknyttet både prosjektet og sin basisorganisasjon, noe som krever tydelige forventninger",
+      "Når prosjektlederen har to forskjellige titler i organisasjonen",
       "Når medlemmene må velge mellom lojalitet til gruppen eller til seg selv",
-      "Når prosjektlederen har to forskjellige titler i organisasjonen"
+      "Når to prosjekter deler de samme ressursene og må konkurrere",
+      "Når medlemmer er tilknyttet både prosjektet og sin basisorganisasjon, noe som krever tydelige forventninger"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Dual lojalitet oppstår når medlemmer har bindinger til flere organisasjoner.",
     "explanation": "Dual lojalitet kan oppstå når medlemmer er tilknyttet både prosjektet og sin basisorganisasjon. Da er det viktig med tydelige forventninger og klar ansvarsfordeling for å unngå konflikter mellom rollene og ansvarene."
   },
@@ -33,9 +33,9 @@
     "question": "Hvilken rolle spiller 'pseudo-arbeid' tidlig i prosjekter?",
     "options": [
       "Det er unødvendig og bør unngås fordi det tar tid fra det virkelige arbeidet",
-      "En metode for å teste medlemmenes evner før de får ansvar",
       "Småprat og uformelle samtaler som styrker samholdet og legger grunnlag for god kommunikasjon",
-      "En type oppgave som gjøres av personer som ikke har viktige roller"
+      "En type oppgave som gjøres av personer som ikke har viktige roller",
+      "En metode for å teste medlemmenes evner før de får ansvar"
     ],
     "answerIndex": 0,
     "shortExplanation": "Pseudo-arbeid styrker samholdet og legger grunnlag for kommunikasjon.",
@@ -46,12 +46,12 @@
     "section": "Kap2.4",
     "question": "Hva er de fire sentrale teamrollene i et effektivt prosjektteam?",
     "options": [
-      "Planlegger, gjennomfører, evaluator og rapportør",
+      "Produksjon, administrasjon, integrasjon og entreprenørskap",
       "Leder, nestleder, sekretær og kasserer",
-      "Kommunikatør, strategist, operatør og revisor",
-      "Produksjon, administrasjon, integrasjon og entreprenørskap"
+      "Planlegger, gjennomfører, evaluator og rapportør",
+      "Kommunikatør, strategist, operatør og revisor"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "shortExplanation": "Fire teamroller gir balanse mellom oppgave- og relasjonsfokus.",
     "explanation": "Et effektivt prosjektteam består gjerne av fire sentrale teamroller: Produksjon (fokuserer på gjennomføring), Administrasjon (struktur og systems), Integrasjon (sosial samhold), og Entreprenørskap (tenker nytt). En god balanse mellom disse roller bidrar til både produksjon og relasjon."
   },
@@ -60,12 +60,12 @@
     "section": "Kap2.5",
     "question": "Hva betyr SMART-mål i prosjektplanlegging?",
     "options": [
-      "Mål som fokuserer på å gjøre prosjektet så omfattende som mulig",
+      "Mål som er enkel å huske og lett å kommunisere til andre",
       "Spesifikke, målbare, aksepterte, realistiske og tidsavgrensende mål som gir retning og motivasjon",
       "Mål som endres hyppig for å tilpasse seg nye omstendigheter",
-      "Mål som er enkel å huske og lett å kommunisere til andre"
+      "Mål som fokuserer på å gjøre prosjektet så omfattende som mulig"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "shortExplanation": "SMART-mål er spesifikke, målbare, aksepterte, realistiske og tidsavgrenset.",
     "explanation": "SMART-mål står for Spesifikke, Målbare, Aksepterte, Realistiske og Tidsavgrensende. Disse gir retning og motivasjon, samtidig som de skaper felles forståelse for hva prosjektet skal oppnå. De bidrar til å styre arbeidet og opprettholde fokus gjennom hele prosjektperioden."
   },
@@ -74,12 +74,12 @@
     "section": "Kap2.6",
     "question": "Hva er LEAN-metodikken i prosjektledelse?",
     "options": [
-      "En metode som fokuserer på å kutte kostnader så mye som mulig",
       "En tilnærming som visualiserer hele prosjektperioden og planlegger bakover fra ønsket sluttresultat",
-      "En metode der alle beslutninger tas i demokratiske avstemminger",
-      "En streng hierarkisk struktur der ledelsen har all kontroll"
+      "En metode som fokuserer på å kutte kostnader så mye som mulig",
+      "En streng hierarkisk struktur der ledelsen har all kontroll",
+      "En metode der alle beslutninger tas i demokratiske avstemminger"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "shortExplanation": "LEAN fokuserer på visualisering og planlegging bakover fra målene.",
     "explanation": "I moderne prosjektledelse brukes ofte LEAN-metodikken, som fokuserer på å visualisere hele prosjektperioden og planlegge bakover fra ønsket sluttresultat. Dette gir oversikt, felles eierskap og reduserer bortkastet arbeid. Det hjelper teamet å se helheten og forstå hvordan deres innsats bidrar til det endelige målet."
   },
@@ -88,12 +88,12 @@
     "section": "Kap2.7",
     "question": "Hva er 'planleggingsfellen' i prosjektledelse?",
     "options": [
+      "En tendens til å undervurdere hvor mye tid og ressurser som trengs, ofte på grunn av optimismeskjevhet",
       "En feil i den offisielle planleggingssoftware",
       "Når medlemmene ikke følger planen som er laget",
-      "Når prosjektlederen ikke bruker nok tid på planlegging",
-      "En tendens til å undervurdere hvor mye tid og ressurser som trengs, ofte på grunn av optimismeskjevhet"
+      "Når prosjektlederen ikke bruker nok tid på planlegging"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Planleggingsfellen er å undervurdere tid og ressursbruk.",
     "explanation": "Planleggingsfellen er tendensen til å undervurdere hvor mye tid og ressurser som trengs for å lykkes. Dette skyldes ofte optimismeskjevhet - ønsketekning og tro på at alt vil gå raskere og enklere enn det faktisk gjør. Løsningen er kontinuerlig-tilpasning: å oppdatere planer underveis og bruke erfaring fra tidligere faser."
   },
@@ -102,12 +102,12 @@
     "section": "Kap2.8",
     "question": "Hva er 'jerntrianglet' i tradisjonell prosjektledelse?",
     "options": [
-      "En hierarkisk struktur med tre ledelseslag",
-      "Tid, kostnad og kvalitet som de primære målene",
+      "De tre viktigste medlemmene av prosjektledelsen",
       "De tre fasene av prosjektutvikling: forming, storming og performing",
-      "De tre viktigste medlemmene av prosjektledelsen"
+      "Tid, kostnad og kvalitet som de primære målene",
+      "En hierarkisk struktur med tre ledelseslag"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "shortExplanation": "Jerntrianglet omfatter tid, kostnad og kvalitet.",
     "explanation": "Tradisjonelt har prosjekter vært styrt av jerntrianglet - tid, kostnad og kvalitet, som de primære målene. Nyere tilnærminger bruker derimot relasjonelle kontrakter, som vektlegger samarbeid, kommunikasjon og fleksibilitet fremfor bare resultater. Dette gjør det lettere å håndtere endringer og konflikter konstruktivt."
   },
@@ -117,11 +117,11 @@
     "question": "Hva er 'kognitiv filtre' i sammenheng med mangfoldige team?",
     "options": [
       "En regel som bestemmer hvem som skal få snakke i møter",
-      "Individuelle tolkninger som forvrenger kommunikasjonen mellom medlemmene",
       "En type teknologi som brukes for å filtrere informasjon",
-      "En prosess der ledelsen fjerner medlemmer som ikke passer"
+      "En prosess der ledelsen fjerner medlemmer som ikke passer",
+      "Individuelle tolkninger som forvrenger kommunikasjonen mellom medlemmene"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Kognitiv filtre er individuelle tolkinger som påvirker kommunikasjonen.",
     "explanation": "Et mangfold team med ulike perspektiver, erfaringer og kompetanser kan skape innovasjon og bedre problemløsning, men krever god ledelse for å hindre misforståelser og kognitiv filtre - individuelle tolkninger som forvrenger kommunikasjonen. Tillit er fundamentet for all teambygging og utvikler gjennom ærlighet, åpenhet og respekt for forskjeller."
   },
@@ -132,8 +132,8 @@
     "options": [
       "Større grupper er alltid bedre fordi de har mer kompetanse og ressurser",
       "Størrelse påvirker ikke dynamikken fordi mennesker oppfører seg likt uansett",
-      "Små grupper er alltid dårlige fordi de mangler perspektiv",
-      "Små grupper skaper nærhet og effektiv kommunikasjon, store grupper gir bredde men risiko for sosial loafing"
+      "Små grupper skaper nærhet og effektiv kommunikasjon, store grupper gir bredde men risiko for sosial loafing",
+      "Små grupper er alltid dårlige fordi de mangler perspektiv"
     ],
     "answerIndex": 1,
     "shortExplanation": "Gruppestørrelse påvirker både kommunikasjon og ansvarsfølelse.",
@@ -146,10 +146,10 @@
     "options": [
       "Å fjerne alle ledere og la gruppen styre seg selv",
       "Å la beslutninger tas nær problemet av dem som har best innsikt",
-      "Å ta alle beslutninger fra et sentralt kontor langt fra prosjektet",
-      "Å dele prosjektet inn i mange små separate grupper"
+      "Å dele prosjektet inn i mange små separate grupper",
+      "Å ta alle beslutninger fra et sentralt kontor langt fra prosjektet"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Desentralisering betyr at beslutninger tas nær problemet.",
     "explanation": "Effektive prosjekter kjennetegnes ofte av desentralisering, at beslutninger tas nær problemet av dem som har best innsikt. Dette øker fleksibilitet, ansvargjørelse og tempo i gjennomføringen. Samtidig krever det tillit fra ledelsen og tydelig rammer slik at prosjektet ikke mister retning."
   },
@@ -158,9 +158,9 @@
     "section": "Kap2.12",
     "question": "Hvordan handler formingsfasen om å bygge tillit?",
     "options": [
-      "Tillit bygges automatisk når mennesker jobber sammen",
-      "Tillit må bygges bevisst gjennom åpen kommunikasjon, ærlighet og respekt for forskjeller",
       "Tillit er bare relevant når konflikter oppstår senere i prosjektet",
+      "Tillit må bygges bevisst gjennom åpen kommunikasjon, ærlighet og respekt for forskjeller",
+      "Tillit bygges automatisk når mennesker jobber sammen",
       "Tillit er ikke viktig i formingsfasen fordi fokus bør være på planlegging"
     ],
     "answerIndex": 1,
@@ -172,12 +172,12 @@
     "section": "Kap2.13",
     "question": "Hva handler teambygging om i formingsfasen?",
     "options": [
-      "Det handler kun om å få gruppen til å bli gode venner utenfor arbeid",
       "Å utvikle en gruppe til et velfungerende team gjennom klare roller, trygghet, kommunikasjon og felles mål",
       "En engangs-aktivitet som gjøres på første dagen av prosjektet",
-      "En måte å øke produktiviteten ved å gi medlemmene mindre pauser"
+      "En måte å øke produktiviteten ved å gi medlemmene mindre pauser",
+      "Det handler kun om å få gruppen til å bli gode venner utenfor arbeid"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Teambygging handler om å utvikle en gruppe til et team.",
     "explanation": "Teambygging handler om å utvikle en gruppe til et velfungerende team gjennom klare roller, trygghet, kommunikasjon og felles mål. Tidlig i prosjektet må det legges vekt på relasjonsbygging og teambygging. Forskning viser at gode relasjoner øker tillit, samarbeid og effektivitet\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   },
@@ -187,11 +187,11 @@
     "question": "Hva er 'relasjonelle kontrakter' i moderne prosjektledelse?",
     "options": [
       "Kontrakter som fjerner all ansvar fra prosjektledelsen",
+      "Skrevne kontrakter som er veldig lange og detaljerte",
       "Kontrakter som handler om personlige relasjoner mellom medlemmene",
-      "Kontrakter som vektlegger samarbeid, kommunikasjon og fleksibilitet fremfor bare resultater",
-      "Skrevne kontrakter som er veldig lange og detaljerte"
+      "Kontrakter som vektlegger samarbeid, kommunikasjon og fleksibilitet fremfor bare resultater"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "shortExplanation": "Relasjonelle kontrakter fokuserer på samarbeid og fleksibilitet.",
     "explanation": "Nyere tilnærminger bruker relasjonelle kontrakter i stedet for tradisjonelt jerntriangel-fokus. Disse vektlegger samarbeid, kommunikasjon og fleksibilitet fremfor bare resultater. Dette gjør det lettere å håndtere endringer og konflikter på en konstruktiv måte, spesielt i komplekse prosjekter med mange aktører."
   },
@@ -200,9 +200,9 @@
     "section": "Kap2.15",
     "question": "Hva er betydningen av 'eksterne relasjoner' i prosjekter?",
     "options": [
-      "Relasjoner som kun handler om å få kritikk og feedback",
       "Det handler kun om sosiale forbindelser mellom medlemmene",
       "Noe som kun er viktig når prosjektet er i avslutningsfasen",
+      "Relasjoner som kun handler om å få kritikk og feedback",
       "Relasjoner til runder, leverandører, samarbeidspartnere og myndigheter som må etableres og avklares tidlig"
     ],
     "answerIndex": 3,
@@ -214,12 +214,12 @@
     "section": "Kap2.16",
     "question": "Hvordan påvirker 'flerfaglig sammensetning' prosjektgrupper?",
     "options": [
+      "Den har ingen innvirkning på gruppedynamikken",
       "Den gir bredde og kreativitet, men kan skape utfordringer knyttet til kommunikasjon og arbeidsstil",
       "Den gjør alle medlemmene identiske i deres perspektiv og kompetanse",
-      "Den gjør gruppen mindre effektiv fordi medlemmene har ulike bakgrunner",
-      "Den har ingen innvirkning på gruppedynamikken"
+      "Den gjør gruppen mindre effektiv fordi medlemmene har ulike bakgrunner"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Flerfaglig sammensetning gir bredde men krever god ledelse.",
     "explanation": "Ofte deltar personer fra ulike fagområder, noe som gjør prosjektet til en flerfaglig gruppe. Dette gir bredde og kreativitet, men kan også skape utfordringer knyttet til kommunikasjon, arbeidsstil og overlappende skillelinjer. God ledelse må håndtere disse forskjellene konstruktivt."
   },
@@ -242,9 +242,9 @@
     "section": "Kap2.18",
     "question": "Hvorfor er 'kontinuerlig-tilpasning' viktig i prosjektplanlegging?",
     "options": [
-      "Fordi usikkerheten er størst tidlig i prosjektet, og planer må oppdateres underveis basert på erfaring",
-      "Fordi medlemmene ikke liker å følge planer",
       "Fordi det ikke er mulig å planlegge noe som helst på forhånd",
+      "Fordi medlemmene ikke liker å følge planer",
+      "Fordi usikkerheten er størst tidlig i prosjektet, og planer må oppdateres underveis basert på erfaring",
       "Fordi alle planer alltid er perfekte fra starten av"
     ],
     "answerIndex": 3,
@@ -257,11 +257,11 @@
     "question": "Hva handler 'struktur og forutsigbarhet' om i formingsfasen?",
     "options": [
       "At det ikke er mulig å planlegge noe som helst",
-      "At alt må være veldig rigid og ikke kan endres",
       "Å definere mål, fordele ansvar, planlegge aktiviteter og etablere relasjoner for å skape klarhet",
+      "At alt må være veldig rigid og ikke kan endres",
       "At medlemmene må gjøre nøyaktig det samme hver dag"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "shortExplanation": "Struktur gir klarhet om mål, ansvar og aktiviteter.",
     "explanation": "Strukturering i formingsfasen innebærer å definere mål og rammer, fordele ansvar og roller, planlegge aktiviteter og tidslinjer, og etablere relasjoner med eksterne aktører. Dette skaper struktur og forutsigbarhet som medlemmene trenger for å forstå sitt arbeid og sitt ansvar\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   },
@@ -270,12 +270,12 @@
     "section": "Kap2.20",
     "question": "Hva er den overordnede hensikten med formingsfasen?",
     "options": [
-      "Å eliminere alle konflikter før de oppstår",
-      "Å sikre at kun de smarteste medlemmene blir værende i gruppen",
       "Å fullføre så mange oppgaver som mulig så raskt som mulig",
-      "Å bygge et sterkt team, etablere gode relasjoner, fordele roller og strukturere arbeidet for solid fundament"
+      "Å bygge et sterkt team, etablere gode relasjoner, fordele roller og strukturere arbeidet for solid fundament",
+      "Å eliminere alle konflikter før de oppstår",
+      "Å sikre at kun de smarteste medlemmene blir værende i gruppen"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "shortExplanation": "Formingsfasen skaper grunnlaget for prosjektets suksess.",
     "explanation": "Formingsfasen er avgjørende for prosjektets videre suksess. Den handler om å bygge et sterkt team, etablere gode relasjoner, fordele roller og ansvarsområder, og strukturere arbeidet. Gjennom teambygging, tillit, god planlegging og åpen kommunikasjon skapes et solid fundament for samarbeidet. Ved å være bevisst på usikkerhet, planleggingsfeller og eksterne relasjoner, kan prosjektlederen sikre fleksibilitet og balanse mellom produksjon og relasjon\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   },
@@ -284,12 +284,12 @@
     "section": "Kap4.1",
     "question": "Hva er aktiv lytting?",
     "options": [
-      "Å vente på din tur til å snakke mens andre snakker",
       "Å lytte uten å si noe i det hele tatt",
-      "Å bruke tiden til å planlegge hva du skal si neste",
-      "Å vise at man følger med gjennom nikking, småord som 'ja' og å oppsummere det som blir sagt"
+      "Å vise at man følger med gjennom nikking, småord som 'ja' og å oppsummere det som blir sagt",
+      "Å vente på din tur til å snakke mens andre snakker",
+      "Å bruke tiden til å planlegge hva du skal si neste"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "shortExplanation": "Aktiv lytting betyr å vise at man følger med og forstår.",
     "explanation": "Aktiv lytting betyr å vise at man følger med, for eksempel ved å nikke, bruke småord som 'ja' og 'hmmm', og oppsummere det som blir sagt. Det skiller seg fra passiv lytting som betyr å lytte uten å avbryte, men fortsatt vise interesse med blikk og kroppsspråk. Gjennom speiling av følelser kan man sette ord på den andres følelser, noe som skaper trygghet og forståelse."
   },
@@ -298,12 +298,12 @@
     "section": "Kap4.2",
     "question": "Hva er tematisk interaksjon?",
     "options": [
-      "Å ignorere det andre sier og fokusere på eget tema",
       "Å introdusere relevante temaer, bygge videre på andres bidrag og skape felles forståelse",
+      "Å snakke om mange forskjellige temaer på samme tid",
       "En form for kommunikasjon som ikke fungerer i grupper",
-      "Å snakke om mange forskjellige temaer på samme tid"
+      "Å ignorere det andre sier og fokusere på eget tema"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "shortExplanation": "Tematisk interaksjon handler om fokusert dialog som bygger videre.",
     "explanation": "Tematisk interaksjon handler om å introdusere relevante temaer, bygge videre på andres bidrag og skape en felles forståelse. Det innebærer å holde samtalen fokusert på et tema og å utvikle det sammen. Tematisk fokusering tillsammans med felleskap-interesser skaper god kommunikasjon der deltakerne holder samtalen relevant for gruppens felles mål."
   },
@@ -312,12 +312,12 @@
     "section": "Kap4.3",
     "question": "Hva er transaksjonanalyse brukt til?",
     "options": [
-      "Å forstå kommunikasjon som samspill mellom tre jeg-tilstander: Foreldre-jeget, Voksen-jeget og Barne-jeget",
       "Å analysere økonomiske transaksjoner",
       "Å fastslå hvem som har best kommunikasjonsevner",
-      "Å finne ut hvilke personer som bør få makt i gruppen"
+      "Å finne ut hvilke personer som bør få makt i gruppen",
+      "Å forstå kommunikasjon som samspill mellom tre jeg-tilstander: Foreldre-jeget, Voksen-jeget og Barne-jeget"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Transaksjonanalyse forklarer kommunikasjon gjennom jeg-tilstander.",
     "explanation": "Transaksjonanalyse (TA), utviklet av Erice Berne, forklarer kommunikasjon som samspill mellom tre jeg-tilstander: Foreldre-jeget (normer og erfaringer), Voksen-jeget (logisk og vurderende), og Barne-jeget (følelsestyrt og spontan). Komplementære transaksjoner der svaret passer til henvendelsen (som voksen-til-voksen) fungerer godt, mens kryssende transaksjoner der svaret kommer fra uventet jeg-tilstand kan bryte kommunikasjonen."
   },
@@ -326,12 +326,12 @@
     "section": "Kap4.4",
     "question": "Hva betyr 'Jeg er OK - du er OK' i transaksjonanalyse?",
     "options": [
-      "En holdning som bare fungerer i formelle møter",
       "En sunn og balansert holdning der begge parter møtes med respekt og forståelse",
-      "At en person alltid har rett",
-      "At all kommunikasjon er perfekt og uten problemer"
+      "At all kommunikasjon er perfekt og uten problemer",
+      "En holdning som bare fungerer i formelle møter",
+      "At en person alltid har rett"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "shortExplanation": "'Jeg er OK - du er OK' er en sunn kommunikasjonsholdning.",
     "explanation": "I transaksjonanalyse er 'Jeg er OK - du er OK' et mål for all god kommunikasjon. Det representerer en sunn og balansert holdning der begge parter møtes med respekt og forståelse. Dette står i kontrast til andre posisjoner som 'Jeg er OK - du er ikke OK' (dominerende), 'Jeg er ikke OK - du er OK' (usikker) eller 'Jeg er ikke OK - du er ikke OK' (pessimistisk). En samtale preget av denne posisjonen er ofte effektiv og konstruktiv."
   },
@@ -340,12 +340,12 @@
     "section": "Kap4.5",
     "question": "Hva er samtale-intelligens?",
     "options": [
-      "Evnen til å forstå og tilpasse seg andre, lese situasjoner, vise empati og kommunisere hensiktsmessig",
-      "Evnen til å snakke fort og effektivt",
       "En form for kommunikasjon som bare brukes i politikk",
-      "En test som viser hvor smart man er"
+      "En test som viser hvor smart man er",
+      "Evnen til å forstå og tilpasse seg andre, lese situasjoner, vise empati og kommunisere hensiktsmessig",
+      "Evnen til å snakke fort og effektivt"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "shortExplanation": "Samtale-intelligens er evnen til å forstå og tilpasse seg andre.",
     "explanation": "Samtale-intelligens er evnen til å forstå og tilpasse seg andre mennesker, lese situasjoner korrekt, vise empati og kommunisere hensiktsmessig i ulike sammenhenger. Det handler om å være sensitiv overfor andres behov og følelser, og å justere egen kommunikasjonsstil deretter. Denne intelligensen er sentral for å skape god kommunikasjon og sterke relasjoner i grupper."
   }
