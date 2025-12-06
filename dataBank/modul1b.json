@@ -294,20 +294,6 @@
     "explanation": "Storming-fasen er konfliktfasen der uenigheter og rolleavklaringer oppstår. Dette er en naturlig fase som må håndteres for at gruppen skal vokse\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
   {
-    "id": 22,
-    "section": "2.22",
-    "question": "Hvordan kan prosjektlederrollen beskrives?",
-    "options": [
-      "Noe som kun forekommer i store organisasjoner",
-      "En aktivitet uten betydning i grupper",
-      "At den skal koordinere, lede og følge opp",
-      "En prosess som skjer tilfeldig uten mønster"
-    ],
-    "answerIndex": 0,
-    "shortExplanation": "Prosjektlederrollen handler om å koordinere, lede og følge opp prosjektet.",
-    "explanation": "Prosjektlederrollen innebærer å koordinere, lede og følge opp prosjektet, og sikre at målene nås innenfor ressursrammene."
-  },
-  {
     "id": 23,
     "section": "2.23",
     "question": "Hvorfor oppstår prosjekter?",
@@ -334,34 +320,6 @@
     "answerIndex": 3,
     "shortExplanation": "Forming-fasen oppstår når teamet blir kjent og orienterer seg.",
     "explanation": "Forming-fasen er orienteringsfasen der gruppen dannes, og medlemmene blir kjent og orienterer seg om oppgaven og roller\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
-  },
-  {
-    "id": 25,
-    "section": "2.25",
-    "question": "Når kan storming-fasen typisk oppstå?",
-    "options": [
-      "At uenigheter og rolleavklaringer oppstår",
-      "En aktivitet uten betydning i grupper",
-      "Noe som kun forekommer i store organisasjoner",
-      "En prosess som skjer tilfeldig uten mønster"
-    ],
-    "answerIndex": 2,
-    "shortExplanation": "Storming-fasen oppstår når uenigheter og rolleavklaringer skjer.",
-    "explanation": "Storming-fasen er konfliktfasen der uenigheter og rolleavklaringer oppstår. Dette er en naturlig fase som må håndteres for at gruppen skal vokse\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
-  },
-  {
-    "id": 26,
-    "section": "2.26",
-    "question": "Hva kjennetegner kan unike leveranser beskrives?",
-    "options": [
-      "At prosjektet skal skape noe nytt",
-      "En aktivitet uten betydning i grupper",
-      "En prosess som skjer tilfeldig uten mønster",
-      "Noe som kun forekommer i store organisasjoner"
-    ],
-    "answerIndex": 3,
-    "shortExplanation": "Unike leveranser betyr at prosjektet skaper noe nytt.",
-    "explanation": "Prosjekter kjennetegnes ved at de skal føre til et unikt resultat, som et nytt produkt, tjeneste eller løsning. Dette skiller prosjekter fra rutinearbeid."
   },
   {
     "id": 27,

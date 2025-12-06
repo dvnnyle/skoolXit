@@ -239,7 +239,7 @@
   },
   {
     "id": 18,
-    "section": "1.18",
+    "section": "Kap2.4",
     "question": "Hva er en referansegruppe?",
     "options": [
       "En gruppe som medlemmene tilhører og bruker til å dele informasjon med hverandre",
@@ -322,20 +322,6 @@
     "explanation": "Sekundærgrupper som skoleklasser, arbeidsgrupper eller idrettslag kjennetegnes av mindre personlige relasjoner, samarbeid basert på mål og interesser, og oftere tidsbegrenset varighet. De er særlig viktige for læring, samarbeid og prestasjon. I motsetning til primærgrupper er sekundærgrupper mer oppgaveorientert og praktisk."
   },
   {
-    "id": 24,
-    "section": "Kap2.4",
-    "question": "Hva er en referansegruppe?",
-    "options": [
-      "En gruppe man må være medlem av for at den påvirker oss",
-      "En gruppe man bruker som sammenligningsgrunnlag og som påvirker våre holdninger og atferd, selv om man ikke nødvendigvis er medlem",
-      "En gruppe som bare henvises til i dokumenter",
-      "En gruppe som kun brukes i akademiske studier"
-    ],
-    "answerIndex": 3,
-    "shortExplanation": "Referansegruppe påvirker oss selv om vi ikke er medlem.",
-    "explanation": "En referansegruppe er en gruppe man bruker som sammenligningsgrunnlag for sine holdninger og atferd, selv om man ikke nødvendigvis er medlem. Dette kan være kjendiser, fagmiljøer, forbilder eller grupper man aspirerer til å være del av. Referansegrupper påvirker vår selvbilde og våre mål."
-  },
-  {
     "id": 25,
     "section": "Kap2.5",
     "question": "Hva er et sosialt nettverk?",
@@ -376,20 +362,6 @@
     "answerIndex": 0,
     "shortExplanation": "Symmetriske forhold betyr lik innflytelse og viktige oppgaver.",
     "explanation": "I symmetriske forhold har medlemmene omtrent lik innflytelse og ansvar for like viktige oppgaver. Dette kontrasterer med komplementære forhold hvor medlemmene har ulike styrker og dominerer på ulike områder. Symmetriske forhold kan skape likevekt men også konkurranse, mens komplementære forhold kan skape balanse eller konflikt."
-  },
-  {
-    "id": 28,
-    "section": "Kap2.8",
-    "question": "Hva er sosial fasilitering?",
-    "options": [
-      "Når noen yter mindre i en gruppe fordi ansvaret blir delt",
-      "Når tilstedeværelsen av andre påvirker prestasjonen vår, ofte positivt ved å gjøre oss mer effektive",
-      "En teknikk for å organisere møter",
-      "En metode for å eliminere konflikter"
-    ],
-    "answerIndex": 3,
-    "shortExplanation": "Sosial fasilitering er når andre tilstedeværelse påvirker oss positivt.",
-    "explanation": "Sosial fasilitering henviser til at tilstedeværelsen av andre kan påvirke prestasjonen vår - ofte positivt ved at vi blir mer effektive eller skjerper oss når andre ser på. Dette skjer fordi oppmerksomheten på oss stimulerer prestasjon. Det motsatte fenomenet er sosial loafing, som oppstår når noen yter mindre fordi ansvaret blir delt eller uklart."
   },
   {
     "id": 29,

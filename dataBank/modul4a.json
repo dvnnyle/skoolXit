@@ -126,20 +126,6 @@
     "explanation": "Dual lojalitet er situasjonen der prosjektmedarbeidere har lojalitet til både prosjektlederen og sin linjeleder i basisorganisasjonen. Dette kan skape utfordringer for prosjektlederen og krever klar kommunikasjon, gjensidig respekt og forhandlingsevne for å unngå lojalitetskonflikter. Det er en viktig utfordring i moderne prosjekter."
   },
   {
-    "id": 10,
-    "section": "Kap6.10",
-    "question": "Hva er tidslederskap?",
-    "options": [
-      "Evnen til å kontrollere tiden for alle møter",
-      "Evnen til å håndtere tidspress uten å skape stress, gjennom realistiske mål og optimalt spenningsnivå",
-      "En metode for å gjøre prosjekter raskere",
-      "Noe som bare handler om planlegging"
-    ],
-    "answerIndex": 1,
-    "shortExplanation": "Tidslederskap handler om å håndtere tidspress konstruktivt.",
-    "explanation": "Tidslederskap er evnen til å håndtere tidspress uten å skape stress. God tidslederskap innebærer realistiske delmål og milepæler, balansering mellom plan og fleksibilitet, opplevelse av fremdrift og mestring i teamet. Tidspress følger en omvendt U-formet funksjon - for lite tidspress fører til lav motivasjon, mens for mye gir stress og feil. En dyktig prosjektleder skaper et optimalt spenningsnivå."
-  },
-  {
     "id": 11,
     "section": "Kap6.11",
     "question": "Hva betyr det at ledelse er en mellommenneskelig prosess?",
@@ -278,20 +264,6 @@
     "answerIndex": 1,
     "shortExplanation": "Optimal tidspress gir best resultater - ikke for mye, ikke for lite.",
     "explanation": "Tidspress følger en omvendt U-formet funksjon: for lite tidspress fører til lav motivasjon og produktivitet, mens for mye tidspress fører til stress, feil og utbrenthet. Den optimale posisjonen er i midten, hvor teamet arbeider effektivt men bærekraftig. En dyktig prosjektleder skaper dette optimale spenningsnivået gjennom realistiske mål og god balansering av ressurser."
-  },
-  {
-    "id": 21,
-    "section": "Kap6.3",
-    "question": "Hva er instruerende lederstil og når brukes den?",
-    "options": [
-      "En stil som brukes i alle faser av prosjektet",
-      "En stil hvor lederen setter klare rammer, mål og gir retning - viktig i forming-fasen",
-      "En stil som ignorerer struktur og planlegging",
-      "En aggressiv form for ledelse"
-    ],
-    "answerIndex": 2,
-    "shortExplanation": "Instruerende ledelse gir struktur og retning i forming-fasen.",
-    "explanation": "Instruerende lederstil er en lederstil hvor lederen setter klare rammer, mål og gir tydelig retning for arbeidet. Denne stilen er særlig viktig i forming-fasen når teamet dannes og trenger orientering. Lederen fokuserer på organisering, planlegging og administrasjon, og sørger for at alle forstår oppgaven, rammebetingelsene og rollene. Denne tryggheten og klarheten er essensielt når teamet er nytt og usikkert."
   },
   {
     "id": 22,

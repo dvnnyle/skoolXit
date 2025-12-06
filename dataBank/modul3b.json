@@ -1,33 +1,5 @@
 [
   {
-    "id": 1,
-    "section": "Kap5.1",
-    "question": "Hva handler norming-fasen om i prosjektets utvikling?",
-    "options": [
-      "En fase der prosjektet avsluttes og alle går videre til nye oppgaver",
-      "En fase preget av konflikter og maktkamp som må løses",
-      "En fase der gruppen etablerer felles normer, verdier og prosjektkultur",
-      "En fase der prosjektet knapt har startet og medlemmene er veldig usikre"
-    ],
-    "answerIndex": 2,
-    "shortExplanation": "Norming-fasen handler om etablering av felles normer og samhold.",
-    "explanation": "Norming-fasen er en fase der prosjektgruppen utvikler felles normer og verdier, etablerer en tydelig prosjektkultur, bygger samhold og tillit, og utvikler felles arbeidsmåter. Tidligere konflikter fra storming-fasen er håndtert, og gruppen begynner å fungere som en enhet. Dette er en stabiliseringsfase som er avgjørende for at prosjektet skal kunne fungere effektivt\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
-  },
-  {
-    "id": 2,
-    "section": "Kap5.2",
-    "question": "Hva karakteriserer performing-fasen?",
-    "options": [
-      "En fase preget av usikkerhet og lite samarbeid mellom medlemmene",
-      "En fase preget av produksjon, ferdigstilling av leveranser og høy effektivitet",
-      "En fase som fokuserer kun på planlegging og ikke på gjennomføring",
-      "En fase der prosjektet blir avsluttet og alle leveranser er levert"
-    ],
-    "answerIndex": 3,
-    "shortExplanation": "Performing-fasen er kjernefasen der hovedarbeidet utføres effektivt.",
-    "explanation": "Performing-fasen er kjernefasen i prosjektet, preget av produksjon, ferdigstilling av leveranser, fokus på tid, kvalitet og kostnad, og høy grad av selvstendighet og effektivitet. Her er teamet på sitt mest produktive og kan levere resultater uten samme grad av lederstøtte som tidligere. Dette er hvor prosjektet faktisk oppnår sitt formål\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
-  },
-  {
     "id": 3,
     "section": "Kap5.3",
     "question": "Hva betyr styring i prosjekter?",
@@ -306,20 +278,6 @@
     "answerIndex": 2,
     "shortExplanation": "Aktivitetskontroll fokuserer på prosessen og måten arbeidet gjøres på.",
     "explanation": "Aktivitetskontroll eller atferdskontroll fokuserer på HVORDAN arbeidet gjøres - gjennom rapportering, møter, arbeidsrutiner og observasjon. Denne kontrollformen brukes når det er viktig at arbeidet gjøres på en bestemt måte, for eksempel innen sikkerhet, kvalitetsstandard eller lovverk. Den krever mer oppfølging fra lederen enn resultatkontroll, men sikrer at prosessen følger Best Practice. (Se 'Aktivitetskontroll' i Kap 5)"
-  },
-  {
-    "id": 23,
-    "section": "Kap5.5",
-    "question": "Hva er klankontroll?",
-    "options": [
-      "En streng og sentralisert form for kontroll",
-      "En desentralisert form for kontroll basert på felles kultur, tillit og sosiale normer",
-      "En form for kontroll som ikke virker i moderne prosjekter",
-      "Det samme som resultatkontroll"
-    ],
-    "answerIndex": 0,
-    "shortExplanation": "Klankontroll er desentralisert og basert på kultur og tillit.",
-    "explanation": "Klankontroll er en desentralisert form for kontroll som bygger på felles kultur, tillit, uformelle normer og sosial kontroll. I stedet for at lederen overvåker hver detalj, opprettholder gruppen selv disiplin og kvalitet gjennom felles verdier og normer. Denne formen brukes når både mål og arbeidsprosesser er UKLARE, og teamet må løse ting selv. Den forutsetter høy tillit og en sterk kultur. (Se 'Klankontroll' i Kap 5)"
   },
   {
     "id": 24,
