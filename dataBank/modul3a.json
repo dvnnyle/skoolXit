@@ -4,10 +4,10 @@
     "section": "Kap7.1",
     "question": "Hva handler læring i grupper om?",
     "options": [
-      "En metode for å teste medlemmenes evne til å arbeide selvstendig",
-      "En prosess der kun leder tilegner seg ny kunnskap som deretter gis til gruppen",
       "Når deltakerne tilegner seg ny kunnskap i felleskap, deler erfaringer og reflekterer sammen",
-      "En form for individuell læring som foregår parallelt med andre mennesker"
+      "En metode for å teste medlemmenes evne til å arbeide selvstendig",
+      "En form for individuell læring som foregår parallelt med andre mennesker",
+      "En prosess der kun leder tilegner seg ny kunnskap som deretter gis til gruppen"
     ],
     "answerIndex": 0,
     "shortExplanation": "Læring i grupper er en fellesfenomen der medlemmer tilegner seg kunnskap sammen.",
@@ -18,12 +18,12 @@
     "section": "Kap7.2",
     "question": "Hva er sosial læringsteori basert på?",
     "options": [
-      "Teorier om hvordan mennesker presterer individuelt under press",
+      "Læring gjennom formelle dokumenter og lærebøker alene",
       "Automatiske prosesser som ikke krever bevissthet eller refleksjon",
       "Prinsippene om observasjon, imitasjon og samhandling med andre",
-      "Læring gjennom formelle dokumenter og lærebøker alene"
+      "Teorier om hvordan mennesker presterer individuelt under press"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Sosial læring oppstår gjennom observasjon, imitasjon og samhandling.",
     "explanation": "Sosial læringsteori vektlegger at mennesker lærer gjennom observasjon, imitasjon og samhandling. Når man deltar i en gruppe, blir andres erfaring og perspektiver en viktig læringskilde. Gjennom diskusjoner, felles problemløsing og tilbakemeldinger utvikles felles mentale modeller - en felles forståelse av hvordan ting skal gjøres. Dette gjør det lettere å koordinere og samhandle."
   },
@@ -32,12 +32,12 @@
     "section": "Kap7.3",
     "question": "Hva er aksjonslæring?",
     "options": [
-      "En kombinasjon av handling og refleksjon som fører til kontinuerlig forbedring",
-      "En prosess der man først lærer alt teorien før man handler",
       "En metode for å evaluere medlemmenes fysiske styrke og bevegelighet",
-      "En læringsstil der medlemmene observerer andre uten selv å delta"
+      "En prosess der man først lærer alt teorien før man handler",
+      "En læringsstil der medlemmene observerer andre uten selv å delta",
+      "En kombinasjon av handling og refleksjon som fører til kontinuerlig forbedring"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Aksjonslæring kombinerer handling og refleksjon for kontinuerlig forbedring.",
     "explanation": "Aksjonslæring handler om å kombinere handling og refleksjon - tenke over hva man har gjort, hvordan det ble slik og hva man kan gjøre annerledes neste gang. Ved å kombinere handling og refleksjon oppstår kontinuerlig forbedring. Etter hvert utvikler gruppen en slags kollektiv erfaring - en organisatorisk hukommelse - som gjør det lettere å møte nye utfordringer."
   },
@@ -46,10 +46,10 @@
     "section": "Kap7.4",
     "question": "Hvilken rolle spiller kommunikasjon i læring i grupper?",
     "options": [
-      "Effektiv kommunikasjon gjennom åpen dialog og feedback er grunnlaget for læring",
       "Kommunikasjon brukes kun for å dele rutiner og regler",
-      "Kommunikasjon er mindre viktig fordi læring hovedsakelig er individuell",
-      "Kommunikasjon hindrer læring fordi den tar tid fra praktisk arbeid"
+      "Kommunikasjon hindrer læring fordi den tar tid fra praktisk arbeid",
+      "Effektiv kommunikasjon gjennom åpen dialog og feedback er grunnlaget for læring",
+      "Kommunikasjon er mindre viktig fordi læring hovedsakelig er individuell"
     ],
     "answerIndex": 2,
     "shortExplanation": "Kommunikasjon er grunnlaget for læring i grupper gjennom åpen dialog.",
@@ -60,10 +60,10 @@
     "section": "Kap7.5",
     "question": "Hva er en læringskultur i en gruppe?",
     "options": [
-      "En test som medlemmene må bestå for å bli del av gruppen",
-      "En regel som leder bestemmer for hvordan medlemmene skal oppføre seg",
+      "En felles holdning om at læring er verdifull og kontinuerlig",
       "En prosess der kun de beste medlemmene får mulighet til å lære",
-      "En felles holdning om at læring er verdifull og kontinuerlig"
+      "En test som medlemmene må bestå for å bli del av gruppen",
+      "En regel som leder bestemmer for hvordan medlemmene skal oppføre seg"
     ],
     "answerIndex": 0,
     "shortExplanation": "Læringskultur er en felles holdning om verdien av kontinuerlig læring.",
@@ -74,10 +74,10 @@
     "section": "Kap7.6",
     "question": "Hvilke faktorer fremmer læring i grupper?",
     "options": [
-      "Klare mål, mangfold, struktur, trygghet, tid til refleksjon og aksept for feil",
-      "Minimalt samarbeid slik at hver person fokuserer på sin egen oppgave",
       "Streng overvåking av medlemmenes arbeid og hyppige straffer",
-      "Høy konkurranse mellom medlemmene for å øke prestasjoner"
+      "Klare mål, mangfold, struktur, trygghet, tid til refleksjon og aksept for feil",
+      "Høy konkurranse mellom medlemmene for å øke prestasjoner",
+      "Minimalt samarbeid slik at hver person fokuserer på sin egen oppgave"
     ],
     "answerIndex": 1,
     "shortExplanation": "Læring fremmes av klare mål, mangfold, trygghet og aksept for feil.",
@@ -88,12 +88,12 @@
     "section": "Kap7.7",
     "question": "Hvordan blir individuell læring til kollektiv læring?",
     "options": [
-      "Kun leder kan konvertere individuell læring til kollektiv læring",
-      "Individuell læring blir automatisk kollektiv når man er i en gruppe",
+      "Individuell læring blir kollektiv når den deles og tas i bruk av gruppen",
       "Individuell læring kan aldri bli kollektiv læring fordi de er ulike prosesser",
-      "Individuell læring blir kollektiv når den deles og tas i bruk av gruppen"
+      "Individuell læring blir automatisk kollektiv når man er i en gruppe",
+      "Kun leder kan konvertere individuell læring til kollektiv læring"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "shortExplanation": "Individuell læring blir kollektiv når den deles og integreres i gruppens praksis.",
     "explanation": "Individuell læring blir kollektiv læring når den deles og tas i bruk av gruppen. Kunnskap som først er personlig, blir kommunisert, delt og integrert i gruppens praksis for å få verdi for fellesskapet. Et eksempel er når et medlem finner en ny løsning på et problem, og teamet tar det i bruk som felles metode. Da har gruppen lært kollektivt."
   },
@@ -102,12 +102,12 @@
     "section": "Kap7.8",
     "question": "Hvilken betydning har små seiere i læring i grupper?",
     "options": [
-      "Små seiere er ikke viktige fordi det kun er sluttkresultat som teller",
       "Små seiere er kun relevant for individuelle presterer, ikke for gruppe",
+      "Små seiere er ikke viktige fordi det kun er sluttkresultat som teller",
       "Små seiere hindrer gruppen fra å fokusere på større mål",
       "Små seiere skaper motivasjon, mestring og forsterker læringen i gruppen"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Små seiere skaper motivasjon og forsterker læring og selvtillit i teamet.",
     "explanation": "Akkurat som i normings-fasen, spiller små seire en viktig rolle også i læring. Når gruppen oppnår delmål og reflekterer sammen over dem, skaper det motivasjon og følelse av mestring. Dette forsterker læringen og bygger selvtillit i teamet. Små seire gir positive erfaringer som motiverer videre innsats og læring."
   },
@@ -117,11 +117,11 @@
     "question": "Hva er det sentrale ved teamarbeid?",
     "options": [
       "At medlemmene konkurrerer mot hverandre for å få de beste oppgavene",
-      "Flere mennesker samarbeider for å nå et felles mål gjennom ulike perspektiver",
       "At hver medlem arbeider isolert på sin oppgave uten kommunikasjon",
+      "Flere mennesker samarbeider for å nå et felles mål gjennom ulike perspektiver",
       "At leder gjør alle beslutningene mens medlemmene bare følger instruksjoner"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Teamarbeid handler om samarbeid for å nå felles mål med diverse perspektiver.",
     "explanation": "Teamarbeid er en arbeidsform der flere mennesker samarbeider for å nå et felles mål. I prosjekter og organisasjoner er et team den vanligste måten å løse komplekse oppgaver på, fordi den kombinerer ulike perspektiver, ferdigheter og erfaringer. Dette gjør det mulig å løse problemer som enkeltpersoner ikke kunne løst alene."
   },
@@ -130,10 +130,10 @@
     "section": "Kap8.2",
     "question": "Hvilke sentrale trekk kjennetegner et godt team?",
     "options": [
-      "At all kommunikasjon går gjennom lederen, ikke direkte mellom medlemmer",
       "Felles mål, klare roller, gjensidig avhengighet, kommunikasjon og tillit",
-      "At medlemmene er så like som mulig i personlighet og bakgrunn",
-      "Kun at lederen er dyktig og har all makt i avgjørelser"
+      "Kun at lederen er dyktig og har all makt i avgjørelser",
+      "At all kommunikasjon går gjennom lederen, ikke direkte mellom medlemmer",
+      "At medlemmene er så like som mulig i personlighet og bakgrunn"
     ],
     "answerIndex": 0,
     "shortExplanation": "Et team kjennetegnes av felles mål, klare roller, gjensidig avhengighet og tillit.",
@@ -144,8 +144,8 @@
     "section": "Kap8.3",
     "question": "Hva er synergier i teamarbeid?",
     "options": [
-      "Konflikter som oppstår mellom medlemmer med ulike meninger",
       "Strukturer og regler som teamet må følge",
+      "Konflikter som oppstår mellom medlemmer med ulike meninger",
       "Resultater som er bedre enn summen av individuelle bidrag",
       "En form for leder som styrer alle medlemmenes handlinger"
     ],
@@ -158,12 +158,12 @@
     "section": "Kap8.4",
     "question": "Hvilke ulike roller kan finnes i et velfungerende team?",
     "options": [
-      "Produksjon, administrasjon, integrasjon og entreprenørskap",
       "Alle medlemmer må ha den samme rollen for å unngå forvirring",
-      "Kun leder og arbeidere uten andre spesialiserte roller",
-      "Rolle er irrelevant i moderne teamarbeid"
+      "Produksjon, administrasjon, integrasjon og entreprenørskap",
+      "Rolle er irrelevant i moderne teamarbeid",
+      "Kun leder og arbeidere uten andre spesialiserte roller"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "shortExplanation": "Et team har roller som produksjon, administrasjon, integrasjon og entreprenørskap.",
     "explanation": "Et velfungerende team har ulike roller som utfyller hverandre. Disse kan omfatte produksjon (fremdrift og utførelse og leveranse), administrasjon (struktur, planlegging og oppfølging), integrasjon (samhold, kommunikasjon og relasjoner), og entreprenørskap (nytenking og utfordringer av etablerte ideer). Når tilliten er høy, oppstår psykologisk trygghet som gjør at teammedlemmer tør å dele ideer og innrømme feil."
   },
@@ -172,12 +172,12 @@
     "section": "Kap8.5",
     "question": "Hva er betydningen av tillit i teamarbeid?",
     "options": [
-      "Tillit er irrelevant hvis lederen er sterk og mektig",
-      "Tillit kan bare bygges gjennom formelle sertifikater og tester",
       "Tillit er selve limet i teamarbeid som gjør samarbeid mulig",
-      "Tillit er mindre viktig fordi det er resultater som teller"
+      "Tillit kan bare bygges gjennom formelle sertifikater og tester",
+      "Tillit er mindre viktig fordi det er resultater som teller",
+      "Tillit er irrelevant hvis lederen er sterk og mektig"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "shortExplanation": "Tillit er selve limet som gjør deling og samarbeid mulig i teamet.",
     "explanation": "Tillit er selve limet i teamarbeid. Den gjør det mulig å dele informasjon, be om hjelp og håndtere uenighet uten frykt. Ulike former for tillit spiller inn: oppstartstillit basert på roller og forventninger, interpersonlig tillit som bygges over tid gjennom samarbeid og ærlighet, og systemtillit som bygger på rettferdige rutiner, struktur og tydelige spilleregler. Når tilliten er høy, oppstår psykologisk trygghet som er avgjørende for læring og innovasjon."
   },
@@ -186,12 +186,12 @@
     "section": "Kap8.6",
     "question": "Hva karakteriserer god kommunikasjon i team?",
     "options": [
-      "At all informasjon kontrolleres av leder før den deles",
-      "Åpen og ærlig kommunikasjon, aktiv lytting, jevn taletid og konstruktiv håndtering av uenighet",
       "At kun de med høyest status får snakke i møter",
+      "Åpen og ærlig kommunikasjon, aktiv lytting, jevn taletid og konstruktiv håndtering av uenighet",
+      "At all informasjon kontrolleres av leder før den deles",
       "At kommunikasjon minimeres for å spare tid"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "shortExplanation": "God kommunikasjon kjennetegnes av åpenhet, aktiv lytting og konstruktivitet.",
     "explanation": "God kommunikasjon er kjernen i alt teamarbeid. Effektive team kjennetegnes av åpen og ærlig kommunikasjon, aktiv lytting og respekt for andres synspunkt, jevn fordeling av taletid, konstruktiv håndtering av uenighet, og tydelig informasjonsflyt. Når kommunikasjonen fungerer, øker både kvaliteten på beslutninger og trivselen i teamet."
   },
@@ -200,12 +200,12 @@
     "section": "Kap8.7",
     "question": "Hvordan påvirker mangfold teamets arbeid?",
     "options": [
-      "Kun mennesker med samme bakgrunn og personlighet fungerer bra i team",
-      "Mangfold hindrer teamet fra å jobbe effektivt og skaper bare problemer",
+      "Mangfold kan føre til kreativitet og bredere perspektiver, men krever inkluderende ledelse",
       "Mangfold er bare kosmetisk og påvirker ikke resultater",
-      "Mangfold kan føre til kreativitet og bredere perspektiver, men krever inkluderende ledelse"
+      "Mangfold hindrer teamet fra å jobbe effektivt og skaper bare problemer",
+      "Kun mennesker med samme bakgrunn og personlighet fungerer bra i team"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "shortExplanation": "Mangfold fører til kreativitet, men krever inkluderende ledelse og respekt.",
     "explanation": "Et godt team består ofte av mennesker med ulik bakgrunn, fagkompetanse, alder og personlighet. Mangfold kan føre til kreativitet og bredere perspektiver, men krever inkluderende ledelse for å unngå misforståelser og konflikter. Mangfoldets styrke ligger i evnen til å kombinere ulike måter å tenke på, forutsatt at det finnes respekt og felles mål."
   },
@@ -214,12 +214,12 @@
     "section": "Kap8.8",
     "question": "Hvordan lærer team kontinuerlig av sine erfaringer?",
     "options": [
+      "Team lærer automatisk uten behov for bevisst refleksjon",
       "Team lærer ikke fordi fokus ligger på det daglige arbeidet",
-      "Gjennom refleksjon, evaluering, tilbakemeldinger og en kultur for kontinuerlig forbedring",
       "Kun leder har ansvar for å lære av erfaringer og dele dem med teamet",
-      "Team lærer automatisk uten behov for bevisst refleksjon"
+      "Gjennom refleksjon, evaluering, tilbakemeldinger og en kultur for kontinuerlig forbedring"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Team lærer gjennom refleksjon, evaluering og en felles læringskultur.",
     "explanation": "Effektive team lærer kontinuerlig av erfaringene sine. Gjennom refleksjon, evaluering og tilbakemeldinger utvikles en felles læringskultur. Dette forutsetter trygghet til å gi og ta imot kritikk, åpenhet om feil og forbedringsområder, og feiring av små seire og anerkjennelse av fremgang. Slik blir teamet stadig bedre - ikke bare i resultat, men også i samarbeid."
   },
@@ -228,12 +228,12 @@
     "section": "Kap8.9",
     "question": "Hvilke ansvar har en god teamleder?",
     "options": [
-      "Å ta alle beslutninger og gi medlemmene enkle ordre å følge",
       "Å minimere sin rolle slik at medlemmene helt på egen hånd bestemmer alt",
       "Å fokusere kun på resultat og ignorere menneske relasjonene",
-      "Å klargjøre mål, skape trygghet, tilrettelegge for læring og håndtere konflikter"
+      "Å klargjøre mål, skape trygghet, tilrettelegge for læring og håndtere konflikter",
+      "Å ta alle beslutninger og gi medlemmene enkle ordre å følge"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "shortExplanation": "En god leder klargjør mål, skaper trygghet og tilrettelegger for læring.",
     "explanation": "En god teamleder balanserer mellom å være strukturert og støttende. Lederen må klargjøre mål og forventninger, skape trygghet og tillit, tilrettelegge for læring og samarbeid, og håndtere konflikter og sørge for framdrift. Et effektivt team har ofte en desentralisert struktur, der medlemmene får frihet til å ta beslutninger innenfor sitt ansvarsområde - noe som øker eierskap og engasjement."
   },
@@ -242,12 +242,12 @@
     "section": "Kap8.10",
     "question": "Hva er psykologisk trygghet i et team?",
     "options": [
+      "Et formelt dokument som leder signerer for å beskytte medlemmene",
       "En tilstand hvor medlemmer tør å dele ideer, innrømme feil og ta risiko",
       "At medlemmene ikke har noen oppgaver eller ansvar å bære",
-      "Et formelt dokument som leder signerer for å beskytte medlemmene",
       "En situasjon hvor alle må være enige om alt for å opprettholde harmoni"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "shortExplanation": "Psykologisk trygghet gjør at medlemmer tør å dele ideer og innrømme feil.",
     "explanation": "Når tilliten er høy, oppstår psykologisk trygghet, som gjør at teammedlemmer tør å dele ideer og innrømme feil - som er avgjørende for læring og innovasjon. Psykologisk trygghet betyr at medlemmene føler seg trygge til å eksperimentere, ta risiko og være sårbare overfor hverandre uten frykt for negativ konsekvenser. Dette er fundamentalt for at team skal kunne lære, innovere og løse komplekse problemer sammen."
   },
@@ -256,12 +256,12 @@
     "section": "Kap8.11",
     "question": "Hvordan kombineres struktur og menneskelighet i effektive team?",
     "options": [
-      "Struktur og menneskelighet er motsatser som ikke kan kombineres",
       "Team fungerer best når de kombinerer struktur (mål og oppgaver) med relasjonsbygging",
       "Menneskelighet og følelser har ingen plass i profesjonelt teamarbeid",
+      "Struktur og menneskelighet er motsatser som ikke kan kombineres",
       "Kun struktur er viktig, menneskelighet kan ignoreres"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Effektive team kombinerer struktur med relasjonsbygging og menneskelighet.",
     "explanation": "Team fungerer best når de kombinerer struktur (tydelig mål og oppgaver) med relasjonsbygging (menneske: tillit, støtte og samhold). Denne balansen sikrer at teamet både leverer resultater og at medlemmene føler seg verdsatt og deler felles formål. Struktur gir retning og klarhet, mens relasjonsbygging gir motivasjon og samhold. Begge deler er nødvendige for et vellykket team."
   },
@@ -270,12 +270,12 @@
     "section": "Kap8.12",
     "question": "Hva er kjernen i vellykket prosjektgjennomføring?",
     "options": [
-      "At medlemmene arbeider så isolert som mulig for maksimal effektivitet",
-      "At teamet er både effektivt og motivert gjennom samhold og læring",
       "At resultater oppnås uansett kostnad for medlemmenes trivsel",
+      "At teamet er både effektivt og motivert gjennom samhold og læring",
+      "At medlemmene arbeider så isolert som mulig for maksimal effektivitet",
       "At prosjektleder har mest mulig makt og kontroll"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "shortExplanation": "Kjernen er et sterkt team med samhold, ansvar og evne til å lære sammen.",
     "explanation": "Arbeid i team handler om å kombinere menneskelige relasjoner, struktur og felles mål for å oppnå resultater som ingen kunne fått til alene. Gjennom åpen kommunikasjon, tillit, balanse mellom roller og læring, skapes team som er både effektive og motiverte. Et sterkt team kjennetegnes av samhold, ansvarsfølelse og evne til å lære sammen - dette er kjernen i all vellykket prosjektgjennomføring."
   },
@@ -284,12 +284,12 @@
     "section": "Kap7.5",
     "question": "Hva er aksjonslæring i prosjektsammenheng?",
     "options": [
-      "En handling uten læring eller refleksjon",
       "En type avsluttingssamtale",
-      "Kun teoretisk læring uten praksis",
-      "Kombinasjonen av handling og refleksjon for kontinuerlig forbedring"
+      "En handling uten læring eller refleksjon",
+      "Kombinasjonen av handling og refleksjon for kontinuerlig forbedring",
+      "Kun teoretisk læring uten praksis"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Aksjonslæring kombinerer handling og refleksjon for forbedring.",
     "explanation": "Aksjonslæring er en prosess der man kombinerer handling og refleksjon - man gjør noe, evaluerer det, lærer av det, og bruker innsikten til å forbedre. Ved å gjøre dette gjentatte ganger, oppstår kontinuerlig forbedring og organisatorisk hukommelse. Dette er avgjørende i prosjekter fordi det gjør teamet kfere til å møte nye utfordringer med kunnskap fra tidligere erfaringer. (Se 'Refleksjon og erfaring' i Kap 7)"
   },
@@ -298,12 +298,12 @@
     "section": "Kap7.6",
     "question": "Hvilken faktor er KRITISK for at læring skal oppstå i grupper?",
     "options": [
-      "At alle medlemmene er enige om alt",
-      "Tillit og trygghet - medlemmene må føle seg komfortable med å dele ideer og feile",
       "Nøyaktig definerte regler og streng kontroll",
-      "Stort budsjett og mange ressurser"
+      "Stort budsjett og mange ressurser",
+      "At alle medlemmene er enige om alt",
+      "Tillit og trygghet - medlemmene må føle seg komfortable med å dele ideer og feile"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Tillit og trygghet er fundamentet for læring og kunnskapsdeling.",
     "explanation": "Effektiv læring i grupper krever tillit og psykologisk trygghet. Medlemmene må føle seg komfortable med å dele ideer, stille spørsmål, og innrømme feil. Uten denne tryggheten vil usikkerhet og frykt hemme deling av kunnskap, og læringen stopper. En prosjektleder som skaper et klima av tillit og åpenhet, gjør teamet i stand til både å lære og å innovere. (Se 'Kommunikasjon som læringsverktøy' i Kap 7)"
   },
@@ -312,10 +312,10 @@
     "section": "Kap7.7",
     "question": "Hva karakteriserer en læringskultur?",
     "options": [
-      "Åpenhet for nye ideer, vilje til å gi og motta tilbakemeldinger, refleksjon og kunnskapsdeling",
+      "Medlemmene lærer bare individuelt, ikke sammen",
       "Fokus utelukkende på resultater, ikke læring",
-      "Kunnskapen holdes hemmelig for å opprettholde makt",
-      "Medlemmene lærer bare individuelt, ikke sammen"
+      "Åpenhet for nye ideer, vilje til å gi og motta tilbakemeldinger, refleksjon og kunnskapsdeling",
+      "Kunnskapen holdes hemmelig for å opprettholde makt"
     ],
     "answerIndex": 2,
     "shortExplanation": "Læringskultur handler om åpenhet, tilbakemelding og kunnskapsdeling.",
@@ -326,12 +326,12 @@
     "section": "Kap7.9",
     "question": "Hva handler læring i grupper først og fremst om?",
     "options": [
-      "Å utvikle felles forståelse og kompetanse gjennom samspill, refleksjon og kunnskapsdeling",
-      "Å eliminere uenigheter og tvil",
       "Å forbedre enkeltindividets kunnskaper uten å dele med andre",
-      "Å teste medlemmenes kunnskap gjennom prøver"
+      "Å teste medlemmenes kunnskap gjennom prøver",
+      "Å eliminere uenigheter og tvil",
+      "Å utvikle felles forståelse og kompetanse gjennom samspill, refleksjon og kunnskapsdeling"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Gruppelæring handler om felles forståelse gjennom samspill og refleksjon.",
     "explanation": "Læring i grupper innebærer at deltakerne tilegner seg ny kunnskap i felleskap, deler erfaringer, reflekterer sammen og omsetter innsikt til handling. Det fører ikke bare til faglig vekst, men også til felles forståelse, bedre samarbeid og sterke relasjoner. En gruppe som lærer sammen, utvikler seg selv som et lærende fellesskap som kan møte nye utfordringer med større kompetanse. (Se 'Oppsumering - Læring i grupper' i Kap 7)"
   }

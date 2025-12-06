@@ -5,11 +5,11 @@
     "question": "Hva er dynamisk prosjektledelse?",
     "options": [
       "En metode som bare fokuserer på økonomisk styring",
-      "En type ledelse som ikke krever fleksibilitet",
       "En lederstil som aldri endrer seg gjennom prosjektet",
+      "En type ledelse som ikke krever fleksibilitet",
       "Ledelse som tilpasser seg til prosjektets faser, gruppens modenhet og situasjonens krav"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Dynamisk ledelse tilpasser seg situasjonen og prosjektfasen.",
     "explanation": "Dynamisk prosjektledelse handler om å se prosjektledelsen som en tilpasningsprosess, en lederform som endrer seg i takt med prosjektets faser, gruppens modenhet og situasjonens krav. I motsetning til en statisk tilnærming, tar det dynamiske perspektivet utgangspunktet i at effektiv ledelse må være situasjonsavhengig og fleksibel. Prosjektledelse er både teknisk og relasjonell."
   },
@@ -18,10 +18,10 @@
     "section": "Kap6.2",
     "question": "Hva må en god prosjektleder mestre ifølge dynamisk ledelse?",
     "options": [
+      "Kun relasjonsledelse og motivasjon",
       "Bare teknisk prosjektledelse og planlegging",
       "Strukturell ledelse, relasjonsledelse og tidslederskap",
-      "Bare administrativ kontroll og rapportering",
-      "Kun relasjonsledelse og motivasjon"
+      "Bare administrativ kontroll og rapportering"
     ],
     "answerIndex": 0,
     "shortExplanation": "En god leder må mestre struktur, relasjoner og tidslederskap.",
@@ -32,9 +32,9 @@
     "section": "Kap6.3",
     "question": "Hva handler situasjonsavhengig perspektiv på ledelse om?",
     "options": [
-      "At ledelse bare handler om tekniske ferdigheter",
-      "At lederens stil må tilpasses prosjektets fase og teamets modenhet",
       "At situasjonen ikke påvirker lederstilen",
+      "At lederens stil må tilpasses prosjektets fase og teamets modenhet",
+      "At ledelse bare handler om tekniske ferdigheter",
       "At alle ledere skal bruke samme stil uavhengig av situasjonen"
     ],
     "answerIndex": 1,
@@ -46,10 +46,10 @@
     "section": "Kap6.4",
     "question": "Hva er instruerende lederstil og når brukes den?",
     "options": [
-      "En metode som bare brukes i små prosjekter",
-      "En lederstil med klare rammer og retning, viktig i forming-fasen",
       "En lederstil hvor lederen delegerer alt ansvar til teamet",
-      "En lederstil som ikke krever noen autoritet"
+      "En lederstil som ikke krever noen autoritet",
+      "En lederstil med klare rammer og retning, viktig i forming-fasen",
+      "En metode som bare brukes i små prosjekter"
     ],
     "answerIndex": 2,
     "shortExplanation": "Instruerende ledelse gir klare rammer, brukes i forming-fasen.",
@@ -60,9 +60,9 @@
     "section": "Kap6.5",
     "question": "Hva er relasjonsorientert ledelse og når er den viktig?",
     "options": [
-      "En metode som bare brukes når prosjektet er ferdig",
       "En lederstil som ikke krever noen kommunikasjon",
       "En lederstil med fokus på mennesker, sosiale forhold og konflikthåndtering, viktig i storming-fasen",
+      "En metode som bare brukes når prosjektet er ferdig",
       "En ledelse som ignorerer menneskelige relasjoner"
     ],
     "answerIndex": 1,
@@ -74,12 +74,12 @@
     "section": "Kap6.6",
     "question": "Hva er deltakende ledelse?",
     "options": [
-      "En lederstil hvor lederen involverer gruppen i beslutninger og fungerer som tilrettelegger",
-      "En lederstil hvor lederen tar alle beslutninger alene",
       "En ledelse som ignorerer gruppens meninger",
+      "En lederstil hvor lederen tar alle beslutninger alene",
+      "En lederstil hvor lederen involverer gruppen i beslutninger og fungerer som tilrettelegger",
       "En metode som ikke brukes i moderne organisasjoner"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "shortExplanation": "Deltakende ledelse involverer gruppen i beslutningene.",
     "explanation": "Deltakende lederstil er hvor lederen involverer gruppemedlemmene i beslutningsprosessen og fungerer mer som en tilrettelegger eller lagspiller. Den er vanligvis viktig i normering-fasen når gruppen finner sin form. Her utvikles psykologisk trygghet og felles ansvar, og profesjonell autoritet får større betydning."
   },
@@ -88,12 +88,12 @@
     "section": "Kap6.7",
     "question": "Hva er delegerende ledelse?",
     "options": [
-      "En lederstil hvor lederen er veldig involvert i alle oppgaver",
       "En lederstil hvor lederen gir teamet frihet og delegerer myndighet, brukt i performing-fasen",
+      "En metode som bare brukes av dårlige ledere",
       "En ledelse som krever konstant overvåking",
-      "En metode som bare brukes av dårlige ledere"
+      "En lederstil hvor lederen er veldig involvert i alle oppgaver"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "shortExplanation": "Delegerende ledelse gir teamet frihet og ansvar.",
     "explanation": "Delegerende lederstil er hvor lederen gir teamet frihet til å bestemme over seg selv og delegerer myndighet. Den er kjennetegnende for den modne 'performing'-fasen hvor teamet fungerer selvstendig. Prosjektledere trer mer i bakgrunnen som en grensevokter - som beskytter teamet mot ytre forstyrrelse og sikrer kontakt med eksterne interessenter."
   },
@@ -102,12 +102,12 @@
     "section": "Kap6.8",
     "question": "Hva er kilder til autoritet i prosjekter?",
     "options": [
+      "Bare formell autoritet gjennom tittel",
       "Bare lønn og økonomisk kontroll",
       "Formell, relasjonell, profesjonell og karismatisk autoritet",
-      "Kun karisma og personlighet",
-      "Bare formell autoritet gjennom tittel"
+      "Kun karisma og personlighet"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Autoritet i prosjekter kommer fra flere kilder.",
     "explanation": "Prosjektledere opererer ofte uten tradisjonell maktbase, så autoritet i prosjekter er sammensatt og kan bygge på flere kilder: formell autoritet gitt gjennom rolle og tittel, relasjonell autoritet som bygger på tillit og respekt, profesjonell autoritet basert på faglig kompetanse og erfaring, og karismatisk autoritet knyttet til lederens personlighet og evne til å inspirere."
   },
@@ -116,12 +116,12 @@
     "section": "Kap6.9",
     "question": "Hva er dual lojalitet og hvordan påvirker det prosjektledelse?",
     "options": [
-      "Situasjonen der medarbeidere rapporterer til både prosjektleder og linjeleder, noe som kan skape lojalitetskonflikter",
-      "Det betyr at lederen er lojal mot to ulike organisasjoner",
+      "En situasjon som aldri oppstår i praksis",
       "Noe som bare påvirker små prosjekter",
-      "En situasjon som aldri oppstår i praksis"
+      "Situasjonen der medarbeidere rapporterer til både prosjektleder og linjeleder, noe som kan skape lojalitetskonflikter",
+      "Det betyr at lederen er lojal mot to ulike organisasjoner"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Dual lojalitet oppstår når medarbeidere rapporterer til to ledere.",
     "explanation": "Dual lojalitet er situasjonen der prosjektmedarbeidere har lojalitet til både prosjektlederen og sin linjeleder i basisorganisasjonen. Dette kan skape utfordringer for prosjektlederen og krever klar kommunikasjon, gjensidig respekt og forhandlingsevne for å unngå lojalitetskonflikter. Det er en viktig utfordring i moderne prosjekter."
   },
@@ -131,11 +131,11 @@
     "question": "Hva betyr det at ledelse er en mellommenneskelig prosess?",
     "options": [
       "At ledelse ikke krever noen mellommenneskelig kontakt",
+      "At ledelse handler om å skape mening, bygge tillit, motivere og inspirere til selvledelse",
       "At ledelse bare handler om tekniske systemer",
-      "At ledelse bare er en administrativ funksjon",
-      "At ledelse handler om å skape mening, bygge tillit, motivere og inspirere til selvledelse"
+      "At ledelse bare er en administrativ funksjon"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "shortExplanation": "Ledelse som mellommenneskelig prosess fokuserer på mennesker og mening.",
     "explanation": "Dynamisk prosjektledelse forstår ledelse som en mellommenneskelig prosess, ikke bare en teknisk funksjon. Det handler om å skape mening for teamet, bygge tillit og felleskap, motivere gjennom visjoner, og inspirere til selvledelse og ansvar. Denne tilnærmingen ligger nær transformativ ledelse hvor lederen påvirker og motiverer gjennom verdier, engasjement og felles mål."
   },
@@ -144,12 +144,12 @@
     "section": "Kap6.12",
     "question": "Hva er transformativ ledelse?",
     "options": [
-      "En lederstil der lederen påvirker og motiverer gjennom verdier, engasjement og felles mål",
+      "En ledelse som fokuserer kun på oppgaver og kontroll",
       "En type ledelse som bare handler om lønnsystemer",
-      "En metode som ikke brukes i moderne prosjekter",
-      "En ledelse som fokuserer kun på oppgaver og kontroll"
+      "En lederstil der lederen påvirker og motiverer gjennom verdier, engasjement og felles mål",
+      "En metode som ikke brukes i moderne prosjekter"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Transformativ ledelse motiverer gjennom verdier og engasjement.",
     "explanation": "Transformativ ledelse er en lederstil der lederen påvirker og motiverer gjennom verdier, engasjement og felles mål. Det står i kontrast til transaksjonsledelse som har sterkere fokus på oppgaver, belønning og straff. Transformativ ledelse er særlig viktig i dynamisk prosjektledelse fordi den skaper mening og motivasjon som går utover bare oppgaveoppfyllelse."
   },
@@ -159,11 +159,11 @@
     "question": "Hva handler dynamisk prosjektledelse om ifølge oppsummeringen?",
     "options": [
       "Å bruke samme lederstil hele tiden",
-      "Å tilpasse lederstilen til situasjonen, kombinere struktur og fleksibilitet, formell og relasjonell tillit",
+      "Å ignorere gruppens behov",
       "Å fokusere bare på oppgaver og ikke mennesker",
-      "Å ignorere gruppens behov"
+      "Å tilpasse lederstilen til situasjonen, kombinere struktur og fleksibilitet, formell og relasjonell tillit"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "shortExplanation": "Dynamisk ledelse handler om tilpasning og balanse.",
     "explanation": "Dynamisk prosjektledelse handler om å tilpasse lederstilen til situasjonen, prosjektfasen og teamets behov. En effektiv prosjektleder kombinerer struktur og fleksibilitet, formell autoritet og relasjonell tillit, og oppgavefokus og menneskeforståelse. Det er en balanserte tilnærming som krever både teknisk og menneskelig kompetanse."
   },
@@ -173,11 +173,11 @@
     "question": "Hva er emosjonell intelligens i ledelse?",
     "options": [
       "En egenskap som ikke påvirker ledelse",
-      "Evnen til å ignorere følelser i arbeidet",
+      "Noe som bare handler om personlighet",
       "Evnen til å lese situasjonen, forstå gruppens behov og tilpasse lederstilen deretter",
-      "Noe som bare handler om personlighet"
+      "Evnen til å ignorere følelser i arbeidet"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Emosjonell intelligens handler om å lese situasjonen og tilpasse seg.",
     "explanation": "Emosjonell intelligens i ledelse er evnen til å lese situasjonen, forstå gruppens behov og tilpasse lederstilen deretter. Dette er essensielt for dynamisk prosjektledelse som krever kontinuerlig tilpasning. En leder med høy emosjonell intelligens kan oppfatte når gruppen trenger mer struktur, mer motivasjon eller mer delegering."
   },
@@ -187,9 +187,9 @@
     "question": "Hva er grensebok-rollen til prosjektlederen i performing-fasen?",
     "options": [
       "Å beskytte teamet mot ytre forstyrrelse og sikre kontakt med eksterne interessenter",
-      "Å delegere alt ansvar til teammedlemmene",
       "Å være veldig involvert i alle daglige oppgaver",
-      "Å ignorere det som skjer utenfor teamet"
+      "Å ignorere det som skjer utenfor teamet",
+      "Å delegere alt ansvar til teammedlemmene"
     ],
     "answerIndex": 0,
     "shortExplanation": "Grensevokteren beskytter teamet og kommuniserer utad.",
@@ -200,9 +200,9 @@
     "section": "Kap6.16",
     "question": "Hva er hovedtrekk ved dynamisk prosjektledelse sammenliknet med statisk ledelse?",
     "options": [
-      "Dynamisk ledelse tilpasser seg situasjonen, mens statisk antar samme stil fungerer alltid",
-      "Dynamisk ledelse er mindre fleksibel enn statisk ledelse",
       "Statisk ledelse er bedre for moderne prosjekter",
+      "Dynamisk ledelse er mindre fleksibel enn statisk ledelse",
+      "Dynamisk ledelse tilpasser seg situasjonen, mens statisk antar samme stil fungerer alltid",
       "Det er ingen forskjell mellom dem"
     ],
     "answerIndex": 1,
@@ -214,8 +214,8 @@
     "section": "Kap6.17",
     "question": "Hva handler balanse i dynamisk prosjektledelse om?",
     "options": [
-      "Å fokusere bare på struktur",
       "Bare å balansere budsjetter",
+      "Å fokusere bare på struktur",
       "Mellom oppgave og menneske, planlegging og improvisasjon, struktur og fleksibilitet",
       "Å ignorere planlegging"
     ],
@@ -228,9 +228,9 @@
     "section": "Kap6.18",
     "question": "Hvorfor er relasjonell autoritet viktig i prosjekter?",
     "options": [
-      "Fordi prosjektledere har stor makt gjennom tittel",
       "Fordi prosjektledere ofte mangler tradisjonell maktbase og må bygge autoritet på tillit",
       "Autoritet spiller ingen rolle i prosjekter",
+      "Fordi prosjektledere har stor makt gjennom tittel",
       "Bare formell autoritet er relevant"
     ],
     "answerIndex": 0,
@@ -242,10 +242,10 @@
     "section": "Kap6.19",
     "question": "Hva er utfordringer med dual lojalitet for prosjektlederen?",
     "options": [
-      "Det kan skape konflikter og krever klar kommunikasjon, respekt og forhandlingsevne",
-      "Det er ikke noen utfordringer",
       "Det påvirker bare små prosjekter",
-      "Det gjør prosjektledelsen lettere"
+      "Det er ikke noen utfordringer",
+      "Det gjør prosjektledelsen lettere",
+      "Det kan skape konflikter og krever klar kommunikasjon, respekt og forhandlingsevne"
     ],
     "answerIndex": 3,
     "shortExplanation": "Dual lojalitet skaper konflikter som krever håndtering.",
@@ -256,10 +256,10 @@
     "section": "Kap6.20",
     "question": "Hva betyr det at tidspress følger en omvendt U-formet funksjon?",
     "options": [
-      "At tidspress alltid er dårlig",
+      "At det er ingen sammenheng mellom tidspress og motivasjon",
       "At det aldri er nok tidspress",
       "At for lite tidspress gir lav motivasjon, mye tidspress gir stress, optimal nivå gir best resultater",
-      "At det er ingen sammenheng mellom tidspress og motivasjon"
+      "At tidspress alltid er dårlig"
     ],
     "answerIndex": 2,
     "shortExplanation": "Optimal tidspress gir best resultater - ikke for mye, ikke for lite.",
@@ -270,12 +270,12 @@
     "section": "Kap6.4",
     "question": "Hva er relasjonsorientert lederstil og når brukes den?",
     "options": [
-      "En stil med fokus på mennesker, kommunikasjon og konfliktløsning - viktig i storming-fasen",
-      "Det samme som instruerende lederstil",
+      "En stil som fokuserer kun på oppgaver",
       "En stil som unngår alle former for konflikt",
-      "En stil som fokuserer kun på oppgaver"
+      "Det samme som instruerende lederstil",
+      "En stil med fokus på mennesker, kommunikasjon og konfliktløsning - viktig i storming-fasen"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Relasjonsorientert ledelse fokuserer på mennesker og konflikthåndtering.",
     "explanation": "Relasjonsorientert lederstil fokuserer på mennesker, sosiale forhold og konflikthåndtering. Denne stilen blir særlig viktig i storming-fasen når uenigheter og spenninger oppstår. Lederen fungerer som en megler og bruker sine politiske ferdigheter til å balansere interesser og skape samhold. Her bygger autoriteten på tillit og respekt snarere enn bare formell posisjon. God kommunikasjon og emosjonell intelligens er nødvendig."
   },
@@ -285,11 +285,11 @@
     "question": "Hva karakteriserer deltakende lederstil?",
     "options": [
       "Lederen fungerer som tilrettelegger og involverer gruppemedlemmer i beslutninger",
-      "En stil som ikke fungerer i profesjonelle team",
       "Lederen bestemmer alt alene",
+      "En stil som ikke fungerer i profesjonelle team",
       "Lederen trekker seg helt ut av ledelsen"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Deltakende ledelse involverer teamet i beslutninger og styrker engasjement.",
     "explanation": "Deltakende lederstil er en lederstil hvor lederen involverer gruppemedlemmene i beslutningsprosesser og fungerer som en tilrettelegger eller lagspiller. Denne stilen er vanligvis viktig i norming-fasen når gruppen begynner å fungere som en enhet. Den styrker engasjement, eierskap og psykologisk trygghet. Her får profesjonell autoritet (basert på kompetanse) større betydning, og medlemmene tar mer medansvar."
   },
@@ -298,12 +298,12 @@
     "section": "Kap6.6",
     "question": "Hva er delegerende lederstil?",
     "options": [
+      "En stil hvor lederen tar all kontroll",
       "En stil som betyr lederen sluttet i jobben",
       "En stil hvor lederen gir teamet frihet og delegerer myndighet - karakteristisk for performing-fasen",
-      "En stil som ikke fungerer for komplekse prosjekter",
-      "En stil hvor lederen tar all kontroll"
+      "En stil som ikke fungerer for komplekse prosjekter"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Delegerende ledelse gir teamet frihet og ansvar i performing-fasen.",
     "explanation": "Delegerende lederstil er en lederstil hvor lederen gir teamet frihet til å bestemme over seg selv og delegerer myndighet og ansvar til medlemmene. Denne stilen er karakteristisk for den modne performing-fasen når teamet kan fungere selvstendig. Lederen trer mer i bakgrunnen som en 'grensevokter' som beskytter teamet fra ytre forstyrrelser og sikrer kontakt med eksterne interessenter."
   },
@@ -312,10 +312,10 @@
     "section": "Kap6.7",
     "question": "Hva er kilden til autoritet for en prosjektleder?",
     "options": [
+      "Kun formell autoritet gjennom tittel",
       "Flere kilder: formell, relasjonell, profesjonell og karismatisk autoritet",
-      "Prosjektledere har ingen autoritet",
       "Kun basert på hvor lang erfaring ledelsen har",
-      "Kun formell autoritet gjennom tittel"
+      "Prosjektledere har ingen autoritet"
     ],
     "answerIndex": 0,
     "shortExplanation": "Prosjektlederes autoritet bygger på flere kilder, ikke bare formell makt.",

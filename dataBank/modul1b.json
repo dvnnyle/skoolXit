@@ -4,12 +4,12 @@
     "section": "2.1",
     "question": "Hvilken fase oppstår når prosjektgruppen jobber effektivt mot målet?",
     "options": [
-      "Performing-fasen",
       "Norming-fasen",
+      "Forming-fasen",
       "Storming-fasen",
-      "Forming-fasen"
+      "Performing-fasen"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Performing-fasen oppstår når prosjektgruppen jobber effektivt mot målet.",
     "explanation": "Performing-fasen er arbeidsfasen der prosjektgruppen har etablert rutiner og samarbeider effektivt for å nå målet. Medlemmene stoler på hverandre, og energi brukes på oppgaven, ikke på problemer\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -18,9 +18,9 @@
     "section": "2.2",
     "question": "Hva er en karakteristikk ved prosjekter?",
     "options": [
-      "De er alltid små og uformelige",
-      "De skal skape noe nytt eller unikt",
       "De har fortsatt og stabil karakter",
+      "De skal skape noe nytt eller unikt",
+      "De er alltid små og uformelige",
       "De har ikke klare mål"
     ],
     "answerIndex": 1,
@@ -32,10 +32,10 @@
     "section": "2.3",
     "question": "Hva skjer i norming-fasen?",
     "options": [
-      "Prosjektet avsluttes og gruppen oppløses",
       "Gruppen blir dannet og medlemmer blir kjent",
       "Konflikter og uenigheter dominerer gruppen",
-      "Gruppen finner felles arbeidsmåter og normer"
+      "Gruppen finner felles arbeidsmåter og normer",
+      "Prosjektet avsluttes og gruppen oppløses"
     ],
     "answerIndex": 3,
     "shortExplanation": "Norming-fasen handler om å finne felles arbeidsmåter og normer.",
@@ -46,12 +46,12 @@
     "section": "2.4",
     "question": "Hva kjennetegner performing-fasen?",
     "options": [
-      "Høyt stressnivå og mange konflikter",
       "Prosjektgruppen jobber effektivt",
-      "Medlemmene blir først kjent med hverandre",
-      "Gruppen er i oppløsningsfasen"
+      "Gruppen er i oppløsningsfasen",
+      "Høyt stressnivå og mange konflikter",
+      "Medlemmene blir først kjent med hverandre"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Performing-fasen kjennetegnes av effektivt og målrettet arbeid.",
     "explanation": "I performing-fasen fungerer prosjektgruppen effektivt og målrettet. Medlemmene stoler på hverandre, og konflikter håndteres\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -60,12 +60,12 @@
     "section": "2.5",
     "question": "I hvilken fase oppstår uenigheter og rolleavklaringer?",
     "options": [
-      "Performing-fasen",
       "Forming-fasen",
-      "Storming-fasen",
-      "Norming-fasen"
+      "Performing-fasen",
+      "Norming-fasen",
+      "Storming-fasen"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "shortExplanation": "Storming-fasen oppstår når uenigheter og rolleavklaringer skjer.",
     "explanation": "Storming-fasen er konfliktfasen der uenigheter og rolleavklaringer oppstår. Dette er en naturlig fase som må håndteres for at gruppen skal vokse\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -74,12 +74,12 @@
     "section": "2.6",
     "question": "Hva betyr tverrfaglighet i prosjekter?",
     "options": [
-      "At personer fra flere fagdisipliner samarbeider",
       "At prosjektet tar lang tid",
       "At bare en faggruppe jobber i prosjektet",
+      "At personer fra flere fagdisipliner samarbeider",
       "At det ikke finnes klare roller"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "shortExplanation": "Tverrfaglighet betyr at flere fagdisipliner samarbeider i prosjektet.",
     "explanation": "Prosjekter kjennetegnes ofte av tverrfaglig samarbeid, der personer fra ulike fagområder jobber sammen for å nå målet."
   },
@@ -89,11 +89,11 @@
     "question": "Hva betyr tidsavgrensning for et prosjekt?",
     "options": [
       "Prosjektet har uendelig tidsramme",
+      "Prosjektet varer alltid minst ett år",
       "Prosjektet kan ikke planlegges",
-      "Prosjektet har en definert start og slutt",
-      "Prosjektet varer alltid minst ett år"
+      "Prosjektet har en definert start og slutt"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "shortExplanation": "Tidsavgrensning betyr at prosjektet har en klar start og slutt.",
     "explanation": "Et prosjekt har en avgrenset tid, med en start- og sluttdato. Prosjektet eksisterer bare så lenge oppgaven pågår."
   },
@@ -102,12 +102,12 @@
     "section": "2.8",
     "question": "Hvem eller hva er interessenter i et prosjekt?",
     "options": [
-      "Bare ledelsen",
       "De som påvirker eller påvirkes av prosjektet",
+      "Bare prosjektmedlemmer",
       "Bare kunder",
-      "Bare prosjektmedlemmer"
+      "Bare ledelsen"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Interessenter er de som påvirker eller påvirkes av prosjektet.",
     "explanation": "Interessenter er personer eller grupper som har interesse av prosjektet, og som enten påvirker eller blir påvirket av det. Dette kan være prosjektmedlemmer, ledelse, brukere eller eksterne parter."
   },
@@ -116,12 +116,12 @@
     "section": "2.9",
     "question": "Hva karakteriserer forming-fasen?",
     "options": [
-      "Teamet blir kjent og orienterer seg",
+      "Konflikter oppstår mellom medlemmer",
       "Prosjektet er i sluttfasen",
       "Gruppen møtes for første gang",
-      "Konflikter oppstår mellom medlemmer"
+      "Teamet blir kjent og orienterer seg"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Forming-fasen oppstår når teamet blir kjent og orienterer seg.",
     "explanation": "Forming-fasen er orienteringsfasen der gruppen dannes, og medlemmene blir kjent og orienterer seg om oppgaven og roller\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -131,9 +131,9 @@
     "question": "Hva kjennetegner unike leveranser?",
     "options": [
       "Det er rutinearbeid som gjentas",
-      "Det er alltid likt fra gang til gang",
+      "Det er ikke målbart",
       "Prosjektet skal skape noe nytt",
-      "Det er ikke målbart"
+      "Det er alltid likt fra gang til gang"
     ],
     "answerIndex": 2,
     "shortExplanation": "Unike leveranser betyr at prosjektet skaper noe nytt.",
@@ -145,9 +145,9 @@
     "question": "Hva innebærer ressursrammer?",
     "options": [
       "Bare tidsrammen er viktig",
+      "Tid, budsjett og personell er ubegrenset",
       "Tiden, budsjettet og personell er fastsatt",
-      "Ressurser er ikke viktig for prosjekter",
-      "Tid, budsjett og personell er ubegrenset"
+      "Ressurser er ikke viktig for prosjekter"
     ],
     "answerIndex": 1,
     "shortExplanation": "Ressursrammer betyr at tid, budsjett og personell er fastsatt.",
@@ -159,9 +159,9 @@
     "question": "Hva skjer i adjourning-fasen?",
     "options": [
       "Prosjektet avsluttes og gruppen oppløses",
+      "Konflikter håndteres aktivt",
       "Gruppen starter sitt arbeid",
-      "Nye medlemmer legges til",
-      "Konflikter håndteres aktivt"
+      "Nye medlemmer legges til"
     ],
     "answerIndex": 0,
     "shortExplanation": "Adjourning-fasen oppstår når prosjektet avsluttes og gruppen oppløses.",
@@ -172,12 +172,12 @@
     "section": "2.13",
     "question": "I hvilken fase avsluttes prosjektet og gruppen oppløses?",
     "options": [
-      "Storming-fasen",
       "Forming-fasen",
+      "Storming-fasen",
       "Adjourning-fasen",
       "Norming-fasen"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "shortExplanation": "Adjourning-fasen oppstår når prosjektet avsluttes og gruppen oppløses.",
     "explanation": "Adjourning-fasen er oppløsningsfasen der prosjektet avsluttes og gruppen oppløses etter at målet er nådd. Det preges av stolthet, lettelse og vemod\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -186,12 +186,12 @@
     "section": "2.14",
     "question": "Når oppstår ressursrammer typisk?",
     "options": [
-      "I slutten av prosjektet",
       "Tiden, budsjettet og personell er fastsatt",
       "Bare for små prosjekter",
+      "I slutten av prosjektet",
       "Aldri i moderne prosjekter"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Ressursrammer betyr at tid, budsjett og personell er fastsatt.",
     "explanation": "Prosjekter har klare ressursrammer, der tid, budsjett og personell er fastsatt. Dette gir struktur og forutsigbarhet for gjennomføringen."
   },
@@ -200,12 +200,12 @@
     "section": "2.15",
     "question": "Hva er et prosjekt?",
     "options": [
+      "Et uformelt møte mellom personer",
       "En rutineoppgave som gjentas",
       "En permanent organisasjonsenhet",
-      "En midlertidig organisasjon med klare mål",
-      "Et uformelt møte mellom personer"
+      "En midlertidig organisasjon med klare mål"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "shortExplanation": "Prosjekter oppstår som midlertidige organisasjoner med klare mål.",
     "explanation": "Prosjekter er midlertidige organisasjoner som opprettes for å løse en oppgave eller nå et konkret mål innenfor en tidsramme."
   },
@@ -228,9 +228,9 @@
     "section": "2.17",
     "question": "Hva er en viktig karakteristikk ved prosjekter?",
     "options": [
-      "De handler alltid om teknologi",
-      "De ligner på rutinearbeid",
       "De er uformelle og uten struktur",
+      "De ligner på rutinearbeid",
+      "De handler alltid om teknologi",
       "De er midlertidige organisasjoner med klare mål"
     ],
     "answerIndex": 3,
@@ -242,12 +242,12 @@
     "section": "2.18",
     "question": "Hva skiller storming-fasen best?",
     "options": [
-      "Lav energi og engasjement",
       "Gruppen er fullstendig løst opp",
       "Uenigheter og rolleavklaringer oppstår",
-      "Høy samhandling og effektivitet"
+      "Høy samhandling og effektivitet",
+      "Lav energi og engasjement"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "shortExplanation": "Storming-fasen oppstår når uenigheter og rolleavklaringer skjer.",
     "explanation": "Storming-fasen er konfliktfasen der uenigheter og rolleavklaringer oppstår. Dette er en naturlig fase som må håndteres for at gruppen skal vokse\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -256,12 +256,12 @@
     "section": "2.19",
     "question": "Hva er prosjektlederens hovedoppgaver?",
     "options": [
-      "Bare å rapportere til ledelsen",
+      "Å koordinere, lede og følge opp prosjektet",
       "Å stille så få krav som mulig",
-      "Å være medlem uten spesiell rolle",
-      "Å koordinere, lede og følge opp prosjektet"
+      "Bare å rapportere til ledelsen",
+      "Å være medlem uten spesiell rolle"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "shortExplanation": "Prosjektlederrollen handler om å koordinere, lede og følge opp prosjektet.",
     "explanation": "Prosjektlederrollen innebærer å koordinere, lede og følge opp prosjektet, og sikre at målene nås innenfor ressursrammene."
   },
@@ -270,12 +270,12 @@
     "section": "2.20",
     "question": "Når oppstår prosjektlederrollen?",
     "options": [
+      "Aldri i små prosjekter",
       "Bare når det oppstår problemer",
       "For å koordinere, lede og følge opp",
-      "Bare i slutten av prosjektet",
-      "Aldri i små prosjekter"
+      "Bare i slutten av prosjektet"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Prosjektlederrollen handler om å koordinere, lede og følge opp prosjektet.",
     "explanation": "Prosjektlederrollen innebærer å koordinere, lede og følge opp prosjektet, og sikre at målene nås innenfor ressursrammene."
   },
@@ -284,12 +284,12 @@
     "section": "2.21",
     "question": "Hvordan kan storming-fasen best beskrives?",
     "options": [
-      "Prosjektet er nesten ferdig",
-      "Gruppen blir dannet fra bunnen",
       "Uenigheter og rolleavklaringer oppstår",
-      "Alle er enige og arbeidsglede er høy"
+      "Prosjektet er nesten ferdig",
+      "Alle er enige og arbeidsglede er høy",
+      "Gruppen blir dannet fra bunnen"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "shortExplanation": "Storming-fasen oppstår når uenigheter og rolleavklaringer skjer.",
     "explanation": "Storming-fasen er konfliktfasen der uenigheter og rolleavklaringer oppstår. Dette er en naturlig fase som må håndteres for at gruppen skal vokse\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -299,11 +299,11 @@
     "question": "Hvorfor opprettes prosjekter?",
     "options": [
       "De skal løse rutineoppgaver",
+      "De skal ikke ha klare mål",
       "De skal være midlertidige organisasjoner med klare mål",
-      "De skal være permanente",
-      "De skal ikke ha klare mål"
+      "De skal være permanente"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Prosjekter oppstår som midlertidige organisasjoner med klare mål.",
     "explanation": "Prosjekter er midlertidige organisasjoner som opprettes for å løse en oppgave eller nå et konkret mål innenfor en tidsramme."
   },
@@ -312,12 +312,12 @@
     "section": "2.24",
     "question": "Hva innebærer forming-fasen?",
     "options": [
-      "Teamet blir kjent og orienterer seg",
       "Konflikter oppstår mellom medlemmer",
+      "Gruppen oppnår høy effektivitet",
       "Prosjektet avsluttes",
-      "Gruppen oppnår høy effektivitet"
+      "Teamet blir kjent og orienterer seg"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Forming-fasen oppstår når teamet blir kjent og orienterer seg.",
     "explanation": "Forming-fasen er orienteringsfasen der gruppen dannes, og medlemmene blir kjent og orienterer seg om oppgaven og roller\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -326,12 +326,12 @@
     "section": "2.27",
     "question": "Hvordan kan ressursrammer best beskrives?",
     "options": [
-      "Ressurser er ikke viktig",
-      "Ressurser er ubegrenset",
+      "Bare tiden er viktig",
       "Tiden, budsjettet og personell er fastsatt",
-      "Bare tiden er viktig"
+      "Ressurser er ikke viktig",
+      "Ressurser er ubegrenset"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "shortExplanation": "Ressursrammer betyr at tid, budsjett og personell er fastsatt.",
     "explanation": "Prosjekter har klare ressursrammer, der tid, budsjett og personell er fastsatt. Dette gir struktur og forutsigbarhet for gjennomføringen."
   },
@@ -341,11 +341,11 @@
     "question": "Hva er en konsekvens av forming-fasen?",
     "options": [
       "Høye konflikter og maktkamp",
-      "Teamet blir kjent og orienterer seg",
+      "Alle medlemmer forlater gruppen",
       "Gruppen jobber med maksimal effektivitet",
-      "Alle medlemmer forlater gruppen"
+      "Teamet blir kjent og orienterer seg"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Forming-fasen oppstår når teamet blir kjent og orienterer seg.",
     "explanation": "Forming-fasen er orienteringsfasen der gruppen dannes, og medlemmene blir kjent og orienterer seg om oppgaven og roller\n\nProsjektgruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer.\n- Adjourning-fasen: Prosjektet avsluttes og gruppen oppløses. Medlemmer reflekterer over arbeidet og tar farvel."
   },
@@ -355,11 +355,11 @@
     "question": "På hvilken måte påvirker ressursrammer prosjekter?",
     "options": [
       "De har ingen betydning",
-      "De fjerner behovet for planlegging",
       "Tiden, budsjettet og personell er fastsatt",
+      "De fjerner behovet for planlegging",
       "De gjør prosjekter uplanlagte"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "shortExplanation": "Ressursrammer betyr at tid, budsjett og personell er fastsatt.",
     "explanation": "Prosjekter har klare ressursrammer, der tid, budsjett og personell er fastsatt. Dette gir struktur og forutsigbarhet for gjennomføringen."
   },
@@ -368,9 +368,9 @@
     "section": "2.30",
     "question": "Hva er en sentral oppgave for prosjektlederen?",
     "options": [
-      "Å la prosjektet styre seg selv",
       "Bare å gi ordre uten tilbakemeldinger",
       "Å unngå alle møter med teamet",
+      "Å la prosjektet styre seg selv",
       "Å koordinere, lede og følge opp"
     ],
     "answerIndex": 3,

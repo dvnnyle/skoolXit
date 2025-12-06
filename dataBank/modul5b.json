@@ -4,12 +4,12 @@
     "section": "Kap9.1",
     "question": "Hvordan kan en konflikt defineres?",
     "options": [
-      "En situasjon der to mennesker ikke snakker med hverandre",
-      "En mellommenneskelig uoverensstemmelse der interesser, verdier og handlinger kolliderer, noe som fører til frustrasjon og spenning",
       "En situasjon som aldri kan løses",
-      "Noe som bare oppstår mellom ansatte og ledelse"
+      "En situasjon der to mennesker ikke snakker med hverandre",
+      "Noe som bare oppstår mellom ansatte og ledelse",
+      "En mellommenneskelig uoverensstemmelse der interesser, verdier og handlinger kolliderer, noe som fører til frustrasjon og spenning"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "shortExplanation": "En konflikt oppstår når menneskers interesser og verdier kolliderer.",
     "explanation": "En konflikt kan defineres som en mellommenneskelig uoverensstemmelse av viss styrke og varighet, der partenes interesser, verdier og handlinger eller holdninger kolliderer, noe som fører til frustrasjon og spenning. Konflikter har både en intern side (egne følelser, tanker og opplevelser) og en ekstern side (relasjonene mellom partene)."
   },
@@ -18,12 +18,12 @@
     "section": "Kap9.2",
     "question": "Hvilke behov ligger ofte bak konflikter?",
     "options": [
-      "Bare ønsket om penger og makt",
+      "Anerkjennelse og respekt, tilhørighet og trygghet, autonomi og kontroll",
       "Ønsket om å være alene",
-      "Alle mennesker har de samme behovene i konflikter",
-      "Anerkjennelse og respekt, tilhørighet og trygghet, autonomi og kontroll"
+      "Bare ønsket om penger og makt",
+      "Alle mennesker har de samme behovene i konflikter"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "shortExplanation": "Konflikter handler ofte om menneskelige behov for anerkjennelse og trygghet.",
     "explanation": "I mange konflikter ligger det bak et menneskelig behov for anerkjennelse og respekt, tilhørighet og trygghet, eller autonomi og kontroll. Derfor må man i konflikthåndtering ikke bare løse selve problemet, men også se og forstå følelsene og behovene bak uenigheten. At disse behovene ikke blir møtt, kan være en hovedårsak til at konflikten oppstår og eskalerer."
   },
@@ -32,9 +32,9 @@
     "section": "Kap9.3",
     "question": "Hva er relasjonskonflikter?",
     "options": [
-      "Konflikter som bare handler om arbeidsoppgaver",
       "En type konflikt som bare oppstår mellem familie medlemmer",
       "Konflikter om følelser, identitet og anerkjennelse som oppstår fra misforståelser eller sårende kommunikasjon",
+      "Konflikter som bare handler om arbeidsoppgaver",
       "Konflikter som aldri påvirker arbeidsrelasjoner"
     ],
     "answerIndex": 1,
@@ -46,10 +46,10 @@
     "section": "Kap9.4",
     "question": "Hva er verdikonflikter?",
     "options": [
-      "Konflikter om hvor mye som skal betales",
-      "En type konflikt som er lett å løse",
       "Konflikter som bare handler om penger",
-      "Konflikter som oppstår når personer har forskjellige grunnleggende holdninger, verdier eller livssyn"
+      "En type konflikt som er lett å løse",
+      "Konflikter som oppstår når personer har forskjellige grunnleggende holdninger, verdier eller livssyn",
+      "Konflikter om hvor mye som skal betales"
     ],
     "answerIndex": 2,
     "shortExplanation": "Verdikonflikter oppstår fra ulik grunnleggende holdninger og livssyn.",
@@ -60,12 +60,12 @@
     "section": "Kap9.5",
     "question": "Hva er interessekonflikter eller behofskonflikter?",
     "options": [
-      "Konflikter karakterisert av ulike behov eller mål som skal prioriteres, kan ofte løses gjennom forhandlinger",
       "En type konflikt som handler om personlighetsuenigheter",
+      "Konflikter som bare oppstår i små organisasjoner",
       "Konflikter som aldri kan løses",
-      "Konflikter som bare oppstår i små organisasjoner"
+      "Konflikter karakterisert av ulike behov eller mål som skal prioriteres, kan ofte løses gjennom forhandlinger"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Interessekonflikter handler om konkurrerende behov og ressurser.",
     "explanation": "Interessekonflikter (behovskonflikter) kjennetegnes av ulike behov eller mål som skal prioriteres. Eksempler inkluderer uenighet om ressursfordeling, lønn, tid eller ansvar. Disse konfliktene kan ofte løses gjennom forhandlinger eller kompromisser, fordi de har et rasjonelt grunnlag knyttet til konkrete ressurser og prioriteringer."
   },
@@ -75,9 +75,9 @@
     "question": "Hva er sakskonflikter?",
     "options": [
       "En type konflikt som bare oppstår i prosjekter",
-      "Konflikter som handler om hvor møter skal holdes",
       "Konflikter som aldri kan løses på forutsatt måte",
-      "Konflikter om uenighet i konkrete mål, oppgaver eller metoder med rasjonelt grunnlag"
+      "Konflikter om uenighet i konkrete mål, oppgaver eller metoder med rasjonelt grunnlag",
+      "Konflikter som handler om hvor møter skal holdes"
     ],
     "answerIndex": 2,
     "shortExplanation": "Sakskonflikter handler om uenighet i konkrete oppgaver og mål.",
@@ -88,12 +88,12 @@
     "section": "Kap9.7",
     "question": "Hva er konfliktkilde?",
     "options": [
-      "De underliggende årsakene som kan føre til konflikt, som ulike verdier eller interesser",
-      "En strategi for å løse konflikter",
       "Stedet hvor konflikten oppstår",
-      "Den personen som starter konflikten"
+      "Den personen som starter konflikten",
+      "En strategi for å løse konflikter",
+      "De underliggende årsakene som kan føre til konflikt, som ulike verdier eller interesser"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Konfliktkilde er de underliggende årsakene til konflikten.",
     "explanation": "Konfliktkilde er de underliggende årsakene som kan føre til konflikt - for eksempel ulike verdier, interesser eller misforståelser. Å identifisere konfliktkilden er viktig for å forstå hvorfor en konflikt oppstår, og for å kunne håndtere den effektivt. Ofte ligger årsakene latent før konflikten blir manifest."
   },
@@ -102,12 +102,12 @@
     "section": "Kap9.8",
     "question": "Hva er konflikterkjennelse?",
     "options": [
-      "Når man blir klar over at en konflikt eksisterer og føler behov for å gjøre noe med den",
-      "Når en konflikt helt og holdent forsvinner",
+      "En strategi for å unngå konflikter",
       "Når ledelsen benekter at konflikten finnes",
-      "En strategi for å unngå konflikter"
+      "Når man blir klar over at en konflikt eksisterer og føler behov for å gjøre noe med den",
+      "Når en konflikt helt og holdent forsvinner"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Konflikterkjennelse er når man innser at en konflikt eksisterer.",
     "explanation": "Konflikterkjennelse er stadiet der man blir klar over at en konflikt eksisterer, og føler behov for å gjøre noe med den. Det er et viktig stadium fordi anerkjennelse av konflikten er det første steget mot løsning. Dersom man ikke erkjenner konflikten, kan den vokse i det skjulte."
   },
@@ -118,10 +118,10 @@
     "options": [
       "Et internt feeling som ingen andre kan se",
       "En måte å forhindre konflikter på",
-      "Når konflikten kommer til uttrykk gjennom ord, handlinger eller emosjoner",
-      "Tanker man har om en konflikt"
+      "Tanker man har om en konflikt",
+      "Når konflikten kommer til uttrykk gjennom ord, handlinger eller emosjoner"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Konflikatferd er når konflikten blir uttrykt i ord og handlinger.",
     "explanation": "Konflikatferd er når konflikten kommer til uttrykk gjennom ord, handlinger eller emosjoner. Dette er stadiet der konflikten blir synlig for andre, og hvor den kan påvirke arbeidsmiljø og relasjonene. Håndtering av konflikatferden er viktig for å hindre eskalering."
   },
@@ -130,10 +130,10 @@
     "section": "Kap9.10",
     "question": "Hva er konfliktkonsekvernser?",
     "options": [
+      "Resultatet av konflikten som kan være positivt (læring) eller negativt (svekkede relasjoner)",
       "Bare konsekvenser som oppstår for lederen",
-      "Strategier for å løse konflikter",
       "Noe som aldri påvirker organisasjonen",
-      "Resultatet av konflikten som kan være positivt (læring) eller negativt (svekkede relasjoner)"
+      "Strategier for å løse konflikter"
     ],
     "answerIndex": 2,
     "shortExplanation": "Konfliktkonsekvernser er resultatene av konflikten.",
@@ -145,11 +145,11 @@
     "question": "Hva er aktiv lytting i konflikthåndtering?",
     "options": [
       "Å planlegge hva du skal si mens den andre snakker",
+      "Å være stille og høre på uten å reagere",
       "Å vente på at den andre personen slutter å snakke så du kan svare",
-      "Å lytte for å forstå, ikke for å svare, med oppmerksomhet og bekreftelse",
-      "Å være stille og høre på uten å reagere"
+      "Å lytte for å forstå, ikke for å svare, med oppmerksomhet og bekreftelse"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Aktiv lytting betyr å lytte for å forstå den andre personen.",
     "explanation": "Aktiv lytting er å lytte for å forstå, ikke for å svare. Det innebærer å vise oppmerksomhet med kroppspråk og blikk, bruke bekreftende signaler som 'jeg forstår' eller 'fortell mer', og forsøke å gjengi den andres budskap med egne ord for å vise forståelse. Gjennom aktiv lytting skapes grunnlag for tillit og samarbeid."
   },
@@ -158,12 +158,12 @@
     "section": "Kap9.12",
     "question": "Hva er forhandlinger som metode for konflikthåndtering?",
     "options": [
-      "En måte å tvinge den andre parten til å være enig",
-      "En strategi som aldri fungerer",
+      "En metode der partene selv diskuterer seg frem til en løsning, egnet for sakskonflikter",
       "Noe som bare ledelsen bør gjøre",
-      "En metode der partene selv diskuterer seg frem til en løsning, egnet for sakskonflikter"
+      "En strategi som aldri fungerer",
+      "En måte å tvinge den andre parten til å være enig"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Forhandlinger er når partene diskuterer seg frem til en løsning.",
     "explanation": "Forhandlinger er en metode der partene selv forsøker å diskutere seg frem til en løsning. Denne metoden er egnet for sakskonflikter og interessekonflikter, der det finnes konkrete løsningsalternativer. Forhandlinger kjennetegnes av åpenhet, gjensidig respekt og vilje til kompromiss."
   },
@@ -172,12 +172,12 @@
     "section": "Kap9.13",
     "question": "Hva er mekling i konflikthåndtering?",
     "options": [
-      "En strategi som gjør konflikten verre",
       "En metode som bare brukes i rettsapparatet",
       "Noe som aldri kan løse konflikter",
+      "En strategi som gjør konflikten verre",
       "En nøytral tredjepart som hjelper partene å kommunisere og finne løsning"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "shortExplanation": "Mekling involverer en nøytral tredjepart som hjelpemiddel.",
     "explanation": "Mekling er en metode der en nøytral tredjepart hjelper partene å kommunisere og finne en felles løsning. Mekling brukes når konflikten har låst seg, eller relasjonen er preget av mistillit. Målet er en felles, frivillig løsning som alle kan akseptere. Mekleren hjelper partene å forstå hverandres perspektiver og finne områder for enighet."
   },
@@ -186,12 +186,12 @@
     "section": "Kap9.14",
     "question": "Hva er vinn-tap strategien ifølge Thomas Gordon?",
     "options": [
+      "En strategi som tar lang tid å implementere",
       "En strategi der begge parter blir fornøyde",
       "Den ene parten får viljen sin og vinner, den andre taper, ofte bygget på makt eller autoritet",
-      "Noe som aldri brukes i moderne organisasjoner",
-      "En strategi som tar lang tid å implementere"
+      "Noe som aldri brukes i moderne organisasjoner"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Vinn-tap strategien gjør at en part taper mens den andre vinner.",
     "explanation": "Vinn-tap strategien er når den ene parten får viljen sin og vinner, mens den andre taper. Løsningen bygger gjerne på makt, autoritet eller press. Denne strategien kan skape bitterhet og redusert samarbeid på sikt, og er derfor ikke den beste løsningen for langsiktig samarbeid."
   },
@@ -205,7 +205,7 @@
       "En strategi som alltid fungerer perfekt",
       "Den ene parten gir etter mens den andre vinner, brukes for å unngå konfrontasjon men fører gjerne til undertrykt misnøye"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Tap-vin strategien innebærer at en part gir helt etter.",
     "explanation": "Tap-vin strategien er når den ene parten gir etter, mens den andre vinner. Denne strategien brukes ofte for å unngå konfrontasjon, men fører gjerne til undertrykt misnøye og lav motivasjon hos den som gir etter. Over tid kan dette skade relasjonene og teamets effektivitet."
   },
@@ -214,12 +214,12 @@
     "section": "Kap9.16",
     "question": "Hva er vinn-vinn strategien (ingen-taper)?",
     "options": [
-      "En strategi som aldri fungerer",
-      "En strategi som bare brukes i små konflikter",
       "Noe som krever at en part gir helt etter",
-      "Den foretrukne og mest konstruktive strategien der begge parter samarbeider for å finne løsning som ivaretar begge behov"
+      "Den foretrukne og mest konstruktive strategien der begge parter samarbeider for å finne løsning som ivaretar begge behov",
+      "En strategi som aldri fungerer",
+      "En strategi som bare brukes i små konflikter"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "shortExplanation": "Vinn-vinn strategien er den beste og mest konstruktive løsningen.",
     "explanation": "Vinn-vinn strategien (ingen-taper) er den foretrukne og mest konstruktive strategien. Begge parter samarbeider for å finne en løsning som ivaretar begge behov. Den kjennetegnes av åpenhet, empati og felles problemløsning. Denne strategien skaper langsiktig tillit og bedre relasjoner, og er derfor den beste for både individer og organisasjoner."
   },
@@ -228,12 +228,12 @@
     "section": "Kap9.17",
     "question": "Hvorfor er det viktig å erkjenne konflikten tidlig?",
     "options": [
-      "Fordi ledelsen krever det",
       "Bare for å informere administrasjonen",
       "Det er ikke viktig, konflikter løser seg alltid av seg selv",
+      "Fordi ledelsen krever det",
       "Fordi å erkjenne konflikten tidlig forhindrer at den vokser større og blir vanskeligere å løse"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "shortExplanation": "Tidlig erkjennelse av konflikter forhindrer eskalering.",
     "explanation": "Det er viktig å erkjenne konflikten tidlig fordi det forhindrer at den vokser større og blir vanskeligere å løse. En konflikt som blir ignorert, tenderer til å opphopendes og eskalere. Jo tidligere man griper inn, jo lettere er det å håndtere konflikten konstruktivt."
   },
@@ -242,12 +242,12 @@
     "section": "Kap9.18",
     "question": "Hva menes med 'angrip problemet, ikke personen' i konflikthåndtering?",
     "options": [
+      "Det betyr at man skal forlate konflikten",
       "Man bør aldri snakke direkte med personen som er i konflikt",
       "Man skal fokusere på problemet som skal løses, ikke på personens feil eller karakteregenskaper",
-      "Man bør alltid være aggressiv for å vinne konflikten",
-      "Det betyr at man skal forlate konflikten"
+      "Man bør alltid være aggressiv for å vinne konflikten"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Fokusering på problemet skaper trygghet og respekt.",
     "explanation": "Det viktig å angripe problemet, ikke personen. Det betyr at man skal fokusere på det konkrete problemet som skal løses, heller enn å kritisere personens karakteregenskaper eller feil. Når man skaper trygghet og respekt ved å angripe problemet, ikke personen, blir det lettere å finne konstruktive løsninger sammen."
   },
@@ -256,12 +256,12 @@
     "section": "Kap9.19",
     "question": "Hvordan påvirker konflikthåndtering relasjoner?",
     "options": [
-      "Konflikthåndtering gjør alltid at relasjoner blir verre",
-      "Bare ledelsen sin relasjon blir påvirket",
+      "Konflikthåndtering påvirker aldri relasjoner",
       "Riktig konflikthåndtering kan styrke relasjoner, forbedre arbeidsmiljø og skape læringsmuligheter",
-      "Konflikthåndtering påvirker aldri relasjoner"
+      "Bare ledelsen sin relasjon blir påvirket",
+      "Konflikthåndtering gjør alltid at relasjoner blir verre"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "shortExplanation": "Riktig konflikthåndtering styrker relasjoner og arbeidsmiljøet.",
     "explanation": "Ved å håndtere konflikter på en konstruktiv måte kan man styrke relasjoner, forbedre arbeidsmiljø og skape læringsmuligheter i stedet for motsetninger. Riktig konflikthåndtering viser at man verdsetter den andre personen og hennes perspektiver, noe som bygger tillit og respekt."
   },
@@ -270,12 +270,12 @@
     "section": "Kap9.20",
     "question": "Hva er hovedbudskapene om konflikter og konfliktløsning?",
     "options": [
+      "Konflikter er alltid skadelige og burde ikke tillates",
       "Bare ledere bør håndtere konflikter",
       "Konflikter handler ikke om å unngå uenighet, men om å håndtere den konstruktivt for å skape utvikling og bedre samarbeid",
-      "Alle konflikter bør unngås helt og aldri diskuteres",
-      "Konflikter er alltid skadelige og burde ikke tillates"
+      "Alle konflikter bør unngås helt og aldri diskuteres"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Konflikter kan bli konstruktive hvis de håndteres riktig.",
     "explanation": "Hovedbudskapene er at konflikt og konfliktløsning handler ikke om å unngå uenighet, men om å forstå og håndtere den på en måte som fører til utvikling og bedre samarbeid. Konflikter kan ha mange former - relasjons-, verdi-, interesse- og sakskonflikter - og utvikler seg gjennom flere stadier. Gjennom aktiv lytting, respekt, samarbeid og vinn-vinn-strategier kan konflikter snus fra å være destruktive til å bli konstruktive prosesser som styrker både individet og gruppen."
   },
@@ -285,9 +285,9 @@
     "question": "Hva er de fire typene konflikter?",
     "options": [
       "Relasjons-, verdi-, interesse- og sakskonflikter",
+      "Positive og negative konflikter",
       "Store og små konflikter",
-      "Det finnes bare en type konflikt",
-      "Positive og negative konflikter"
+      "Det finnes bare en type konflikt"
     ],
     "answerIndex": 0,
     "shortExplanation": "Fire typer: relasjons-, verdi-, interesse- og sakskonflikt.",
@@ -298,12 +298,12 @@
     "section": "Kap9.4",
     "question": "Hva er de fire stadiene i konflikters utvikling?",
     "options": [
-      "Stadiene er alltid i samme rekkefølge for alle konflikter",
       "Konfliktkilde, konflikterkjennelse, konfliktatferd og konfliktkonsekevenser",
+      "Stadiene er alltid i samme rekkefølge for alle konflikter",
       "Konflikter oppstår plutselig uten forvarsel",
       "Det finnes bare to stadier"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Fire stadier: kilde, erkjennelse, atferd og konsekvenser.",
     "explanation": "Konflikter oppstår og utvikler seg i fire stadier: Konfliktkilde (de underliggende årsakene), Konflikterkjennelse (når man blir klar over konflikten), Konfliktatferd (når konflikten kommer til uttrykk), og Konfliktkonsekernser (resultatene, som kan være positive eller negative). Å forstå disse stadiene hjelper oss å gripe inn tidlig og håndtere konflikter før de blir for alvorlige."
   },
@@ -312,12 +312,12 @@
     "section": "Kap9.5",
     "question": "Hva er rollen av aktiv lytting i konflikthåndtering?",
     "options": [
-      "Aktiv lytting har ingen rolle i konfliktløsning",
       "Man bør ikke lytte under konflikter",
       "Aktiv lytting betyr å lytte for å forstå, ikke for å svare, og er nøkkelen til konfliktløsning",
+      "Aktiv lytting har ingen rolle i konfliktløsning",
       "Aktiv lytting er bare for psykologer"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "shortExplanation": "Aktiv lytting - å lytte for å forstå - er nøkkelen til løsing.",
     "explanation": "God kommunikasjon gjennom aktiv lytting er selve nøkkelen til konfliktløsning. Aktiv lytting betyr å lytte for å forstå, ikke for å svare. Det innebærer å vise oppmerksomhet med kroppsspråk og blikk, bruke bekreftende signaler, og forsøke å gjengi den andres budskap med egne ord. Slik skapes grunnlag for tillit og samarbeid, og partene får følelsen av å bli hørt og forstått."
   },
@@ -326,12 +326,12 @@
     "section": "Kap9.6",
     "question": "Hva er Thomas Gordon sine tre strategier for konfliktløsning?",
     "options": [
-      "Vinn-tap, tap-vin og vinn-vinn (ingen-taper)",
-      "Alle tre strategier gir like gode resultater",
+      "Thomas Gordon påpekte at konflikter ikke kan løses",
       "Det finnes bare en strategi",
-      "Thomas Gordon påpekte at konflikter ikke kan løses"
+      "Vinn-tap, tap-vin og vinn-vinn (ingen-taper)",
+      "Alle tre strategier gir like gode resultater"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Tre strategier: vinn-tap, tap-vin og vinn-vinn.",
     "explanation": "Thomas Gordon beskrev tre hovedstategier: Vinn-tap (den ene vinner, den andre taper, skaper bitterhet), Tap-vin (den ene gir etter for å unngå konfrontasjon, skaper undertrykt misnøye), og Vinn-vinn (den foretrukne strategien der begge parter samarbeider for å finne løsning som ivaretar begge behov). Vinn-vinn-strategien er den mest konstruktive, skaper langsiktig tillit og bedre relasjoner."
   },
@@ -341,9 +341,9 @@
     "question": "Hva handler praktisk konflikthåndtering om?",
     "options": [
       "Bare å vente til konflikten løser seg selv",
-      "Erkjenne tidlig, skape trygghet, bruke aktiv lytting, søk felles interesser, vær åpen for kompromiss",
       "Det finnes ingen praktiske tips for konfliktløsning",
-      "Alltid aggressivt angripe motparten"
+      "Alltid aggressivt angripe motparten",
+      "Erkjenne tidlig, skape trygghet, bruke aktiv lytting, søk felles interesser, vær åpen for kompromiss"
     ],
     "answerIndex": 3,
     "shortExplanation": "Praktiske tips: erkjenne tidlig, vise respekt og bruke aktiv lytting.",
