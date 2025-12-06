@@ -6,7 +6,17 @@ import CelebrationBackground from '../../components/CelebrationBackground'
 import questionsData from '../../../dataBank/modul1a.json'
 import './modules.css'
 
+const shuffleArray = (array) => {
+  const shuffled = [...array]
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+  }
+  return shuffled
+}
+
 function Module1a() {
+  const [questions] = useState(() => shuffleArray(questions))
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0)
   const [selectedAnswer, setSelectedAnswer] = useState(null)
   const [showResult, setShowResult] = useState(false)
@@ -16,7 +26,7 @@ function Module1a() {
   const [showReview, setShowReview] = useState(false)
   const [streak, setStreak] = useState(0)
 
-  const currentQuestion = questionsData[currentQuestionIndex]
+  const currentQuestion = questions[currentQuestionIndex]
 
   const handleAnswerClick = (index) => {
     if (selectedAnswer !== null) return // Already answered
@@ -38,7 +48,7 @@ function Module1a() {
   }
 
   const handleNext = () => {
-    if (currentQuestionIndex < questionsData.length - 1) {
+    if (currentQuestionIndex < questions.length - 1) {
       setCurrentQuestionIndex(currentQuestionIndex + 1)
       const nextAnswer = userAnswers[currentQuestionIndex + 1]
       setSelectedAnswer(nextAnswer ? nextAnswer.selectedIndex : null)
@@ -56,8 +66,8 @@ function Module1a() {
       
       localStorage.setItem('quiz_module1a', JSON.stringify({
         score: finalScore,
-        completed: questionsData.length,
-        total: questionsData.length,
+        completed: questions.length,
+        total: questions.length,
         bestScore: Math.max(finalScore, previousData.bestScore || 0),
         attempts: attemptHistory.length,
         lastAttempt: new Date().toISOString(),
@@ -96,7 +106,7 @@ function Module1a() {
   }
 
   if (showResult) {
-    const percentage = ((score / questionsData.length) * 100).toFixed(1)
+    const percentage = ((score / questions.length) * 100).toFixed(1)
     
     if (showReview) {
       return (
@@ -111,12 +121,12 @@ function Module1a() {
             <div className="quiz-header">
               <h2>Answer Review - Module 1A</h2>
               <div className="progress-info">
-                <span>Score: {score}/{questionsData.length} ({percentage}%)</span>
+                <span>Score: {score}/{questions.length} ({percentage}%)</span>
               </div>
             </div>
 
             <div className="review-container">
-              {questionsData.map((question, qIndex) => {
+              {questions.map((question, qIndex) => {
                 const userAnswer = userAnswers[qIndex]
                 const isCorrect = userAnswer?.isCorrect
                 const userSelectedIndex = userAnswer?.selectedIndex
@@ -182,16 +192,16 @@ function Module1a() {
     return (
       <>
         <NavigationMenu />
-        <CelebrationBackground score={score} total={questionsData.length} />
+        <CelebrationBackground score={score} total={questions.length} />
         <div className="quiz-container">
           <div className="result-card">
             <h1>Quiz Complete!</h1>
             <div className="score-display">
               <div className="score-number">{score}</div>
-              <div className="score-total">out of {questionsData.length}</div>
+              <div className="score-total">out of {questions.length}</div>
             </div>
             <div className="score-percentage">
-              {Math.round((score / questionsData.length) * 100)}%
+              {Math.round((score / questions.length) * 100)}%
             </div>
             <div className="button-group">
               <button onClick={handleShowReview} className="next-button" style={{ marginBottom: '10px' }}>
@@ -223,7 +233,7 @@ function Module1a() {
           <h2>Module 1A: Gruppe og Gruppeprosesser</h2>
           <div className="progress-info">
             <div style={{ display: 'flex', alignItems: 'center', width: '100%' }}>
-              <span>Question {currentQuestionIndex + 1} of {questionsData.length}</span>
+              <span>Question {currentQuestionIndex + 1} of {questions.length}</span>
               <div style={{ flex: 1 }}></div>
               {streak >= 2 && (
                 <span className="streak-fire" style={{ marginRight: '1.5rem' }}>🔥 {streak}</span>
@@ -234,7 +244,7 @@ function Module1a() {
           <div className="progress-bar">
             <div 
               className="progress-fill" 
-              style={{ width: `${((currentQuestionIndex + 1) / questionsData.length) * 100}%` }}
+              style={{ width: `${((currentQuestionIndex + 1) / questions.length) * 100}%` }}
             />
           </div>
         </div>
@@ -312,7 +322,7 @@ function Module1a() {
               className="next-button"
               disabled={selectedAnswer === null}
             >
-              {selectedAnswer === null ? '🔒 Select an answer' : (currentQuestionIndex < questionsData.length - 1 ? 'Next Question' : 'See Results')}
+              {selectedAnswer === null ? '🔒 Select an answer' : (currentQuestionIndex < questions.length - 1 ? 'Next Question' : 'See Results')}
             </button>
           </div>
         </div>
