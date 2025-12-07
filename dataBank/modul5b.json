@@ -282,16 +282,16 @@
   {
     "id": 21,
     "section": "Kap9.3",
-    "question": "Hva er de fire typene konflikter?",
+    "question": "Hvilke konflikttyper oppstår når mennesker har ulike verdier eller livssyn, eller når interesser og mål kolliderer?",
     "options": [
-      "Relasjons-, verdi-, interesse- og sakskonflikter",
-      "Positive og negative konflikter, men dette er ikke helt korrekt",
-      "Store og små konflikter, men dette er ikke helt korrekt",
-      "Det finnes bare en type konflikt i alle situasjoner og kontekster"
+      "Sakskonflikter som handler om konkrete oppgaver og løsningsmetoder i alle arbeidsomgivelser",
+      "Relasjons-, verdi-, interesse- og sakskonflikter som er de fire hovedtypene som oppstår i grupper",
+      "Bare relasjonskonflikter som alltid handler om følelser og personlige motsetninger under alle omstendigheter",
+      "Konflikttyper som ikke kan kategoriseres eller klassifiseres på noen meningsfull måte i praksis"
     ],
-    "answerIndex": 0,
-    "shortExplanation": "Fire typer: relasjons-, verdi-, interesse- og sakskonflikt.",
-    "explanation": "De fire typene konflikter er: Relasjons-konflikt (handler om følelser og identitet), Verdi-konflikt (oppstår når verdier eller livssyn divergerer), Interesse-konflikt/behovskonflikt (uenighet om ressurser eller prioriteringer), og Saks-konflikt (uenighet om konkrete mål eller oppgaver). Hver type har forskjellige årsaker og løsningsmetoder. Forståelse av konflikttypen hjelper til med å velge riktig håndteringsstrategi."
+    "answerIndex": 1,
+    "shortExplanation": "Fire hovedtyper: relasjons-, verdi-, interesse- og sakskonflikter.",
+    "explanation": "De fire hovedtypene konflikter er: Relasjons-konflikt (handler om følelser, identitet og anerkjennelse), Verdi-konflikt (oppstår når verdier eller livssyn divergerer), Interesse-konflikt/behovskonflikt (uenighet om ressurser eller prioriteringer), og Saks-konflikt (uenighet om konkrete mål eller oppgaver). Hver type har forskjellige årsaker, karakteristikker og løsningsmetoder. Forståelse av konflikttypen hjelper til med å velge riktig håndteringsstrategi."
   },
   {
     "id": 22,
