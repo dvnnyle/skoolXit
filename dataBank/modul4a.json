@@ -14,16 +14,7 @@
     "explanation": "Dynamisk prosjektledelse handler om å se prosjektledelsen som en tilpasningsprosess, en lederform som endrer seg i takt med prosjektets faser, gruppens modenhet og situasjonens krav. I motsetning til en statisk tilnærming, tar det dynamiske perspektivet utgangspunktet i at effektiv ledelse må være situasjonsavhengig og fleksibel. Prosjektledelse er både teknisk og relasjonell."
   },
   {
-    "id": 2,
-    "section": "Kap6.2",
-    "question": "Hva må en god prosjektleder mestre ifølge dynamisk ledelse?",
-    "options": [
-      "Kun relasjonsledelse og motivasjon",
-      "Bare teknisk prosjektledelse og planlegging",
-      "Strukturell ledelse, relasjonsledelse og tidslederskap",
-      "Bare administrativ kontroll og rapportering"
-    ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "shortExplanation": "En god leder må mestre struktur, relasjoner og tidslederskap.",
     "explanation": "En god prosjektleder må mestre strukturell ledelse (klare rammer, rutiner og mål), relasjonsledelse (tillit, kommunikasjon og motivasjon), og tidslederskap (håndtering av tidspress og fremdrift). Dette krever kontinuerlig balanse mellom oppgave og menneske, mellom planlegging og improvisasjon."
   },
@@ -264,61 +255,5 @@
     "answerIndex": 2,
     "shortExplanation": "Optimal tidspress gir best resultater - ikke for mye, ikke for lite.",
     "explanation": "Tidspress følger en omvendt U-formet funksjon: for lite tidspress fører til lav motivasjon og produktivitet, mens for mye tidspress fører til stress, feil og utbrenthet. Den optimale posisjonen er i midten, hvor teamet arbeider effektivt men bærekraftig. En dyktig prosjektleder skaper dette optimale spenningsnivået gjennom realistiske mål og god balansering av ressurser."
-  },
-  {
-    "id": 22,
-    "section": "Kap6.4",
-    "question": "Hva er relasjonsorientert lederstil og når brukes den?",
-    "options": [
-      "En stil som fokuserer kun på oppgaver",
-      "En stil som unngår alle former for konflikt",
-      "Det samme som instruerende lederstil",
-      "En stil med fokus på mennesker, kommunikasjon og konfliktløsning - viktig i storming-fasen"
-    ],
-    "answerIndex": 3,
-    "shortExplanation": "Relasjonsorientert ledelse fokuserer på mennesker og konflikthåndtering.",
-    "explanation": "Relasjonsorientert lederstil fokuserer på mennesker, sosiale forhold og konflikthåndtering. Denne stilen blir særlig viktig i storming-fasen når uenigheter og spenninger oppstår. Lederen fungerer som en megler og bruker sine politiske ferdigheter til å balansere interesser og skape samhold. Her bygger autoriteten på tillit og respekt snarere enn bare formell posisjon. God kommunikasjon og emosjonell intelligens er nødvendig."
-  },
-  {
-    "id": 23,
-    "section": "Kap6.5",
-    "question": "Hva karakteriserer deltakende lederstil?",
-    "options": [
-      "Lederen fungerer som tilrettelegger og involverer gruppemedlemmer i beslutninger",
-      "Lederen bestemmer alt alene",
-      "En stil som ikke fungerer i profesjonelle team",
-      "Lederen trekker seg helt ut av ledelsen"
-    ],
-    "answerIndex": 0,
-    "shortExplanation": "Deltakende ledelse involverer teamet i beslutninger og styrker engasjement.",
-    "explanation": "Deltakende lederstil er en lederstil hvor lederen involverer gruppemedlemmene i beslutningsprosesser og fungerer som en tilrettelegger eller lagspiller. Denne stilen er vanligvis viktig i norming-fasen når gruppen begynner å fungere som en enhet. Den styrker engasjement, eierskap og psykologisk trygghet. Her får profesjonell autoritet (basert på kompetanse) større betydning, og medlemmene tar mer medansvar."
-  },
-  {
-    "id": 24,
-    "section": "Kap6.6",
-    "question": "Hva er delegerende lederstil?",
-    "options": [
-      "En stil hvor lederen tar all kontroll",
-      "En stil som betyr lederen sluttet i jobben",
-      "En stil hvor lederen gir teamet frihet og delegerer myndighet - karakteristisk for performing-fasen",
-      "En stil som ikke fungerer for komplekse prosjekter"
-    ],
-    "answerIndex": 2,
-    "shortExplanation": "Delegerende ledelse gir teamet frihet og ansvar i performing-fasen.",
-    "explanation": "Delegerende lederstil er en lederstil hvor lederen gir teamet frihet til å bestemme over seg selv og delegerer myndighet og ansvar til medlemmene. Denne stilen er karakteristisk for den modne performing-fasen når teamet kan fungere selvstendig. Lederen trer mer i bakgrunnen som en 'grensevokter' som beskytter teamet fra ytre forstyrrelser og sikrer kontakt med eksterne interessenter."
-  },
-  {
-    "id": 25,
-    "section": "Kap6.7",
-    "question": "Hva er kilden til autoritet for en prosjektleder?",
-    "options": [
-      "Kun formell autoritet gjennom tittel",
-      "Flere kilder: formell, relasjonell, profesjonell og karismatisk autoritet",
-      "Kun basert på hvor lang erfaring ledelsen har",
-      "Prosjektledere har ingen autoritet"
-    ],
-    "answerIndex": 0,
-    "shortExplanation": "Prosjektlederes autoritet bygger på flere kilder, ikke bare formell makt.",
-    "explanation": "Prosjektlederes autoritet bygger på flere kilder siden de ofte opererer uten tradisjonell maktbase. Disse kildene inkluderer: formell autoritet (gitt gjennom rolle og tittel), relasjonell autoritet (basert på tillit og samarbeid), profesjonell autoritet (basert på faglig kompetanse), og karismatisk autoritet (knyttet til lederens personlighet og inspirasjon). En sterk prosjektleder kombinerer disse kildene for å bygge troverdighet og påvirkningskraft."
   }
 ]
