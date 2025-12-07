@@ -366,7 +366,7 @@
   {
     "id": 29,
     "section": "Kap2.9",
-    "question": "Hva er sosial loafing?",
+    "question": "Hva innebærer sosial loffing?",
     "options": [
       "Når noen yter mindre i en gruppe fordi de føler at innsatsen deres ikke blir lagt merke til eller ansvaret er diffust",
       "En lederstil som fremmer samarbeid",
@@ -374,8 +374,8 @@
       "Når alle medlemmene arbeider maksimalt for gruppen"
     ],
     "answerIndex": 0,
-    "shortExplanation": "Sosial loafing oppstår når noen yter mindre på grunn av uklart ansvar.",
-    "explanation": "Sosial loafing er fenomenet når noen yter mindre i en gruppe enn de ville gjort alene, ofte fordi de føler at innsatsen deres ikke blir lagt merke til, eller at ansvaret er diffust fordelt. Dette er motsatsen til sosial fasilitering. For å unngå sosial loafing er det viktig med klare roller, individuelt ansvar og anerkjennelse."
+    "shortExplanation": "Sosial loffing oppstår når noen yter mindre på grunn av uklart ansvar.",
+    "explanation": "Sosial loffing oppstår når enkeltpersoner bidrar mindre til gruppens arbeid enn de ville gjort alene, ofte fordi de tror andre vil ta ansvar eller at deres innsats ikke blir lagt merke til eller at ansvaret er diffust. Dette fenomenet kan svekke gruppens effektivitet og engasjement."
   },
   {
     "id": 30,
