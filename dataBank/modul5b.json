@@ -296,14 +296,14 @@
   {
     "id": 22,
     "section": "Kap9.4",
-    "question": "Hva er de fire stadiene i konflikters utvikling?",
+    "question": "Hvordan utvikler konflikter seg når man går fra å erkjenne problemet til å håndtere konsekvensene?",
     "options": [
-      "Konfliktkilde, konflikterkjennelse, konfliktatferd og konfliktkonsekevenser",
-      "Stadiene er alltid i samme rekkefølge for alle konflikter",
-      "Konflikter oppstår plutselig uten forvarsel",
-      "Det finnes bare to stadier"
+      "Konfliktkilde, konflikterkjennelse, konfliktatferd og konfliktkonsekevenser er de fire hovedstadierne i konfliktutvikling",
+      "Stadiene er alltid i samme rekkefølge for alle konflikter og varierer ikke basert på kontekst under noen omstendigheter",
+      "Konflikter oppstår plutselig uten forvarsel eller underliggende årsaker i alle situasjoner",
+      "Det finnes bare to stadier i konfliktutvikling uavhengig av konfliktens art eller alvorlighetsgrad"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "shortExplanation": "Fire stadier: kilde, erkjennelse, atferd og konsekvenser.",
     "explanation": "Konflikter oppstår og utvikler seg i fire stadier: Konfliktkilde (de underliggende årsakene), Konflikterkjennelse (når man blir klar over konflikten), Konfliktatferd (når konflikten kommer til uttrykk), og Konfliktkonsekernser (resultatene, som kan være positive eller negative). Å forstå disse stadiene hjelper oss å gripe inn tidlig og håndtere konflikter før de blir for alvorlige."
   },
