@@ -285,9 +285,26 @@ function Module1b() {
               <div className="correct-answer">
                 The correct answer is: {currentQuestion.options[currentQuestion.answerIndex]}
               </div>
-              <div className="explanation-text">
-                {currentQuestion.explanation}
-              </div>
+              {currentQuestion.shortExplanation && (
+                <p 
+                  className="short-explanation"
+                  dangerouslySetInnerHTML={{ 
+                    __html: currentQuestion.shortExplanation.replace(
+                      /'([^']+)'/g, 
+                      "<span class='highlight'>$1</span>"
+                    )
+                  }}
+                />
+              )}
+              <div 
+                className="explanation-text"
+                dangerouslySetInnerHTML={{ 
+                  __html: currentQuestion.explanation.replace(
+                    /'([^']+)'/g, 
+                    "<span class='highlight'>$1</span>"
+                  )
+                }}
+              />
             </div>
           )}
 
