@@ -60,10 +60,10 @@
     "section": "1.5",
     "question": "Hva innebærer sosial loffing?",
     "options": [
-      "Når gruppen som helhet presterer bedre enn summen av individuelle prestasjoner",
-      "En tendens til at medlemmer bidrar mindre til gruppens arbeid når de tror andre tar ansvar",
-      "En form for samarbeid der de mest arbeidskraftige medlemmene hjelper de mindre aktive",
-      "En ledelsesteknikk der man gir medlemmene mindre oppgaver for å redusere stress"
+      "Når gruppen som helhet presterer bedre enn summen av individuelle prestasjoner på grunn av forbedret koordinering og motivasjon",
+      "En tendens til at medlemmer bidrar mindre til gruppens arbeid når de tror andre tar ansvar eller når deres individuelle innsats ikke blir lagt merke til",
+      "En form for samarbeid der de mest arbeidskraftige medlemmene aktivt hjelper og støtter de mindre aktive medlemmene i gruppen",
+      "En ledelsesteknikk der man bevisst gir medlemmene mindre oppgaver for å redusere stress og arbeidsbelastning"
     ],
     "answerIndex": 1,
     "shortExplanation": "Sosial loffing betyr at noen yter mindre i gruppe enn alene.",
@@ -116,10 +116,10 @@
     "section": "1.9",
     "question": "Hva er sosial fasilitering?",
     "options": [
-      "Et fenomen der mennesker presterer bedre når andre observerer dem eller er til stede",
-      "En metode for å dele oppgavene likt blant alle medlemmene i gruppen",
-      "En ledelsesteknikk som brukes for å hjelpe medlemmene med å stresse mindre",
-      "En prosess der gruppen aktivt arbeider med å forbedre kommunikasjonen"
+      "Et fenomen der mennesker presterer bedre når andre observerer dem eller er til stede, fordi de blir mer motiverte eller skjerpet av oppmerksomheten",
+      "En metode for å dele oppgavene likt og rettferdig blant alle medlemmene i gruppen basert på deres evner",
+      "En ledelsesteknikk som brukes systematisk for å hjelpe medlemmene med å stresse mindre og opprettholde god mental helse",
+      "En prosess der gruppen aktivt arbeider med å forbedre og styrke kommunikasjonen mellom medlemmene"
     ],
     "answerIndex": 0,
     "shortExplanation": "Sosial fasilitering er når mennesker presterer bedre under observasjon.",
@@ -158,10 +158,10 @@
     "section": "1.12",
     "question": "Hva er ensretting i en gruppe?",
     "options": [
-      "En positiv mekanisme der medlemmene blir enige om de beste løsningene etter å ha diskutert",
-      "En prosess der gruppen etablerer klare retningslinjer og regler for hvordan arbeidet skal gjøres",
-      "En situation der medlemmene utvikler samme interesser og hobbyer over tid",
-      "En tendens der medlemmene undertrykker sine egne meninger for å unngå konflikt og bevare harmoni"
+      "En positiv mekanisme der medlemmene blir enige om de beste løsningene etter å ha gjennomført grundig diskusjon og evaluering",
+      "En prosess der gruppen etablerer klare retningslinjer og regler for hvordan arbeidet skal gjøres på en effektiv måte",
+      "En situation der medlemmene gradvis utvikler samme interesser og hobbyer over tid gjennom samarbeid og samvær",
+      "En tendens der medlemmene undertrykker sine egne meninger og personlige synspunkter for å unngå konflikt og bevare harmoni"
     ],
     "answerIndex": 3,
     "shortExplanation": "Ensretting er når medlemmene undertrykker egne meninger.",
@@ -186,10 +186,10 @@
     "section": "1.14",
     "question": "Hvordan brukes sosial kontroll i grupper?",
     "options": [
-      "Det handler om å maksimere gruppens produktivitet uavhengig av medlemmenes behov",
-      "Medlemmene bruker det til å styre hvem som skal få større ansvar og innflytelse",
-      "Det er en teknikk for å unngå at medlemmene føler seg presset til å gi av seg selv",
-      "Det brukes til å opprettholde gruppens normer gjennom ros av passende atferd eller sanksjoner mot avvik"
+      "Det handler om å maksimere gruppens produktivitet og effektivitet uavhengig av medlemmenes individuelle behov og velbefinnende",
+      "Medlemmene bruker det til å styre og bestemme hvem som skal få større ansvar og innflytelse basert på deres preferanser",
+      "Det er en teknikk for å unngå at medlemmene føler seg presset til å gi av seg selv og sitt beste",
+      "Det brukes til å opprettholde gruppens normer gjennom ros av passende atferd eller sanksjoner mot avvik fra normene"
     ],
     "answerIndex": 3,
     "shortExplanation": "Sosial kontroll opprettholdes gjennom ros, kritikk eller sanksjoner.",
@@ -270,10 +270,10 @@
     "section": "1.20",
     "question": "Hva handler normer om?",
     "options": [
-      "De mer stabile og sjelden endrede reglene som styres av formell ledelse",
-      "Systemene som brukes for å belønne medlemmene som oppfører seg best",
-      "De retningslinjene som medlemmene får når de først blir med i gruppen",
-      "Uskrevne regler for atferd som utvikles naturlig i grupper og styrer hvordan medlemmene oppfører seg"
+      "De mer stabile og sjelden endrede reglene som styres og fastsettes av formell ledelse og organisatorisk struktur",
+      "Systemene som brukes for å belønne medlemmene som oppfører seg best og lever opp til forventningene",
+      "De retningslinjene som medlemmene får formelt når de først blir med i gruppen og som er skriftlig fastsatt",
+      "Uskrevne regler for atferd som utvikles naturlig i grupper over tid og styrer hvordan medlemmene oppfører seg"
     ],
     "answerIndex": 3,
     "shortExplanation": "Normer er uskrevne regler for akseptabel atferd.",
@@ -354,10 +354,10 @@
     "section": "Kap2.7",
     "question": "Hva betyr symmetriske forhold i grupper?",
     "options": [
-      "At det ikke er noen konflikter i gruppen",
-      "At gruppen er fullstendig strukturert",
-      "At alle medlemmene har identiske roller",
-      "At medlemmene omtrent har like mye innflytelse og like viktige oppgaver"
+      "At det ikke eksisterer noen konflikter eller meningsutsettelser i gruppen på noen som helst måte",
+      "At gruppen er fullstendig strukturert og organisert med klare hierarkier og maktforhold definert på forhånd",
+      "At alle medlemmene har helt identiske roller og ansvar og må utføre nøyaktig de samme oppgavene",
+      "At medlemmene omtrent har like mye innflytelse og ansvar for oppgaver som er like viktige for gruppens mål"
     ],
     "answerIndex": 3,
     "shortExplanation": "Symmetriske forhold betyr lik innflytelse og viktige oppgaver.",
