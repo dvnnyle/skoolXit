@@ -131,11 +131,11 @@
     "question": "Hva er konfliktkonsekvernser?",
     "options": [
       "Resultatet av konflikten som kan være positivt (læring) eller negativt (svekkede relasjoner)",
-      "Bare konsekvenser som oppstår for lederen",
-      "Noe som aldri påvirker organisasjonen",
-      "Strategier for å løse konflikter"
+      "Bare konsekvenser som oppstår for lederen i alle situasjoner og kontekster",
+      "Noe som aldri påvirker organisasjonen under noen omstendigheter",
+      "Strategier for å løse konflikter, men dette er ikke helt korrekt"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "shortExplanation": "Konfliktkonsekvernser er resultatene av konflikten.",
     "explanation": "Konfliktkonsekvernser er resultatet av konflikten, som kan være både positiv og negativ. Positive konsekvenser inkluderer læring, utvikling og bedre forståelse. Negative konsekvenser inkluderer svekkede relasjoner, lavere effektivitet og mistrivsel. Hvordan konflikten håndteres påvirker hvilket resultat den får."
   },
