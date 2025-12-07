@@ -6,7 +6,7 @@
     "options": [
       "En metode som bare fokuserer på økonomisk styring i alle situasjoner og kontekster",
       "En lederstil som aldri endrer seg gjennom prosjektet under noen omstendigheter",
-      "En type ledelse som ikke krever fleksibilitet, men dette er ikke helt korrekt",
+      "En type ledelse som krever samme tilnærming hele tiden uten fleksibilitet",
       "Ledelse som tilpasser seg til prosjektets faser, gruppens modenhet og situasjonens krav"
     ],
     "answerIndex": 3,
@@ -51,10 +51,10 @@
     "section": "Kap6.5",
     "question": "Hva er relasjonsorientert ledelse og når er den viktig?",
     "options": [
-      "En lederstil som ikke krever noen kommunikasjon, men dette er ikke helt korrekt",
-      "En lederstil med fokus på mennesker, sosiale forhold og konflikthåndtering, viktig i storming-fasen",
-      "En metode som bare brukes når prosjektet er ferdig i alle situasjoner og kontekster",
-      "En ledelse som ignorerer menneskelige relasjoner, men dette er ikke helt korrekt"
+      "En lederstil hvor lederen overlater alt til teamet uten å veilede",
+      "En lederstil med fokus på kommunikasjon og relasjonell oppbygging av gruppen",
+      "En metode som bare brukes når prosjektet avsluttes eller er i krise",
+      "En ledelse som ignorerer mennesker og fokuserer bare på oppgaver"
     ],
     "answerIndex": 1,
     "shortExplanation": "Relasjonsorientert ledelse fokuserer på mennesker og konflikthåndtering.",
@@ -65,10 +65,10 @@
     "section": "Kap6.6",
     "question": "Hva er deltakende ledelse?",
     "options": [
-      "En ledelse som ignorerer gruppens meninger, men dette er ikke helt korrekt",
-      "En lederstil hvor lederen tar alle beslutninger alene, men dette er ikke helt korrekt",
+      "En ledelse som ikke hører på gruppens synspunkter og ideer",
+      "En lederstil hvor lederen møter alle avgjørelser alene fra sitt kontor",
       "En lederstil hvor lederen involverer gruppen i beslutninger og fungerer som tilrettelegger",
-      "En metode som ikke brukes i moderne organisasjoner, men dette er ikke helt korrekt"
+      "En metode som har blitt foreldet og erstattet av helt nye systemer"
     ],
     "answerIndex": 2,
     "shortExplanation": "Deltakende ledelse involverer gruppen i beslutningene.",
@@ -80,9 +80,9 @@
     "question": "Hva er delegerende ledelse?",
     "options": [
       "En lederstil hvor lederen gir teamet frihet og delegerer myndighet, brukt i performing-fasen",
-      "En metode som bare brukes av dårlige ledere i alle situasjoner og kontekster",
-      "En ledelse som krever konstant overvåking, men dette er ikke helt korrekt",
-      "En lederstil hvor lederen er veldig involvert i alle oppgaver, men dette er ikke helt korrekt"
+      "En metode som bare brukes av incompetente ledere som ikke kan ta ansvar",
+      "En ledelse som består av detaljert overvåking av alt medlemmene gjør",
+      "En lederstil hvor lederen er så involvert at teamet ikke får mulighet til å lære"
     ],
     "answerIndex": 0,
     "shortExplanation": "Delegerende ledelse gir teamet frihet og ansvar.",
@@ -93,10 +93,10 @@
     "section": "Kap6.8",
     "question": "Hva er kilder til autoritet i prosjekter?",
     "options": [
-      "Bare formell autoritet gjennom tittel",
-      "Bare lønn og økonomisk kontroll",
+      "Bare formell autoritet gjennom tittel og organisasjonsposisjon",
+      "Bare lønn, budsjett og økonomisk kontroll over ressurser",
       "Formell, relasjonell, profesjonell og karismatisk autoritet",
-      "Kun karisma og personlighet"
+      "Kun karisma, personlighet og sosiale evner"
     ],
     "answerIndex": 3,
     "shortExplanation": "Autoritet i prosjekter kommer fra flere kilder.",
@@ -110,7 +110,7 @@
       "En situasjon som aldri oppstår i praksis under noen omstendigheter",
       "Noe som bare påvirker små prosjekter i alle situasjoner og kontekster",
       "Situasjonen der medarbeidere rapporterer til både prosjektleder og linjeleder, noe som kan skape lojalitetskonflikter",
-      "Det betyr at lederen er lojal mot to ulike organisasjoner, men dette er ikke helt korrekt"
+      "Når lederen må velge mellom to karrieremuligheter i ulike organisasjoner"
     ],
     "answerIndex": 2,
     "shortExplanation": "Dual lojalitet oppstår når medarbeidere rapporterer til to ledere.",
@@ -121,10 +121,10 @@
     "section": "Kap6.11",
     "question": "Hva betyr det at ledelse er en mellommenneskelig prosess?",
     "options": [
-      "At ledelse ikke krever noen mellommenneskelig kontakt, men dette er ikke helt korrekt",
+      "At ledelse kan skje uten at mennesker interagerer eller kommuniserer med hverandre",
       "At ledelse handler om å skape mening, bygge tillit, motivere og inspirere til selvledelse",
-      "At ledelse bare handler om tekniske systemer i alle situasjoner og kontekster",
-      "At ledelse bare er en administrativ funksjon i alle situasjoner og kontekster"
+      "At ledelse bare handler om tekniske systemer og IT-systemer i alle situasjoner",
+      "At ledelse er rent administrativt og ikke krever personlig engasjement"
     ],
     "answerIndex": 1,
     "shortExplanation": "Ledelse som mellommenneskelig prosess fokuserer på mennesker og mening.",
@@ -135,10 +135,10 @@
     "section": "Kap6.12",
     "question": "Hva er transformativ ledelse?",
     "options": [
-      "En ledelse som fokuserer kun på oppgaver og kontroll, men dette er ikke helt korrekt",
-      "En type ledelse som bare handler om lønnsystemer i alle situasjoner og kontekster",
+      "En ledelse som fokuserer kun på oppgaver, effektivitet og streng kontroll",
+      "En type ledelse som bare handler om lønn- og bonussystemer",
       "En lederstil der lederen påvirker og motiverer gjennom verdier, engasjement og felles mål",
-      "En metode som ikke brukes i moderne prosjekter, men dette er ikke helt korrekt"
+      "En metode som er utdatert og ikke brukes i noen moderne organisasjoner lenger"
     ],
     "answerIndex": 2,
     "shortExplanation": "Transformativ ledelse motiverer gjennom verdier og engasjement.",
@@ -149,9 +149,9 @@
     "section": "Kap6.13",
     "question": "Hva handler dynamisk prosjektledelse om ifølge oppsummeringen?",
     "options": [
-      "Å bruke samme lederstil hele tiden, men dette er ikke helt korrekt",
-      "Å ignorere gruppens behov, men dette er ikke helt korrekt",
-      "Å fokusere bare på oppgaver og ikke mennesker i alle situasjoner og kontekster",
+      "Å bruke samme lederstil og samme tilnærming gjennom hele prosjektet",
+      "Å overse eller nedprioritere gruppens sosiale og relasjonelle behov",
+      "Å fokusere bare på oppgaver og ikke på mennesker i alle situasjoner",
       "Å tilpasse lederstilen til situasjonen, kombinere struktur og fleksibilitet, formell og relasjonell tillit"
     ],
     "answerIndex": 3,
@@ -163,10 +163,10 @@
     "section": "Kap6.14",
     "question": "Hva er emosjonell intelligens i ledelse?",
     "options": [
-      "En egenskap som ikke påvirker ledelse, men dette er ikke helt korrekt",
-      "Noe som bare handler om personlighet i alle situasjoner og kontekster",
+      "En egenskap som ikke påvirker lederens evne til å kommunisere eller motivere",
+      "Noe som bare handler om å være hyggelig og venlig til alle mennesker",
       "Evnen til å lese situasjonen, forstå gruppens behov og tilpasse lederstilen deretter",
-      "Evnen til å ignorere følelser i arbeidet, men dette er ikke helt korrekt"
+      "Evnen til å surkle følelser og være helt objektiv på alle tidspunkter"
     ],
     "answerIndex": 2,
     "shortExplanation": "Emosjonell intelligens handler om å lese situasjonen og tilpasse seg.",
@@ -178,9 +178,9 @@
     "question": "Hva er grensebok-rollen til prosjektlederen i performing-fasen?",
     "options": [
       "Å beskytte teamet mot ytre forstyrrelse og sikre kontakt med eksterne interessenter",
-      "Å være veldig involvert i alle daglige oppgaver, men dette er ikke helt korrekt",
-      "Å ignorere det som skjer utenfor teamet, men dette er ikke helt korrekt",
-      "Å delegere alt ansvar til teammedlemmene, men dette er ikke helt korrekt"
+      "Å bli direkte involvert i alle detaljer av teamets daglige arbeid",
+      "Å fokusere utelukkende innad og ignorere det som skjer utenfor teamet",
+      "Å gi alt ansvar til teamet uten å ta noen rollen selv"
     ],
     "answerIndex": 0,
     "shortExplanation": "Grensevokteren beskytter teamet og kommuniserer utad.",
@@ -191,10 +191,10 @@
     "section": "Kap6.16",
     "question": "Hva er hovedtrekk ved dynamisk prosjektledelse sammenliknet med statisk ledelse?",
     "options": [
-      "Statisk ledelse er bedre for moderne prosjekter",
-      "Dynamisk ledelse er mindre fleksibel enn statisk ledelse",
+      "Statisk ledelse er mer effektiv enn dynamisk for moderne komplekse prosjekter",
+      "Dynamisk ledelse er mindre fleksibel og mindre tilpassningsdyktig enn statisk",
       "Dynamisk ledelse tilpasser seg situasjonen, mens statisk antar samme stil fungerer alltid",
-      "Det er ingen forskjell mellom dem"
+      "Det er ingen som helst praktisk eller teoretisk forskjell mellom dem i praksis"
     ],
     "answerIndex": 1,
     "shortExplanation": "Dynamisk ledelse tilpasser seg, statisk er fast.",
@@ -205,10 +205,10 @@
     "section": "Kap6.17",
     "question": "Hva handler balanse i dynamisk prosjektledelse om?",
     "options": [
-      "Bare å balansere budsjetter i alle situasjoner og kontekster",
-      "Å fokusere bare på struktur i alle situasjoner og kontekster",
+      "Bare å balansere budsjetter og kontrollere utgifter nøye",
+      "Å fokusere bare på struktur, planlegging og administrative systemer",
       "Mellom oppgave og menneske, planlegging og improvisasjon, struktur og fleksibilitet",
-      "Å ignorere planlegging, men dette er ikke helt korrekt"
+      "Å overse eller minimere behovet for grundig planlegging og struktur"
     ],
     "answerIndex": 2,
     "shortExplanation": "Balanse handler om oppgave og menneske, plan og fleksibilitet.",
@@ -220,9 +220,9 @@
     "question": "Hvorfor er relasjonell autoritet viktig i prosjekter?",
     "options": [
       "Fordi prosjektledere ofte mangler tradisjonell maktbase og må bygge autoritet på tillit",
-      "Autoritet spiller ingen rolle i prosjekter, men dette er ikke helt korrekt",
-      "Fordi prosjektledere har stor makt gjennom tittel, men dette er ikke helt korrekt",
-      "Bare formell autoritet er relevant i alle situasjoner og kontekster"
+      "Fordi relasjonell autoritet er eneste type som finnes i moderne organisasjoner",
+      "Fordi prosjektledere har stort makt gjennom tittel og formell posisjon",
+      "Fordi den formelle strukturen ikke har noe å si når prosjekter er små"
     ],
     "answerIndex": 0,
     "shortExplanation": "Relasjonell autoritet er viktig fordi prosjektledere mangler tradisjonell makt.",
@@ -234,8 +234,8 @@
     "question": "Hva er utfordringer med dual lojalitet for prosjektlederen?",
     "options": [
       "Det påvirker bare små prosjekter i alle situasjoner og kontekster",
-      "Det er ikke noen utfordringer, men dette er ikke helt korrekt",
-      "Det gjør prosjektledelsen lettere, men dette er ikke helt korrekt",
+      "Det oppstår ikke noen utfordringer når man kommuniserer tydelig",
+      "Det gjør prosjektledelsen enklere og mer håndterlig for alle",
       "Det kan skape konflikter og krever klar kommunikasjon, respekt og forhandlingsevne"
     ],
     "answerIndex": 3,
@@ -247,10 +247,10 @@
     "section": "Kap6.20",
     "question": "Hva betyr det at tidspress følger en omvendt U-formet funksjon?",
     "options": [
-      "At det er ingen sammenheng mellom tidspress og motivasjon, men dette er ikke helt korrekt",
-      "At det aldri er nok tidspress under noen omstendigheter",
+      "At tidspress og motivasjon ikke har noen sammenheng eller påvirkning på hverandre",
+      "At det aldri er nok tidspress under noen omstendigheter for å motivere folk",
       "At for lite tidspress gir lav motivasjon, mye tidspress gir stress, optimal nivå gir best resultater",
-      "At tidspress alltid er dårlig uavhengig av konteksten"
+      "At tidspress alltid er dårlig og reduserer både motivasjon og produktivitet"
     ],
     "answerIndex": 2,
     "shortExplanation": "Optimal tidspress gir best resultater - ikke for mye, ikke for lite.",

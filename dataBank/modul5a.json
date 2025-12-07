@@ -91,7 +91,7 @@
       "Noe som bare oppstår i offentlige virksomheter i alle situasjoner og kontekster",
       "Motstridende krav fra ulike parter, som når en medarbeider har 'dual-lojalitet' til prosjektleder og linjeleder",
       "Konflikter som bare dreier seg om penger i alle situasjoner og kontekster",
-      "Konflikter som ikke påvirker prosjektets arbeid, men dette er ikke helt korrekt"
+      "Konflikter som forårsakes av organisasjonsstrukturen som aldri påvirker prosjektets arbeid"
     ],
     "answerIndex": 1,
     "shortExplanation": "Lojalitetskonflikter oppstår fra motstridende krav fra ulike parter.",
@@ -105,7 +105,7 @@
       "Det betyr at det både finnes rasjonelle uenigheter og følelsesmessige reaksjoner som må håndteres",
       "Det betyr at følelser alltid er viktigere enn fakta uavhengig av konteksten",
       "Det betyr at konflikter alltid skyldes dårlig logikk uavhengig av konteksten",
-      "Det betyr at man burde ignorere følelsene og fokusere kun på logikk, men dette er ikke helt korrekt"
+      "Det betyr at man må velge en side i konflikten og gi sin fulle støtte til den parten"
     ],
     "answerIndex": 0,
     "shortExplanation": "Konflikter har både rasjonelle og følelsesmessige sider.",
@@ -116,9 +116,9 @@
     "section": "Kap3.9",
     "question": "Hva er unnvikelse som konflikthåndteringsstrategi?",
     "options": [
-      "En strategi som garanterer at alle blir fornøyde, men dette er ikke helt korrekt",
+      "En strategi som garanterer at alle blir fornøyde med løsningen over tid",
       "En effektiv strategi som alltid løser konflikter uavhengig av konteksten",
-      "Den mest konstruktive måten å håndtere konflikter på, men dette er ikke helt korrekt",
+      "Den mest konstruktive måten å håndtere konflikter ved å lytte til alle parter",
       "Å ignorere konflikten og håpe den går over, fungerer ved små midlertidige konflikter men fører oftere til opphopning"
     ],
     "answerIndex": 3,
@@ -130,10 +130,10 @@
     "section": "Kap3.10",
     "question": "Hva er tvang eller dominans som konflikthåndteringsstrategi?",
     "options": [
-      "Det samme som problemløsning, men dette er ikke helt korrekt",
+      "Samme som diskusjon eller debatt om hvem som har rett",
       "En part påtvinger sin løsning ved makt eller autoritet, effektiv i akutte situasjoner men skaper gjerne misnøye",
       "En strategi som alltid fører til gode resultater uavhengig av konteksten",
-      "En strategi som ikke brukes i moderne arbeidslivet, men dette er ikke helt korrekt"
+      "En strategi som forekommer sjelden i moderne organisasjoner fordi alle ansattes meninger høres"
     ],
     "answerIndex": 1,
     "shortExplanation": "Tvang betyr at en part påtvinger sin løsning ved makt.",
@@ -144,10 +144,10 @@
     "section": "Kap3.11",
     "question": "Hva er kompromiss som konflikthåndteringsstrategi?",
     "options": [
-      "Den mest konstruktive strategien for konflikthåndtering, men dette er ikke helt korrekt",
-      "En strategi som bare brukes i små organisasjoner i alle situasjoner og kontekster",
+      "Den mest konstruktive strategien for konflikthåndtering ved alle typer av konflikter",
+      "En strategi som bare brukes når man må spare tid uavhengig av andre faktorer",
       "Partene gir og tar for å oppnå en løsning begge kan leve med, fungerer raskt men gir ofte mellomløsninger",
-      "En strategi der en part vinner og den andre taper, men dette er ikke helt korrekt"
+      "En strategi der en part naturlig vinner fordi de har bedre argumentasjon"
     ],
     "answerIndex": 2,
     "shortExplanation": "Kompromiss betyr at begge parter gir litt og får litt.",
@@ -159,7 +159,7 @@
     "question": "Hva er problemløsning eller integrasjon som konflikthåndteringsstrategi?",
     "options": [
       "En strategi som alltid mislykkes uavhengig av konteksten",
-      "En metode som krever at en part gir helt etter, men dette er ikke helt korrekt",
+      "En metode som krever at begge parter oppgir sine grunnleggende behov og interesser",
       "En strategi som bare fungerer for små konflikter i alle situasjoner og kontekster",
       "Den mest konstruktive strategien der partene analyserer årsakene sammen og søker løsning som ivaretar alles behov"
     ],
@@ -172,10 +172,10 @@
     "section": "Kap3.13",
     "question": "Hva er proaktiv konflikthåndtering?",
     "options": [
-      "Å vente og se om konflikten løser seg av seg selv, men dette er ikke helt korrekt",
-      "Å unngå alle former for konflikter, men dette er ikke helt korrekt",
+      "Å vente og se om konflikten løser seg av seg selv eller blir mindre alvorlig over tid",
+      "Å unngå alle former for konflikter selv når de blir betydningsfulle for prosjektet",
       "Å forebygge konflikter gjennom åpen kommunikasjon, avklaring av roller og tillit i teamet",
-      "Å håndtere konflikter reaktivt når de allerede har eskalert, men dette er ikke helt korrekt"
+      "Å håndtere konflikter reaktivt når de allerede har eskalert til alvorlige situasjoner"
     ],
     "answerIndex": 2,
     "shortExplanation": "Proaktiv konflikthåndtering handler om forebyggelse før konfliktene eskalerer.",
@@ -186,9 +186,9 @@
     "section": "Kap3.14",
     "question": "Hva mener Tuckmans modell om konflikter i gruppeutvikling?",
     "options": [
-      "At konflikter bør unngås helt, men dette er ikke helt korrekt",
+      "At konflikter bør unngås helt ved all mulig maktbruk eller forhandling",
       "At stormings-fasen er en nødvendig del av gruppeutviklingen som fører til læring og tillit",
-      "At stormings-fasen er unødvendig og bør hoppes over, men dette er ikke helt korrekt",
+      "At stormings-fasen er en fase som kan reduseres drastisk gjennom bedre ledelse fra dag en",
       "At konflikter alltid ødellegger grupper uavhengig av konteksten"
     ],
     "answerIndex": 1,
@@ -201,9 +201,9 @@
     "question": "Hva kan riktig håndterte konflikter føre til?",
     "options": [
       "Økt forståelse for andres perspektiver, styrket samarbeid, klargjøring av normer og bedre løsninger",
-      "At ledelsen mister kontrollen over gruppen, men dette er ikke helt korrekt",
-      "Reduksjon av alle sammarbeid, men dette er ikke helt korrekt",
-      "Alltid økt misnøye og frustrasjon uavhengig av konteksten"
+      "At ledelsen bruker mindre tid på sitt arbeid fordi alle fokuserer på konflikten",
+      "Totalt sammenbrudd av all kommunikasjon og samarbeid mellom gruppens medlemmer",
+      "Alltid økt misnøye, frustrasjon og total oppløsning av gruppesamhold uavhengig av konteksten"
     ],
     "answerIndex": 0,
     "shortExplanation": "Riktig håndterte konflikter kan føre til læring og sterkere samhold.",
@@ -217,7 +217,7 @@
       "Fordi ledelsen aldri tar gode beslutninger under noen omstendigheter",
       "Fordi prosjekter preges av gjensidig avhengighet hvor mennesker med ulik bakgrunn må jobbe sammen",
       "Bare fordi mennesker ikke liker hverandre i alle situasjoner og kontekster",
-      "Konflikter oppstår ikke i godt organiserte prosjekter, men dette er ikke helt korrekt"
+      "Kun fordi organisasjoner ikke har nok ressurser til å betale alle ansatte bra"
     ],
     "answerIndex": 1,
     "shortExplanation": "Konflikter oppstår fordi mennesker er gjensidig avhengige i prosjekter.",
@@ -228,7 +228,7 @@
     "section": "Kap3.17",
     "question": "Hva er 'dual lojalitet' i prosjekter?",
     "options": [
-      "En form for ekslusiv avtale mellom to organisasjoner, men dette er ikke helt korrekt",
+      "En form for partnerskapsavtale mellom to private næringsdrivende",
       "At en person aldri skifter jobb under noen omstendigheter",
       "At en medarbeider har motstridende lojalitet både til prosjektlederen og sin linjeleder i basisorganisasjonen",
       "At en person er lojal mot bare en leder i alle situasjoner og kontekster"
@@ -242,9 +242,9 @@
     "section": "Kap3.18",
     "question": "Når tenderer konflikter til å bli sterkere i prosjekter?",
     "options": [
-      "I slutten av prosjektet når mennesker er trøtte, men dette er ikke helt korrekt",
+      "I slutten av prosjektet når mennesker er trøtte og ønsker å gå videre",
       "Konflikter blir aldri sterkere, de bare skifter form i alle situasjoner og kontekster",
-      "I starten av prosjektet når alle er entusiastiske, men dette er ikke helt korrekt",
+      "I starten av prosjektet når alle er nye og ennå ikke er vant til hverandre",
       "Rundt 'halveis-punktet' når like mye tid er brukt som det som er igjen, og tidspress øker"
     ],
     "answerIndex": 3,
@@ -256,10 +256,10 @@
     "section": "Kap3.19",
     "question": "Hvordan påvirker menneskenes kognitive filter konflikter?",
     "options": [
-      "Kognitive filter har ingen påvirkning på konflikter, men dette er ikke helt korrekt",
+      "Kognitive filter har liten eller ingen påvirkning på hvordan vi oppfatter informasjon",
       "Kognitive filter er hvordan vi tolker informasjon gjennom våre erfaringer og verdier, noe som kan føre til misforståelser",
       "Kognitive filter er bare relevante for psykologer i alle situasjoner og kontekster",
-      "Kognitive filter gjør at alle tolker situasjoner identisk, men dette er ikke helt korrekt"
+      "Kognitive filter gjør at alle mennesker tolker situasjoner identisk basert på objektive fakta"
     ],
     "answerIndex": 1,
     "shortExplanation": "Kognitive filter påvirker hvordan vi tolker informasjon.",
@@ -270,9 +270,9 @@
     "section": "Kap3.20",
     "question": "Hva er hovedpunktet i oppsummeringen om storming og konflikthåndtering?",
     "options": [
-      "Alle konflikter bør unngås helt, men dette er ikke helt korrekt",
-      "Konflikthåndtering er bare lederens ansvar i alle situasjoner og kontekster",
-      "Konflikter er alltid destruktive og skadelige uavhengig av konteksten",
+      "Alle konflikter skal og kan unngås helt gjennom perfekt planlegging",
+      "Konflikthåndtering er ansvar for bare en person i gruppen",
+      "Konflikter er alltid destruktive og kan ikke føre til noe positivt",
       "Konflikter kan være både destruktive og konstruktive avhengig av hvordan de håndteres, og kan føre til vekst og sterkere samhold"
     ],
     "answerIndex": 3,
@@ -285,9 +285,9 @@
     "question": "Hva er latent og manifest konflikt?",
     "options": [
       "Latent ligger under overflaten og merkes som spenning, manifest er når konflikten kommer til uttrykk",
-      "Latent og manifest er det samme, men dette er ikke helt korrekt",
-      "Manifest er alltid dårligere enn latent uavhengig av konteksten",
-      "Det finnes bare en type konflikt i alle situasjoner og kontekster"
+      "Latent oppstår bare i menneskers bevissthet uten reell årsak eller effekt",
+      "Manifest er alltid dårligere enn latent og bør aldri tillates under noen omstendighet",
+      "Det finnes bare en type konflikt som er universell i alle situasjoner og kulturer"
     ],
     "answerIndex": 0,
     "shortExplanation": "Latent konflikt ligger skjult; manifest konflikt er synlig.",
@@ -298,10 +298,10 @@
     "section": "Kap3.4",
     "question": "Hva er differensen mellom sakskonflikt og personkonflikt?",
     "options": [
-      "De er det samme, men dette er ikke helt korrekt",
       "Sakskonflikt handler om oppgaver og kan bidra positivt; personkonflikt handler om følelser og skaper mistrivsel",
-      "Sakskonflikt kan aldri løses under noen omstendigheter",
-      "Personkonflikt er alltid viktigere uavhengig av konteksten"
+      "Sakskonflikt er når folk skal snakke om oppgaver og ingenting annet muligens eller potensielt",
+      "Sakskonflikt kan aldri løses under noen omstendigheter i prosjekter",
+      "Personkonflikt er alltid viktigere enn sakskonflikt uavhengig av situasjonen"
     ],
     "answerIndex": 1,
     "shortExplanation": "Sakskonflikt er rasjonell; personkonflikt er emosjonell.",
@@ -329,7 +329,7 @@
       "Å forebygge konflikter gjennom åpen kommunikasjon, klare roller, trygghet og lederes sensitivitet",
       "At konflikter ikke kan forebygges muligens eller potensielt",
       "Å vente til konflikten blir alvorlig før man handler utelukkende eller primært",
-      "Å ignorere alle tegn på spenning, men dette er ikke helt korrekt"
+      "Å overse eller ignorere alle tegn på grunn av at konflikter altid oppstår uansett"
     ],
     "answerIndex": 0,
     "shortExplanation": "Proaktiv håndtering handler om å forebygge gjennom struktur og kommunikasjon.",
@@ -340,10 +340,10 @@
     "section": "Kap3.7",
     "question": "Hva er forholdet mellom 2 stormings-fasen og normings-fasen?",
     "options": [
-      "Norming kommer før storming, men dette er ikke helt korrekt",
-      "De er ikke relatert, men dette er ikke helt korrekt",
+      "Norming kommer før storming og forberedelse er nøkkelen til suksess",
+      "De er ikke relatert eller påvirker hverandre i gruppeutviklingen",
       "Storming er nødvendig - riktig håndtert fører det til norming med styrket samarbeid og tillit",
-      "Storming løst ikke til noen positiv utvikling, men dette er ikke helt korrekt"
+      "Storming er en fase som ikke leder til noen positiv utvikling for gruppen"
     ],
     "answerIndex": 2,
     "shortExplanation": "Storming er en nødvendig fase som leder til norming hvis håndtert riktig.",

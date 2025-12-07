@@ -18,9 +18,9 @@
     "section": "Kap2.2",
     "question": "Hva er 'dual lojalitet' i prosjektsammenheng?",
     "options": [
-      "Når prosjektlederen har to forskjellige titler i organisasjonen, men dette er ikke helt korrekt",
-      "Når medlemmene må velge mellom lojalitet til gruppen eller til seg selv, men dette er ikke helt korrekt",
-      "Når to prosjekter deler de samme ressursene og må konkurrere, men dette er ikke helt korrekt",
+      "Når prosjektlederen må rapportere til flere direktører i organisasjonen samtidig",
+      "En skriftlig avtale mellom medlemmene om å prioritere gruppens interesser over individuelle behov",
+      "Når to prosjekter kjemper om å få samme budget og ressurser fra ledelsen",
       "Når medlemmer er tilknyttet både prosjektet og sin basisorganisasjon, noe som krever tydelige forventninger"
     ],
     "answerIndex": 3,
@@ -60,9 +60,9 @@
     "section": "Kap2.5",
     "question": "Hva betyr SMART-mål i prosjektplanlegging?",
     "options": [
-      "Mål som endres hyppig for å tilpasse seg nye omstendigheter, men dette er ikke helt korrekt",
-      "Mål som er enkel å huske og lett å kommunisere til andre, men dette er ikke helt korrekt",
-      "Mål som fokuserer på å gjøre prosjektet så omfattende som mulig, men dette er ikke helt korrekt",
+      "Mål som ledelsen setter uten å involvere gruppemedlemmene i diskusjonen",
+      "Mål som oppnås uten å måle resultatene eller få tilbakemelding fra interessenter",
+      "Mål som er så generelle at enhver form for resultat oppfattes som suksess",
       "Spesifikke, målbare, aksepterte, realistiske og tidsavgrensende mål som gir retning og motivasjon"
     ],
     "answerIndex": 3,
@@ -74,10 +74,10 @@
     "section": "Kap2.6",
     "question": "Hva er LEAN-metodikken i prosjektledelse?",
     "options": [
-      "En metode der alle beslutninger tas i demokratiske avstemminger, men dette er ikke helt korrekt",
-      "En metode som fokuserer på å kutte kostnader så mye som mulig, men dette er ikke helt korrekt",
+      "En metode der alle medlemmer må godkjenne hver beslutning før den iverksettes",
+      "En metode som minimerer møter for å redusere kostnader og øke effektivitet",
       "En tilnærming som visualiserer hele prosjektperioden og planlegger bakover fra ønsket sluttresultat",
-      "En streng hierarkisk struktur der ledelsen har all kontroll, men dette er ikke helt korrekt"
+      "En sentralisert ledelsesmodell der bare ledelsen tar alle valg og beslutninger"
     ],
     "answerIndex": 2,
     "shortExplanation": "LEAN fokuserer på visualisering og planlegging bakover fra målene.",
@@ -88,9 +88,9 @@
     "section": "Kap2.7",
     "question": "Hva er 'planleggingsfellen' i prosjektledelse?",
     "options": [
-      "En feil i den offisielle planleggingssoftware, men dette er ikke helt korrekt",
-      "Når medlemmene ikke følger planen som er laget, men dette er ikke helt korrekt",
-      "Når prosjektlederen ikke bruker nok tid på planlegging, men dette er ikke helt korrekt",
+      "En datateknisk feil som gjør at planene ikke kan lagres eller hentes fram igjen",
+      "Når medlemmene arbeider raskere enn planlagt og fullfører oppgaver før forventet",
+      "Når prosjektlederen bruker for mye tid på detaljplanlegging i stedet for gjennomføring",
       "En tendens til å undervurdere hvor mye tid og ressurser som trengs, ofte på grunn av optimismeskjevhet"
     ],
     "answerIndex": 3,
@@ -131,7 +131,7 @@
     "question": "Hvordan påvirker gruppestørrelse dynamikken i et prosjektteam?",
     "options": [
       "Små grupper skaper nærhet og effektiv kommunikasjon, store grupper gir bredde men risiko for sosial loafing",
-      "Størrelse påvirker ikke dynamikken fordi mennesker oppfører seg likt uansett, men dette er ikke helt korrekt",
+      "Mennesker oppfører seg identisk uavhengig av gruppe- og gruppestørrelse",
       "Små grupper er alltid dårlige fordi de mangler perspektiv uavhengig av konteksten",
       "Større grupper er alltid bedre fordi de har mer kompetanse og ressurser uavhengig av konteksten"
     ],
@@ -159,8 +159,8 @@
     "question": "Hva handler teambygging om i formingsfasen?",
     "options": [
       "Det handler kun om å få gruppen til å bli gode venner utenfor arbeid utelukkende eller primært",
-      "En engangs-aktivitet som gjøres på første dagen av prosjektet, men dette er ikke helt korrekt",
-      "En måte å øke produktiviteten ved å gi medlemmene mindre pauser, men dette er ikke helt korrekt",
+      "En utdanningskurs ledelsen påtvinger alle medlemmene tidlig i prosjektet",
+      "En strategi om å redusere uformelle interaksjoner for å få mer arbeid gjort",
       "Å utvikle en gruppe til et velfungerende team gjennom klare roller, trygghet, kommunikasjon og felles mål"
     ],
     "answerIndex": 3,
@@ -175,7 +175,7 @@
       "Kontrakter som vektlegger samarbeid, kommunikasjon og fleksibilitet fremfor bare resultater",
       "Kontrakter som handler om personlige relasjoner mellom medlemmene utelukkende eller primært",
       "Kontrakter som fjerner all ansvar fra prosjektledelsen, noe som kan oppfattes som relevant men er ikke helt korrekt",
-      "Skrevne kontrakter som er veldig lange og detaljerte, men dette er ikke helt korrekt"
+      "Juridiske dokumenter som krever advokats godkjenning før de kan signeres"
     ],
     "answerIndex": 0,
     "shortExplanation": "Relasjonelle kontrakter fokuserer på samarbeid og fleksibilitet.",
@@ -188,7 +188,7 @@
     "options": [
       "Relasjoner som kun handler om å få kritikk og feedback utelukkende eller primært",
       "Det handler kun om sosiale forbindelser mellom medlemmene utelukkende eller primært",
-      "Noe som kun er viktig når prosjektet er i avslutningsfasen, men dette er ikke helt korrekt",
+      "Noe som håndteres av HR-avdelingen og ikke er prosjektlederens ansvar",
       "Relasjoner til runder, leverandører, samarbeidspartnere og myndigheter som må etableres og avklares tidlig"
     ],
     "answerIndex": 3,
@@ -200,10 +200,10 @@
     "section": "Kap2.16",
     "question": "Hvordan påvirker 'flerfaglig sammensetning' prosjektgrupper?",
     "options": [
-      "Den har ingen innvirkning på gruppedynamikken, men dette er ikke helt korrekt",
+      "Den krever lite eller ingen ledelse siden fagfolk naturlig forstår hverandre",
       "Den gir bredde og kreativitet, men kan skape utfordringer knyttet til kommunikasjon og arbeidsstil",
-      "Den gjør alle medlemmene identiske i deres perspektiv og kompetanse, men dette er ikke helt korrekt",
-      "Den gjør gruppen mindre effektiv fordi medlemmene har ulike bakgrunner, men dette er ikke helt korrekt"
+      "Den standardiserer alle medlemmenes arbeidsmetoder for effektivitet",
+      "Den gjør gruppen mindre effektiv fordi medlemmene konkurrerer om betydning"
     ],
     "answerIndex": 1,
     "shortExplanation": "Flerfaglig sammensetning gir bredde men krever god ledelse.",
@@ -214,10 +214,10 @@
     "section": "Kap2.17",
     "question": "Hva er en av de viktigste forventningene til prosjektledelsen i formingsfasen?",
     "options": [
-      "Å minimalisere all kommunikasjon for å øke effektivitet, men dette er ikke helt korrekt",
-      "Å gi alle medlemmene identisk arbeid uansett deres kompetanse, men dette er ikke helt korrekt",
+      "Å fokusere utelukkende på effektivitet og unngå sosiale interaksjoner",
+      "Å delegere alle ansvar til medlemmene så snart prosjektet starter",
       "Å bygge tillit, klargjøre roller, håndtere usikkerhet og legge til rette for læring og samspill",
-      "Å sørge for at alle medlemmene blir gode venner, men dette er ikke helt korrekt"
+      "Å fungere som eneste autoritet i alle avgjørelser som tas"
     ],
     "answerIndex": 2,
     "shortExplanation": "Ledelsen må bygge tillit og klargjøre roller tidlig.",
@@ -229,9 +229,9 @@
     "question": "Hvorfor er 'kontinuerlig-tilpasning' viktig i prosjektplanlegging?",
     "options": [
       "Fordi usikkerheten er størst tidlig i prosjektet, og planer må oppdateres underveis basert på erfaring",
-      "Fordi medlemmene ikke liker å følge planer, men dette er ikke helt korrekt",
-      "Fordi det ikke er mulig å planlegge noe som helst på forhånd, men dette er ikke helt korrekt",
-      "Fordi alle planer alltid er perfekte fra starten av, noe som kan oppfattes som relevant men er ikke helt korrekt"
+      "Fordi medlemmene jobber bedre når de har totalt fri uten noen rammer",
+      "Fordi det ikke er mulig å planlegge noe som helst på forhånd, men det hjelper å prøve",
+      "Fordi alle planer alltid blir oppfylt nøyaktig som de ble skrevet ned"
     ],
     "answerIndex": 0,
     "shortExplanation": "Kontinuerlig-tilpasning gjør planer mer realistiske.",
@@ -243,9 +243,9 @@
     "question": "Hva handler 'struktur og forutsigbarhet' om i formingsfasen?",
     "options": [
       "At alt må være veldig rigid og ikke kan endres muligens eller potensielt",
-      "At medlemmene må gjøre nøyaktig det samme hver dag, men dette er ikke helt korrekt",
+      "At medlemmene må repetere samme rutine hver eneste dag uten variasjon",
       "Å definere mål, fordele ansvar, planlegge aktiviteter og etablere relasjoner for å skape klarhet",
-      "At det ikke er mulig å planlegge noe som helst, men dette er ikke helt korrekt"
+      "At det ikke er mulig å planlegge noe som helst, men alt løser seg av seg selv"
     ],
     "answerIndex": 2,
     "shortExplanation": "Struktur gir klarhet om mål, ansvar og aktiviteter.",
@@ -257,9 +257,9 @@
     "question": "Hva er den overordnede hensikten med formingsfasen?",
     "options": [
       "Å bygge et sterkt team, etablere gode relasjoner, fordele roller og strukturere arbeidet for solid fundament",
-      "Å fullføre så mange oppgaver som mulig så raskt som mulig, men dette er ikke helt korrekt",
-      "Å eliminere alle konflikter før de oppstår, men dette er ikke helt korrekt",
-      "Å sikre at kun de smarteste medlemmene blir værende i gruppen, men dette er ikke helt korrekt"
+      "Å fullføre så mange oppgaver som mulig så raskt som mulig på bekostning av andre faktorer",
+      "Å forhindre alle former for uenighet som kunne oppstå mellom medlemmene",
+      "Å sikre at bare de mest erfarne medlemmene får betydningsfull arbeid og ansvar"
     ],
     "answerIndex": 0,
     "shortExplanation": "Formingsfasen skaper grunnlaget for prosjektets suksess.",
@@ -270,10 +270,10 @@
     "section": "Kap4.1",
     "question": "Hva er aktiv lytting?",
     "options": [
-      "Å lytte uten å si noe i det hele tatt, men dette er ikke helt korrekt",
+      "Å lytte helt passivt uten å avbryte eller gi noe respons til den som snakker",
       "Å vise at man følger med gjennom nikking, småord som 'ja' og å oppsummere det som blir sagt",
-      "Å bruke tiden til å planlegge hva du skal si neste, men dette er ikke helt korrekt",
-      "Å vente på din tur til å snakke mens andre snakker, men dette er ikke helt korrekt"
+      "Å formulere motargumenter mens den andre person fremdeles snakker",
+      "Å vente på din tur til å snakke mens du heller fokuserer på det du skal svare"
     ],
     "answerIndex": 1,
     "shortExplanation": "Aktiv lytting betyr å vise at man følger med og forstår.",
@@ -284,10 +284,10 @@
     "section": "Kap4.2",
     "question": "Hva er tematisk interaksjon?",
     "options": [
-      "Å ignorere det andre sier og fokusere på eget tema, men dette er ikke helt korrekt",
-      "En form for kommunikasjon som ikke fungerer i grupper, men dette er ikke helt korrekt",
+      "Å ignorere det andre sier og dominere samtalen med dine egne synspunkter",
+      "En kommunikasjonsstil som bare fungerer når man er alene eller i par",
       "Å introdusere relevante temaer, bygge videre på andres bidrag og skape felles forståelse",
-      "Å snakke om mange forskjellige temaer på samme tid, men dette er ikke helt korrekt"
+      "Å ta opp så mange ulike emner som mulig i løpet av samme møte"
     ],
     "answerIndex": 2,
     "shortExplanation": "Tematisk interaksjon handler om fokusert dialog som bygger videre.",
@@ -298,10 +298,10 @@
     "section": "Kap4.3",
     "question": "Hva er transaksjonanalyse brukt til?",
     "options": [
-      "Å fastslå hvem som har best kommunikasjonsevner, men dette er ikke helt korrekt",
+      "Å kategorisere hvem som er mer eller mindre verdifull basert på kommunikasjonsstil",
       "Å forstå kommunikasjon som samspill mellom tre jeg-tilstander: Foreldre-jeget, Voksen-jeget og Barne-jeget",
-      "Å finne ut hvilke personer som bør få makt i gruppen, men dette er ikke helt korrekt",
-      "Å analysere økonomiske transaksjoner, men dette er ikke helt korrekt"
+      "Å fastslå hvilke personer som naturlig er født ledere eller følgere",
+      "Å analysere økonomiske strømmer mellom organisasjons- avdelinger"
     ],
     "answerIndex": 1,
     "shortExplanation": "Transaksjonanalyse forklarer kommunikasjon gjennom jeg-tilstander.",
@@ -312,9 +312,9 @@
     "section": "Kap4.4",
     "question": "Hva betyr 'Jeg er OK - du er OK' i transaksjonanalyse?",
     "options": [
-      "En holdning som bare fungerer i formelle møter i alle situasjoner og kontekster",
-      "At en person alltid har rett uavhengig av konteksten",
-      "At all kommunikasjon er perfekt og uten problemer, men dette er ikke helt korrekt",
+      "En holdning som bare fungerer i formelle møter og ikke i hverdagssamtaler",
+      "At en person alltid er riktig og den andre alltid har urett",
+      "Å insistere på at all kommunikasjon er uten feil eller misforståelser",
       "En sunn og balansert holdning der begge parter møtes med respekt og forståelse"
     ],
     "answerIndex": 3,
@@ -327,9 +327,9 @@
     "question": "Hva er samtale-intelligens?",
     "options": [
       "Evnen til å forstå og tilpasse seg andre, lese situasjoner, vise empati og kommunisere hensiktsmessig",
-      "En form for kommunikasjon som bare brukes i politikk i alle situasjoner og kontekster",
-      "Evnen til å snakke fort og effektivt, men dette er ikke helt korrekt",
-      "En test som viser hvor smart man er, men dette er ikke helt korrekt"
+      "En test som bare brukes av store multinasjonale selskaper",
+      "Evnen til å dominere samtaler og påtvinge dine meninger på andre",
+      "En form for intelligens som er medfødt og ikke kan utvikles gjennom praksis"
     ],
     "answerIndex": 0,
     "shortExplanation": "Samtale-intelligens er evnen til å forstå og tilpasse seg andre.",
