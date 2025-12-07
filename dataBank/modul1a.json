@@ -18,10 +18,10 @@
     "section": "1.2",
     "question": "Hva handler gruppedynamikk om?",
     "options": [
-      "Den stabile strukturen av roller og normer som er etablert fra gruppens start",
+      "Den stabile strukturen av roller og normer som er etablert fra gruppens start, noe som kan oppfattes som relevant men er ikke helt korrekt",
       "Løpende endringer i gruppen som påvirkes av oppgaven, hvor lenge gruppen har vært sammen, og hvem medlemmene er",
-      "Måten fysiske miljøet påvirker hvor effektivt medlemmene kan jobbe sammen",
-      "Konflikter og uenigheter som oppstår mellom medlemmene med ulik bakgrunn"
+      "Måten fysiske miljøet påvirker hvor effektivt medlemmene kan jobbe sammen muligens eller potensielt",
+      "Konflikter og uenigheter som oppstår mellom medlemmene med ulik bakgrunn, men dette er ikke helt korrekt"
     ],
     "answerIndex": 1,
     "shortExplanation": "Gruppedynamikk handler om løpende endringer i gruppen over tid.",
@@ -242,10 +242,10 @@
     "section": "Kap2.4",
     "question": "Hva er en referansegruppe?",
     "options": [
-      "En gruppe som oppnevnes for å støtte nye medlemmer gjennom introduksjonsfasen",
+      "En gruppe som oppnevnes for å støtte nye medlemmer gjennom introduksjonsfasen, men dette er ikke helt korrekt",
       "En gruppe som medlemmene bruker som sammenligningsgrunnlag og standard for å vurdere seg selv og oppnåelser",
       "En gruppe som medlemmene tilhører og bruker til å dele informasjon med hverandre",
-      "En gruppe som ledelsen oppnevner for å overvåke at medlemmene følger reglene"
+      "En gruppe som ledelsen oppnevner for å overvåke at medlemmene følger reglene, men dette er ikke helt korrekt"
     ],
     "answerIndex": 1,
     "shortExplanation": "Referansegrupper brukes som sammenligningsgrunnlag.",
@@ -284,9 +284,9 @@
     "section": "Kap2.1",
     "question": "Hva er forskjellen mellom formelle og uformelle grupper?",
     "options": [
-      "Formelle grupper har ikke noe bestemt formål",
-      "Uformelle grupper har alltid en utpekt leder",
-      "Det er ingen praktisk forskjell mellom dem",
+      "Formelle grupper har ikke noe bestemt formål, men dette er ikke helt korrekt",
+      "Uformelle grupper har alltid en utpekt leder uavhengig av konteksten",
+      "Det er ingen praktisk forskjell mellom dem, men dette er ikke helt korrekt",
       "Formelle grupper er opprettet for et bestemt mål med klare regler, mens uformelle grupper oppstår spontant basert på interesser"
     ],
     "answerIndex": 3,
@@ -298,10 +298,10 @@
     "section": "Kap2.2",
     "question": "Hva kjennetegner primærgrupper?",
     "options": [
-      "De har ingen innflytelse på vår identitetsutvikling",
-      "De er alltid organisert av en institution eller ledelse",
+      "De har ingen innflytelse på vår identitetsutvikling, men dette er ikke helt korrekt",
+      "De er alltid organisert av en institution eller ledelse uavhengig av konteksten",
       "De preges av tette, personlige bånd, langvarige relasjoner og sterk følelsesmessig tilknytting",
-      "De er store, upersonlige og basert på offisielle mål"
+      "De er store, upersonlige og basert på offisielle mål, men dette er ikke helt korrekt"
     ],
     "answerIndex": 2,
     "shortExplanation": "Primærgrupper kjennetegnes av tette, personlige bånd.",
@@ -312,10 +312,10 @@
     "section": "Kap2.3",
     "question": "Hva er en sekundærgruppe?",
     "options": [
-      "En gruppe som medlemmene ikke bryr seg om",
+      "En gruppe som medlemmene ikke bryr seg om, men dette er ikke helt korrekt",
       "En gruppe med mindre personlige relasjoner basert på mål og interesser, som skolegruppe eller arbeidsgruppe",
-      "En gruppe som har mindre viktige oppgaver enn primærgrupper",
-      "En gruppe som aldri endrer medlemmer"
+      "En gruppe som har mindre viktige oppgaver enn primærgrupper, men dette er ikke helt korrekt",
+      "En gruppe som aldri endrer medlemmer under noen omstendigheter"
     ],
     "answerIndex": 1,
     "shortExplanation": "Sekundærgrupper er basert på mål, med mindre personlige relasjoner.",
@@ -327,9 +327,9 @@
     "question": "Hva er et sosialt nettverk?",
     "options": [
       "Summen av alle formelle og uformelle relasjoner en person har - venner, familie, kollegaer osv.",
-      "En gruppe som er organisert av staten",
-      "Et online forum hvor mennesker diskuterer temaer",
-      "Et system for å spore menneskers bevegelser"
+      "En gruppe som er organisert av staten, men dette er ikke helt korrekt",
+      "Et online forum hvor mennesker diskuterer temaer, men dette er ikke helt korrekt",
+      "Et system for å spore menneskers bevegelser, men dette er ikke helt korrekt"
     ],
     "answerIndex": 0,
     "shortExplanation": "Sosialt nettverk er alle relasjoner vi har med andre mennesker.",
@@ -340,9 +340,9 @@
     "section": "Kap2.6",
     "question": "Hva er en triade?",
     "options": [
-      "Et hierarki med tre nivåer",
-      "En gruppe med to personer i et parforhold",
-      "En teori om gruppedynamikk",
+      "Et hierarki med tre nivåer, men dette er ikke helt korrekt",
+      "En gruppe med to personer i et parforhold, men dette er ikke helt korrekt",
+      "En teori om gruppedynamikk, men dette er ikke helt korrekt",
       "En gruppe på tre personer som skiller seg fra et parforhold ved at det finnes tre relasjoner: A-B, A-C og B-C"
     ],
     "answerIndex": 3,
@@ -369,9 +369,9 @@
     "question": "Hva innebærer sosial loffing?",
     "options": [
       "Når noen yter mindre i en gruppe fordi de føler at innsatsen deres ikke blir lagt merke til eller ansvaret er diffust",
-      "En lederstil som fremmer samarbeid",
-      "En positiv effekt av gruppearbeid",
-      "Når alle medlemmene arbeider maksimalt for gruppen"
+      "En lederstil som fremmer samarbeid, men dette er ikke helt korrekt",
+      "En positiv effekt av gruppearbeid, men dette er ikke helt korrekt",
+      "Når alle medlemmene arbeider maksimalt for gruppen, men dette er ikke helt korrekt"
     ],
     "answerIndex": 0,
     "shortExplanation": "Sosial loffing oppstår når noen yter mindre på grunn av uklart ansvar.",
@@ -382,10 +382,10 @@
     "section": "Kap2.10",
     "question": "Hvorfor danner mennesker grupper?",
     "options": [
-      "Fordi mennesker naturlig motsetter seg å være alene",
-      "Bare fordi de må være sammen på arbeidsplassen",
+      "Fordi mennesker naturlig motsetter seg å være alene, men dette er ikke helt korrekt",
+      "Bare fordi de må være sammen på arbeidsplassen i alle situasjoner og kontekster",
       "Av sosiale og praktiske grunner - for trygghet, tilhørighet, støtte og for å nå mål som de ikke kan oppnå alene",
-      "Fordi det er påbudt av loven"
+      "Fordi det er påbudt av loven, men dette er ikke helt korrekt"
     ],
     "answerIndex": 2,
     "shortExplanation": "Vi danner grupper for sosiale og praktiske behov.",
@@ -411,10 +411,10 @@
     "section": "Kap1.2",
     "question": "Hva handler gruppesamspill om?",
     "options": [
-      "De skrevne reglene som er formelt fastsatt for gruppen",
+      "De skrevne reglene som er formelt fastsatt for gruppen, men dette er ikke helt korrekt",
       "Den dynamiske atferden medlemmene viser i møte med hverandre - kommunikasjon, samarbeid og konflikthåndtering",
-      "De uforanderlige rollene som medlemmene får tildelt ved oppstart",
-      "De fysiske møteplassene der gruppen samles"
+      "De uforanderlige rollene som medlemmene får tildelt ved oppstart, men dette er ikke helt korrekt",
+      "De fysiske møteplassene der gruppen samles, men dette er ikke helt korrekt"
     ],
     "answerIndex": 1,
     "shortExplanation": "Gruppesamspill handler om dynamisk atferd og interaksjon mellom medlemmer.",
@@ -441,10 +441,10 @@
     "section": "Kap1.4",
     "question": "Hva er gruppeveiledning?",
     "options": [
-      "En metode der en leder gir individuelle instruksjoner til hvert medlem privat",
+      "En metode der en leder gir individuelle instruksjoner til hvert medlem privat, men dette er ikke helt korrekt",
       "En prosess der en veileder gir støtte, struktur og retning til grupper, spesielt i profesjonelle sammenhenger",
-      "En tilnærming der gruppen må løse alle problemer helt på egenhånd",
-      "Et system for å overvåke og kontrollere medlemmenes arbeid"
+      "En tilnærming der gruppen må løse alle problemer helt på egenhånd, men dette er ikke helt korrekt",
+      "Et system for å overvåke og kontrollere medlemmenes arbeid, men dette er ikke helt korrekt"
     ],
     "answerIndex": 1,
     "shortExplanation": "Gruppeveiledning er prosess med støtte og struktur fra veileder.",
@@ -456,10 +456,10 @@
     "section": "Kap1.5",
     "question": "Hva er personfaktorer i grupper?",
     "options": [
-      "De eksterne forholdene som påvirker gruppens arbeid, som tid og ressurser",
+      "De eksterne forholdene som påvirker gruppens arbeid, som tid og ressurser, men dette er ikke helt korrekt",
       "De individuelle egenskapene hver person tar med seg inn i gruppen - kunnskap, ferdigheter, erfaringer, verdier og personlighet",
-      "De regler som gruppen etablerer for å kontrollere medlemmenes oppførsel",
-      "De fysiske omgivelsene der gruppen arbeider"
+      "De regler som gruppen etablerer for å kontrollere medlemmenes oppførsel, men dette er ikke helt korrekt",
+      "De fysiske omgivelsene der gruppen arbeider, men dette er ikke helt korrekt"
     ],
     "answerIndex": 1,
     "shortExplanation": "Personfaktorer er individuelle egenskaper som påvirker gruppen.",
@@ -471,10 +471,10 @@
     "section": "Kap1.6",
     "question": "Hva er situasjonsfaktorer i grupper?",
     "options": [
-      "De personlige egenskapene som medlemmene bringer med seg inn i gruppen",
+      "De personlige egenskapene som medlemmene bringer med seg inn i gruppen, men dette er ikke helt korrekt",
       "De forholdene utenfor individet som påvirker gruppens arbeid - oppgaven, gruppestørrelse, tidsrammer, og miljø",
-      "De normer som gruppen etablerer for akseptabel atferd",
-      "De beslutninger som ledelsen tar for gruppen"
+      "De normer som gruppen etablerer for akseptabel atferd, men dette er ikke helt korrekt",
+      "De beslutninger som ledelsen tar for gruppen, men dette er ikke helt korrekt"
     ],
     "answerIndex": 1,
     "shortExplanation": "Situasjonsfaktorer er eksterne forhold som påvirker gruppens arbeid.",
@@ -486,10 +486,10 @@
     "section": "Kap1.7",
     "question": "Hvordan påvirker personfaktorer og situasjonsfaktorer gruppen?",
     "options": [
-      "Kun personfaktorer har betydning for gruppens suksess",
-      "Kun situasjonsfaktorer bestemmer hvordan gruppen fungerer",
+      "Kun personfaktorer har betydning for gruppens suksess, men dette er ikke helt korrekt",
+      "Kun situasjonsfaktorer bestemmer hvordan gruppen fungerer, men dette er ikke helt korrekt",
       "Både personfaktorer og situasjonsfaktorer påvirker gruppeprosessene og danner grunnlaget for hvordan gruppen fungerer",
-      "Verken personfaktorer eller situasjonsfaktorer har innvirkning på gruppen"
+      "Verken personfaktorer eller situasjonsfaktorer har innvirkning på gruppen, men dette er ikke helt korrekt"
     ],
     "answerIndex": 2,
     "shortExplanation": "Både personfaktorer og situasjonsfaktorer påvirker gruppens funksjon.",
@@ -501,10 +501,10 @@
     "section": "Kap1.8",
     "question": "Hva karakteriserer 'Hvordan grupper fungerer'?",
     "options": [
-      "At alle grupper fungerer på nøyaktig samme måte",
+      "At alle grupper fungerer på nøyaktig samme måte, men dette er ikke helt korrekt",
       "At grupper utvikles gjennom prosesser påvirket av gruppedynamikk - samspill, kommunikasjon, roller og normer",
-      "At grupper ikke endrer seg etter de er dannet",
-      "At grupper bare fungerer hvis ledelsen gir klare ordre"
+      "At grupper ikke endrer seg etter de er dannet, men dette er ikke helt korrekt",
+      "At grupper bare fungerer hvis ledelsen gir klare ordre i alle situasjoner og kontekster"
     ],
     "answerIndex": 1,
     "shortExplanation": "Grupper fungerer gjennom dynamiske prosesser med samspill og kommunikasjon.",
@@ -531,10 +531,10 @@
     "section": "Kap2.8",
     "question": "Hva er komplementære forhold i grupper?",
     "options": [
-      "At alle medlemmene har nøyaktig samme kompetanse og oppgaver",
+      "At alle medlemmene har nøyaktig samme kompetanse og oppgaver, men dette er ikke helt korrekt",
       "At medlemmene har ulike styrker og dominerer på ulike områder, noe som kan skape balanse eller konflikt",
-      "At gruppen deles inn i to like store halvdeler",
-      "At ledelsen gir ros til medlemmene for deres arbeid"
+      "At gruppen deles inn i to like store halvdeler, men dette er ikke helt korrekt",
+      "At ledelsen gir ros til medlemmene for deres arbeid, men dette er ikke helt korrekt"
     ],
     "answerIndex": 1,
     "shortExplanation": "Komplementære forhold betyr ulike styrker og dominansområder.",

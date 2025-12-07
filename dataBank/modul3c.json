@@ -4,10 +4,10 @@
     "section": "Kap7.1",
     "question": "Hva innebærer prosjektavslutning?",
     "options": [
-      "En prosess som bare fokuserer på økonomi og ikke på mennesker",
-      "Bare å informere medlemmene om at de kan slutte å arbeide",
+      "En prosess som bare fokuserer på økonomi og ikke på mennesker i alle situasjoner og kontekster",
+      "Bare å informere medlemmene om at de kan slutte å arbeide i alle situasjoner og kontekster",
       "En overgang fra midlertidig samarbeid til varige resultater gjennom praktiske og menneskelige prosesser",
-      "En enkelt administrative oppgave som kun lederen må håndtere"
+      "En enkelt administrative oppgave som kun lederen må håndtere, men dette er ikke helt korrekt"
     ],
     "answerIndex": 2,
     "shortExplanation": "Prosjektavslutning er både praktisk og menneskelig overgang til varig verdi.",
@@ -18,9 +18,9 @@
     "section": "Kap7.2",
     "question": "Hva består praktisk avslutning av?",
     "options": [
-      "Bare å arkivere papirer uten å evaluere prosjektet",
-      "Kun å si takk til medlemmene og gi dem fri",
-      "En enkel møte der alle gir hånd og går",
+      "Bare å arkivere papirer uten å evaluere prosjektet i alle situasjoner og kontekster",
+      "Kun å si takk til medlemmene og gi dem fri, men dette er ikke helt korrekt",
+      "En enkel møte der alle gir hånd og går, men dette er ikke helt korrekt",
       "Ferdigstilling av leveranser, overlevering, økonomisk avslutning og dokumentasjon"
     ],
     "answerIndex": 3,
@@ -47,9 +47,9 @@
     "question": "Hva er prosjekter som midlertidige organisasjoner?",
     "options": [
       "Organisasjoner som oppretttes for å nå et konkret mål og er designet for å avsluttes",
-      "Organisasjoner som endrer struktur hver uke",
-      "Organisasjoner som skal vare i 3-5 år og så fornyelse",
-      "Organisasjoner som bare eksisterer hvis de har god økonomi"
+      "Organisasjoner som endrer struktur hver uke, men dette er ikke helt korrekt",
+      "Organisasjoner som skal vare i 3-5 år og så fornyelse, men dette er ikke helt korrekt",
+      "Organisasjoner som bare eksisterer hvis de har god økonomi i alle situasjoner og kontekster"
     ],
     "answerIndex": 0,
     "shortExplanation": "Prosjekter er midlertidige organisasjoner designet for å avsluttes når mål oppnås.",
@@ -104,8 +104,8 @@
     "options": [
       "En evaluering som skjer hver uke under hele prosjektet",
       "Evaluering etter avslutning som vurderer om mål oppnåddes og læringspunkter",
-      "En type evaluering som medlemmene selv ikke får se",
-      "En evaluering som bare fokuserer på økonomiske tall"
+      "En type evaluering som medlemmene selv ikke får se, men dette er ikke helt korrekt",
+      "En evaluering som bare fokuserer på økonomiske tall i alle situasjoner og kontekster"
     ],
     "answerIndex": 1,
     "shortExplanation": "Summativ evaluering gjøres etter avslutning for å vurdere mål og læring.",
@@ -117,9 +117,9 @@
     "question": "Hva er jerntrianglet i prosjektledelse?",
     "options": [
       "Tradisjonell fokus på tid, kostnad og kvalitet som målekriteria",
-      "En teknikk for å motivere medlemmene",
-      "En fysisk struktur på prosjektkontoret",
-      "En metode for å håndtere konflikter i gruppen"
+      "En teknikk for å motivere medlemmene, men dette er ikke helt korrekt",
+      "En fysisk struktur på prosjektkontoret, men dette er ikke helt korrekt",
+      "En metode for å håndtere konflikter i gruppen, men dette er ikke helt korrekt"
     ],
     "answerIndex": 0,
     "shortExplanation": "Jerntrianglet er tradisjonelt fokus på tid, kostnad og kvalitet.",
@@ -130,10 +130,10 @@
     "section": "Kap7.10",
     "question": "Hva er gevinstrealisering?",
     "options": [
-      "Kostnader som oppstår når prosjektet avsluttes",
-      "En prosess som bare handler om økonomi",
+      "Kostnader som oppstår når prosjektet avsluttes, men dette er ikke helt korrekt",
+      "En prosess som bare handler om økonomi i alle situasjoner og kontekster",
       "Den verdien, nyttevirkninger og samfunnseffekt som prosjektet faktisk skaper",
-      "En type kontroll som lederen bruker på medlemmene"
+      "En type kontroll som lederen bruker på medlemmene, men dette er ikke helt korrekt"
     ],
     "answerIndex": 2,
     "shortExplanation": "Gevinstrealisering handler om den langsiktige verdien prosjektet skaper.",
@@ -144,10 +144,10 @@
     "section": "Kap7.11",
     "question": "Hva er kunnskapsgap i prosjektavslutning?",
     "options": [
-      "Noe som automatisk løses uten innsats",
+      "Noe som automatisk løses uten innsats, men dette er ikke helt korrekt",
       "Forskjellen mellom hva prosjektgruppen vet og hva de som skal ta over resultatene vet",
-      "En mangel på møteplasser for teamet",
-      "Et problem som ikke er viktig for prosjektsuksess"
+      "En mangel på møteplasser for teamet, men dette er ikke helt korrekt",
+      "Et problem som ikke er viktig for prosjektsuksess, men dette er ikke helt korrekt"
     ],
     "answerIndex": 1,
     "shortExplanation": "Kunnskapsgap oppstår mellom prosjektet og de som skal ta over resultatene.",
@@ -172,10 +172,10 @@
     "section": "Kap7.13",
     "question": "Hva er sorgreaksjoner i prosjektavslutning?",
     "options": [
-      "Noe som bare rammer medlemmer som slutter jobben",
-      "En unormal reaksjon som bør ignoreres",
+      "Noe som bare rammer medlemmer som slutter jobben i alle situasjoner og kontekster",
+      "En unormal reaksjon som bør ignoreres, men dette er ikke helt korrekt",
       "Naturlige følelser av tap når prosjektteamet oppløses etter langvarig samarbeid",
-      "Et tegn på at prosjektet ikke var vellykket"
+      "Et tegn på at prosjektet ikke var vellykket, men dette er ikke helt korrekt"
     ],
     "answerIndex": 2,
     "shortExplanation": "Sorgreaksjoner er naturlige følelser når et tett samarbeidsteam oppløses.",
@@ -228,9 +228,9 @@
     "section": "Kap7.17",
     "question": "Hva er læring av prosjektet?",
     "options": [
-      "Noe som kun lederen skal gjøre",
-      "En prosess som bare skjer hvis prosjektet var mislykket",
-      "En prosess som tar for lang tid og bør hoppes over",
+      "Noe som kun lederen skal gjøre, men dette er ikke helt korrekt",
+      "En prosess som bare skjer hvis prosjektet var mislykket i alle situasjoner og kontekster",
+      "En prosess som tar for lang tid og bør hoppes over, men dette er ikke helt korrekt",
       "Identifisering av hva som fungerte godt og hva som ikke gjorde det, dokumentasjon og deling"
     ],
     "answerIndex": 3,
@@ -243,9 +243,9 @@
     "question": "Hva er en lærende organisasjon?",
     "options": [
       "En organisasjon som kontinuerlig lærer av erfaringene sine og forbedrer prosesser",
-      "En organisasjon som aldri endrer sine metoder",
-      "En organisasjon som bare holder kurs og opplæring",
-      "En organisasjon som kun fokuserer på profitt"
+      "En organisasjon som aldri endrer sine metoder under noen omstendigheter",
+      "En organisasjon som bare holder kurs og opplæring i alle situasjoner og kontekster",
+      "En organisasjon som kun fokuserer på profitt, men dette er ikke helt korrekt"
     ],
     "answerIndex": 0,
     "shortExplanation": "En lærende organisasjon forbedrer seg kontinuerlig gjennom læring.",
