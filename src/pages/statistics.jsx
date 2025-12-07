@@ -485,15 +485,20 @@ function Statistics() {
                 <div className="chapter-progress-bar">
                   <div 
                     className="chapter-progress-fill"
-                    style={{ width: `${(chapter.lastScore / chapter.total) * 100}%` }}
+                    style={{ width: `${chapter.attempts > 0 ? (chapter.lastScore / chapter.total) * 100 : 0}%` }}
                   />
                 </div>
                 <div className="chapter-stat-info">
                   <span>Total: {chapter.total} questions</span>
                   {chapter.attempts > 0 && (
-                    <span className="chapter-accuracy">
-                      {chapter.attempts} attempt{chapter.attempts > 1 ? 's' : ''}
-                    </span>
+                    <>
+                      <span className="chapter-accuracy">
+                        Completed: {chapter.lastScore}/{chapter.total}
+                      </span>
+                      <span className="chapter-accuracy">
+                        {chapter.attempts} attempt{chapter.attempts > 1 ? 's' : ''}
+                      </span>
+                    </>
                   )}
                 </div>
               </div>
