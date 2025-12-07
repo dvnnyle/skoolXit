@@ -441,10 +441,10 @@
     "section": "Kap1.4",
     "question": "Hva er gruppeveiledning?",
     "options": [
-      \"En metode der en leder gir instruksjoner kun til medlemmer med høyest lønn eller tittel\",
-      \"En prosess der en veileder gir støtte, struktur og retning til grupper, spesielt i profesjonelle sammenhenger\",
-      \"En tilnærming der lederen bestemmer alle løsninger uten å spørre gruppen om deres meninger\",
-      \"Et system der lederen observerer og rapporterer alt som medlemmene gjør til HR-avdelingen\"
+      "En metode der en leder gir instruksjoner kun til medlemmer med høyest lønn eller tittel",
+      "En prosess der en veileder gir støtte, struktur og retning til grupper, spesielt i profesjonelle sammenhenger",
+      "En tilnærming der lederen bestemmer alle løsninger uten å spørre gruppen om deres meninger",
+      "Et system der lederen observerer og rapporterer alt som medlemmene gjør til HR-avdelingen"
     ],
     "answerIndex": 1,
     "shortExplanation": "Gruppeveiledning er prosess med støtte og struktur fra veileder.",
@@ -456,10 +456,10 @@
     "section": "Kap1.5",
     "question": "Hva er personfaktorer i grupper?",
     "options": [
-      \"De ytre forhold som medlemmene påvirker gjennom sine individuelle valg\",
-      \"De individuelle egenskapene hver person tar med seg inn i gruppen - kunnskap, ferdigheter, erfaringer, verdier og personlighet\",
-      \"De lover som staten har laget for hvor medlemmene skal sitte\",
-      \"De tilfeldig valgte møteplassene som endrer seg hver dag\"
+      "De ytre forhold som medlemmene påvirker gjennom sine individuelle valg",
+      "De individuelle egenskapene hver person tar med seg inn i gruppen - kunnskap, ferdigheter, erfaringer, verdier og personlighet",
+      "De lover som staten har laget for hvor medlemmene skal sitte",
+      "De tilfeldig valgte møteplassene som endrer seg hver dag"
     ],
     "answerIndex": 1,
     "shortExplanation": "Personfaktorer er individuelle egenskaper som påvirker gruppen.",
@@ -471,10 +471,10 @@
     "section": "Kap1.6",
     "question": "Hva er situasjonsfaktorer i grupper?",
     "options": [
-      \"De evner som medlemmene lærer fra media og sosiale medier som de bruker\",
-      \"De forholdene utenfor individet som påvirker gruppens arbeid - oppgaven, gruppestørrelse, tidsrammer, og miljø\",
-      \"De tradisjonelle hierarkier som baseres på antall år medlemmer har vært i organisasjonen\",
-      \"De påbud som kommer fra øverste ledelse om hvordan gruppen skal oppføre seg\"
+      "De evner som medlemmene lærer fra media og sosiale medier som de bruker",
+      "De forholdene utenfor individet som påvirker gruppens arbeid - oppgaven, gruppestørrelse, tidsrammer, og miljø",
+      "De tradisjonelle hierarkier som baseres på antall år medlemmer har vært i organisasjonen",
+      "De påbud som kommer fra øverste ledelse om hvordan gruppen skal oppføre seg"
     ],
     "answerIndex": 1,
     "shortExplanation": "Situasjonsfaktorer er eksterne forhold som påvirker gruppens arbeid.",
