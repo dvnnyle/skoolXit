@@ -390,5 +390,155 @@
     "answerIndex": 2,
     "shortExplanation": "Vi danner grupper for sosiale og praktiske behov.",
     "explanation": "Mennesker danner grupper av både sosiale og praktiske grunner:<br><br>• Vi søker trygghet og tilhørighet<br>• Vi har behov for støtte og anerkjennelse<br>• Vi ønsker å nå mål som vi ikke kan oppnå alene<br>• Vi påvirkes av andre og påvirker dem<br><br>Gjennom gruppetilhørighet lærer vi hvem vi er, våre verdier og hvordan vi samhandler."
+  },
+  {
+    "id": 31,
+    "section": "Kap1.1",
+    "question": "Hva handler gruppestruktur om?",
+    "options": [
+      "Den dynamiske og stadig endrede atferden mellom medlemmene i gruppen",
+      "De mer stabile elementene i gruppen som roller, normer og regler",
+      "Måten medlemmene kommuniserer og løser problemer sammen",
+      "De fysiske rammene som gruppen arbeider innenfor"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Gruppestruktur handler om stabile elementer som roller, normer og regler.",
+    "explanation": "<strong>Gruppestruktur</strong> beskriver de mer stabile forholdene i gruppen, som inkluderer roller (hvem som har hvilke funksjoner), normer (uskrevne regler for atferd) og regler (formelle retningslinjer). Disse stabile elementene gir gruppen form og fungerer som rammeverk for hvordan medlemmene oppfører seg og interagerer. <strong>Gruppesamspill</strong> derimot handler om den dynamiske atferden og interaksjonen medlemmene viser i møte med hverandre.",
+    "example": "En prosjektgruppe har en fast struktur: lederen (rolle), møter mandag klokka 10 (regel), alle skal lytte når andre snakker (norm). Dette er gruppestrukturen som holdes relativt stabil."
+  },
+  {
+    "id": 32,
+    "section": "Kap1.2",
+    "question": "Hva handler gruppesamspill om?",
+    "options": [
+      "De skrevne reglene som er formelt fastsatt for gruppen",
+      "Den dynamiske atferden medlemmene viser i møte med hverandre - kommunikasjon, samarbeid og konflikthåndtering",
+      "De uforanderlige rollene som medlemmene får tildelt ved oppstart",
+      "De fysiske møteplassene der gruppen samles"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Gruppesamspill handler om dynamisk atferd og interaksjon mellom medlemmer.",
+    "explanation": "<strong>Gruppesamspill</strong> handler om den dynamiske atferden medlemmene viser i møte med hverandre. Dette inkluderer kommunikasjon, samarbeid, konflikthåndtering, og hvordan medlemmene påvirker hverandre gjennom tanker, følelser og handlinger. <strong>Gruppestruktur</strong> derimot handler om de mer stabile elementene som roller, normer og regler. Mens struktur er relativt konstant, endrer samspillet seg kontinuerlig basert på situasjonen og medlemmenes interaksjoner.",
+    "example": "I samme prosjektgruppe oppstår diskusjoner, noen medlemmer støtter hverandre, andre er uenige, og lederen må håndtere konflikter. Dette dynamiske samspillet endrer seg fra dag til dag."
+  },
+  {
+    "id": 33,
+    "section": "Kap1.3",
+    "question": "Hva er teamarbeid?",
+    "options": [
+      "En uformell gruppe som samles for sosiale aktiviteter",
+      "En organisert arbeidsform der profesjonelle grupper samarbeider mot et fellesmål",
+      "En metode for å fordele oppgaver individuelt uten samarbeid",
+      "En type konflikt som oppstår mellom medlemmer med ulik erfaring"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Teamarbeid er organisert samarbeid mot et felles mål.",
+    "explanation": "Teamarbeid er en organisert arbeidsform der profesjonelle grupper samarbeider mot et fellesmål. I slike team er veiledning og refleksjon viktige under utviklingen. Teamarbeid skiller seg fra uformelle grupper ved at det har klare mål, struktur og ofte en definert leder. Gjennom teamarbeid lærer medlemmer å koordinere innsatsen sin og løse oppgaver sammen.",
+    "example": "Et softwareutviklingsteam på 5-7 personer som jobber sammen på et prosjekt med daglige standupmøter, delte mål for sprinten, og felles ansvar for leveransen."
+  },
+  {
+    "id": 34,
+    "section": "Kap1.4",
+    "question": "Hva er gruppeveiledning?",
+    "options": [
+      "En metode der en leder gir individuelle instruksjoner til hvert medlem privat",
+      "En prosess der en veileder gir støtte, struktur og retning til grupper, spesielt i profesjonelle sammenhenger",
+      "En tilnærming der gruppen må løse alle problemer helt på egenhånd",
+      "Et system for å overvåke og kontrollere medlemmenes arbeid"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Gruppeveiledning er prosess med støtte og struktur fra veileder.",
+    "explanation": "Gruppeveiledning er en prosess der en veileder gir støtte, struktur og retning til grupper, spesielt i profesjonelle sammenhenger som prosjektarbeid. Veilederen hjelper gruppen med å utvikle seg, løse problemer og reflektere over erfaringer. Dette er særlig viktig i teamarbeid hvor medlemmer lærer av hverandre og fra veiledning.",
+    "example": "En prosjektleder gjennomfører retrospektiv-møter der teamet reflekterer sammen over arbeidet, diskuterer hva som gikk bra og hva som kan forbedres, med lederen som fasilitator."
+  },
+  {
+    "id": 35,
+    "section": "Kap1.5",
+    "question": "Hva er personfaktorer i grupper?",
+    "options": [
+      "De eksterne forholdene som påvirker gruppens arbeid, som tid og ressurser",
+      "De individuelle egenskapene hver person tar med seg inn i gruppen - kunnskap, ferdigheter, erfaringer, verdier og personlighet",
+      "De regler som gruppen etablerer for å kontrollere medlemmenes oppførsel",
+      "De fysiske omgivelsene der gruppen arbeider"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Personfaktorer er individuelle egenskaper som påvirker gruppen.",
+    "explanation": "<strong>Personfaktorer</strong> er de individuelle egenskapene hver person tar med seg inn i gruppen, som kunnskap, ferdigheter, erfaringer, verdier og personlighet. Dette inkluderer: personlighet (utadvendt/sjenert), holdninger og verdier, erfaringer med samarbeid, og motivasjon og mål. En person som er trygg og tar ansvar kan lett ta en lederrolle, mens en mer tilbakeholden kan bidra på andre måter, som å lytte og høre. Personfaktorer påvirker hvordan gruppen fungerer sammen.",
+    "example": "I et team kan en person være en naturlig leder med god kommunikasjon, en annen er detalj-orientert og sikrer kvalitet, en tredje er kreativ og tenker utenfor boksen. Disse personlighetstrekk påvirker hvordan teamet fungerer."
+  },
+  {
+    "id": 36,
+    "section": "Kap1.6",
+    "question": "Hva er situasjonsfaktorer i grupper?",
+    "options": [
+      "De personlige egenskapene som medlemmene bringer med seg inn i gruppen",
+      "De forholdene utenfor individet som påvirker gruppens arbeid - oppgaven, gruppestørrelse, tidsrammer, og miljø",
+      "De normer som gruppen etablerer for akseptabel atferd",
+      "De beslutninger som ledelsen tar for gruppen"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Situasjonsfaktorer er eksterne forhold som påvirker gruppens arbeid.",
+    "explanation": "<strong>Situasjonsfaktorer</strong> er forholdene utenfor individet som påvirker gruppens arbeid. Dette handler om omstendighetene rundt gruppen som påvirker atferd og samarbeid: gruppens størrelse (små grupper gir tettere samarbeid), oppgaven gruppen skal løse (enkelt vs. vanskelig), ledelsesstil (autoritet vs. samarbeid), tidspress og stressnivå, og fysiske omgivelser (støy, område, fysisk, digitalt). Situasjonsfaktorer påvirker hvordan gruppen samarbeider, kommuniserer og løser problemer.",
+    "example": "Et team som jobber under tidspress med begrenset budsjett, 8 medlemmer fra ulike fagfelt, og digital kommunikasjon, møter helt andre utfordringer enn et lite team med god tid og samme lokale."
+  },
+  {
+    "id": 37,
+    "section": "Kap1.7",
+    "question": "Hvordan påvirker personfaktorer og situasjonsfaktorer gruppen?",
+    "options": [
+      "Kun personfaktorer har betydning for gruppens suksess",
+      "Kun situasjonsfaktorer bestemmer hvordan gruppen fungerer",
+      "Både personfaktorer og situasjonsfaktorer påvirker gruppeprosessene og danner grunnlaget for hvordan gruppen fungerer",
+      "Verken personfaktorer eller situasjonsfaktorer har innvirkning på gruppen"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Både personfaktorer og situasjonsfaktorer påvirker gruppens funksjon.",
+    "explanation": "Gruppeprosessene påvirkes av både personfaktorer og situasjonsfaktorer som danner grunnlaget for hvordan gruppen fungerer. <strong>Personfaktorer</strong> (individuelle egenskaper som personlighet, verdier, erfaring) og <strong>situasjonsfaktorer</strong> (eksterne forhold som oppgave, tidpress, ressurser) virker sammen for å påvirke gruppens dynamikk, kommunikasjon, rollefordeling og resultater. En suksessfull gruppe balanserer begge aspektene.",
+    "example": "En gruppe med meget dyktige medlemmer (sterk personfaktor) kan likevel mislykkes hvis tiden er for knapp og ressursene utilstrekkelige (dårlig situasjonsfaktor). Omvendt: selv et mindre erfart team kan prestere godt med god tid og støtte."
+  },
+  {
+    "id": 38,
+    "section": "Kap1.8",
+    "question": "Hva karakteriserer 'Hvordan grupper fungerer'?",
+    "options": [
+      "At alle grupper fungerer på nøyaktig samme måte",
+      "At grupper utvikles gjennom prosesser påvirket av gruppedynamikk - samspill, kommunikasjon, roller og normer",
+      "At grupper ikke endrer seg etter de er dannet",
+      "At grupper bare fungerer hvis ledelsen gir klare ordre"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Grupper fungerer gjennom dynamiske prosesser med samspill og kommunikasjon.",
+    "explanation": "<strong>Hvordan grupper fungerer</strong> handler om gruppedynamikken - de løpende endringene og prosessene i gruppen. Grupper fungerer gjennom: <strong>samspill</strong> (hvordan medlemmene interagerer), <strong>kommunikasjon</strong> (utveksling av informasjon og mening), <strong>roller</strong> (funksjoner og forventninger), og <strong>normer</strong> (uskrevne regler). Grupper er i stadig utvikling og tilpasser seg utfordringer, mål og medlemmer. Dette kalles gruppedynamikk. Gruppen påvirker individet, og individene påvirker gruppen gjennom sine handlinger og holdninger.",
+    "example": "En gruppe som starter med usikkerhet og høflighet (forming) går gjennom konflikter (storming), etablerer rutiner (norming), og til slutt jobber effektivt sammen (performing). Hele prosessen påvirkes av medlemmenes personlighet og de eksterne forhold rundt gruppen."
+  },
+  {
+    "id": 39,
+    "section": "Kap1.9",
+    "question": "Hva er gruppetenking (groupthink)?",
+    "options": [
+      "En positiv form for samarbeid der alle medlemmene har samme mening om løsninger",
+      "En tendens der medlemmene undertrykker kritiske meninger for å bevare enighet og unngå konflikter",
+      "En prosess der gruppen utvikler innovative ideer gjennom åpen diskusjon",
+      "En ledelsesteknikk for å få alle medlemmene til å følge samme strategi"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Gruppetenking oppstår når medlemmene undertrykker kritikk for å bevare enighet.",
+    "explanation": "<strong>Gruppetenking</strong> oppstår når medlemmer i en gruppe undertrykker kritiske meninger, alternative perspektiver og dissenterende synspunkter for å bevare enighet og unngå konflikter. Dette kan føre til dårlige beslutninger fordi viktige innvendinger ikke blir hørt. Gruppetenking hemmer kreativ problemløsning og kritisk vurdering. Det oppstår ofte i grupper med sterk samhørighet eller autoritær ledelse, hvor medlemmene frykteter å bryte enigheten.",
+    "example": "En prosjektgruppe er enig om en strategi, men noen medlemmer har stille reservasjoner. Istedenfor å dele sine bekymringer og teste planene grundig, sier de ikke noe for å ikke skape konflikt. Resultatet blir at gruppen velger en dårlig strategi fordi kritikken aldri ble hørt."
+  },
+  {
+    "id": 40,
+    "section": "Kap2.8",
+    "question": "Hva er komplementære forhold i grupper?",
+    "options": [
+      "At alle medlemmene har nøyaktig samme kompetanse og oppgaver",
+      "At medlemmene har ulike styrker og dominerer på ulike områder, noe som kan skape balanse eller konflikt",
+      "At gruppen deles inn i to like store halvdeler",
+      "At ledelsen gir ros til medlemmene for deres arbeid"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Komplementære forhold betyr ulike styrker og dominansområder.",
+    "explanation": "<strong>Komplementære forhold</strong> oppstår når medlemmene har ulike styrker og dominerer på ulike områder. En medlem kan være god på strategi, en annen på detaljer, en tredje på menneskekontakt. Dette kan skape balanse og effektivt samarbeid når medlemmene respekterer hverandres styrker og jobber sammen - motsatt av symmetriske forhold hvor alle har lik innflytelse. Komplementære forhold kan også skape konflikt hvis medlemmene konkurrerer eller ikke verdsetter hverandres bidrag.",
+    "example": "Et team består av en visjonær leder, en detaljorienter prosjektleder, en kreativ designer og en erfaren tekniker. Hver bringer ulike styrker som gjør teamet komplett. Sammen arbeider de godt, men hvis de ikke respekterer hverandres roller, kan det oppstå konflikter."
   }
 ]
