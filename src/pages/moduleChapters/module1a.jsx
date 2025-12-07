@@ -299,7 +299,7 @@ function Module1a() {
                   }}
                 />
               )}
-              <p 
+              <div 
                 className="explanation-text"
                 dangerouslySetInnerHTML={{ 
                   __html: currentQuestion.explanation.replace(

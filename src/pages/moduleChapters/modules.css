@@ -212,6 +212,22 @@
   font-weight: 600;
 }
 
+.explanation-text strong {
+  color: #fff;
+  font-weight: 700;
+  display: block;
+  margin-top: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.explanation-text strong:first-child {
+  margin-top: 0;
+}
+
+.explanation-text br + strong {
+  margin-top: 0.5rem;
+}
+
 .navigation-buttons {
   display: flex;
   gap: 0.75rem;
