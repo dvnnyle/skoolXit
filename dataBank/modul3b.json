@@ -18,10 +18,10 @@
     "section": "Kap5.4",
     "question": "Hva er inputtkontroll i prosjektarbeid?",
     "options": [
-      "En form for kommunikasjon mellom leder og team, men dette er ikke helt korrekt",
-      "Kontroll av sluttresltatene når prosjektet er ferdig, men dette er ikke helt korrekt",
+      "Evaluering av teammedlemmers personlige bakgrunn og utdanning",
+      "Dokumentasjon av prosjektmål og milepæler etter lansering",
       "Fokus på ressursene som går inn i prosjektet: kompetanse, bemanning, teknologi, tid og penger",
-      "Kontroll av medlemmenes personlige adferd og holdninger, men dette er ikke helt korrekt"
+      "Overvåking av møter og rapporter gjennom hele prosjektet"
     ],
     "answerIndex": 2,
     "shortExplanation": "Inputtkontroll fokuserer på ressursene som går inn i prosjektet.",
@@ -46,10 +46,10 @@
     "section": "Kap5.6",
     "question": "Hva er aktivitetskontroll (atferdskontroll)?",
     "options": [
-      "Kontroll av medlemmenes personlige meninger og verdier, men dette er ikke helt korrekt",
+      "Vurdering av medlemmenes personlige preferanser og bakgrunn",
       "Fokus på handlinger og arbeidsprosesser: rapportering, møter, rutiner og observasjon",
-      "Kontroll av resultatene etter prosjektet er avsluttet, men dette er ikke helt korrekt",
-      "Kontroll av hvor mye medlemmene liker sin jobb, men dette er ikke helt korrekt"
+      "Evaluering av sluttresultater ved prosjektets avslutning",
+      "Måling av teammedlemmers personlige trivsel og jobbtilfredshet"
     ],
     "answerIndex": 1,
     "shortExplanation": "Aktivitetskontroll fokuserer på arbeidsprosessene og hvordan arbeidet gjøres.",
@@ -75,9 +75,9 @@
     "question": "Hva er operasjonell risiko i prosjekter?",
     "options": [
       "Risiko for uforutsette problemer i selve gjennomføringen: forsinkelser, teknologiske utfordringer, sykdom",
-      "Risiko for at prosjektet blir for dyrrig, men dette er ikke helt korrekt",
-      "Risiko knyttet til politiske endringer utenfor prosjektet, men dette er ikke helt korrekt",
-      "Risiko for at medlemmene ikke liker hverandre, men dette er ikke helt korrekt"
+      "Risiko for budsjettoverskridelse og økte kostnader fra leverandører",
+      "Risiko knyttet til makroøkonomiske endringer og markedsbetingelser",
+      "Risiko for personlige konflikter og uenigheter innenfor teamet"
     ],
     "answerIndex": 0,
     "shortExplanation": "Operasjonell risiko handler om uforutsette problemer i gjennomføringen.",
@@ -88,9 +88,9 @@
     "section": "Kap5.9",
     "question": "Hva er relasjonell risiko?",
     "options": [
-      "Risiko for at medlemmene blir syk og ikke kan arbeide muligens eller potensielt",
-      "Risiko for konflikter mellom medlemmene som arbeider sammen, men dette er ikke helt korrekt",
-      "Risiko for at teknologien ikke fungerer som planlagt, men dette er ikke helt korrekt",
+      "Risiko for sykdom og fravær blant prosjektmedlemmer",
+      "Risiko for samarbeidsproblemer og miskommunikasjon internt i teamet",
+      "Risiko for tekniske svikt i systemer og verktøy som brukes",
       "Usikkerthet knyttet til forhold utenfor prosjektet: politiske endringer, økonomiske svingninger, endringer hos interessenter"
     ],
     "answerIndex": 3,
@@ -130,9 +130,9 @@
     "section": "Kap5.12",
     "question": "Hva er lock-in (sti-avhengighet)?",
     "options": [
-      "En situasjon der medlemmene blir låst inne på kontorene, men dette er ikke helt korrekt",
-      "Når alle medlemmene må være enige før noen beslutning tas, men dette er ikke helt korrekt",
-      "En form for sikkerhetsmål som gjør arbeidet tryggere, men dette er ikke helt korrekt",
+      "Fysisk isolasjon av teamet fra eksterne påvirkninger",
+      "Kryssfunksjonell enighet som kreves før implementering av endringer",
+      "Sikkerhetsprotokoller som begrenser tilgang til systemer og data",
       "Når teamet låses til en løsning eller teknologi på grunn av tidligere investeringer eller prestisjegrunner"
     ],
     "answerIndex": 3,
@@ -144,10 +144,10 @@
     "section": "Kap5.13",
     "question": "Hva er eskalering av feil kurs?",
     "options": [
-      "En strategi for å få prosjektet til å gå raskere, men dette er ikke helt korrekt",
+      "En akselerert tidsplan for å redusere prosjektets varighet",
       "Når teamet fortsetter å investere i et dødsdømt prosjekt fordi man vil rettferdigjøre tidligere valg",
-      "En metode for å øke budsjettet når det trengs, men dette er ikke helt korrekt",
-      "En normal del av alle prosjekter som ikke skaper problemer, men dette er ikke helt korrekt"
+      "Økt finansiering til prosjektet som respons på ressursmangel",
+      "En naturlig og positiv del av prosjektadaptasjon over tid"
     ],
     "answerIndex": 1,
     "shortExplanation": "Eskalering oppstår når man fortsetter å investere i dårlige løsninger.",
@@ -159,9 +159,9 @@
     "question": "Hva er viktig for å unngå dårlige beslutninger i prosjekter?",
     "options": [
       "Å ha klart definerte mål, riktig kontrollform, tillit og styring, kunnskapsdeling og læring",
-      "Å unngå alle former for evaluering og refleksjon, men dette er ikke helt korrekt",
-      "Å la leder ta alle beslutningene uten innspill fra teamet, noe som kan oppfattes som relevant men er ikke helt korrekt",
-      "Å minimere all form for kommunikasjon mellom medlemmene, men dette er ikke helt korrekt"
+      "Å minimere møter og diskusjoner for å spare tid og ressurser",
+      "Å konsentrere beslutningsmakten hos ledelsen for raskere prosesser",
+      "Å redusere informasjonsstrømmen og fokusere kun på kritiske meldinger"
     ],
     "answerIndex": 0,
     "shortExplanation": "Gode beslutninger krever klare mål, kontroll, tillit og kontinuerlig læring.",
@@ -172,10 +172,10 @@
     "section": "Kap5.15",
     "question": "Hva er læring og kunnskapsdeling i prosjekter?",
     "options": [
-      "En aktivitet som kun lederen er ansvarlig for, men dette er ikke helt korrekt",
-      "En prosess som tar for mye tid og bør minimaliseres, men dette er ikke helt korrekt",
+      "En praksis som kun utøves av prosjektledere og senior sjefskap",
+      "En effektivitetsfaktor som bør minimeres for å maksimere produktivitet",
       "En kontinuerlig prosess der erfaringer deles og reflekteres på for forbedring",
-      "En prosess som bare skjer etter at prosjektet er avsluttet"
+      "En summativ evaluering som gjennomføres utelukkende etter prosjektslutt"
     ],
     "answerIndex": 2,
     "shortExplanation": "Læring og kunnskapsdeling er kontinuerlig og essensielt for forbedring.",
@@ -186,9 +186,9 @@
     "section": "Kap5.16",
     "question": "Hvordan sikres kunnskapsdeling mellom medlemmer?",
     "options": [
-      "Kunnskapsdeling oppstår automatisk uten behov for strukturer, men dette er ikke helt korrekt",
-      "Kunnskapsdeling bør minimaliseres for å unngå å ta tid fra arbeidet, noe som kan oppfattes som relevant men er ikke helt korrekt",
-      "Kun lederen bør dele kunnskap med teamet, men dette er ikke helt korrekt",
+      "Gjennom uformell og spontan utveksling av informasjon",
+      "Ved å ha klare grenser på hvor mye som skal deles for å opprettholde fokus",
+      "Kun ved at leder distribuerer informasjon fra toppen og ned",
       "Gjennom åpen kommunikasjon, dokumentasjon, tilbakemeldinger og en kultur som verdsetter læring"
     ],
     "answerIndex": 3,
@@ -215,9 +215,9 @@
     "question": "Hvordan kan prosjekter håndtere risiko bedre?",
     "options": [
       "Gjennom å identifisere både operasjonell og relasjonell risiko tidlig og planlegge håndtering",
-      "Ved å overlate all risikoansvar til leder, men dette er ikke helt korrekt",
-      "Ved å ignorere all risiko og håpe at det ikke oppstår problemer, men dette er ikke helt korrekt",
-      "Ved å unngå alle former for eksperimentering og innovasjon, men dette er ikke helt korrekt"
+      "Ved at leder alene bærer all ansvaret for risikovurdering",
+      "Ved å akseptere risiko som naturlig og håpe det løses underveis",
+      "Ved å implementere streng kontroll som hindrer enhver eksperimentering"
     ],
     "answerIndex": 0,
     "shortExplanation": "Risikohåndtering krever identifikasjon av både operasjonell og relasjonell risiko.",
@@ -275,7 +275,7 @@
       "Fokus på handlinger og arbeidsprosesser - rapportering, møter, arbeidsrutiner",
       "En form for kontroll som ikke krever noen oppfølging"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Aktivitetskontroll fokuserer på prosessen og måten arbeidet gjøres på.",
     "explanation": "Aktivitetskontroll eller atferdskontroll fokuserer på HVORDAN arbeidet gjøres - gjennom rapportering, møter, arbeidsrutiner og observasjon. Denne kontrollformen brukes når det er viktig at arbeidet gjøres på en bestemt måte, for eksempel innen sikkerhet, kvalitetsstandard eller lovverk. Den krever mer oppfølging fra lederen enn resultatkontroll, men sikrer at prosessen følger Best Practice. (Se 'Aktivitetskontroll' i Kap 5)"
   },
@@ -284,27 +284,13 @@
     "section": "Kap5.6",
     "question": "Hva handler groupthink eller gruppetenking om?",
     "options": [
-      "En positiv egskap ved sterke team, men dette er ikke helt korrekt",
-      "At grupper alltid tar de beste beslutningene uavhengig av konteksten",
+      "En styrke som oppstår når teamet har høyt samhold og morale",
+      "En naturlig utvikling som sikrer at grupper tar rasjonelle valg",
       "Når gruppen prioriterer harmoni og enighet over kritisk refleksjon og alternative løsninger",
-      "Å dele ideer åpent uten filter, men dette er ikke helt korrekt"
+      "En åpen og transparentdiskusjonskultur uten hierarki"
     ],
     "answerIndex": 2,
     "shortExplanation": "Gruppetenking oppstår når harmoni prioriteres over kritikk og alternativer.",
     "explanation": "Gruppetenking oppstår når en gruppe med sterkt samhold og høyt press prioriterer harmoni og enighet over kritisk refleksjon. I slik situasjon overses alternative løsninger, risikoen undervurderes, og det tas feil beslutninger. Prosjektleder må aktivt motvirke dette ved å oppmuntre kritisk tenking, spørsmål og diverse perspektiver, selv når det skaper uenighet. (Se 'Groupthink' i Kap 5)"
-  },
-  {
-    "id": 25,
-    "section": "Kap5.7",
-    "question": "Hva er lock-in eller sti-avhengighet i prosjekter?",
-    "options": [
-      "Å låse dører til kontor, men dette er ikke helt korrekt",
-      "Når teamet låses til en løsning eller teknologi på grunn av tidligere investeringer eller prestisje",
-      "Det samme som gruppetenking, men dette er ikke helt korrekt",
-      "En positiv lederskap-stil, men dette er ikke helt korrekt"
-    ],
-    "answerIndex": 1,
-    "shortExplanation": "Lock-in er når teamet blir låst til en løsning selv om det finnes bedre alternativer.",
-    "explanation": "Lock-in eller sti-avhengighet oppstår når teamet blir låst til en løsning eller teknologi på grunn av tidligere investeringer, prestisje, tidsbruk eller lojalitet. Selv når det finnes bedre alternativer, blir det vanskelig å endre kurs fordi man vil «ikke vedkjenne seg at man tok feil». En god prosjektleder må oppmuntre til å stille spørsmål ved tidligere valg og ha mot til å endre retning når det betyr forbedring. (Se 'Lock-in' i Kap 5)"
   }
 ]

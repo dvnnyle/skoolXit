@@ -212,10 +212,10 @@
   {
     "id": 16,
     "section": "Kap3.16",
-    "question": "Hvorfor oppstår konflikter i prosjekter ifølge notatene?",
+    "question": "Hvorfor oppstår konflikter i prosjekter?",
     "options": [
       "Fordi ledelsen aldri tar gode beslutninger under noen omstendigheter",
-      "Fordi prosjekter preges av gjensidig avhengighet hvor mennesker med ulik bakgrunn må jobbe sammen under tidspress",
+      "Fordi prosjekter preges av gjensidig avhengighet hvor mennesker med ulik bakgrunn må jobbe sammen",
       "Bare fordi mennesker ikke liker hverandre i alle situasjoner og kontekster",
       "Konflikter oppstår ikke i godt organiserte prosjekter, men dette er ikke helt korrekt"
     ],
@@ -312,12 +312,12 @@
     "section": "Kap3.5",
     "question": "Hva er de fire strategiene for konflikthåndtering?",
     "options": [
-      "Bare å gi etter for alle",
-      "Det finnes bare en strategi",
-      "Kun å ignorere alle konflikter",
+      "Gi etter, dominans, unnvikelse og forhandling som de fire strategiene",
+      "Forhandling, kompromiss, samarbeid og fornyelse som de fire konflikthåndteringsmetodene",
+      "Unnvikelse, tvang, passivitet og respekt som de fire måtene å håndtere uenigheter på",
       "Unnvikelse, tvang/dominans, kompromiss og problemløsning/integrasjon"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "shortExplanation": "Fire strategier: unnvikelse, tvang, kompromiss og problemløsning.",
     "explanation": "De fire vanlige strategiene for konflikthåndtering er: Unnvikelse (ignorere konflikten, fungerer ved små konflikter men fører ofte til større problemer), Tvang/dominans (påtvinge løsning med makt, effektiv for akutte situasjoner men skaper misnøye), Kompromiss (partene gir og tar, kommer raskt videre men ofte utillfredsende løsning), og Problemløsning/integrasjon (den mest konstruktive - partene søker felles løsning som ivaretar alle behov). Problemløsning krever åpen kommunikasjon og tillit."
   },

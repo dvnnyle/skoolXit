@@ -55,7 +55,7 @@ function Module3c() {
       const attemptHistory = [...(previousData.attemptHistory || []), newAttempt]
       
       localStorage.setItem('quiz_module3c', JSON.stringify({
-        score: finalScore,
+        lastScore: finalScore,
         completed: questionsData.length,
         total: questionsData.length,
         bestScore: Math.max(finalScore, previousData.bestScore || 0),

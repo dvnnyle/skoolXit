@@ -186,10 +186,10 @@
     "section": "Kap8.6",
     "question": "Hva karakteriserer god kommunikasjon i team?",
     "options": [
-      "At kun de med høyest status får snakke i møter, men dette er ikke helt korrekt",
+      "Fokus på dokumentasjon og formelle rapporter som erstatter direktedialog",
       "Åpen og ærlig kommunikasjon, aktiv lytting, jevn taletid og konstruktiv håndtering av uenighet",
-      "At all informasjon kontrolleres av leder før den deles, men dette er ikke helt korrekt",
-      "At kommunikasjon minimeres for å spare tid, men dette er ikke helt korrekt"
+      "Etablering av strenge kommunikasjonsprotokoller som alle må følge nøyaktig",
+      "Oppmuntring til hyppig samling, men uten klar agenda eller strukturering"
     ],
     "answerIndex": 1,
     "shortExplanation": "God kommunikasjon kjennetegnes av åpenhet, aktiv lytting og konstruktivitet.",
@@ -214,8 +214,8 @@
     "section": "Kap8.8",
     "question": "Hvordan lærer team kontinuerlig av sine erfaringer?",
     "options": [
-      "Team lærer automatisk uten behov for bevisst refleksjon, men dette er ikke helt korrekt",
-      "Team lærer ikke fordi fokus ligger på det daglige arbeidet, men dette er ikke helt korrekt",
+      "Ved å dokumentere alle prosesser og oppbevare dem for arkiveringsformål",
+      "Gjennom individuelle evalueringsamtaler mellom leder og hvert medlem",
       "Kun leder har ansvar for å lære av erfaringer og dele dem med teamet",
       "Gjennom refleksjon, evaluering, tilbakemeldinger og en kultur for kontinuerlig forbedring"
     ],
@@ -284,10 +284,10 @@
     "section": "Kap7.5",
     "question": "Hva er organisatorisk hukommelse?",
     "options": [
-      "En perm der alle dokumenter oppbevares, men dette er ikke helt korrekt",
+      "En arkeologisk rekonstruksjon av hvordan organisasjonen fungerte tidligere",
       "Den kollektive erfaringen og kunnskapen som gruppen utvikler og bruker til å møte nye utfordringer",
-      "En type datamemorering i IT-systemer, men dette er ikke helt korrekt",
-      "Noe som ikke er viktig for prosjekter, men dette er ikke helt korrekt"
+      "Evnen til å lagre og hente informasjon fra sentrale databaser og systemer",
+      "Et minne av tidligere suksesser som kan gjøre teamet overmodig og risiko"
     ],
     "answerIndex": 1,
     "shortExplanation": "Organisatorisk hukommelse er den kollektive erfaringen gruppen utvikler.",
@@ -298,10 +298,10 @@
     "section": "Kap7.6",
     "question": "Hva er felles mentale modeller?",
     "options": [
-      "Individuelle oppfatninger som medlemmene ikke deler med hverandre, men dette er ikke helt korrekt",
+      "Personlige kognitiv strategier som hvert medlem bruker for individuell problemløsning",
       "En felles forståelse av hvordan ting skal gjøres som utvikles gjennom diskusjon og samarbeid",
-      "Formelle prosedyrer som lederen bestemmer, men dette er ikke helt korrekt",
-      "Noe som ikke påvirker teamarbeid, men dette er ikke helt korrekt"
+      "Strukturelle rammer og systemer som implementeres for å standardisere all praksis",
+      "Psykologiske mønstre som påvirker menneskers emosjonelle tilstand i grupper"
     ],
     "answerIndex": 1,
     "shortExplanation": "Felles mentale modeller er delt forståelse av hvordan teamet arbeider.",

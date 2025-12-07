@@ -18,10 +18,10 @@
     "section": "1.2",
     "question": "Hva handler gruppedynamikk om?",
     "options": [
-      "Den stabile strukturen av roller og normer som er etablert fra gruppens start, noe som kan oppfattes som relevant men er ikke helt korrekt",
+      "De stabile rollene som oppnevnes formelt ved gruppens oppstart",
       "Løpende endringer i gruppen som påvirkes av oppgaven, hvor lenge gruppen har vært sammen, og hvem medlemmene er",
-      "Måten fysiske miljøet påvirker hvor effektivt medlemmene kan jobbe sammen muligens eller potensielt",
-      "Konflikter og uenigheter som oppstår mellom medlemmene med ulik bakgrunn, men dette er ikke helt korrekt"
+      "De fysiske egenskapene som påvirker hvor effektivt medlemmene samles",
+      "Konflikter knyttet til personlig inkompatibilitet og uenighet om strategi"
     ],
     "answerIndex": 1,
     "shortExplanation": "Gruppedynamikk handler om løpende endringer i gruppen over tid.",
@@ -242,10 +242,10 @@
     "section": "Kap2.4",
     "question": "Hva er en referansegruppe?",
     "options": [
-      "En gruppe som oppnevnes for å støtte nye medlemmer gjennom introduksjonsfasen, men dette er ikke helt korrekt",
+      "En gruppe som fungerer som mentor-struktur for nyansatte i organisasjoner",
       "En gruppe som medlemmene bruker som sammenligningsgrunnlag og standard for å vurdere seg selv og oppnåelser",
-      "En gruppe som medlemmene tilhører og bruker til å dele informasjon med hverandre",
-      "En gruppe som ledelsen oppnevner for å overvåke at medlemmene følger reglene, men dette er ikke helt korrekt"
+      "En gruppe som medlemmene tilhører formelt og betaler medlemsavgift til",
+      "En gruppe som oppbevarer og dokumenterer alle medlemmenes personlige data og historikk"
     ],
     "answerIndex": 1,
     "shortExplanation": "Referansegrupper brukes som sammenligningsgrunnlag.",
@@ -284,9 +284,9 @@
     "section": "Kap2.1",
     "question": "Hva er forskjellen mellom formelle og uformelle grupper?",
     "options": [
-      "Formelle grupper har ikke noe bestemt formål, men dette er ikke helt korrekt",
-      "Uformelle grupper har alltid en utpekt leder uavhengig av konteksten",
-      "Det er ingen praktisk forskjell mellom dem, men dette er ikke helt korrekt",
+      "Formelle grupper er opprettet av mennesker som ønsker å spille roller som fastsatt",
+      "Uformelle grupper har alltid en offisiell leder som velges av medlemmene årlig",
+      "Begge typer har samme grad av struktur og formalisering av prosesser",
       "Formelle grupper er opprettet for et bestemt mål med klare regler, mens uformelle grupper oppstår spontant basert på interesser"
     ],
     "answerIndex": 3,
@@ -298,10 +298,10 @@
     "section": "Kap2.2",
     "question": "Hva kjennetegner primærgrupper?",
     "options": [
-      "De har ingen innflytelse på vår identitetsutvikling, men dette er ikke helt korrekt",
-      "De er alltid organisert av en institution eller ledelse uavhengig av konteksten",
+      "De dannes kun gjennom formell registrering og offisiell dokumentasjon",
+      "De består av tilfeldige mennesker som møtes i arbeidskontekst",
       "De preges av tette, personlige bånd, langvarige relasjoner og sterk følelsesmessig tilknytting",
-      "De er store, upersonlige og basert på offisielle mål, men dette er ikke helt korrekt"
+      "De er organiserte nettverk for å oppnå spesifikke økonomiske mål effektivt"
     ],
     "answerIndex": 2,
     "shortExplanation": "Primærgrupper kjennetegnes av tette, personlige bånd.",
@@ -312,10 +312,10 @@
     "section": "Kap2.3",
     "question": "Hva er en sekundærgruppe?",
     "options": [
-      "En gruppe som medlemmene ikke bryr seg om, men dette er ikke helt korrekt",
+      "En gruppe som dannes når medlemmer fra primærgrupper forlater dem",
       "En gruppe med mindre personlige relasjoner basert på mål og interesser, som skolegruppe eller arbeidsgruppe",
-      "En gruppe som har mindre viktige oppgaver enn primærgrupper, men dette er ikke helt korrekt",
-      "En gruppe som aldri endrer medlemmer under noen omstendigheter"
+      "En gruppe som har som hovedformål å erstatte primærgruppenes sosiale funksjon",
+      "En gruppe som består av mennesker som ikke liker å være sammen"
     ],
     "answerIndex": 1,
     "shortExplanation": "Sekundærgrupper er basert på mål, med mindre personlige relasjoner.",
@@ -327,9 +327,9 @@
     "question": "Hva er et sosialt nettverk?",
     "options": [
       "Summen av alle formelle og uformelle relasjoner en person har - venner, familie, kollegaer osv.",
-      "En gruppe som er organisert av staten, men dette er ikke helt korrekt",
-      "Et online forum hvor mennesker diskuterer temaer, men dette er ikke helt korrekt",
-      "Et system for å spore menneskers bevegelser, men dette er ikke helt korrekt"
+      "Et hierarki av mennesker som er organisert basert på makt og autoritet",
+      "En digital plattform som brukes kun for å dele kommersielle produkter",
+      "En registrering som staten fører over alle menneskers sosiale forbindelser"
     ],
     "answerIndex": 0,
     "shortExplanation": "Sosialt nettverk er alle relasjoner vi har med andre mennesker.",
@@ -340,9 +340,9 @@
     "section": "Kap2.6",
     "question": "Hva er en triade?",
     "options": [
-      "Et hierarki med tre nivåer, men dette er ikke helt korrekt",
-      "En gruppe med to personer i et parforhold, men dette er ikke helt korrekt",
-      "En teori om gruppedynamikk, men dette er ikke helt korrekt",
+      "En organisasjonsstruktur med tre nivåer av lederskap og kontroll",
+      "En romantisk relasjon der tre personer er involverte samtidig",
+      "En akademisk teori som fokuserer på hvordan mennesker skaper bånd",
       "En gruppe på tre personer som skiller seg fra et parforhold ved at det finnes tre relasjoner: A-B, A-C og B-C"
     ],
     "answerIndex": 3,
@@ -369,9 +369,9 @@
     "question": "Hva innebærer sosial loffing?",
     "options": [
       "Når noen yter mindre i en gruppe fordi de føler at innsatsen deres ikke blir lagt merke til eller ansvaret er diffust",
-      "En lederstil som fremmer samarbeid, men dette er ikke helt korrekt",
-      "En positiv effekt av gruppearbeid, men dette er ikke helt korrekt",
-      "Når alle medlemmene arbeider maksimalt for gruppen, men dette er ikke helt korrekt"
+      "En ledelsesstrategi basert på å belønne de mest produktive medlemmene",
+      "En positiv gruppeeffekt der alle presterer bedre sammen enn individuelt",
+      "Når medlemmer får lønn basert på gruppens totale produksjon"
     ],
     "answerIndex": 0,
     "shortExplanation": "Sosial loffing oppstår når noen yter mindre på grunn av uklart ansvar.",
@@ -382,10 +382,10 @@
     "section": "Kap2.10",
     "question": "Hvorfor danner mennesker grupper?",
     "options": [
-      "Fordi mennesker naturlig motsetter seg å være alene, men dette er ikke helt korrekt",
-      "Bare fordi de må være sammen på arbeidsplassen i alle situasjoner og kontekster",
+      "Fordi staten tvinger alle mennesker til å være medlemmer av minst en organisert gruppe",
+      "Bare som en måte å dele utgifter på arbeidsplassen med kolleger",
       "Av sosiale og praktiske grunner - for trygghet, tilhørighet, støtte og for å nå mål som de ikke kan oppnå alene",
-      "Fordi det er påbudt av loven, men dette er ikke helt korrekt"
+      "Fordi arbeidsgiver krever det som en betingelse for ansettelse"
     ],
     "answerIndex": 2,
     "shortExplanation": "Vi danner grupper for sosiale og praktiske behov.",
@@ -411,10 +411,10 @@
     "section": "Kap1.2",
     "question": "Hva handler gruppesamspill om?",
     "options": [
-      "De skrevne reglene som er formelt fastsatt for gruppen, men dette er ikke helt korrekt",
+      "De administrative prosedyrene som styres av organisasjonens juridiske avdeling",
       "Den dynamiske atferden medlemmene viser i møte med hverandre - kommunikasjon, samarbeid og konflikthåndtering",
-      "De uforanderlige rollene som medlemmene får tildelt ved oppstart, men dette er ikke helt korrekt",
-      "De fysiske møteplassene der gruppen samles, men dette er ikke helt korrekt"
+      "De permanente stillingsbeskrivelsene som fastsettes før medlemmene starter",
+      "De tekniske verktøyene og plattformene som gruppen bruker for å kommunisere"
     ],
     "answerIndex": 1,
     "shortExplanation": "Gruppesamspill handler om dynamisk atferd og interaksjon mellom medlemmer.",

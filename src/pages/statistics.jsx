@@ -27,7 +27,7 @@ function Statistics() {
       ],
       module3: [
         { id: 'module3a', name: 'Module 3A', total: 25 },
-        { id: 'module3b', name: 'Module 3B', total: 25 },
+        { id: 'module3b', name: 'Module 3B', total: 24 },
         { id: 'module3c', name: 'Module 3C', total: 25 }
       ],
       module4: [
@@ -66,6 +66,11 @@ function Statistics() {
         attemptHistory = parsed.attemptHistory || []
         bestAccuracy = parsed.bestAccuracy || 0
         accuracy = parsed.accuracy || 0
+        
+        // If lastScore is still 0 but we have attempt history, use the last attempt's score
+        if (lastScore === 0 && attemptHistory.length > 0) {
+          lastScore = attemptHistory[attemptHistory.length - 1].score || 0
+        }
       }
 
       return {

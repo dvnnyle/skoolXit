@@ -1,355 +1,324 @@
-import { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
-import questionsData from '../../../dataBank/modul4a.json';
-import './modules.css';
+import { useState } from 'react'
+import { motion } from 'framer-motion'
+import { Link } from 'react-router-dom'
+import NavigationMenu from '../widget/navigationMenu'
+import CelebrationBackground from '../../components/CelebrationBackground'
+import questionsData from '../../../dataBank/modul4a.json'
+import './modules.css'
 
-export default function Module4a() {
-  const navigate = useNavigate();
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [selectedAnswer, setSelectedAnswer] = useState(null);
-  const [showResult, setShowResult] = useState(false);
-  const [score, setScore] = useState(0);
-  const [answeredQuestions, setAnsweredQuestions] = useState(new Set());
-  const [userAnswers, setUserAnswers] = useState({});
-  const [showReview, setShowReview] = useState(false);
-  const [streak, setStreak] = useState(0);
+function Module4a() {
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0)
+  const [selectedAnswer, setSelectedAnswer] = useState(null)
+  const [showResult, setShowResult] = useState(false)
+  const [score, setScore] = useState(0)
+  const [answeredQuestions, setAnsweredQuestions] = useState(0)
+  const [userAnswers, setUserAnswers] = useState([])
+  const [showReview, setShowReview] = useState(false)
+  const [streak, setStreak] = useState(0)
 
-  const STORAGE_KEY = 'quiz_module4a';
-
-  // Load saved state from localStorage
-  useEffect(() => {
-    const savedState = localStorage.getItem(STORAGE_KEY);
-    if (savedState) {
-      const state = JSON.parse(savedState);
-      setCurrentQuestionIndex(state.currentQuestionIndex || 0);
-      setScore(state.score || 0);
-      setAnsweredQuestions(new Set(state.answeredQuestions || []));
-      setUserAnswers(state.userAnswers || {});
-      setStreak(state.streak || 0);
-    }
-  }, []);
-
-  // Save state to localStorage
-  useEffect(() => {
-    localStorage.setItem(
-      STORAGE_KEY,
-      JSON.stringify({
-        currentQuestionIndex,
-        score,
-        answeredQuestions: Array.from(answeredQuestions),
-        userAnswers,
-        streak,
-      })
-    );
-  }, [currentQuestionIndex, score, answeredQuestions, userAnswers, streak]);
-
-  const currentQuestion = questionsData[currentQuestionIndex];
-  const isAnswered = answeredQuestions.has(currentQuestionIndex);
-  const isCorrect = userAnswers[currentQuestionIndex] === currentQuestion.answerIndex;
-  const totalAnswered = answeredQuestions.size;
-  const percentageCompleted = Math.round((totalAnswered / questionsData.length) * 100);
+  const currentQuestion = questionsData[currentQuestionIndex]
 
   const handleAnswerClick = (index) => {
-    if (isAnswered) return;
+    if (selectedAnswer !== null) return // Already answered
 
-    setSelectedAnswer(index);
-    setShowResult(true);
+    setSelectedAnswer(index)
+    const isCorrect = index === currentQuestion.answerIndex
 
-    // Update answered questions and score
-    const newAnswered = new Set(answeredQuestions);
-    newAnswered.add(currentQuestionIndex);
-    setAnsweredQuestions(newAnswered);
+    // Store the answer
+    const newAnswers = [...userAnswers]
+    newAnswers[currentQuestionIndex] = { selectedIndex: index, isCorrect }
+    setUserAnswers(newAnswers)
 
-    // Check if answer is correct
-    if (index === currentQuestion.answerIndex) {
-      const newScore = score + 1;
-      setScore(newScore);
-      // Update streak
-      const newStreak = streak + 1;
-      setStreak(newStreak);
+    if (isCorrect) {
+      setScore(score + 1)
+      setStreak(streak + 1)
     } else {
-      // Reset streak on wrong answer
-      setStreak(0);
+      setStreak(0)
     }
-
-    // Save user answer
-    setUserAnswers((prev) => ({
-      ...prev,
-      [currentQuestionIndex]: index,
-    }));
-  };
+  }
 
   const handleNext = () => {
     if (currentQuestionIndex < questionsData.length - 1) {
-      setCurrentQuestionIndex(currentQuestionIndex + 1);
-      setSelectedAnswer(null);
-      setShowResult(false);
+      setCurrentQuestionIndex(currentQuestionIndex + 1)
+      const nextAnswer = userAnswers[currentQuestionIndex + 1]
+      setSelectedAnswer(nextAnswer ? nextAnswer.selectedIndex : null)
+      setAnsweredQuestions(answeredQuestions + 1)
     } else {
-      // Quiz completed
-      setShowReview(true);
+      setAnsweredQuestions(answeredQuestions + 1)
+      const finalScore = score + (currentQuestion.answerIndex === selectedAnswer ? 1 : 0)
+      
+      // Save to localStorage
+      const existingData = localStorage.getItem('quiz_module4a')
+      const previousData = existingData ? JSON.parse(existingData) : { bestScore: 0, attempts: 0, attemptHistory: [] }
+      
+      const newAttempt = { score: finalScore, date: new Date().toISOString() }
+      const attemptHistory = [...(previousData.attemptHistory || []), newAttempt]
+      
+      localStorage.setItem('quiz_module4a', JSON.stringify({
+        lastScore: finalScore,
+        completed: questionsData.length,
+        total: questionsData.length,
+        bestScore: Math.max(finalScore, previousData.bestScore || 0),
+        attempts: attemptHistory.length,
+        lastAttempt: new Date().toISOString(),
+        attemptHistory: attemptHistory
+      }))
+      
+      setShowResult(true)
     }
-  };
+  }
 
   const handlePrevious = () => {
     if (currentQuestionIndex > 0) {
-      setCurrentQuestionIndex(currentQuestionIndex - 1);
-      setSelectedAnswer(null);
-      setShowResult(false);
+      setCurrentQuestionIndex(currentQuestionIndex - 1)
+      const prevAnswer = userAnswers[currentQuestionIndex - 1]
+      setSelectedAnswer(prevAnswer ? prevAnswer.selectedIndex : null)
     }
-  };
+  }
 
   const handleRestart = () => {
-    localStorage.removeItem(STORAGE_KEY);
-    setCurrentQuestionIndex(0);
-    setSelectedAnswer(null);
-    setShowResult(false);
-    setScore(0);
-    setAnsweredQuestions(new Set());
-    setUserAnswers({});
-    setShowReview(false);
-    setStreak(0);
-  };
+    setCurrentQuestionIndex(0)
+    setSelectedAnswer(null)
+    setShowResult(false)
+    setShowReview(false)
+    setScore(0)
+    setAnsweredQuestions(0)
+    setUserAnswers([])
+    setStreak(0)
+  }
 
   const handleShowReview = () => {
-    setShowReview(true);
-  };
+    setShowReview(true)
+  }
 
   const handleBackToResults = () => {
-    setShowReview(false);
-  };
+    setShowReview(false)
+  }
 
   if (showReview) {
     return (
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        exit={{ opacity: 0 }}
+        transition={{ duration: 0.5 }}
+      >
+        <NavigationMenu />
+        <div className="quiz-container">
+          <div className="quiz-header">
+            <h2>Answer Review - Module 4A</h2>
+            <div className="progress-info">
+              <span>Score: {score}/{questionsData.length} ({((score / questionsData.length) * 100).toFixed(1)}%)</span>
+            </div>
+          </div>
+
+          <div className="review-container">
+            {questionsData.map((question, qIndex) => {
+              const userAnswer = userAnswers[qIndex]
+              const isCorrect = userAnswer?.isCorrect
+              const userSelectedIndex = userAnswer?.selectedIndex
+
+              return (
+                <div key={question.id} className="review-question-card">
+                  <div className="review-header">
+                    <span className="question-number">Question {qIndex + 1}</span>
+                    <span className={`result-badge ${isCorrect ? 'correct-badge' : 'wrong-badge'}`}>
+                      {isCorrect ? '✓ Correct' : '✗ Incorrect'}
+                    </span>
+                  </div>
+                  
+                  <h3 className="question-text">{question.question}</h3>
+                  
+                  <div className="review-options">
+                    {question.options.map((option, optIndex) => {
+                      const isCorrectOption = optIndex === question.answerIndex
+                      const isUserSelection = optIndex === userSelectedIndex
+                      
+                      let optionClass = 'review-option'
+                      if (isCorrectOption) optionClass += ' correct-option'
+                      if (isUserSelection && !isCorrect) optionClass += ' wrong-option'
+                      
+                      return (
+                        <div key={optIndex} className={optionClass}>
+                          <span className="option-letter">
+                            {String.fromCharCode(65 + optIndex)}
+                          </span>
+                          <span className="option-text">{option}</span>
+                          {isUserSelection && (
+                            <span className="selection-badge">Your answer</span>
+                          )}
+                          {isCorrectOption && (
+                            <span className="correct-badge-mini">Correct</span>
+                          )}
+                        </div>
+                      )
+                    })}
+                  </div>
+                  
+                  <div className="review-explanation">
+                    <strong>Explanation:</strong> {question.explanation}
+                  </div>
+                </div>
+              )
+            })}
+          </div>
+
+          <div className="review-actions">
+            <button onClick={handleBackToResults} className="next-button">
+              ← Back to Results
+            </button>
+            <button onClick={handleRestart} className="restart-button">
+              Try Again
+            </button>
+          </div>
+        </div>
+      </motion.div>
+    )
+  }
+  
+  if (showResult) {
+    const percentage = ((score / questionsData.length) * 100).toFixed(1)
+    
+    return (
+      <>
+        <NavigationMenu />
+        <CelebrationBackground score={score} total={questionsData.length} />
+        <div className="quiz-container">
+          <div className="result-card">
+            <h1>Quiz Complete!</h1>
+            <div className="score-display">
+              <div className="score-number">{score}</div>
+              <div className="score-total">out of {questionsData.length}</div>
+            </div>
+            <div className="score-percentage">
+              {Math.round((score / questionsData.length) * 100)}%
+            </div>
+            <div className="button-group">
+              <button onClick={handleShowReview} className="next-button" style={{ marginBottom: '10px' }}>
+                Review Answers
+              </button>
+              <button onClick={handleRestart} className="restart-button">
+                Try Again
+              </button>
+              <Link to="/" className="home-link">
+                Back to Home
+              </Link>
+            </div>
+          </div>
+        </div>
+      </>
+    )
+  }
+
+  return (
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      transition={{ duration: 0.5 }}
+    >
+      <NavigationMenu />
       <div className="quiz-container">
         <div className="quiz-header">
-          <h2>Module 4A: Dynamisk prosjektledelse - Gjennomgang</h2>
-          <p className="quiz-subtitle">Se gjennom alle svarene dine</p>
-        </div>
-
-        <div className="review-container">
-          {questionsData.map((question, index) => {
-            const userAnswer = userAnswers[index];
-            const isUserCorrect = userAnswer === question.answerIndex;
-
-            return (
-              <div key={index} className="review-item">
-                <div className="review-question">
-                  <span className="review-number">Spørsmål {index + 1}</span>
-                  <p className="review-question-text">{question.question}</p>
-                  <span className={`section-badge ${index % 3 === 0 ? 'badge-blue' : index % 3 === 1 ? 'badge-green' : 'badge-purple'}`}>
-                    {question.section}
-                  </span>
-                </div>
-
-                <div className="review-answer">
-                  <p className="review-answer-label">Ditt svar:</p>
-                  <div
-                    className={`review-answer-box ${isUserCorrect ? 'correct' : 'incorrect'}`}
-                  >
-                    <span className="answer-text">
-                      {question.options[userAnswer]}
-                    </span>
-                    <span className="answer-status">
-                      {isUserCorrect ? '✓ Riktig' : '✗ Feil'}
-                    </span>
-                  </div>
-                </div>
-
-                {!isUserCorrect && (
-                  <div className="review-answer">
-                    <p className="review-answer-label">Riktig svar:</p>
-                    <div className="review-answer-box correct">
-                      <span className="answer-text">
-                        {question.options[question.answerIndex]}
-                      </span>
-                      <span className="answer-status">✓ Riktig</span>
-                    </div>
-                  </div>
-                )}
-
-                <div className="review-explanation">
-                  <p className="explanation-label">Forklaring:</p>
-                  <p className="explanation-text">{question.explanation}</p>
-                </div>
-              </div>
-            );
-          })}
-        </div>
-
-        <div className="button-group">
-          <button className="btn btn-secondary" onClick={handleBackToResults}>
-            Tilbake til resultater
-          </button>
-        </div>
-      </div>
-    );
-  }
-
-  // Results screen
-  if (totalAnswered === questionsData.length) {
-    const percentage = Math.round((score / questionsData.length) * 100);
-    const passed = percentage >= 70;
-
-    return (
-      <div className={`quiz-container ${passed ? 'passed' : 'failed'}`}>
-        {passed && (
-          <div className="celebration-background">
-            <div className="confetti"></div>
-          </div>
-        )}
-
-        <div className="results-container">
-          <div className="results-header">
-            <h2>Resultat!</h2>
-            <p className="results-subtitle">Du fullførte quizen</p>
-          </div>
-
-          <div className="results-score">
-            <div className="score-circle">
-              <div className="score-text">
-                <span className="score-percentage">{percentage}%</span>
-                <span className="score-label">riktig</span>
-              </div>
+          <h2>Module 4A: Dynamisk prosjektledelse</h2>
+          <div className="progress-info">
+            <div style={{ display: 'flex', alignItems: 'center', width: '100%' }}>
+              <span>Question {currentQuestionIndex + 1} of {questionsData.length}</span>
+              <div style={{ flex: 1 }}></div>
+              {streak >= 2 && (
+                <span className="streak-fire" style={{ marginRight: '1.5rem' }}>🔥 {streak}</span>
+              )}
+              <span>Score: {score}/{answeredQuestions}</span>
             </div>
-            <p className="score-info">
-              {score} av {questionsData.length} spørsmål besvart riktig
-            </p>
+          </div>
+          <div className="progress-bar">
+            <div 
+              className="progress-fill" 
+              style={{ width: `${((currentQuestionIndex + 1) / questionsData.length) * 100}%` }}
+            />
+          </div>
+        </div>
+
+        <div className="question-card">
+          <div className="section-badge">Section {currentQuestion.section}</div>
+          <h3 className="question-text">{currentQuestion.question}</h3>
+          
+          <div className="options-list">
+            {currentQuestion.options.map((option, index) => {
+              const isSelected = selectedAnswer === index
+              const isCorrect = index === currentQuestion.answerIndex
+              const showCorrect = selectedAnswer !== null && isCorrect
+              const showWrong = selectedAnswer !== null && isSelected && !isCorrect
+
+              return (
+                <button
+                  key={index}
+                  onClick={() => handleAnswerClick(index)}
+                  className={`option-button ${isSelected ? 'selected' : ''} ${showCorrect ? 'correct' : ''} ${showWrong ? 'wrong' : ''}`}
+                  disabled={selectedAnswer !== null}
+                >
+                  <span className="option-letter">{String.fromCharCode(65 + index)}</span>
+                  <span className="option-text">{option}</span>
+                  {isSelected && <span className="you-chose">You chose</span>}
+                </button>
+              )
+            })}
           </div>
 
-          {passed && (
-            <div className="passed-message">
-              <p>🎉 Gratulerer! Du har bestått quizen!</p>
+          {selectedAnswer !== null && (
+            <div className="explanation-box">
+              <div className="explanation-header">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <circle cx="12" cy="12" r="10"></circle>
+                  <line x1="12" y1="16" x2="12" y2="12"></line>
+                  <line x1="12" y1="8" x2="12.01" y2="8"></line>
+                </svg>
+                <span>Explanation</span>
+              </div>
+              <div className="correct-answer">
+                The correct answer is: {currentQuestion.options[currentQuestion.answerIndex]}
+              </div>
+              {currentQuestion.shortExplanation && (
+                <p 
+                  className="short-explanation"
+                  dangerouslySetInnerHTML={{ 
+                    __html: currentQuestion.shortExplanation.replace(
+                      /'([^']+)'/g, 
+                      "<span class='highlight'>$1</span>"
+                    )
+                  }}
+                />
+              )}
+              <p 
+                className="explanation-text"
+                dangerouslySetInnerHTML={{ 
+                  __html: currentQuestion.explanation.replace(
+                    /'([^']+)'/g, 
+                    "<span class='highlight'>$1</span>"
+                  )
+                }}
+              />
             </div>
           )}
 
-          {!passed && (
-            <div className="failed-message">
-              <p>Prøv igjen! Du er nær målet ditt!</p>
-            </div>
-          )}
-
-          <div className="button-group">
-            <button className="btn btn-secondary" onClick={handleShowReview}>
-              Se gjennomgang
-            </button>
-            <button className="btn btn-primary" onClick={handleRestart}>
-              Start på nytt
-            </button>
-            <button
-              className="btn btn-outline"
-              onClick={() => navigate('/')}
+          <div className="navigation-buttons">
+            {currentQuestionIndex > 0 && (
+              <button onClick={handlePrevious} className="previous-button">
+                Previous
+              </button>
+            )}
+            <button 
+              onClick={handleNext} 
+              className="next-button"
+              disabled={selectedAnswer === null}
             >
-              Hjem
+              {selectedAnswer === null ? '🔒 Select an answer' : (currentQuestionIndex < questionsData.length - 1 ? 'Next Question' : 'See Results')}
             </button>
           </div>
         </div>
       </div>
-    );
-  }
-
-  // Quiz screen
-  return (
-    <div className="quiz-container">
-      <div className="quiz-header">
-        <h2>Module 4A: Dynamisk prosjektledelse</h2>
-        <p className="quiz-subtitle">20 spørsmål om dynamisk prosjektledelse og situasjonsavhengig ledelse</p>
-        <div className="quiz-info">
-          <span className="info-item">
-            Spørsmål {currentQuestionIndex + 1}/{questionsData.length}
-          </span>
-          <span className={`info-item streak ${streak >= 2 ? 'active' : ''}`}>
-            {streak >= 2 && '🔥'} {streak > 0 && `Streak: ${streak}`}
-          </span>
-        </div>
-      </div>
-
-      <div className="progress-container">
-        <div className="progress-bar">
-          <div
-            className="progress-fill"
-            style={{
-              width: `${percentageCompleted}%`,
-            }}
-          ></div>
-        </div>
-        <p className="progress-text">{totalAnswered} av {questionsData.length} besvart</p>
-      </div>
-
-      <div className="question-card">
-        <span className="section-badge" style={{
-          backgroundColor: currentQuestionIndex % 3 === 0 ? '#3b82f6' : currentQuestionIndex % 3 === 1 ? '#10b981' : '#8b5cf6'
-        }}>
-          {currentQuestion.section}
-        </span>
-        <h3>{currentQuestion.question}</h3>
-      </div>
-
-      <div className="options-container">
-        {currentQuestion.options.map((option, index) => (
-          <button
-            key={index}
-            className={`option-button ${
-              isAnswered
-                ? index === currentQuestion.answerIndex
-                  ? 'correct'
-                  : index === selectedAnswer
-                    ? 'incorrect'
-                    : ''
-                : selectedAnswer === index
-                  ? 'selected'
-                  : ''
-            }`}
-            onClick={() => handleAnswerClick(index)}
-            disabled={isAnswered}
-          >
-            <span className="option-label">{String.fromCharCode(65 + index)}.</span>
-            <span className="option-text">{option}</span>
-            {isAnswered && index === currentQuestion.answerIndex && (
-              <span className="option-status">✓</span>
-            )}
-            {isAnswered && index === selectedAnswer && index !== currentQuestion.answerIndex && (
-              <span className="option-status">✗</span>
-            )}
-          </button>
-        ))}
-      </div>
-
-      {showResult && (
-        <div className="explanation-box">
-          <div className="explanation-header">
-            <span className={isCorrect ? 'correct-label' : 'incorrect-label'}>
-              {isCorrect ? '✓ Korrekt!' : '✗ Feil svar'}
-            </span>
-          </div>
-          <div className="explanation-content">
-            <p className="short-explanation">{currentQuestion.shortExplanation}</p>
-            <p className="full-explanation">{currentQuestion.explanation}</p>
-          </div>
-        </div>
-      )}
-
-      <div className="button-group">
-        <button
-          className="btn btn-secondary"
-          onClick={handlePrevious}
-          disabled={currentQuestionIndex === 0}
-        >
-          Forrige
-        </button>
-        {totalAnswered < questionsData.length ? (
-          <button
-            className="btn btn-primary"
-            onClick={handleNext}
-            disabled={!isAnswered}
-          >
-            Neste
-          </button>
-        ) : (
-          <button className="btn btn-success" onClick={handleNext}>
-            Se resultater
-          </button>
-        )}
-      </div>
-    </div>
-  );
+    </motion.div>
+  )
 }
+
+export default Module4a
