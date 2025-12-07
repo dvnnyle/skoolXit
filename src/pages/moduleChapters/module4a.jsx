@@ -44,7 +44,6 @@ function Module4a() {
       setSelectedAnswer(nextAnswer ? nextAnswer.selectedIndex : null)
       setAnsweredQuestions(answeredQuestions + 1)
     } else {
-      setAnsweredQuestions(answeredQuestions + 1)
       const finalScore = score + (currentQuestion.answerIndex === selectedAnswer ? 1 : 0)
       
       // Save to localStorage
@@ -64,6 +63,7 @@ function Module4a() {
         attemptHistory: attemptHistory
       }))
       
+      setScore(finalScore)
       setShowResult(true)
     }
   }
