@@ -18,10 +18,10 @@
     "section": "2.2",
     "question": "I sender-budskap-mottaker modellen, hva representerer 'støy'?",
     "options": [
-      "Den lydstyrken på stemmen til senderen under kommunikasjonen, men dette er ikke helt korrekt",
-      "Den delen av budskapet som er uklart formulert fra starten av, noe som kan oppfattes som relevant men er ikke helt korrekt",
+      "Hastigheten som senderen snakker med, målt i ord per minutt",
+      "Den delen av budskapet som mottakeren tolker feil fra starten",
       "Alt som forstyrrer eller forvrenger kommunikasjonen, enten fysisk støy eller indre forstyrrelser",
-      "Medlemmer av gruppen som ikke aktiv deltaker i samtalen, men dette er ikke helt korrekt"
+      "De medlemmene av gruppen som sitter nærmest senderen under kommunikasjonen"
     ],
     "answerIndex": 2,
     "shortExplanation": "Støy i kommunikasjonsmodellen er alt som forstyrrer eller forvrenger budskapet.",
@@ -145,9 +145,9 @@
     "question": "Hva handler 'likeverd' om i konteksten av god kommunikasjon?",
     "options": [
       "At alle deltakeres erfaring og synspunkter blir tatt på alvor, og ingen dominerer samtalen",
-      "At alle mennesker må ha identisk lønn og samme arbeidstittel, men dette er ikke helt korrekt",
+      "At alle mennesker må jobbe like mange timer hver dag uavhengig av deres rolle",
       "At bare ledere eller personer med høy status får lov til å snakke",
-      "At alle må være enige med hverandre for å unngå konflikter, men dette er ikke helt korrekt"
+      "At alle må si ja til alt som ledelsen foreslår for å vise samhold"
     ],
     "answerIndex": 0,
     "shortExplanation": "Likeverd betyr at alle deltakeres syn blir respektert og hørt.",
@@ -200,10 +200,10 @@
     "section": "2.15",
     "question": "Hva er transaksjonanalyse (TA) ifølge Erice Berne?",
     "options": [
-      "En metode for å oppgjøre økonomiske transaksjoner mellom forretningspartnere, men dette er ikke helt korrekt",
-      "En teori som beskriver kommunikasjon som samspill mellom tre jeg-tilstander: Foreldre-jeget, Voksen-jeget og Barne-jeget",
-      "En form for gruppeterapi der bare mennesker med psykologisk utdanning kan lede sesjonene",
-      "En teknikk for å analysere hvor ofte mennesker bytter jobs eller organisasjoner, men dette er ikke helt korrekt"
+      "En metode for å forhandle økonomiske avtaler mellom selskaper",
+      "En teori som fokuserer på hvordan mennesker oppforer seg i grupper",
+      "En form for debatt der deltakerne argumenterer for å vise hvem som er smartest",
+      "En teknikk for å administrere lønnsfastsetting i organisasjonen"
     ],
     "answerIndex": 1,
     "shortExplanation": "Transaksjonanalyse analyserer samspill mellom tre jeg-tilstander.",
@@ -287,7 +287,7 @@
       "Enveis kommunikasjon går fra sender til mottaker uten tilbakemelding, toveis tillater dialog og oppklaring",
       "De er identiske, bare med ulike navn i alle situasjoner og kontekster",
       "Toveis kommunikasjon brukes bare i private sammenhenger i alle situasjoner og kontekster",
-      "Enveis kommunikasjon er mer effektiv og sikrer bedre forståelse, men dette er ikke helt korrekt"
+      "Enveis kommunikasjon er raskere å gjennomføre og krever mindre forberedelse fra sendersen"
     ],
     "answerIndex": 0,
     "shortExplanation": "Enveis kommunikasjon mangles tilbakemelding, toveis tillater dialog.",
@@ -312,8 +312,8 @@
     "section": "Kap4.11",
     "question": "Hva er diskursiv kommunikasjon?",
     "options": [
-      "En kommunikasjon som ignorerer andres meninger, men dette er ikke helt korrekt",
-      "En form for kommunikasjon som har som mål å overtale og påvirke andre, men dette er ikke helt korrekt",
+      "En kommunikasjon der senderen forsøker å dominere og overbevist andre uten motargument",
+      "En form for kommunikasjon som handler kun om å informere og dele fakta",
       "En kommunikasjonsform bygget på dialog og jevnbyrdighet med mål å forstå og finne løsninger sammen",
       "En type kommunikasjon som bare brukes i politikk i alle situasjoner og kontekster"
     ],
@@ -326,10 +326,10 @@
     "section": "Kap5.1",
     "question": "Hva handler god kommunikasjon om?",
     "options": [
-      "Å få andre til å godta dine meninger, men dette er ikke helt korrekt",
-      "Å unngå vanskelige samtaler, men dette er ikke helt korrekt",
+      "Å få andre til å godta dine meninger uten å høre deres perspektiv",
+      "Å unngå alle situasjoner som kunne skape uenigheter eller diskusjon",
       "Å skape forståelse, tillit og samarbeid gjennom åpen, respektfull og likeverdig måte",
-      "Å snakke så mye som mulig og dominere samtalen, men dette er ikke helt korrekt"
+      "Å snakke så mye som mulig for å være sikker på at budskapet blir hørt"
     ],
     "answerIndex": 2,
     "shortExplanation": "God kommunikasjon handler om å skape forståelse og samarbeid.",

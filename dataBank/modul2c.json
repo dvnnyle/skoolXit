@@ -19,9 +19,9 @@
     "question": "Hva er 'implisitte kontrakter' i norming-fasen?",
     "options": [
       "Avtaler som handler kun om sosiale aktiviteter utelukkende eller primært",
-      "Uuttalte avtaler og forventninger mellom medlemmene basert på gjensiddig forståelse",
-      "Kontrakter som bestemmer lønn og arbeidsbetingelser, men dette er ikke helt korrekt",
-      "Formelle skrevne avtaler mellom ledelse og medlemmene, men dette er ikke helt korrekt"
+      "Uuttalte avtaler og forventninger mellom medlemmene basert på gjensidelig forståelse",
+      "Kontrakter som bestemmer lønn og arbeidsbetingelser eksplisitt",
+      "Formelle skrevne avtaler mellom ledelse og medlemmene som er signert"
     ],
     "answerIndex": 1,
     "shortExplanation": "Implisitte kontrakter er uuttalte avtaler mellom medlemmene.",
@@ -33,9 +33,9 @@
     "question": "Hva er 'psykologiske kontrakter' i prosjektsammenheng?",
     "options": [
       "Forventninger mellom den enkelte og organisasjonen om rettferdighet, anerkjennelse og støtte",
-      "En form for psykologisk terapi som ledelsen tilbyr, men dette er ikke helt korrekt",
-      "Avtaler om hvilke psykologiske tester medlemmene må gjennomgå, men dette er ikke helt korrekt",
-      "Regler for hvordan medlemmene skal oppføre seg på arbeid, men dette er ikke helt korrekt"
+      "En form for psykologisk behandling som ledelsen tilbyr til stressede ansatte",
+      "Standardiserte kontrakter som alle ansatte må signere ved ansettelse",
+      "Regler for hvilke faser medlemmene går gjennom i sitt arbeidsforhold"
     ],
     "answerIndex": 0,
     "shortExplanation": "Psykologiske kontrakter handler om forventninger og gjensidighet.",
@@ -48,8 +48,8 @@
     "options": [
       "En type kunstnerisk aktivitet som prosjektmedlemmer deltar i",
       "De felles verdiene, holdningene og normene som styrer hvordan teamet jobber sammen",
-      "En liste over regler som alle medlemmene må følge nøyaktig, men dette er ikke helt korrekt",
-      "En formell dokumentasjon av alle avgjørelser som er tatt, men dette er ikke helt korrekt"
+      "En liste over regler som alle medlemmene må følge nøyaktig uten unntak",
+      "En formell dokumentasjon av alle avgjørelser som er tatt og lagret i arkiv"
     ],
     "answerIndex": 1,
     "shortExplanation": "Prosjektkultur er felles verdier og normer som styrer samarbeidet.",
@@ -61,9 +61,9 @@
     "question": "Hva er 'sosial kapital' i grupper?",
     "options": [
       "Graden av tillit og felles normer i gruppen som gjør det lettere å koordinere oppgaver",
-      "En type kapital som kun store organisasjoner kan oppnå muligens eller potensielt",
-      "Hvor mye penger gruppen har til rådighet, men dette er ikke helt korrekt",
-      "De fysiske ressursene som gruppen bruker i sitt arbeid, men dette er ikke helt korrekt"
+      "En type kapital som kun store organisasjoner kan oppnå gjennom økonomiske investeringer",
+      "Hvor mye finansielt budsjett gruppen har til rådighet for sine aktiviteter",
+      "De teknologiske verktøyene og systemene som gruppen bruker i sitt daglige arbeid"
     ],
     "answerIndex": 0,
     "shortExplanation": "Sosial kapital er tillit og felles normer i gruppen.",
@@ -88,10 +88,10 @@
     "section": "Kap4.7",
     "question": "Hva innebærer 'prososial atferd' i norming-fasen?",
     "options": [
-      "En type atferd som er skadelig for gruppedynamikken, men dette er ikke helt korrekt",
-      "En atferd som kun ledere kan vise i gruppen muligens eller potensielt",
+      "En type atferd som reduserer gruppedynamikken og skaper konflikter",
+      "En atferd som kun ledere er i stand til å vise i en gruppesetting",
       "Medlemmene bruker tid og energi på å hjelpe gruppen som helhet, støtter kollegaer og deler informasjon",
-      "Når medlemmene fokuserer kun på sine egne oppgaver og ikke hjelper andre, men dette er ikke helt korrekt"
+      "Når medlemmene fokuserer kun på sine egne oppgaver og prestasjonsmål"
     ],
     "answerIndex": 2,
     "shortExplanation": "Prososial atferd er når medlemmene hjelper gruppen som helhet.",
@@ -116,9 +116,9 @@
     "section": "Kap4.9",
     "question": "Hva er 'systemtillit' i prosjekter?",
     "options": [
-      "Tillit til at datamaskinen fungerer korrekt, men dette er ikke helt korrekt",
-      "En form for tillit som kun eksisterer i små grupper, men dette er ikke helt korrekt",
-      "Tillit som handler kun om økonomiske transaksjoner utelukkende eller primært",
+      "Tillit basert på hvor reliabel datamaskinen og it-systemene er i organisasjonen",
+      "En type tillit som oppstår først når medlemmene har jobbet sammen i flere måneder",
+      "Tillit som handler kun om økonomiske transaksjoner og budsjettproblematikk",
       "Tillit som bygger på rettferdige prosedyrer og systemer, som møterutiner og rapportering"
     ],
     "answerIndex": 3,
@@ -158,9 +158,9 @@
     "section": "Kap4.12",
     "question": "Hva handler 'åpen kommunikasjon og informasjonsdeling' om?",
     "options": [
-      "Å dele all informasjon med alle mennesker uavhengig av relevans",
+      "Å dele all informasjon med alle mennesker uavhengig av relevans eller kontekst",
       "Å unngå å snakke om følelser og personlige forhold på jobben",
-      "Å snakke negativt om medlemmene når de ikke er tilstede, men dette er ikke helt korrekt",
+      "Å dele observasjoner om medlemmenes atferd på en konstruktiv og respektfull måte",
       "Å sikre at alle har tilgang til nødvendig informasjon for å redusere misforståelser"
     ],
     "answerIndex": 3,
@@ -186,10 +186,10 @@
     "section": "Kap4.14",
     "question": "Hva er betydningen av 'mangfold' i norming-fasen?",
     "options": [
-      "Mangfold er bare relevant for store multinasjonale selskaper i alle situasjoner og kontekster",
+      "Mangfold er bare relevant for store multinasjonale selskaper i spesifikke bransjer",
       "Mangfold av bakgrunner styrker prosjektet, men krever bevisst ledelse for å unngå misforståelser",
-      "Det trenger ikke fokus på mangfold siden alle mennesker er like, men dette er ikke helt korrekt",
-      "Mangfold er alltid negativt og bør unngås uavhengig av konteksten"
+      "Det er ikke nødvendig med fokus på mangfold siden alle mennesker har like behov",
+      "Mangfold er alltid negativt for gruppedynamikken og bør aktivt unngås"
     ],
     "answerIndex": 1,
     "shortExplanation": "Mangfold styrker prosjektet men krever bevisst ledelse.",
@@ -200,10 +200,10 @@
     "section": "Kap4.15",
     "question": "Hva innebærer overgangen 'fra samordning til samarbeid'?",
     "options": [
-      "En prosess der ledelsen gir mer kontroll i stedet for mindre",
-      "En måte å kvitte seg med medlemmer som ikke samarbeidet, men dette er ikke helt korrekt",
+      "En prosess der ledelsen gir mer kontroll og overvåking i stedet for mindre",
+      "En måte å oppdatere og erstatte medlemmer som ikke oppfyller forventningene",
       "Gruppen utvikler fra å trenge styring til å koordinere oppgaver selv gjennom dialog",
-      "En endring der medlemmene slutter å snakke med hverandre, men dette er ikke helt korrekt"
+      "En endring der medlemmene isoleres fra hverandre og jobber mer individuelt"
     ],
     "answerIndex": 2,
     "shortExplanation": "Fra samordning til samarbeid betyr økt selvstyre og dialog.",
@@ -228,10 +228,10 @@
     "section": "Kap4.17",
     "question": "Hva er 'kontekstuell risiko' i prosjekter?",
     "options": [
-      "En type risiko som er umulig å forutse eller håndtere",
+      "En type risiko som helt kan elimineres med grundig planlegging og forsiktighet",
       "Uventede hendelser i omgivelsen som påvirker fremdrift eller ressurser",
-      "Risiko for at medlemmene blir lei av konteksten, men dette er ikke helt korrekt",
-      "Risiko som kun handler om kontorer og fysiske lokaler"
+      "Psykologisk stress som medlemmene opplever når konteksten endrer seg",
+      "Risiko som kun handler om kontorer og fysiske lokaler og infrastruktur"
     ],
     "answerIndex": 1,
     "shortExplanation": "Kontekstuell risiko er uventede ytre hendelser som påvirker prosjektet.",
@@ -284,9 +284,9 @@
     "section": "Kap4.5",
     "question": "Hvordan bygger man tillit i norming-fasen?",
     "options": [
-      "Tillit er ikke viktig for prosjektarbeid, men dette er ikke helt korrekt",
-      "Tillit oppstår automatisk uten at det kreves noe innsats, men dette er ikke helt korrekt",
-      "Gjennom streng kontroll og overvåking, men dette er ikke helt korrekt",
+      "Tillit er ikke viktig for prosjektarbeid fordi individer jobber best alene",
+      "Tillit oppstår spontant når mennesker møtes og trenger ingen aktiv innsats",
+      "Gjennom streng kontroll, overvåking og dokumentering av all aktivitet",
       "Gjennom åpen kommunikasjon, deling av informasjon, små seire og respekt for ulikheter"
     ],
     "answerIndex": 3,

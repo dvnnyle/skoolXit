@@ -140,9 +140,9 @@
     "question": "Hva skjer i adjourning-fasen?",
     "options": [
       "Prosjektet avsluttes og gruppen oppløses",
-      "Konflikter håndteres aktivt, men dette er ikke helt korrekt",
-      "Gruppen starter sitt arbeid, men dette er ikke helt korrekt",
-      "Nye medlemmer legges til, men dette er ikke helt korrekt"
+      "Prosjektet oppløses når halvparten av tiden har gått",
+      "Konflikter eskaleres og medlemmene blir svakere samarbeiders",
+      "Alle medlemmene bytter jobb, men dette er ikke helt korrekt"
     ],
     "answerIndex": 0,
     "shortExplanation": "Adjourning-fasen oppstår når prosjektet avsluttes og gruppen oppløses.",
@@ -169,10 +169,10 @@
     "section": "2.22",
     "question": "Hva betyr 'den menneskelige faktoren' i prosjektarbeid?",
     "options": [
-      "At mennesker er ligegyldige for prosjektsuksess, men dette er ikke helt korrekt",
+      "At mennesker er helt avhengige av systemer og ikke kan ta egne beslutninger",
       "At menneskers motivasjon, samarbeid og kompetanse er avgjørende for suksess",
       "At bare teknologi og systemer bestemmer resultatet i alle situasjoner og kontekster",
-      "At prosjekter ikke trenger mennesker, men dette er ikke helt korrekt"
+      "At prosjekter bare trenger teknisk infrastruktur og ikke human interaksjon"
     ],
     "answerIndex": 1,
     "shortExplanation": "Den menneskelige faktoren handler om at mennesker er den viktigste ressursen i prosjekter.",
@@ -214,10 +214,10 @@
     "section": "2.20",
     "question": "Hva er oppgave-orientert arbeid i prosjekter?",
     "options": [
-      "Fokus på kommunikasjon og tillit mellom medlemmer, men dette er ikke helt korrekt",
+      "Overvåking av hver enkelt beslutning og kontroll av medlemmenes bevegelser",
       "Løsing av oppgaver, planlegging og levering av resultater innenfor ressursrammer",
-      "Å bygge fellesskap og samhold, men dette er ikke helt korrekt",
-      "Å utvikle personlige relasjoner, men dette er ikke helt korrekt"
+      "Å drepe all kreativitet og tvinge medlemmene til å være like",
+      "Å fokusere utelukkende på teknologien uten å bry seg om mennesker"
     ],
     "answerIndex": 1,
     "shortExplanation": "Oppgave-orientert arbeid handler om å løse oppgaver og nå mål.",
