@@ -253,20 +253,6 @@
   },
   {
     "id": 19,
-    "section": "2.19",
-    "question": "Hva kan du gjøre hvis du er usikker eller misforstått i en kommunikasjon?",
-    "options": [
-      "Skyld det på at den andre personen ikke lytter godt nok og ikke prøve å forbedre noe selv",
-      "Slutte å snakke helt med de menneskene og unngå videre kontakt med dem",
-      "Bruke meta-kommunikasjon - å snakke om hvordan man snakker for å rygge opp i uklarheter",
-      "Anta at det er en bevisst misforståelse og reagere defensivt for å beskytte seg selv"
-    ],
-    "answerIndex": 2,
-    "shortExplanation": "Meta-kommunikasjon hjelper til å rygge opp i misforståelser.",
-    "explanation": "Hvis du som sender oppfatter usikkerhet eller blir misforstått av mottaker, kan man bli defensiv eller frustert. Da hjelper det å bruke meta-kommunikasjon - å snakke om hvordan man snakker for å rygge opp i uklarhetene. Du kan for eksempel si: 'Jeg merker vi ikke helt forstår hverandre - kan vi prøve å forklare det annerledes?' Slik bevisst refleksjon over kommunikasjonen selv skaper trygghet og forbedrer forståelsen. Personligheter påvirker hvordan sendere og mottakere kommuniserer naturlig, og god kommunikasjon handler om å være klar over dette og tilpasse seg situasjonen og menneskene man snakker med, samtidig som man er ærlig og autentisk."
-  },
-  {
-    "id": 20,
     "section": "2.20",
     "question": "Hva er de viktigste grunnpilarene for god kommunikasjon ifølge kursmaterialet?",
     "options": [
@@ -280,7 +266,7 @@
     "explanation": "God kommunikasjon bygger på flere grunnpilarer: likeverd der alle deltakeres syn blir hørt, respekt for hverandres perspektiver, og aktiv lytting der mottaker viser at han/hun følger med og forstår budskapet. Den krever også balanse mellom sak (fakta og løsninger) og relasjon (følelser og menneskelige behov). Tydelighet og struktur hjelper til med at senderen formidler sitt budskap klart, og evnen til å håndtere både følelser og uenighet gjør at kommunikasjonen blir konstruktiv. Gjennom transaksjonanalyse, bevisst bruk av jeg-tilstander og social intelligens, kan man skape kommunikasjon som er både effektiv, trygg og menneskelig."
   },
   {
-    "id": 21,
+    "id": 20,
     "section": "Kap4.8",
     "question": "Hva er proksemikk?",
     "options": [
@@ -294,7 +280,7 @@
     "explanation": "Proksemikk er studien av hvordan kroppslig avstand påvirker kommunikasjonen mellom sender og mottaker. Ulike avstandssoner har ulik betydning: intim avstand (0-0,5m) brukes for svært nære relasjoner som familie og partnere, personlig avstand (0,5-1,5m) for venner og kollegaer, sosial avstand (1,5-4m) for profesjonelle og formelle situasjoner, og offisiell avstand (>4m) for offentlige taler og store forsamlinger. Sendersen må være bevisst proksemikk og tilpasse avstanden riktig til situasjonen og forhold for å vise respekt og påvirke hvordan mottaker oppfatter budskapet. For liten avstand kan oppfattes som truende, for stor som kald."
   },
   {
-    "id": 22,
+    "id": 21,
     "section": "Kap4.9",
     "question": "Hva er forskel mellom enveis og toveis kommunikasjon?",
     "options": [
@@ -308,7 +294,7 @@
     "explanation": "Enveis kommunikasjon går fra sendersen til mottaker uten at mottaker har mulighet for direkte tilbakemelding eller oppklaring. Det er en énretningskommunkasjon som brukes i informasjonssituasjoner som TV, radio, foredrag og kunngjøringer. Enveis-kommunikasjon er effektiv for å nå mange mennesker raskt, men kan lett føre til misforståelser. Toveis kommunikasjon tillater dialog der sender og mottaker bytter roller. Mottaker kan stille spørsmål og be om oppklaring, og sendersen får tilbakemelding på om budskapet oppfattes riktig. I jevnbyrdig toveis kommunikasjon har alle parter omtrent like stor mulighet til å uttrykke seg, og samspillet preges av respekt og tillit, noe som skaper større forståelse."
   },
   {
-    "id": 23,
+    "id": 22,
     "section": "Kap4.10",
     "question": "Hva happens når ikke-verbal kommunikasjon ikke samsvarer med verbal kommunikasjon?",
     "options": [
@@ -322,7 +308,7 @@
     "explanation": "Når ikke-verbal kommunikasjon ikke samsvarer med det som blir sagt verbalt, oppstår det dobbelt kommunikasjon som forvirrer mottakeren og svekker budskapet. Sendersen kan si ord, men kroppsspråk, ansiktsuttrykk og tonefall forteller noe annet. For eksempel: hvis sendersen sier 'det går bra' men har et surt ansikt, stirrer ned og snakker med monoton stemme, vil mottaker oppfatte dette som at noe ikke er greit. Mottaker tror gjerne mer på den ikke-verbale kommunikasjonen enn ordene. God kommunikasjon krever at verbal (ordene) og ikke-verbal kommunikasjon (kroppsspråk, tonefall, ansiktsuttrykk) samsvarer med hverandre slik at budskapet blir entydig og troverdig."
   },
   {
-    "id": 24,
+    "id": 23,
     "section": "Kap4.11",
     "question": "Hva er diskursiv kommunikasjon?",
     "options": [
@@ -331,12 +317,12 @@
       "En kommunikasjonsform bygget på dialog og jevnbyrdighet med mål å forstå og finne løsninger sammen",
       "En type kommunikasjon som bare brukes i politikk"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Diskursiv kommunikasjon bygger på dialog og jevnbyrdighet.",
     "explanation": "Diskursiv kommunikasjon bygger på dialog og jevnbyrdighet mellom sendersen og mottakeren, med målet å utforske, forstå og finne sannhet eller løsning sammen gjennom argumenter og refleksjon. Det er karakterisert ved at begge parter holder sitt hjerte og sinn åpent for nye perspektiver, og er villige til å la mottakerens innspill påvirke sin egen holdning. Diskursiv kommunikasjon brukes i undervisning, veiledning, møter og gruppediskusjoner. I motsetning til retorisk kommunikasjon som har som formål å overtale og påvirke, skaper diskursiv kommunikasjon mest læring, tillitt og dypere forståelse i samarbeidssituasjoner."
   },
   {
-    "id": 25,
+    "id": 24,
     "section": "Kap5.1",
     "question": "Hva handler god kommunikasjon om?",
     "options": [

@@ -155,20 +155,6 @@
   },
   {
     "id": 12,
-    "section": "Kap2.12",
-    "question": "Hvordan handler formingsfasen om å bygge tillit?",
-    "options": [
-      "Tillit må bygges bevisst gjennom åpen kommunikasjon, ærlighet og respekt for forskjeller",
-      "Tillit bygges automatisk når mennesker jobber sammen",
-      "Tillit er bare relevant når konflikter oppstår senere i prosjektet",
-      "Tillit er ikke viktig i formingsfasen fordi fokus bør være på planlegging"
-    ],
-    "answerIndex": 0,
-    "shortExplanation": "Tillit må bygges bevisst gjennom kommunikasjon og respekt.",
-    "explanation": "Tillit er fundamentet for all teambygging og må bygges bevisst i formingsfasen. Den utvikler gjennom ærlighet, åpenhet og respekt for forskjeller. Tillit og sosial trygghet gjør det enklere å håndtere den kommende storming-fasen, der uenigheter og konflikter typisk dukker opp. God ledelse innebærer å legge til rette for tillit fra starten\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
-  },
-  {
-    "id": 13,
     "section": "Kap2.13",
     "question": "Hva handler teambygging om i formingsfasen?",
     "options": [

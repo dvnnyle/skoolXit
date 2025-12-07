@@ -282,57 +282,29 @@
   {
     "id": 21,
     "section": "Kap7.5",
-    "question": "Hva er aksjonslæring i prosjektsammenheng?",
+    "question": "Hva er organisatorisk hukommelse?",
     "options": [
-      "En type avsluttingssamtale",
-      "En handling uten læring eller refleksjon",
-      "Kombinasjonen av handling og refleksjon for kontinuerlig forbedring",
-      "Kun teoretisk læring uten praksis"
+      "En perm der alle dokumenter oppbevares",
+      "Den kollektive erfaringen og kunnskapen som gruppen utvikler og bruker til å møte nye utfordringer",
+      "En type datamemorering i IT-systemer",
+      "Noe som ikke er viktig for prosjekter"
     ],
-    "answerIndex": 2,
-    "shortExplanation": "Aksjonslæring kombinerer handling og refleksjon for forbedring.",
-    "explanation": "Aksjonslæring er en prosess der man kombinerer handling og refleksjon - man gjør noe, evaluerer det, lærer av det, og bruker innsikten til å forbedre. Ved å gjøre dette gjentatte ganger, oppstår kontinuerlig forbedring og organisatorisk hukommelse. Dette er avgjørende i prosjekter fordi det gjør teamet kfere til å møte nye utfordringer med kunnskap fra tidligere erfaringer. (Se 'Refleksjon og erfaring' i Kap 7)"
+    "answerIndex": 1,
+    "shortExplanation": "Organisatorisk hukommelse er den kollektive erfaringen gruppen utvikler.",
+    "explanation": "Organisatorisk hukommelse er den kollektive erfaringen og kunnskapen som gruppen utvikler gjennom aksjonslæring - ved å kombinere handling med refleksjon. Etter hvert utvikler gruppen en slags kollektiv erfaring som gjør det lettere å møte nye utfordringer fordi teamet kan trekke på tidligere erfaringer og læring. Dette er verdifullt for organisasjonen fordi kunnskapen bevares selv når medlemmer går."
   },
   {
     "id": 22,
     "section": "Kap7.6",
-    "question": "Hvilken faktor er KRITISK for at læring skal oppstå i grupper?",
+    "question": "Hva er felles mentale modeller?",
     "options": [
-      "Nøyaktig definerte regler og streng kontroll",
-      "Stort budsjett og mange ressurser",
-      "At alle medlemmene er enige om alt",
-      "Tillit og trygghet - medlemmene må føle seg komfortable med å dele ideer og feile"
+      "Individuelle oppfatninger som medlemmene ikke deler med hverandre",
+      "En felles forståelse av hvordan ting skal gjøres som utvikles gjennom diskusjon og samarbeid",
+      "Formelle prosedyrer som lederen bestemmer",
+      "Noe som ikke påvirker teamarbeid"
     ],
-    "answerIndex": 3,
-    "shortExplanation": "Tillit og trygghet er fundamentet for læring og kunnskapsdeling.",
-    "explanation": "Effektiv læring i grupper krever tillit og psykologisk trygghet. Medlemmene må føle seg komfortable med å dele ideer, stille spørsmål, og innrømme feil. Uten denne tryggheten vil usikkerhet og frykt hemme deling av kunnskap, og læringen stopper. En prosjektleder som skaper et klima av tillit og åpenhet, gjør teamet i stand til både å lære og å innovere. (Se 'Kommunikasjon som læringsverktøy' i Kap 7)"
-  },
-  {
-    "id": 23,
-    "section": "Kap7.7",
-    "question": "Hva karakteriserer en læringskultur?",
-    "options": [
-      "Medlemmene lærer bare individuelt, ikke sammen",
-      "Fokus utelukkende på resultater, ikke læring",
-      "Åpenhet for nye ideer, vilje til å gi og motta tilbakemeldinger, refleksjon og kunnskapsdeling",
-      "Kunnskapen holdes hemmelig for å opprettholde makt"
-    ],
-    "answerIndex": 2,
-    "shortExplanation": "Læringskultur handler om åpenhet, tilbakemelding og kunnskapsdeling.",
-    "explanation": "En læringskultur kjennetegnes av åpenhet for nye ideer og perspektiver, vilje til å gi og motta tilbakemeldinger, refleksjon over erfaring, og deling av kunnskap og ansvar. Prosjektlederen og teamet sammen stimulerer denne kulturen ved å gi rom for refleksjon, eksperimentering og samarbeid. En gruppe som utvikler en sterk læringskultur, blir både mer effektiv og mer resilient. (Se 'Felles læringskultur' i Kap 7)"
-  },
-  {
-    "id": 25,
-    "section": "Kap7.9",
-    "question": "Hva handler læring i grupper først og fremst om?",
-    "options": [
-      "Å forbedre enkeltindividets kunnskaper uten å dele med andre",
-      "Å teste medlemmenes kunnskap gjennom prøver",
-      "Å eliminere uenigheter og tvil",
-      "Å utvikle felles forståelse og kompetanse gjennom samspill, refleksjon og kunnskapsdeling"
-    ],
-    "answerIndex": 3,
-    "shortExplanation": "Gruppelæring handler om felles forståelse gjennom samspill og refleksjon.",
-    "explanation": "Læring i grupper innebærer at deltakerne tilegner seg ny kunnskap i felleskap, deler erfaringer, reflekterer sammen og omsetter innsikt til handling. Det fører ikke bare til faglig vekst, men også til felles forståelse, bedre samarbeid og sterke relasjoner. En gruppe som lærer sammen, utvikler seg selv som et lærende fellesskap som kan møte nye utfordringer med større kompetanse. (Se 'Oppsumering - Læring i grupper' i Kap 7)"
+    "answerIndex": 1,
+    "shortExplanation": "Felles mentale modeller er delt forståelse av hvordan teamet arbeider.",
+    "explanation": "Gjennom diskusjoner, felles problemløsing og tilbakemeldinger utvikles felles mentale modeller - en felles forståelse av hvordan ting skal gjøres. Dette gjør det lettere for teamet å koordinere arbeidet uten konstant kommunikasjon. Når alle har samme oppfattelse av målene, prosessene og verdiene, kan teamet arbeide mer effektivt og med mindre misforståelser. Felles mentale modeller er grunnlaget for godt samarbeid."
   }
 ]

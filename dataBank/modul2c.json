@@ -281,48 +281,6 @@
   },
   {
     "id": 22,
-    "section": "Kap4.2",
-    "question": "Hva er en implisitt kontrakt i prosjektteam?",
-    "options": [
-      "En skriftlig avtale som alle medlemmer må signere",
-      "En regel som lederen setter ensidig",
-      "Uformelle forventninger og avtaler mellom medlemmene om hvordan man skal samarbeide",
-      "Noe som bare finnes i store organisasjoner"
-    ],
-    "answerIndex": 2,
-    "shortExplanation": "Implisitt kontrakt er uformelle avtaler om samarbeid.",
-    "explanation": "En implisitt kontrakt er de uformelle forventningene og avtalene som utvikler seg naturlig mellom teammedlemmene om hvordan man skal samarbeide, kommunisere og håndtere problemer. I motsetning til en eksplisitt kontrakt som er skriftlig, bygger implisitte kontrakter på felles forståelse og tillit. De er essensielle for å skape et godt samarbeidsmiljø."
-  },
-  {
-    "id": 23,
-    "section": "Kap4.3",
-    "question": "Hva karakteriserer en psykologisk kontrakt?",
-    "options": [
-      "Et dokument som styrer budget og ressurser",
-      "En formell avtale med juridisk bindende kraft",
-      "En metode for å løse konflikter",
-      "De dypere oppfatningene og forventningene medlemmene har til hverandre og til prosjektet"
-    ],
-    "answerIndex": 3,
-    "shortExplanation": "Psykologisk kontrakt er medlemmenes dypere forventninger.",
-    "explanation": "En psykologisk kontrakt består av de dypere oppfatningene og forventningene medlemmene har til hverandre og til prosjektet - på et følelsesmessig og meningsfullt nivå. Den bygger på tillit, verdier og hvordan man oppfatter at man blir behandlet. Hvis psykologiske kontrakter brytes, kan det skape stor skuffelse og tillitstap. En sterk prosjektkultur sikrer at disse kontraktene er alignet og respektert."
-  },
-  {
-    "id": 24,
-    "section": "Kap4.4",
-    "question": "Hva betyr det at norming skaper en prosjektkultur?",
-    "options": [
-      "Det handler bare om formelle regler og prosedyrer",
-      "Det handler om å utvikle en felles identitet, verdier og arbeidsformer som karakteriserer prosjektet",
-      "Kultur er ikke viktig for prosjektsuksess",
-      "Det betyr at alle medlemmene må oppføre seg likt"
-    ],
-    "answerIndex": 1,
-    "shortExplanation": "Prosjektkultur er den felles identiteten og arbeidsmåten.",
-    "explanation": "Prosjektkultur handler om å utvikle en felles identitet, verdier og arbeidsformer som karakteriserer prosjektet. Det gjøres gjennom små seire, deling av informasjon og opplevelser, samt anerkjennelse av bidrag. En sterk prosjektkultur skaper samhold, engasjement og resiliens - evnen til å håndtere utfordringer og endringer. Den er kjernen i et velfungerende prosjektteam\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
-  },
-  {
-    "id": 25,
     "section": "Kap4.5",
     "question": "Hvordan bygger man tillit i norming-fasen?",
     "options": [
