@@ -540,5 +540,33 @@
     "shortExplanation": "Komplementære forhold betyr ulike styrker og dominansområder.",
     "explanation": "<strong>Komplementære forhold</strong> oppstår når medlemmene har ulike styrker og dominerer på ulike områder. En medlem kan være god på strategi, en annen på detaljer, en tredje på menneskekontakt. Dette kan skape balanse og effektivt samarbeid når medlemmene respekterer hverandres styrker og jobber sammen - motsatt av symmetriske forhold hvor alle har lik innflytelse. Komplementære forhold kan også skape konflikt hvis medlemmene konkurrerer eller ikke verdsetter hverandres bidrag.",
     "example": "Et team består av en visjonær leder, en detaljorienter prosjektleder, en kreativ designer og en erfaren tekniker. Hver bringer ulike styrker som gjør teamet komplett. Sammen arbeider de godt, men hvis de ikke respekterer hverandres roller, kan det oppstå konflikter."
+  },
+  {
+    "id": 41,
+    "section": "Kap3.1",
+    "question": "Hva er personlighetsutvikling?",
+    "options": [
+      "En prosess som slutter når en person blir voksen og endrer seg ikke lenger",
+      "Utviklingen av individets karakteristiske måter å tenke, føle og handle på, som påvirkes av både genetikk og sosiale erfaringer",
+      "Et system for å kategorisere mennesker basert på deres yrke og økonomiske status",
+      "En medisinskbehandling som brukes til å endre personlighetstrekk"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Personlighetsutvikling er utviklingen av karakteristiske tenke-, føle- og handlingsmåter.",
+    "explanation": "Personlighetsutvikling handler om hvordan individets personlighet dannes og utvikles over tid. Dette innebærer utviklingen av karakteristiske måter å tenke, føle og handle på. Personligheten påvirkes av både genetiske faktorer (arvelige egenskaper) og sosiale erfaringer, spesielt gjennom interaksjon med primærgrupper som familie og nære venner. Grupper spiller en sentral rolle i personlighetsutviklingen, da medlemmene lærer nye atferdsmønstre, verdier og måter å møte verden på gjennom samhandling med andre."
+  },
+  {
+    "id": 42,
+    "section": "Kap3.2",
+    "question": "Hvordan påvirker primærgrupper identitets- og personlighetsutviklingen?",
+    "options": [
+      "Primærgrupper har liten påvirkning siden identiteten dannes hovedsakelig gjennom genetikk",
+      "De gir medlemmene muligheten til å eksperimentere med ulike roller og identiteter, og gjennom tilbakemeldinger og anerkjennelse fra gruppen dannes og formes identiteten",
+      "Primærgrupper påvirker kun ytre atferd, ikke indre identitetsfølelse",
+      "Identiteten dannes helt uavhengig av grupper, kun gjennom individuelle valg"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Primærgrupper påvirker identitets- og personlighetsutviklingen gjennom tilbakemeldinger og anerkjennelse.",
+    "explanation": "Primærgrupper som familie og nære venner er sentrale for både identitets- og personlighetsutviklingen. Gjennom medlemskap i disse gruppene får individet muligheten til å eksperimentere med ulike roller og identiteter. Gruppens medlemmer gir tilbakemeldinger, anerkjennelse og støtte som hjelper individet til å forme og utvikle en stabil identitet. Dette skjer gjennom daglige interaksjoner hvor medlemmene lærer hvem de er, hvilke verdier som er viktige, og hvordan de passer inn i sosiale sammenhenger. Primærgruppenes varme, intimitet og langvarighet gjør dem særlig viktige for denne utviklingen."
   }
 ]

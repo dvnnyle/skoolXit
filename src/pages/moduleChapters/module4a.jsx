@@ -16,6 +16,20 @@ function Module4a() {
   const [showReview, setShowReview] = useState(false)
   const [streak, setStreak] = useState(0)
 
+  // Guard against undefined questionsData
+  if (!questionsData || questionsData.length === 0) {
+    return (
+      <>
+        <NavigationMenu />
+        <div className="quiz-container">
+          <div className="quiz-header">
+            <h2>Loading Module 4A...</h2>
+          </div>
+        </div>
+      </>
+    )
+  }
+
   const currentQuestion = questionsData[currentQuestionIndex]
 
   const handleAnswerClick = (index) => {
@@ -113,7 +127,7 @@ function Module4a() {
           </div>
 
           <div className="review-container">
-            {questionsData.map((question, qIndex) => {
+            {questionsData && questionsData.map((question, qIndex) => {
               const userAnswer = userAnswers[qIndex]
               const isCorrect = userAnswer?.isCorrect
               const userSelectedIndex = userAnswer?.selectedIndex
@@ -130,7 +144,7 @@ function Module4a() {
                   <h3 className="question-text">{question.question}</h3>
                   
                   <div className="review-options">
-                    {question.options.map((option, optIndex) => {
+                    {question.options && question.options.map((option, optIndex) => {
                       const isCorrectOption = optIndex === question.answerIndex
                       const isUserSelection = optIndex === userSelectedIndex
                       
@@ -244,7 +258,7 @@ function Module4a() {
           <h3 className="question-text">{currentQuestion.question}</h3>
           
           <div className="options-list">
-            {currentQuestion.options.map((option, index) => {
+            {currentQuestion && currentQuestion.options && currentQuestion.options.map((option, index) => {
               const isSelected = selectedAnswer === index
               const isCorrect = index === currentQuestion.answerIndex
               const showCorrect = selectedAnswer !== null && isCorrect
