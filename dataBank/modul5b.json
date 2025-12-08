@@ -4,9 +4,9 @@
     "section": "Kap9.1",
     "question": "Hvordan kan en konflikt defineres?",
     "options": [
-      "En situasjon som kun oppstår i hjemmet mellom familiemedlemmer",
-      "Et midlertidig misforståelse som ofte løses ved å ignorere det",
-      "Noe som bare oppstår mellom ansatte og ledelse formelt",
+      "En situasjon som kun oppstår i hjemmet mellom familiemedlemmer og har ingen relevans i arbeidskontekst",
+      "Et midlertidig misforståelse som ofte løses av seg selv ved å ignorere det uten oppfølging",
+      "Noe som bare oppstår mellom ansatte og ledelse i formelle organisasjonsstrukturer",
       "En mellommenneskelig uoverensstemmelse der interesser, verdier og handlinger kolliderer, noe som fører til frustrasjon og spenning"
     ],
     "answerIndex": 3,
@@ -19,9 +19,9 @@
     "question": "Hvilke behov ligger ofte bak konflikter?",
     "options": [
       "Anerkjennelse og respekt, tilhørighet og trygghet, autonomi og kontroll",
-      "Behovet for å unngå all form for sosial interaksjon",
-      "Bare ønsket om penger og makt ekslusivt",
-      "Kun behov for fysisk komfort og materielle goder"
+      "Behovet for å unngå all form for sosial interaksjon og menneskelig kontakt",
+      "Bare ønsket om penger og makt som eneste motivasjon for alle mennesker",
+      "Kun behov for fysisk komfort og materielle goder uten fokus på relasjoner"
     ],
     "answerIndex": 0,
     "shortExplanation": "Konflikter handler ofte om menneskelige behov for anerkjennelse og trygghet.",
@@ -60,9 +60,9 @@
     "section": "Kap9.5",
     "question": "Hva er interessekonflikter eller behofskonflikter?",
     "options": [
-      "En type konflikt som handler om personlighetsuenigheter utelukkende eller primært",
-      "Konflikter som bare oppstår i små organisasjoner i alle situasjoner og kontekster",
-      "Konflikter som aldri kan løses under noen omstendigheter",
+      "En type konflikt som handler utelukkende om personlighetsuenigheter og karakterforskjeller",
+      "Konflikter som bare oppstår i små organisasjoner og mikrobedrifter i alle situasjoner",
+      "Konflikter som aldri kan løses under noen omstendigheter eller ved noen metode",
       "Konflikter karakterisert av ulike behov eller mål som skal prioriteres, kan ofte løses gjennom forhandlinger"
     ],
     "answerIndex": 3,
@@ -88,9 +88,9 @@
     "section": "Kap9.7",
     "question": "Hva er konfliktkilde?",
     "options": [
-      "Stedet i organisasjonen hvor mennesker fysisk befinner seg",
-      "Den spesifikke personen som ble ansatt senest i gruppen",
-      "En bevisst strategi som brukes for å trene medlemmer i ledelse",
+      "Stedet i organisasjonen hvor mennesker fysisk befinner seg på kontoret eller fabrikken",
+      "Den spesifikke personen som ble ansatt senest i gruppen eller avdelingen",
+      "En bevisst strategi som brukes for å trene medlemmer i lederegenskaper",
       "De underliggende årsakene som kan føre til konflikt, som ulike verdier eller interesser"
     ],
     "answerIndex": 3,
@@ -102,10 +102,10 @@
     "section": "Kap9.8",
     "question": "Hva er konflikt erkjennelse?",
     "options": [
-      "En måte å forhåndtale kommende konflikter på",
-      "Tanker man har om ulik emosjonell tilstand",
+      "En måte å forhåndtale kommende konflikter på basert på tidligere erfaringer",
+      "Tanker man har om ulik emosjonell tilstand eller humør hos andre personer",
       "Når man blir klar over at en konflikt eksisterer og føler behov for å gjøre noe med den",
-      "Hele gruppen sin umiddelbare respons når en konflikt oppstår"
+      "Hele gruppens umiddelbare respons når en konflikt oppstår plutselig"
     ],
     "answerIndex": 2,
     "shortExplanation": "Konflikterkjennelse er når man innser at en konflikt eksisterer.",
@@ -116,10 +116,10 @@
     "section": "Kap9.9",
     "question": "Hva er konflikatferd?",
     "options": [
-      "En måte å forhåndtale kommende konflikter på",
-      "Tanker man har om en konflikt",
+      "En måte å forhåndtale kommende konflikter på systematisk",
+      "Tanker man har om en konflikt uten at det påvirker andre",
       "Når konflikten kommer til uttrykk gjennom ord, handlinger eller emosjoner",
-      "Hele gruppen sin umiddelbare respons når en konflikt oppstår"
+      "Hele gruppens umiddelbare respons når en konflikt oppstår plutselig"
     ],
     "answerIndex": 3,
     "shortExplanation": "Konflikatferd er når konflikten blir uttrykt i ord og handlinger.",
@@ -228,10 +228,10 @@
     "section": "Kap9.17",
     "question": "Hvorfor er det viktig å erkjenne konflikten tidlig?",
     "options": [
-      "Bare for å informere administrasjonen formelt",
-      "Det er ikke viktig, konflikter løser seg alltid av seg selv",
+      "Bare for å informere administrasjonen formelt om situasjonen",
+      "Det er ikke viktig, konflikter løser seg alltid av seg selv uten inngripen",
       "Fordi å erkjenne konflikten tidlig forhindrer at den vokser større og blir vanskeligere å løse",
-      "For å sikre at lederen får å vite først"
+      "For å sikre at lederen får å vite først før andre berørte parter"
     ],
     "answerIndex": 3,
     "shortExplanation": "Tidlig erkjennelse av konflikter forhindrer eskalering.",
@@ -242,8 +242,8 @@
     "section": "Kap9.18",
     "question": "Hva menes med 'angrip problemet, ikke personen' i konflikthaandtering?",
     "options": [
-      "Det betyr at man skal forlate diskusjonen helt",
-      "Man bør aldri snakke direkte med personen som er involvert",
+      "Det betyr at man skal forlate diskusjonen helt og glemme problemet",
+      "Man bør aldri snakke direkte med personen som er involvert i konflikten",
       "Man skal fokusere på problemet som skal løses, ikke på personens feil eller karakteregenskaper",
       "Man bør alltid være aggressiv for å vinne konflikten"
     ],
