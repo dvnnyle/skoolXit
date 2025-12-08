@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 1,
     "section": "Kap4.1",
@@ -11,7 +11,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Norming-fasen handler om etablering av felles normer og samarbeid.",
-    "explanation": "Etter forming og storming går prosjektet inn i norming-fasen, perioden der teamet begynner å fungere som en helhet. Her etableres felles normer, verdier og samarbeidermønstre, og gruppen finner balansen mellom struktur og fleksibilitet. Denne fasen handler om å bygge prosjektkultur, utvikle tillit og skape felles forståelse av mål og arbeidsform\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
+    "explanation": "Etter forming og storming går prosjektet inn i norming-fasen, perioden der teamet begynner å fungere som en helhet. Her etableres felles normer, verdier og samarbeidermønstre, og gruppen finner balansen mellom struktur og fleksibilitet. Denne fasen handler om å bygge prosjektkultur, utvikle tillit og skape felles forståelse av mål og arbeidsform\n\nTuchmans fire faser i gruppeutvikling:\n- Forming: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Implisitte kontrakter er uuttalte avtaler mellom medlemmene.",
-    "explanation": "I norming-fasen oppstår implisitte kontrakter - uuttalte avtaler og forventninger mellom medlemmene. Disse bygger på gjensiddig forståelse og tidligere erfaringer, og former hvordan teamet samarbeider i praksis. De er viktige for å skape stabilitet og forutsigbarhet\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
+    "explanation": "I norming-fasen oppstår implisitte kontrakter - uuttalte avtaler og forventninger mellom medlemmene. Disse bygger på gjensiddig forståelse og tidligere erfaringer, og former hvordan teamet samarbeider i praksis. De er viktige for å skape stabilitet og forutsigbarhet\n\nTuchmans fire faser i gruppeutvikling:\n- Forming: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   },
   {
     "id": 3,
@@ -95,7 +95,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Prososial atferd er når medlemmene hjelper gruppen som helhet.",
-    "explanation": "Et tegn på at en gruppe fungerer godt i norming-fasen er fremveksten av prososial atferd - når medlemmene bruker tid og energi på å hjelpe gruppen som helhet. Dette kan være å støtte kollegaer, dele informasjon, oppmuntre andre eller løse problemer som ikke direkte er deres ansvar. Slike handlinger styrker samhold og bygger tillit\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
+    "explanation": "Et tegn på at en gruppe fungerer godt i norming-fasen er fremveksten av prososial atferd - når medlemmene bruker tid og energi på å hjelpe gruppen som helhet. Dette kan være å støtte kollegaer, dele informasjon, oppmuntre andre eller løse problemer som ikke direkte er deres ansvar. Slike handlinger styrker samhold og bygger tillit\n\nTuchmans fire faser i gruppeutvikling:\n- Forming: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   },
   {
     "id": 8,
@@ -151,7 +151,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Små seire gir energi og styrker motivasjonen og selvtillit.",
-    "explanation": "Et enkelt virkemiddel i norming-fasen er å synliggjøre små seire, delresultater og milepæler som markerer fremgang. Det gir energi, stolthet og mestringsfølelse. Felles sosiale opplevelser, som uformelle møter eller teambyggingsaktiviteter, styrker samholdet og bygger interpersonlig tillit. Slik skapes balanse mellom oppgavefokus og relasjonsfokus\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
+    "explanation": "Et enkelt virkemiddel i norming-fasen er å synliggjøre små seire, delresultater og milepæler som markerer fremgang. Det gir energi, stolthet og mestringsfølelse. Felles sosiale opplevelser, som uformelle møter eller teambyggingsaktiviteter, styrker samholdet og bygger interpersonlig tillit. Slik skapes balanse mellom oppgavefokus og relasjonsfokus\n\nTuchmans fire faser i gruppeutvikling:\n- Forming: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   },
   {
     "id": 12,
@@ -193,7 +193,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Mangfold styrker prosjektet men krever bevisst ledelse.",
-    "explanation": "Mangfold av bakgrunner og perspektiver styrker prosjektet med innovasjon og bedre problemløsning, men krever bevisst ledelse for å unngå misforståelser. God prosjektkultur bygger på inkludering og respekt for ulikheter, slik at alle føler eierskap til gruppens arbeid og kan bidra fullt ut\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
+    "explanation": "Mangfold av bakgrunner og perspektiver styrker prosjektet med innovasjon og bedre problemløsning, men krever bevisst ledelse for å unngå misforståelser. God prosjektkultur bygger på inkludering og respekt for ulikheter, slik at alle føler eierskap til gruppens arbeid og kan bidra fullt ut\n\nTuchmans fire faser i gruppeutvikling:\n- Forming: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   },
   {
     "id": 15,
@@ -277,7 +277,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Norming etablerer grunnlaget for tillit, kultur og effektivitet.",
-    "explanation": "I norming-fasen etableres de kulturelle og relasjonelle grunnpilarene som holder prosjektet sammen. Gjennom utviklingen av implisitte og psykologiske kontrakter, felles normer og åpen kommunikasjon, bygges tillit, samhold og engasjement. Ved å anerkjenne små seire, dele informasjon og skape felles opplevelser, utvikler teamet en sterk prosjektkultur - kjernen i et velfungerende og resilient prosjektteam\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
+    "explanation": "I norming-fasen etableres de kulturelle og relasjonelle grunnpilarene som holder prosjektet sammen. Gjennom utviklingen av implisitte og psykologiske kontrakter, felles normer og åpen kommunikasjon, bygges tillit, samhold og engasjement. Ved å anerkjenne små seire, dele informasjon og skape felles opplevelser, utvikler teamet en sterk prosjektkultur - kjernen i et velfungerende og resilient prosjektteam\n\nTuchmans fire faser i gruppeutvikling:\n- Forming: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   },
   {
     "id": 22,
@@ -291,6 +291,8 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Tillit bygges gjennom åpen kommunikasjon og respekt.",
-    "explanation": "Tillit i norming-fasen bygges gjennom åpen kommunikasjon, deling av informasjon og transparens. Ved å anerkjenne små seire, vise respekt for ulikheter og følge opp på det man sier, viser prosjektlederen og teamet at de er pålitelige. Tillit er fundamentet for all god samarbeid og utvikler seg gradvis gjennom konsekvent atferd over tid\n\nGruppens utviklingsfaser:\n- Forming-fasen: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming-fasen: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming-fasen: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing-fasen: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
+    "explanation": "Tillit i norming-fasen bygges gjennom åpen kommunikasjon, deling av informasjon og transparens. Ved å anerkjenne små seire, vise respekt for ulikheter og følge opp på det man sier, viser prosjektlederen og teamet at de er pålitelige. Tillit er fundamentet for all god samarbeid og utvikler seg gradvis gjennom konsekvent atferd over tid\n\nTuchmans fire faser i gruppeutvikling:\n- Forming: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   }
 ]
+
+
