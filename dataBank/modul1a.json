@@ -93,7 +93,7 @@
       "En miljø der medlemmer aktivt konkurrerer for oppmerksomhet fra ledelsen basert på sitt bidrag",
       "En kultur der medlemmene aktivt søker tilbakemelding for å forbedre seg"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Forsvarsklima kjennetegnes av jeg-sentret atferd og konkurranse.",
     "explanation": "Et forsvarsklima oppstår når medlemmene fokuserer på seg selv, og det blir konkurranse om makt og dominans. Dette svekker tillit og samarbeid, og kan føre til konflikter og ineffektivitet. Motsatt av et støtteklima der medlemmene hjelper hverandre."
   },
@@ -508,13 +508,13 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Grupper fungerer gjennom dynamiske prosesser med samspill og kommunikasjon.",
-    "explanation": "<strong>Hvordan grupper fungerer</strong> handler om gruppedynamikken - de løpende endringene og prosessene i gruppen. Grupper fungerer gjennom: <strong>samspill</strong> (hvordan medlemmene interagerer), <strong>kommunikasjon</strong> (utveksling av informasjon og mening), <strong>roller</strong> (funksjoner og forventninger), og <strong>normer</strong> (uskrevne regler). Grupper er i stadig utvikling og tilpasser seg utfordringer, mål og medlemmer. Dette kalles gruppedynamikk. Gruppen påvirker individet, og individene påvirker gruppen gjennom sine handlinger og holdninger.",
+    "explanation": "<strong>Hvordan grupper fungerer</strong> handler om gruppedynamikken - de løpende endringene og prosessene i gruppen. Grupper fungerer gjennom: <strong>Samspill</strong> (hvordan medlemmene interagerer), <strong>Kommunikasjon</strong> (utveksling av informasjon og mening), <strong>Roller</strong> (funksjoner og forventninger), og <strong>Normer</strong> (uskrevne regler). Grupper er i stadig utvikling og tilpasser seg utfordringer, mål og medlemmer. Dette kalles gruppedynamikk. Gruppen påvirker individet, og individene påvirker gruppen gjennom sine handlinger og holdninger.",
     "example": "En gruppe som starter med usikkerhet og høflighet (forming) går gjennom konflikter (storming), etablerer rutiner (norming), og til slutt jobber effektivt sammen (performing). Hele prosessen påvirkes av medlemmenes personlighet og de eksterne forhold rundt gruppen."
   },
   {
     "id": 39,
     "section": "Kap1.9",
-    "question": "Hva er gruppetenking (groupthink)?",
+    "question": "Hva er gruppetenking?",
     "options": [
       "En positiv form for samarbeid der alle medlemmene har samme mening om løsninger",
       "En tendens der medlemmene undertrykker kritiske meninger for å bevare enighet og unngå konflikter",
