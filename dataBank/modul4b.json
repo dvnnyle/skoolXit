@@ -4,9 +4,9 @@
     "section": "Kap6.1",
     "question": "Hva er definisjonen av ledelse?",
     "options": [
-      "Å ha mest penger og ressurser i organisasjonen",
-      "Å delegere alt ansvar til andre",
-      "Å sette regler og straffe folk som bryter dem",
+      "Å inneha formell autoritet og høy posisjon i organisasjonens hierarki",
+      "Å delegere all oppgaver og frikjøpe seg fra praktisk ansvar",
+      "Å etablere strikte regler og sanksjoner for å sikre samsvar",
       "Prosessen med å påvirke mennesker mot å nå felles mål"
     ],
     "answerIndex": 3,
@@ -19,9 +19,9 @@
     "question": "Hva er de fire hovedfunksjonene til en leder?",
     "options": [
       "Planlegging, organisering, veiledning og evaluering",
-      "Kommunikasjon, sosialisering, delegering og rapportering",
-      "Kontroll, bestrafing, belønning og ignorering",
-      "Kontroll,kommunikasjon, planlegging og organisering"
+      "Motivering, oppgaveutdeling, rapportering og budsjettstyring",
+      "Oversikt, ansvarliggjøring, incentiver og fravær av tilbakemelding",
+      "Delegering, kommunikasjon, oppfølging og ressursstyring"
     ],
     "answerIndex": 0,
     "shortExplanation": "De fire lederfunksjonene er planlegging, organisering, veiledning og evaluering.",
@@ -32,10 +32,10 @@
     "section": "Kap6.3",
     "question": "Hva er formell ledelse?",
     "options": [
-      "Ledelse som bare skjer i store organisasjoner med formell hierarki",
+      "Ledelse som primært oppstår i store og strukturerte organisasjoner",
       "Ledelse gjennom offisiell rolle og makt, basert på positional autoritet",
-      "Ledelse som oppstår uformelt når medlemmer ikke har officiell tittel",
-      "Ledelse som ikke har noen struktur fordi den baseres på personlige forhold"
+      "Ledelse som utvikles naturlig blant medlemmer uten formell tittel",
+      "Ledelse som baserer seg utelukkende på personlige relasjoner uten struktur"
     ],
     "answerIndex": 1,
     "shortExplanation": "Formell ledelse baseres på offisiell rolle og positional autoritet.",
@@ -46,9 +46,9 @@
     "section": "Kap6.4",
     "question": "Hva er uformell ledelse?",
     "options": [
-      "Ledelse som bare skjer i små organisasjoner og ikke i store foretak",
-      "Ledelse som følger organisasjonens offisielle struktur strengt uten avvik",
-      "Ledelse som er usynlig og har ingen målbar effekt på gruppens arbeid",
+      "Ledelse som primært oppstår i mindre grupper med nær kontakt",
+      "Ledelse som strikt følger organisasjonens formelle prosedyrer og regelverk",
+      "Ledelse som har minimal eller subtil påvirkning på gruppens arbeidsprosesser",
       "Ledelse som utøves av mennesker uten formell posisjon basert på påvirkning og respekt"
     ],
     "answerIndex": 3,
@@ -60,10 +60,10 @@
     "section": "Kap6.5",
     "question": "Hva er forskjellen mellom makt og autoritet?",
     "options": [
-      "Autoritet er nøyaktig det samme som å ha en høy tittel og stor lønn",
-      "Makt er bare negativ påvirkning som alltid skader relasjoner",
+      "Autoritet er identisk med å inneha høy posisjon og økonomisk ressurser",
+      "Makt refererer kun til negativ tvang som skader eller ødelegger relasjoner",
       "Makt er evnen til å påvirke, autoritet er legitim og anerkjent rett til å påvirke",
-      "Det er ikke noen praktisk forskjell mellom dem i arbeidslivet"
+      "Begrepene er gjennomgående synonyme og brukes utskiftbart i organisasjoner"
     ],
     "answerIndex": 2,
     "shortExplanation": "Makt er evne til påvirkning, autoritet er legitim rett.",
@@ -75,9 +75,9 @@
     "question": "Hva er legitimitet i ledelse?",
     "options": [
       "Oppfatningen at lederens rett til å påvirke er legitim og rettferdig",
-      "Et formelt avtaledokument som signeres av begge parter",
-      "Noe som bare handles av domstolen og ikke av organisasjoner",
-      "Evnen til å registrere og rapportere alle beslutninger til høyere nivå"
+      "Et formelt kontraktsdokument som regulerer alle relasjoner og ansvar",
+      "En juridisk kategori som primært håndteres av domstolssystemet",
+      "Prosessen med å dokumentere og rapportere alle lederens beslutninger"
     ],
     "answerIndex": 0,
     "shortExplanation": "Legitimitet er oppfatningen at lederens autoritet er rettferdig.",
@@ -102,9 +102,9 @@
     "section": "Kap6.8",
     "question": "Hva karakteriserer autoritær ledelse ifølge Lewin?",
     "options": [
-      "Lederen overlater alt ansvar til gruppen uten å ta kontroll",
-      "Gruppen velger selv alle medlemmer og ekskluderer de som ikke passer",
-      "Lederen gir all makt og autoritet til sin nestkommanderende",
+      "Lederen gir mest av ansvaret til gruppen med minimal oversikt",
+      "Gruppen får uformell kontroll over medlemskapet og tilhørighet",
+      "Lederen distribuerer mye av makten til sine nærmeste assistenter",
       "Lederen bestemmer alt, gir klare ordre og er personlig styring"
     ],
     "answerIndex": 3,
@@ -131,9 +131,9 @@
     "question": "Hva karakteriserer laissez-faire ledelse?",
     "options": [
       "Lederen holder seg tilbake og lar gruppen selv bestemme og arbeide",
-      "Lederen bestemmer alt og gir klare instruksjoner hver gang",
-      "Lederen fokuserer ensidig på tekniske oppgaver og resultater",
-      "Lederen leder gjennom streng demokratisk prosess der alle stemmer"
+      "Lederen bestemmer stort sett alt og gir detaljerte instruksjoner",
+      "Lederen fokuserer primært på tekniske og operative aspekter",
+      "Lederen inkluderer gruppen i alle beslutninger gjennom formell demokrati"
     ],
     "answerIndex": 0,
     "shortExplanation": "Laissez-faire - lederen holder seg tilbake og lar gruppen selv bestemme.",
@@ -144,9 +144,9 @@
     "section": "Kap6.11",
     "question": "Hva er oppgaveorientert ledelse?",
     "options": [
-      "Ledelse som er helt uten noen form for fokus eller retning",
-      "Ledelse som fokuserer på mennesker og relasjoner",
-      "Ledelse som overse eller nedprioriterer alle oppgaver og mål",
+      "Ledelse som har minimal fokus på målsetning eller strategi",
+      "Ledelse som fokuserer primært på mennesker og deres relasjoner",
+      "Ledelse som nedprioriterer oppgaver til fordel for prosessaspekter",
       "Ledelse som fokuserer på oppgavene som skal utføres og resultater"
     ],
     "answerIndex": 3,
@@ -159,9 +159,9 @@
     "question": "Hva er menneskeorientert ledelse?",
     "options": [
       "Ledelse som fokuserer på medarbeidernes velvære, motivasjon og personlig utvikling",
-      "Ledelse som oppfordrer folk til å arbeide uten vederlag eller anerkjennelse",
-      "Ledelse som bare handler om oppgaver uten noen menneskelig dimensjon",
-      "Ledelse som ikke bryr seg om menneskers følelser eller tanker"
+      "Ledelse som forventer at folk gir sitt beste uten ekstra incentiver",
+      "Ledelse som primært konsentrerer seg om oppgaver fremfor mennesker",
+      "Ledelse som minimerer fokus på medarbeidernes personlige dimensjon"
     ],
     "answerIndex": 0,
     "shortExplanation": "Menneskeorientert ledelse fokuserer på medarbeidernes velvære og motivasjon.",
@@ -172,10 +172,10 @@
     "section": "Kap6.13",
     "question": "Hva er situasjonsledelse ifølge Hersey og Blanchard?",
     "options": [
-      "En lederstil som alltid fungerer identisk uavhengig av konteksten",
+      "En lederstil som fungerer optimal i de fleste organisatoriske situasjoner",
       "Ledelse som tilpasses den ansattes modenhet/forsvarsvilighet",
-      "Ledelse som ikke krever noen form for tilpasning eller fleksibilitet",
-      "En metode som setter minimale eller ingen krav til mennesker"
+      "Ledelse som bruker samme grunnleggende tilnærming uavhengig av kontekst",
+      "En metode som setter lave eller ingen forventninger til medarbeidere"
     ],
     "answerIndex": 1,
     "shortExplanation": "Situasjonsledelse tilpasses den ansattes modenhet og forsvarsvilighet.",
@@ -187,9 +187,9 @@
     "question": "Hva er Telling (Directing) i situasjonsledelse?",
     "options": [
       "Lederstilen hvor lederen gir klare instruksjoner og overvåker nøye",
-      "En metode som helt overse alle oppgaver og mål",
-      "En stil hvor gruppen velger og bestemmer alt selv",
-      "En metode som ikke viser resultater eller fungerer effektivt"
+      "En metode som gir minimal veiledning og oppfølging",
+      "En stil hvor gruppen får stor frihet til å bestemme sitt arbeid",
+      "En metode som fokuserer på prosess fremfor måloppnåelse"
     ],
     "answerIndex": 0,
     "shortExplanation": "Telling - lederen gir klare instruksjoner og overvåker.",
@@ -200,10 +200,10 @@
     "section": "Kap6.15",
     "question": "Hva er Selling (Coaching) i situasjonsledelse?",
     "options": [
-      "En stil som bare handler om å selge produkt eller ideer",
+      "En stil som fokuserer på å presentere og markedsføre organisasjonsvisjon",
       "Lederstilen hvor lederen gir instruksjoner og samtidig er støttende og oppmuntrer dialog",
-      "En metode som avviser eller ignorerer medarbeidernes ideer",
-      "En stil hvor lederen helt unngår å være involvert"
+      "En metode som har begrenset interesse for medarbeidernes innspill",
+      "En stil hvor lederen minimerer sin daglige involvering"
     ],
     "answerIndex": 1,
     "shortExplanation": "Selling - lederen instruerer og støtter, oppmuntrer dialog.",
@@ -214,9 +214,9 @@
     "section": "Kap6.16",
     "question": "Hva er Participating (Supporting) i situasjonsledelse?",
     "options": [
-      "En metode hvor lederen må bestemme alle aspekter alene",
-      "En stil som har vist seg ikke å fungere eller gi resultater",
-      "En stil som helt ignorerer eller nedvurderer medarbeideren",
+      "En metode hvor lederen hovedsakelig baserer seg på egen vurdering",
+      "En stil som gir moderat resultat avhengig av arbeidsmiljø",
+      "En stil som nedprioriterer medarbeidern sitt bidrag i prosessen",
       "Lederstilen hvor lederen hjelper, støtter og deltar i beslutninger med en relativt moden ansatt"
     ],
     "answerIndex": 3,
@@ -229,9 +229,9 @@
     "question": "Hva er Delegating i situasjonsledelse?",
     "options": [
       "Lederstilen hvor lederen gir ansvar til en selv-dirigert, svært moden ansatt",
-      "En metode som aldri gir noen positive resultater",
-      "En metode som ignorerer eller nedprioriterer resultatoppnåelse",
-      "En stil hvor lederen er svært nøye overvåking av alle detaljer"
+      "En metode som gir variabel resultat basert på motivasjon",
+      "En metode som fokuserer på prosess og læring fremfor resultater",
+      "En stil hvor lederen er involvert i daglig oppfølging og kontroll"
     ],
     "answerIndex": 0,
     "shortExplanation": "Delegating - lederen gir ansvar til en svært moden ansatt.",
@@ -242,10 +242,10 @@
     "section": "Kap6.18",
     "question": "Hva er jeg-sentrert ledelse (I-centered)?",
     "options": [
-      "Ledelse som er totalt fokusert på demokratiske prosesser",
+      "Ledelse som prioriterer formell inklusjon og kollektive beslutninger",
       "Ledelse som fokuserer på gruppen som helhet og felles mål",
-      "Ledelse som ikke fungerer eller gir resultater",
-      "Ledelse som ignorerer eller nedvurderer lederens behov og rolle"
+      "Ledelse som gir moderat eller variabel effektivitet",
+      "Ledelse som har begrenset fokus på lederens personlige påvirkningskraft"
     ],
     "answerIndex": 2,
     "shortExplanation": "Jeg-sentrert ledelse fokuserer på lederens egen posisjon og status.",
@@ -256,10 +256,10 @@
     "section": "Kap6.19",
     "question": "Hva er vi-sentrert ledelse (we-centered)?",
     "options": [
-      "Ledelse som helt overse eller nedprioriterer gruppens bidrag",
+      "Ledelse som gir lavere vekt til enkelte gruppemedlemmers bidrag",
       "Ledelse hvor lederen fokuserer på gruppen som en helhet og felles mål",
-      "Ledelse som viser minimale eller ingen resultater for gruppen",
-      "Ledelse som fokuserer utelukkende på lederens egen posisjon og prestasje"
+      "Ledelse som gir moderat resultat avhengig av gruppedynamikk",
+      "Ledelse som primært fremhever lederens personlige resultater og status"
     ],
     "answerIndex": 1,
     "shortExplanation": "Vi-sentrert ledelse fokuserer på gruppen og felles mål.",
@@ -270,11 +270,11 @@
     "section": "Kap6.20",
     "question": "Hva er styring og kontroll i prosjekter?",
     "options": [
-      "En metode som helt neglisjerer eller ignorerer oppnåelse av resultater",
-      "Å påtvinge folk gjennom frykt eller trussel til å gjøre det lederen vil",
-      "Noe som ikke er essensiell eller aktuell i moderne prosjektledelse",
+      "En metode som gir minimal oppmerksomhet til milepæler eller sluttresultat",
+      "Å bruke autorita og sanksjoner for å sikre etterfølgelse av planer",
+      "En praksis som har begrenset relevans i moderne agile prosjektledelse",
       "Prosessen med å styre prosjektets fremdrift, sikre at mål oppnås og korrigere avvik"
-    ],
+    ]
     "answerIndex": 3,
     "shortExplanation": "Styring og kontroll handler om å sikre fremdrift og korrigere avvik.",
     "explanation": "Styring og kontroll i prosjekter handler om å styre prosjektets fremdrift, sammenlikne faktisk fremgang med planer, identifisere avvik og iverksette korrigerende tiltak. God styring krever tydelige mål, jevnlig oppfølging og evnen til å justere kursen når nødvendig. Dette er en sentral funksjon for å sikre at prosjektet oppnår sine mål innen tid og budsjett."
