@@ -4,10 +4,10 @@
     "section": "Kap4.1",
     "question": "Hva handler norming-fasen om i prosjektets utvikling?",
     "options": [
-      "En fase preget av konflikter og uenigheter som må løses",
-      "En fase der gruppen må oppfinne helt nye arbeidsmetoder",
+      "En fase karakterisert primært av uløste konflikter og uavklarte uenigheter som eskalerer",
+      "En fase hvor organisatoriske praksis gjennomgår fundamental omstrukturering av arbeidsmetoder",
       "Perioden der teamet etablerer felles normer, verdier og samarbeidermønstre",
-      "Fasen der prosjektet avsluttes og resultatene dokumenteres"
+      "Fasen der prosjektets liv avsluttes med formell avrapportering og dokumentasjonsarkivering"
     ],
     "answerIndex": 2,
     "shortExplanation": "Norming-fasen handler om etablering av felles normer og samarbeid.",
@@ -33,9 +33,9 @@
     "question": "Hva er 'psykologiske kontrakter' i prosjektsammenheng?",
     "options": [
       "Forventninger mellom den enkelte og organisasjonen om rettferdighet, anerkjennelse og støtte",
-      "En form for psykologisk behandling som ledelsen tilbyr til stressede ansatte",
-      "Standardiserte kontrakter som alle ansatte må signere ved ansettelse",
-      "Regler for hvilke faser medlemmene går gjennom i sitt arbeidsforhold"
+      "En type formalisert terapi eller rådgivning som ledelsen tilbyr til ansatte med personlige utfordringer",
+      "Standardiserte og juridisk bindende avtaler som alle ansatte må signere ved ansettelse eller oppstart",
+      "En strukturell protokoll som definerer hvor lenge medlemmer skal oppholde seg i hver utviklingsfase"
     ],
     "answerIndex": 0,
     "shortExplanation": "Psykologiske kontrakter handler om forventninger og gjensidighet.",
@@ -46,10 +46,10 @@
     "section": "Kap4.4",
     "question": "Hva er 'prosjektkultur'?",
     "options": [
-      "En type kunstnerisk og kreativ aktivitet som medlemmene deltar i frivillig",
+      "En frivillig og uformell kunstnerisk aktivitet som medlemmene organiserer for personlig berikelse utenfor arbeidstid",
       "De felles verdiene, holdningene og normene som styrer hvordan teamet jobber sammen",
-      "Et system av skrevne regler og retningslinjer som må følges uten unntak",
-      "En formell dokumentasjon av alle møter, avgjørelser og aktiviteter"
+      "Et hierarkisk system av eksplisitte regler og retningslinjer som alle medlemmer må følge uten unntak",
+      "En formell og detaljert dokumentasjonsprotokoll som registrerer alle møter, avgjørelser og arbeidssessioner"
     ],
     "answerIndex": 1,
     "shortExplanation": "Prosjektkultur er felles verdier og normer som styrer samarbeidet.",
@@ -61,9 +61,9 @@
     "question": "Hva er 'sosial kapital' i grupper?",
     "options": [
       "Graden av tillit og felles normer i gruppen som gjør det lettere å koordinere oppgaver",
-      "En type kapital som oppbygging krever betydelige økonomiske investeringer",
-      "Mengden av finansielt budsjett som gruppen har tilgjengelig for sine aktiviteter",
-      "De digitale verktøyene, plattformene og systemene som gruppen bruker daglig"
+      "En type økonomisk ressurs som oppbygging av krever betydelige finansielle investeringer og kapitalallokering",
+      "Mengden av disponibelt budsjett som er tildelt gruppen for sine aktiviteter og operative utgifter",
+      "De digitale og teknologiske infrastruktur-ressursene som gruppen bruker for samkommunikasjon og databehandling"
     ],
     "answerIndex": 0,
     "shortExplanation": "Sosial kapital er tillit og felles normer i gruppen.",

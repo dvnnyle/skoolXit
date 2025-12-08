@@ -46,10 +46,10 @@
     "section": "Kap2.4",
     "question": "Hva er de fire sentrale teamrollene i et effektivt prosjektteam?",
     "options": [
-      "Leder, nestleder, sekretær og kasserer",
+      "Hierarkiske ledelsesroller basert på formell autoritet og organisatorisk rang uten fokus på funksjonelle bidrag",
       "Produksjon, administrasjon, integrasjon og entreprenørskap",
-      "Kommunikatør, strategist, operatør og revisor",
-      "Planlegger, gjennomfører, evaluator og rapportør"
+      "Roller som primært fokuserer på å oppnå tidligere fasemål og hindrer videre innovasjon eller tilpasning",
+      "En struktur som kontinuerlig roterer medlemmene mellom alle roller for å sikre bred erfaring"
     ],
     "answerIndex": 1,
     "shortExplanation": "Fire teamroller gir balanse mellom oppgave- og relasjonsfokus.",
@@ -60,9 +60,9 @@
     "section": "Kap2.5",
     "question": "Hva betyr SMART-mål i prosjektplanlegging?",
     "options": [
-      "Mål som ledelsen setter uten å involvere gruppemedlemmene i diskusjonen",
-      "Mål som oppnås uten å måle resultatene eller få tilbakemelding fra interessenter",
-      "Mål som er så generelle at enhver form for resultat oppfattes som suksess",
+      "Mål som formuleres med bred fokus uten å kvantifisere eller tidsfeste oppnåelse for å tillate fleksibilitet",
+      "Mål som defineres gjennom iterativ prosess uten ekstern validering, kun basert på gruppens interne diskusjon",
+      "Mål som etableres som helt stive rammer som ikke kan endres eller tilpasses under gjennomføringen",
       "Spesifikke, målbare, aksepterte, realistiske og tidsavgrensende mål som gir retning og motivasjon"
     ],
     "answerIndex": 3,
@@ -74,10 +74,10 @@
     "section": "Kap2.6",
     "question": "Hva er LEAN-metodikken i prosjektledelse?",
     "options": [
-      "En metode der alle medlemmer må godkjenne hver beslutning før den iverksettes",
-      "En metode som minimerer møter for å redusere kostnader og øke effektivitet",
+      "En tilnærming som fokuserer på å dokumentere alle prosesser i detalj før arbeidet starter for maksimal kontroll",
+      "En hierarkisk og autoritær ledelsesmodell som sikrer at alle prosesser følger fastsatte standarder uten unntak",
       "En tilnærming som visualiserer hele prosjektperioden og planlegger bakover fra ønsket sluttresultat",
-      "En sentralisert ledelsesmodell der bare ledelsen tar alle valg og beslutninger"
+      "En sentralisert planleggingsmetode som minimerer medlemmenes medvirkning for å sikre hurtig gjennomføring"
     ],
     "answerIndex": 2,
     "shortExplanation": "LEAN fokuserer på visualisering og planlegging bakover fra målene.",
@@ -102,10 +102,10 @@
     "section": "Kap2.8",
     "question": "Hva er 'jerntrianglet' i tradisjonell prosjektledelse?",
     "options": [
-      "En hierarkisk struktur med tre ledelseslag",
+      "En modell som fokuserer på medlemssammensetning og sikrer optimal rollefordeling og personellbalanse",
       "Tid, kostnad og kvalitet som de primære målene",
-      "De tre fasene av prosjektutvikling: forming, storming og performing",
-      "De tre viktigste medlemmene av prosjektledelsen"
+      "En struktur som definerer de tre obligatoriske kommunikasjonslagene mellom ledelse og operativt personell",
+      "De tre kommunikasjonsfasene som må etableres før prosjektet kan begynne sin operative gjennomføring"
     ],
     "answerIndex": 1,
     "shortExplanation": "Jerntrianglet omfatter tid, kostnad og kvalitet.",
@@ -116,10 +116,10 @@
     "section": "Kap2.9",
     "question": "Hva er 'kognitiv filtre' i sammenheng med mangfoldige team?",
     "options": [
-      "En regel som bestemmer hvem som skal få snakke i møter",
-      "En type teknologi som brukes for å filtrere informasjon",
+      "Et sikkerhetssystem som ledelsen bruker for å verifisere at medlemmenes kommunikasjon samsvarer med organisasjonens verdier",
+      "En teknologisk løsning som automatiselt koder og kategoriserer all informasjon basert på forhåndsdefinizte språkmønstre",
       "Individuelle tolkninger som forvrenger kommunikasjonen mellom medlemmene",
-      "En prosess der ledelsen fjerner medlemmer som ikke passer"
+      "En formell prosess der uoffisielle meninger gjennomgår evalueringer før de kan deles offentlig"
     ],
     "answerIndex": 2,
     "shortExplanation": "Kognitiv filtre er individuelle tolkinger som påvirker kommunikasjonen.",
@@ -144,10 +144,10 @@
     "section": "Kap2.11",
     "question": "Hva er 'desentralisering' i prosjektledelse?",
     "options": [
-      "Å ta alle beslutninger fra et sentralt kontor langt fra prosjektet",
-      "Å fjerne alle ledere og la gruppen styre seg selv",
+      "En struktur som opprettholder all beslutningskompetanse hos toppledelsen for å sikre konsistent retning og strategi",
+      "En tilnærming som legger vekt på at alle medlemmer må møtes fysisk på samme sted for effektiv koordinering",
       "Å la beslutninger tas nær problemet av dem som har best innsikt",
-      "Å dele prosjektet inn i mange små separate grupper"
+      "En organisasjonsmodell som fokuserer på å dele prosjektet inn i multiple separate og uavhengige enheter"
     ],
     "answerIndex": 2,
     "shortExplanation": "Desentralisering betyr at beslutninger tas nær problemet.",
@@ -158,9 +158,9 @@
     "section": "Kap2.13",
     "question": "Hva handler teambygging om i formingsfasen?",
     "options": [
-      "Å etablere sosiale bånd som primært fokuserer på personlige relasjoner og vennskap utenfor arbeidskonteksten",
-      "En påkrevd opplæringsaktivitet som ledelsen implementerer for å øke medlemmenes formelle kompetanse og sertifiseringer",
-      "En tilnærming som minimerer sosiale interaksjoner for å maksimere produktivitet og oppgavefokus i oppstartsfasen",
+      "Å etablere striktte hierarki og rolledefinisjoner som minimerer uenighet men reduserer fleksibilitet og initiativ",
+      "En prosess hvor medlemmene gjennomgår formell kompetansevalidering og sertifisering basert på tidligere erfaringer",
+      "En tilnærming som fokuserer primært på planlegging og kontroll av oppgaver ved å redusere interpersonlig utvikling",
       "Å utvikle en gruppe til et velfungerende team gjennom klare roller, trygghet, kommunikasjon og felles mål"
     ],
     "answerIndex": 3,
@@ -173,9 +173,9 @@
     "question": "Hva er 'relasjonelle kontrakter' i moderne prosjektledelse?",
     "options": [
       "Kontrakter som vektlegger samarbeid, kommunikasjon og fleksibilitet fremfor bare resultater",
-      "Avtaler som fokuserer primært på etablering og vedlikehold av interpersonlige relasjoner mellom prosjektmedlemmer",
-      "Dokumenter som eksplisitt redefinerer eller eliminerer lederens tradisjonelle kontroll- og ansvarsforhold til gruppen",
-      "Juridiske dokumenter som krever juridisk ekspertise og advokats formelle validering før implementering"
+      "Tradisjonelle juridiske dokumenter som fokuserer på detaljerte spesifikasjoner og strenge straffebestemmelser for avvik",
+      "Kontraktuelle avtaler som prioriterer normalisering av interpersonlige bånd og sosialisering som primære målsetninger",
+      "Dokumenter som setter oppfinnelse av nye samarbeidsmetoder som krav i stedet for å fokusere på eksisterende prosesser"
     ],
     "answerIndex": 0,
     "shortExplanation": "Relasjonelle kontrakter fokuserer på samarbeid og fleksibilitet.",
@@ -186,9 +186,9 @@
     "section": "Kap2.15",
     "question": "Hva er betydningen av 'eksterne relasjoner' i prosjekter?",
     "options": [
-      "Relasjoner som primært fokuserer på å håndtere eller integrere ekstern kritikk og tilbakemeldinger fra interessenter",
-      "Hovedsakelig de uformelle og sosiale forbindelsene som oppstår naturlig mellom prosjektmedlemmer over tid",
-      "Funksjon som formelt håndteres av organisasjonens HR og personnavdelingen uten direkte prosjektledelsesansvar",
+      "Relasjoner som begrenset til å håndtere klager og formelle eskaleringer fra interessenter når konflikter oppstår",
+      "Hovedsakelig de uformelle nettverkskontakter som medlemmene opprettholder parallelt med sitt offisielle prosjektarbeid",
+      "En administrativ funksjon som organisasjonens HR-avdeling håndterer isolert fra prosjektledelsens operative ansvarsområde",
       "Relasjoner til grunneiere, leverandører, samarbeidspartnere og myndigheter som må etableres og avklares tidlig"
     ],
     "answerIndex": 3,
@@ -200,10 +200,10 @@
     "section": "Kap2.16",
     "question": "Hvordan påvirker 'flerfaglig sammensetning' prosjektgrupper?",
     "options": [
-      "Den krever lite eller ingen ledelse siden fagfolk naturlig forstår hverandre",
+      "Den krever spesialisert ledelse som fokuserer på å minimisere kommunikasjon mellom fagdisipliner for å opprettholde faglig integritet",
       "Den gir bredde og kreativitet, men kan skape utfordringer knyttet til kommunikasjon og arbeidsstil",
-      "Den standardiserer alle medlemmenes arbeidsmetoder for effektivitet",
-      "Den gjør gruppen mindre effektiv fordi medlemmene konkurrerer om betydning"
+      "Den skaper naturlig ensartethet i arbeidsprosesser ettersom fagfolk instinktivt koordinerer seg uten eksplisitte systemer",
+      "Den gjør gruppen mindre effektiv fordi medlemmene systematisk prioriterer sin egen fagdisiplin over prosjektets helhetlige målsetning"
     ],
     "answerIndex": 1,
     "shortExplanation": "Flerfaglig sammensetning gir bredde men krever god ledelse.",
@@ -214,10 +214,10 @@
     "section": "Kap2.17",
     "question": "Hva er en av de viktigste forventningene til prosjektledelsen i formingsfasen?",
     "options": [
-      "Å fokusere utelukkende på effektivitet og unngå sosiale interaksjoner",
-      "Å delegere alle ansvar til medlemmene så snart prosjektet starter",
+      "Å prioritere oppgavegjennomføring slik at sosiale aktiviteter og relasjonsfokus oppstår gradvis etter at milepæler nåes",
+      "Å etablere alle systemer, regler og prosedyrer umiddelbar slik at medlemmene kan arbeide med minimalt behov for veiledning",
       "Å bygge tillit, klargjøre roller, håndtere usikkerhet og legge til rette for læring og samspill",
-      "Å fungere som eneste autoritet i alle avgjørelser som tas"
+      "Å opprettholde sterk hierarkisk kontroll og autoritet slik at alle avgjørelser sanksjoneres av ledelsen før implementering"
     ],
     "answerIndex": 2,
     "shortExplanation": "Ledelsen må bygge tillit og klargjøre roller tidlig.",
@@ -242,10 +242,10 @@
     "section": "Kap2.19",
     "question": "Hva handler 'struktur og forutsigbarhet' om i formingsfasen?",
     "options": [
-      "At alle prosesser og rutiner må være fullstendig fiksert og låst uten mulighet for justering eller tilpasning",
-      "At medlemmene må opprettholde identiske aktiviteter og rutiner hver dag for å oppnå maksimal konsekvens",
+      "Å implementere komplette og ufleksible prosedyrer som sikrer stabil drift men eliminerer muligheten for innovasjon",
+      "Å etablere identiske aktivitetsmønstre for alle medlemmer som minimerer individualitet men maksimerer målbar produktivitet",
       "Å definere mål, fordele ansvar, planlegge aktiviteter og etablere relasjoner for å skape klarhet og retning",
-      "En tilnærming der minimal planlegging gjennomføres ettersom prosjektets behov og retning kan løse seg organisk"
+      "En tilnærming hvor ledelsen bevisst unngår planlegging slik at medlemmene kan utvikle arbeidsmetoder organisk"
     ],
     "answerIndex": 2,
     "shortExplanation": "Struktur gir klarhet om mål, ansvar og aktiviteter.",
