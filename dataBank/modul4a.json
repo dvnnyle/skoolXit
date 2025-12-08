@@ -184,7 +184,7 @@
   {
     "id": 15,
     "section": "Kap6.15",
-    "question": "Hva er grensebok-rollen til prosjektlederen i performing-fasen?",
+    "question": "Hva er grensevokteren-rollen til prosjektlederen i performing-fasen?",
     "options": [
       "Å beskytte teamet mot ytre forstyrrelse og sikre kontakt med eksterne interessenter",
       "Å bli direkte involvert i alle detaljer av teamets daglige arbeid",
@@ -205,7 +205,7 @@
       "Dynamisk ledelse tilpasser seg situasjonen, mens statisk antar samme stil fungerer alltid",
       "Det er ingen som helst praktisk eller teoretisk forskjell mellom dem i praksis"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Dynamisk ledelse tilpasser seg, statisk er fast.",
     "explanation": "Hovedforskjellen er at dynamisk prosjektledelse tilpasser lederstilen til situasjonen og prosjektfasen, mens statisk ledelse antar at samme lederstil fungerer i alle situasjoner. Dynamisk ledelse recognizes at effektiv ledelse må være situasjonsavhengig og fleksibel for å møte de ulike behovene som oppstår gjennom prosjektets livsløp."
   },
