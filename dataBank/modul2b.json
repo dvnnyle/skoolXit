@@ -6,8 +6,8 @@
     "options": [
       "Den innledende fasen der prosjektet etableres, roller fordeles, og grunnlaget for samarbeid legges",
       "En fase der prosjektet avsluttes og resultatene forenkles ved å kutte detaljer",
-      "En fase preget av mild usikkerhet men ikke oppriktige konflikter eller maktkamp",
-      "En fase der gruppen jobber effektivt med minst mulig behov for justering"
+      "En fase karakterisert av høy usikkerhet og optimisme, men begrenset grad av interpersonlig konflikt eller maktkamp",
+      "En fase der gruppen jobber effektivt med minst mulig behov for justering eller tilpasning av rammer"
     ],
     "answerIndex": 0,
     "shortExplanation": "Formingsfasen er oppstart av prosjektet og etablering av grunnlag.",
@@ -18,9 +18,9 @@
     "section": "Kap2.2",
     "question": "Hva er 'dual lojalitet' i prosjektsammenheng?",
     "options": [
-      "Når prosjektlederen må rapportere til flere direktører i organisasjonen samtidig",
-      "En skriftlig avtale mellom medlemmene om å prioritere gruppens interesser over individuelle behov",
-      "Når to prosjekter kjemper om å få samme budget og ressurser fra ledelsen",
+      "Når prosjektlederen må håndtere rapporteringslinjer til flere organisatoriske nivåer og interessenter",
+      "En formalisert prosess for å dokumentere og sikre at medlemmer prioriterer gruppens felles mål konsistent",
+      "Konkurranse mellom parallelle prosjekter om begrensede organisatoriske budsjetter og ressurskvoter",
       "Når medlemmer er tilknyttet både prosjektet og sin basisorganisasjon, noe som krever tydelige forventninger"
     ],
     "answerIndex": 3,
@@ -32,10 +32,10 @@
     "section": "Kap2.3",
     "question": "Hvilken rolle spiller 'pseudo-arbeid' tidlig i prosjekter?",
     "options": [
-      "En type oppgave som gjøres av personer som ikke har viktige roller",
-      "En metode for å teste medlemmenes evner før de får ansvar",
+      "Oppgaver som gjennomføres av medlemmer med mindre formell organisatorisk status eller ansvar",
+      "En systemisk metode for å identifisere medlemmenes kompetanser og plassere dem i passende roller basert på resultater",
       "Småprat og uformelle samtaler som styrker samholdet og legger grunnlag for god kommunikasjon",
-      "Det er unødvendig og bør unngås fordi det tar tid fra det virkelige arbeidet"
+      "Aktiviteter som har begrenset direkte relevans til kjerneoppgavene, men reduserer tidlig fokus på måloppnåelse"
     ],
     "answerIndex": 2,
     "shortExplanation": "Pseudo-arbeid styrker samholdet og legger grunnlag for kommunikasjon.",
@@ -158,9 +158,9 @@
     "section": "Kap2.13",
     "question": "Hva handler teambygging om i formingsfasen?",
     "options": [
-      "Det handler kun om å få gruppen til å bli gode venner utenfor arbeid utelukkende eller primært",
-      "En utdanningskurs ledelsen påtvinger alle medlemmene tidlig i prosjektet",
-      "En strategi om å redusere uformelle interaksjoner for å få mer arbeid gjort",
+      "Å etablere sosiale bånd som primært fokuserer på personlige relasjoner og vennskap utenfor arbeidskonteksten",
+      "En påkrevd opplæringsaktivitet som ledelsen implementerer for å øke medlemmenes formelle kompetanse og sertifiseringer",
+      "En tilnærming som minimerer sosiale interaksjoner for å maksimere produktivitet og oppgavefokus i oppstartsfasen",
       "Å utvikle en gruppe til et velfungerende team gjennom klare roller, trygghet, kommunikasjon og felles mål"
     ],
     "answerIndex": 3,
@@ -173,9 +173,9 @@
     "question": "Hva er 'relasjonelle kontrakter' i moderne prosjektledelse?",
     "options": [
       "Kontrakter som vektlegger samarbeid, kommunikasjon og fleksibilitet fremfor bare resultater",
-      "Kontrakter som handler om personlige relasjoner mellom medlemmene utelukkende eller primært",
-      "Kontrakter som fjerner all ansvar fra prosjektledelsen, noe som kan oppfattes som relevant men er ikke helt korrekt",
-      "Juridiske dokumenter som krever advokats godkjenning før de kan signeres"
+      "Avtaler som fokuserer primært på etablering og vedlikehold av interpersonlige relasjoner mellom prosjektmedlemmer",
+      "Dokumenter som eksplisitt redefinerer eller eliminerer lederens tradisjonelle kontroll- og ansvarsforhold til gruppen",
+      "Juridiske dokumenter som krever juridisk ekspertise og advokats formelle validering før implementering"
     ],
     "answerIndex": 0,
     "shortExplanation": "Relasjonelle kontrakter fokuserer på samarbeid og fleksibilitet.",
@@ -186,10 +186,10 @@
     "section": "Kap2.15",
     "question": "Hva er betydningen av 'eksterne relasjoner' i prosjekter?",
     "options": [
-      "Relasjoner som kun handler om å få kritikk og feedback utelukkende eller primært",
-      "Det handler kun om sosiale forbindelser mellom medlemmene utelukkende eller primært",
-      "Noe som håndteres av HR-avdelingen og ikke er prosjektlederens ansvar",
-      "Relasjoner til runder, leverandører, samarbeidspartnere og myndigheter som må etableres og avklares tidlig"
+      "Relasjoner som primært fokuserer på å håndtere eller integrere ekstern kritikk og tilbakemeldinger fra interessenter",
+      "Hovedsakelig de uformelle og sosiale forbindelsene som oppstår naturlig mellom prosjektmedlemmer over tid",
+      "Funksjon som formelt håndteres av organisasjonens HR og personnavdelingen uten direkte prosjektledelsesansvar",
+      "Relasjoner til grunneiere, leverandører, samarbeidspartnere og myndigheter som må etableres og avklares tidlig"
     ],
     "answerIndex": 3,
     "shortExplanation": "Eksterne relasjoner må etableres og avklares tidlig i prosjektet.",
@@ -242,10 +242,10 @@
     "section": "Kap2.19",
     "question": "Hva handler 'struktur og forutsigbarhet' om i formingsfasen?",
     "options": [
-      "At alt må være veldig rigid og ikke kan endres muligens eller potensielt",
-      "At medlemmene må repetere samme rutine hver eneste dag uten variasjon",
-      "Å definere mål, fordele ansvar, planlegge aktiviteter og etablere relasjoner for å skape klarhet",
-      "At det ikke er mulig å planlegge noe som helst, men alt løser seg av seg selv"
+      "At alle prosesser og rutiner må være fullstendig fiksert og låst uten mulighet for justering eller tilpasning",
+      "At medlemmene må opprettholde identiske aktiviteter og rutiner hver dag for å oppnå maksimal konsekvens",
+      "Å definere mål, fordele ansvar, planlegge aktiviteter og etablere relasjoner for å skape klarhet og retning",
+      "En tilnærming der minimal planlegging gjennomføres ettersom prosjektets behov og retning kan løse seg organisk"
     ],
     "answerIndex": 2,
     "shortExplanation": "Struktur gir klarhet om mål, ansvar og aktiviteter.",
@@ -270,10 +270,10 @@
     "section": "Kap4.1",
     "question": "Hva er aktiv lytting?",
     "options": [
-      "Å lytte helt passivt uten å avbryte eller gi noe respons til den som snakker",
-      "Å vise at man følger med gjennom nikking, småord som 'ja' og å oppsummere det som blir sagt",
-      "Å formulere motargumenter mens den andre person fremdeles snakker",
-      "Å vente på din tur til å snakke mens du heller fokuserer på det du skal svare"
+      "En tilnærming hvor man venter passivt og fokuserer på å unngå avbrytelser eller kommentarer under tale",
+      "Å vise at man følger med gjennom verbale og nonverbale signaler som nikking, bekreftelser og oppsummering",
+      "Å utvikle og artikulere motstandspunkter eller kritiske perspektiver mens den andre person kommuniserer",
+      "Å forholde seg stille mens man mentalt forbereder sitt eget svar og perspektiv på temaet som diskuteres"
     ],
     "answerIndex": 1,
     "shortExplanation": "Aktiv lytting betyr å vise at man følger med og forstår.",
@@ -312,10 +312,10 @@
     "section": "Kap4.4",
     "question": "Hva betyr 'Jeg er OK - du er OK' i transaksjonanalyse?",
     "options": [
-      "En holdning som bare fungerer i formelle møter og ikke i hverdagssamtaler",
-      "At en person alltid er riktig og den andre alltid har urett",
-      "Å insistere på at all kommunikasjon er uten feil eller misforståelser",
-      "En sunn og balansert holdning der begge parter møtes med respekt og forståelse"
+      "En kommunikasjonsholdning som er mest effektiv i strukturerte og formelle organisatoriske kontekster og settinger",
+      "En posisjon hvor en part oppfattes som korrekt og dyktig mens den andre vurderes som mindre kompetent eller uriktig",
+      "En strategi for å sikre at alle kommunikasjonsprosesser er fri for malforståelser eller uenigheter gjennom kontroll",
+      "En sunn og balansert holdning der begge parter møtes med respekt, anerkjennelse og gjensidig forståelse"
     ],
     "answerIndex": 3,
     "shortExplanation": "'Jeg er OK - du er OK' er en sunn kommunikasjonsholdning.",
