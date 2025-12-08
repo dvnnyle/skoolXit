@@ -44,7 +44,7 @@
   {
     "id": 4,
     "section": "1.4",
-    "question": "Hva karakteriserer norming-fasen?",
+    "question": "Hva karakteriserer Norming-fasen?",
     "options": [
       "En fase der gruppen jobber effektivt og målrettet med minimalt behov for ny justering",
       "En fase der gruppen prøver å avklare sitt formål og blir kjent med hverandre",
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "section": "1.5",
-    "question": "Hva innebærer sosial loffing?",
+    "question": "Hva innebærer Sosial Loffing?",
     "options": [
       "Når gruppen som helhet presterer bedre enn summen av individuelle prestasjoner på grunn av forbedret koordinering og motivasjon",
       "En tendens til at medlemmer bidrar mindre til gruppens arbeid når de tror andre tar ansvar eller når deres individuelle innsats ikke blir lagt merke til",
@@ -389,7 +389,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Vi danner grupper for sosiale og praktiske behov.",
-    "explanation": "Mennesker danner grupper av både sosiale og praktiske grunner:<br><br>• Vi søker trygghet og tilhørighet<br>• Vi har behov for støtte og anerkjennelse<br>• Vi ønsker å nå mål som vi ikke kan oppnå alene<br>• Vi påvirkes av andre og påvirker dem<br><br>Gjennom gruppetilhørighet lærer vi hvem vi er, våre verdier og hvordan vi samhandler."
+    "explanation": "Mennesker danner grupper av både sosiale og praktiske grunner: Vi søker trygghet og tilhørighet, vi har behov for støtte og anerkjennelse, vi ønsker å nå mål som vi ikke kan oppnå alene, og vi påvirkes av andre og påvirker dem. Gjennom gruppetilhørighet lærer vi hvem vi er, våre verdier og hvordan vi samhandler."
   },
   {
     "id": 31,
