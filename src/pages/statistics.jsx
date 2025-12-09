@@ -17,22 +17,22 @@ function Statistics() {
     // Load statistics from localStorage - organized by modules
     const quizCategories = {
       module1: [
-        { id: 'module1a', name: 'Module 1A', total: 30 },
-        { id: 'module1b', name: 'Module 1B', total: 30 }
+        { id: 'module1a', name: 'Module 1A', total: 39 },
+        { id: 'module1b', name: 'Module 1B', total: 16 }
       ],
       module2: [
-        { id: 'module2a', name: 'Module 2A', total: 25 },
-        { id: 'module2b', name: 'Module 2B', total: 25 },
-        { id: 'module2c', name: 'Module 2C', total: 25 }
+        { id: 'module2a', name: 'Module 2A', total: 24 },
+        { id: 'module2b', name: 'Module 2B', total: 24 },
+        { id: 'module2c', name: 'Module 2C', total: 21 }
       ],
       module3: [
-        { id: 'module3a', name: 'Module 3A', total: 25 },
-        { id: 'module3b', name: 'Module 3B', total: 24 },
-        { id: 'module3c', name: 'Module 3C', total: 25 }
+        { id: 'module3a', name: 'Module 3A', total: 22 },
+        { id: 'module3b', name: 'Module 3B', total: 21 },
+        { id: 'module3c', name: 'Module 3C', total: 20 }
       ],
       module4: [
-        { id: 'module4a', name: 'Module 4A', total: 25 },
-        { id: 'module4b', name: 'Module 4B', total: 25 }
+        { id: 'module4a', name: 'Module 4A', total: 19 },
+        { id: 'module4b', name: 'Module 4B', total: 20 }
       ],
       module5: [
         { id: 'module5a', name: 'Module 5A', total: 25 },
