@@ -39,12 +39,10 @@ function Home() {
       const storedData = localStorage.getItem(`quiz_${module.id}`)
       if (storedData) {
         const parsed = JSON.parse(storedData)
-        if (parsed.attempts > 0) {
-          // Count total questions in module as completed
-          totalCompleted += module.total
-          // Count correct answers from lastScore
-          totalCorrect += parsed.lastScore || 0
-        }
+        // Use actual questionsAnswered instead of assuming entire module is completed
+        totalCompleted += parsed.questionsAnswered || 0
+        // Count correct answers from lastScore
+        totalCorrect += parsed.lastScore || 0
       }
     })
     

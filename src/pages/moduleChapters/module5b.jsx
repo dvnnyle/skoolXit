@@ -47,20 +47,23 @@ function Module5b() {
     } else {
       setAnsweredQuestions(answeredQuestions + 1)
       const finalScore = score + (currentQuestion.answerIndex === selectedAnswer ? 1 : 0)
+      const totalAnswered = answeredQuestions + 1
       
       // Save to localStorage
       const existingData = localStorage.getItem('quiz_module5b')
-      const previousData = existingData ? JSON.parse(existingData) : { bestScore: 0, attempts: 0, attemptHistory: [] }
+      const previousData = existingData ? JSON.parse(existingData) : { bestScore: 0, attempts: 0, attemptHistory: [], totalQuestionsAnswered: 0 }
       
-      const newAttempt = { score: finalScore, date: new Date().toISOString() }
+      const newAttempt = { score: finalScore, questionsAnswered: totalAnswered, date: new Date().toISOString() }
       const attemptHistory = [...(previousData.attemptHistory || []), newAttempt]
       
       localStorage.setItem('quiz_module5b', JSON.stringify({
         lastScore: finalScore,
-        completed: questionsData.length,
-        total: questionsData.length,
+        questionsAnswered: totalAnswered,
+        completed: totalAnswered,
+        total: questions.length,
         bestScore: Math.max(finalScore, previousData.bestScore || 0),
         attempts: attemptHistory.length,
+        totalQuestionsAnswered: (previousData.totalQuestionsAnswered || 0) + totalAnswered,
         lastAttempt: new Date().toISOString(),
         attemptHistory: attemptHistory
       }))

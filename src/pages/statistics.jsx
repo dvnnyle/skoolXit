@@ -54,6 +54,7 @@ function Statistics() {
       let attempts = 0
       let bestScore = 0
       let lastScore = 0
+      let questionsAnswered = 0
       let attemptHistory = []
       let bestAccuracy = 0
       let accuracy = 0
@@ -63,6 +64,7 @@ function Statistics() {
         attempts = parsed.attempts || 0
         bestScore = parsed.bestScore || 0
         lastScore = parsed.lastScore || 0
+        questionsAnswered = parsed.questionsAnswered || 0
         attemptHistory = parsed.attemptHistory || []
         bestAccuracy = parsed.bestAccuracy || 0
         accuracy = parsed.accuracy || 0
@@ -78,6 +80,7 @@ function Statistics() {
         attempts,
         bestScore,
         lastScore,
+        questionsAnswered,
         attemptHistory,
         bestAccuracy,
         accuracy
@@ -85,7 +88,7 @@ function Statistics() {
     })
 
     const totalQuestions = chapters.reduce((sum, ch) => sum + ch.total, 0)
-    const completedQuestions = chapterProgress.reduce((sum, ch) => sum + (ch.attempts > 0 ? ch.total : 0), 0)
+    const completedQuestions = chapterProgress.reduce((sum, ch) => sum + ch.questionsAnswered, 0)
     const correctAnswers = chapterProgress.reduce((sum, ch) => sum + ch.lastScore, 0)
 
     setStats({
