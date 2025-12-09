@@ -219,6 +219,28 @@ function Statistics() {
                 <span className="milestone-text">{Math.min(Math.max(0, stats.completedQuestions - 850), 150)}/150</span>
               </div>
             </div>
+            
+            <div className="medal-milestone">
+              <img src="/icons/emerald.svg" alt="Emerald" className={`medal-icon-stats ${stats.completedQuestions >= 1000 ? 'unlocked' : ''}`} />
+              <div className="medal-milestone-info">
+                <p>Emerald: 150 questions</p>
+                <div className="milestone-bar">
+                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions - 1000) / 150) * 100, 100)}%` }}></div>
+                </div>
+                <span className="milestone-text">{Math.min(Math.max(0, stats.completedQuestions - 1000), 150)}/150</span>
+              </div>
+            </div>
+            
+            <div className="medal-milestone">
+              <img src="/icons/platinum.svg" alt="Platinum" className={`medal-icon-stats ${stats.completedQuestions >= 1150 ? 'unlocked' : ''}`} />
+              <div className="medal-milestone-info">
+                <p>Platinum: 100 questions</p>
+                <div className="milestone-bar">
+                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions - 1150) / 100) * 100, 100)}%` }}></div>
+                </div>
+                <span className="milestone-text">{Math.min(Math.max(0, stats.completedQuestions - 1150), 100)}/100</span>
+              </div>
+            </div>
           </div>
         </div>
 

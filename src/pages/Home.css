@@ -737,6 +737,30 @@
   box-shadow: 0 0 8px rgba(30, 144, 255, 0.15);
 }
 
+.achievement-medal-item.emerald {
+  border-color: rgba(80, 200, 120, 0.3);
+  color: #50c878;
+}
+
+.achievement-medal-item.emerald[data-unlocked="true"] {
+  border-color: #2ecc71;
+  color: #27ae60;
+  background: rgba(46, 204, 113, 0.08);
+  box-shadow: 0 0 8px rgba(46, 204, 113, 0.15);
+}
+
+.achievement-medal-item.platinum {
+  border-color: rgba(230, 230, 250, 0.3);
+  color: #e6e6fa;
+}
+
+.achievement-medal-item.platinum[data-unlocked="true"] {
+  border-color: #f0f0ff;
+  color: #d8d8f0;
+  background: rgba(230, 230, 250, 0.08);
+  box-shadow: 0 0 8px rgba(230, 230, 250, 0.15);
+}
+
 .medal-icon {
   width: 2.5rem;
   height: 2.5rem;
@@ -760,6 +784,14 @@
   filter: opacity(0.6);
 }
 
+.medal-icon.emerald-icon {
+  filter: opacity(0.6);
+}
+
+.medal-icon.platinum-icon {
+  filter: opacity(0.6);
+}
+
 .achievement-medal-item.bronze[data-unlocked="true"] .medal-icon.bronze-icon {
   filter: opacity(1) drop-shadow(0 0 6px rgba(217, 153, 102, 0.3));
   transform: scale(1.05);
@@ -777,6 +809,16 @@
 
 .achievement-medal-item.diamond[data-unlocked="true"] .medal-icon.diamond-icon {
   filter: opacity(1) drop-shadow(0 0 8px rgba(30, 144, 255, 0.4));
+  transform: scale(1.05);
+}
+
+.achievement-medal-item.emerald[data-unlocked="true"] .medal-icon.emerald-icon {
+  filter: opacity(1) drop-shadow(0 0 8px rgba(46, 204, 113, 0.4));
+  transform: scale(1.05);
+}
+
+.achievement-medal-item.platinum[data-unlocked="true"] .medal-icon.platinum-icon {
+  filter: opacity(1) drop-shadow(0 0 8px rgba(230, 230, 250, 0.4));
   transform: scale(1.05);
 }
 

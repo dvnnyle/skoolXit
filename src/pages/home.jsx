@@ -180,6 +180,28 @@ function Home() {
                 <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions - 850), 150)}/150</span>
               </div>
             </div>
+            
+            <div className="achievement-medal-item emerald" data-unlocked={stats.completedQuestions >= 1000}>
+              <img src="/icons/emerald.svg" alt="Emerald" className="medal-icon emerald-icon" />
+              <div className="medal-details">
+                <h4>Emerald</h4>
+                <div className="medal-progress-bar">
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions - 1000) / 150) * 100, 100)}%` }}></div>
+                </div>
+                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions - 1000), 150)}/150</span>
+              </div>
+            </div>
+            
+            <div className="achievement-medal-item platinum" data-unlocked={stats.completedQuestions >= 1150}>
+              <img src="/icons/platinum.svg" alt="Platinum" className="medal-icon platinum-icon" />
+              <div className="medal-details">
+                <h4>Platinum</h4>
+                <div className="medal-progress-bar">
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions - 1150) / 100) * 100, 100)}%` }}></div>
+                </div>
+                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions - 1150), 100)}/100</span>
+              </div>
+            </div>
           </div>
         </div>
 

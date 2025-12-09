@@ -391,6 +391,31 @@
   filter: drop-shadow(0 0 6px rgba(212, 166, 0, 0.3));
 }
 
+/* Additional medal type filters */
+.medal-milestone:has(img[alt="Bronze Medal"]) .medal-icon-stats.unlocked {
+  filter: drop-shadow(0 0 6px rgba(217, 153, 102, 0.3));
+}
+
+.medal-milestone:has(img[alt="Silver Medal"]) .medal-icon-stats.unlocked {
+  filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.4));
+}
+
+.medal-milestone:has(img[alt="Gold Medal"]) .medal-icon-stats.unlocked {
+  filter: drop-shadow(0 0 6px rgba(212, 166, 0, 0.3));
+}
+
+.medal-milestone:has(img[alt="Diamond"]) .medal-icon-stats.unlocked {
+  filter: drop-shadow(0 0 8px rgba(30, 144, 255, 0.4));
+}
+
+.medal-milestone:has(img[alt="Emerald"]) .medal-icon-stats.unlocked {
+  filter: drop-shadow(0 0 8px rgba(46, 204, 113, 0.4));
+}
+
+.medal-milestone:has(img[alt="Platinum"]) .medal-icon-stats.unlocked {
+  filter: drop-shadow(0 0 8px rgba(230, 230, 250, 0.4));
+}
+
 .medal-milestone-info {
   flex: 1;
 }
