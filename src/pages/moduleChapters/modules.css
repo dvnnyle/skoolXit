@@ -249,10 +249,14 @@
 .next-button {
   flex: 7;
   background: #646cff;
+  pointer-events: auto !important;
+  cursor: pointer !important;
 }
 
 .previous-button {
   flex: 3;
+  pointer-events: auto !important;
+  cursor: pointer !important;
 }
 
 .next-button:hover {
@@ -270,7 +274,8 @@
 
 .next-button:disabled {
   opacity: 0.5;
-  cursor: not-allowed;
+  cursor: pointer;
+  pointer-events: auto !important;
 }
 
 .result-card {
