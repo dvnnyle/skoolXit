@@ -299,6 +299,7 @@ Læring og kunnskapdeling krever tillit, men prosjekter inneholder også ulike f
 - Sykdom
 
 **Relasjonell risko** - usikkerthet knyttet til forhold utenfor prosjektet
+Relasjonell risiko handler om usikkerhet knyttet til samarbeid og tillit mellom mennesker som er involvert i prosjektet. Risikoen oppstår når relasjoner, kommunikasjon eller forventninger mellom aktører kan skape misforståelser, konflikter eller manglende samarbeid.
 
 - Politsike enderinger
 - Øknomiske svingninger

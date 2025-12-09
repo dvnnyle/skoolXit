@@ -2,6 +2,7 @@ import './App.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Home from './pages/home'
 import Statistics from './pages/statistics'
+import ReadModul1 from './pages/litterature/readModul1'
 import Module1a from './pages/moduleChapters/module1a'
 import Module1b from './pages/moduleChapters/module1b'
 import Module2a from './pages/moduleChapters/module2a'
@@ -21,7 +22,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/statistics" element={<Statistics />} />
-        <Route path="/module1a" element={<Module1a />} />
+        <Route path="/module1a" element={<ReadModul1 />} />
         <Route path="/module1b" element={<Module1b />} />
         <Route path="/module2a" element={<Module2a />} />
         <Route path="/module2b" element={<Module2b />} />

@@ -241,7 +241,7 @@ For å styrke arbeidet brukes ofte **"SMART"** mål:
 
 Disse gir retning og motivasjon, samtidig som de skaper felles forståelse for hva prosjektet skal oppnå.
 
-I moderne prosjektledelse brukes ofte **LEAN-metodikken**, som fokuserer på å visualisere hele prosjektperioden og planlegge bakover fra ønsket sluttresultat. Dette gir oversikt, felles eierskap og reduserer bortkastet arbeid.
+I moderne prosjektledelse brukes **LEAN-metodikken** for å visualisere arbeid, skape flyt og redusere sløsing. Ved å synliggjøre hele prosessen får teamet bedre oversikt, felles eierskap og forståelse for hvordan deres arbeid bidrar til sluttmålet. LEAN hjelper prosjektet å jobbe mer effektivt og levere høyere verdi med mindre bortkastet tid og ressurser.
 
 ### Tidspress, usikkerhet og planleggingsfeller
 

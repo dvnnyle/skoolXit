@@ -14,7 +14,9 @@ function Home() {
       correctAnswers: 0,
       totalCorrectFromAllAttempts: 0,
       totalQuestions: 272
-    })  const loadStats = () => {
+    })
+
+  const loadStats = () => {
     // Load stats from localStorage
     const modules = [
       { id: 'module1a', total: 37 },
