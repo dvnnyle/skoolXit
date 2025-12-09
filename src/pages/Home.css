@@ -545,3 +545,99 @@
     bottom: 1rem;
   }
 }
+
+/* Gamification Section */
+.gamification-section {
+  margin: 2rem 0 3rem 0;
+  padding: 2rem;
+  background: linear-gradient(135deg, rgba(100, 108, 255, 0.1) 0%, rgba(100, 108, 255, 0.05) 100%);
+  border: 1px solid rgba(100, 108, 255, 0.3);
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+}
+
+.gamification-section h2 {
+  text-align: center;
+  color: #646cff;
+  font-size: 1.8rem;
+  margin: 0 0 2rem 0;
+  text-shadow: 0 0 20px rgba(100, 108, 255, 0.5);
+}
+
+.medals-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  justify-items: center;
+}
+
+.medal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 2px solid;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+  min-width: 180px;
+}
+
+.medal:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.medal.bronze {
+  border-color: #cd7f32;
+  color: #cd7f32;
+  background: linear-gradient(135deg, rgba(205, 127, 50, 0.1) 0%, rgba(205, 127, 50, 0.05) 100%);
+}
+
+.medal.bronze:hover {
+  box-shadow: 0 10px 30px rgba(205, 127, 50, 0.3);
+}
+
+.medal.silver {
+  border-color: #c0c0c0;
+  color: #e8e8e8;
+  background: linear-gradient(135deg, rgba(192, 192, 192, 0.1) 0%, rgba(192, 192, 192, 0.05) 100%);
+}
+
+.medal.silver:hover {
+  box-shadow: 0 10px 30px rgba(192, 192, 192, 0.3);
+}
+
+.medal.gold {
+  border-color: #ffd700;
+  color: #ffd700;
+  background: linear-gradient(135deg, rgba(255, 215, 0, 0.1) 0%, rgba(255, 215, 0, 0.05) 100%);
+}
+
+.medal.gold:hover {
+  box-shadow: 0 10px 30px rgba(255, 215, 0, 0.3);
+}
+
+.medal-icon {
+  font-size: 3.5rem;
+  line-height: 1;
+}
+
+.medal-info {
+  text-align: center;
+}
+
+.medal-info h3 {
+  margin: 0.5rem 0 0.25rem 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.medal-info p {
+  margin: 0;
+  font-size: 0.9rem;
+  opacity: 0.8;
+}

@@ -89,6 +89,34 @@ function Home() {
       <div className="home-content">
         <h1 className="home-title">Teamwork & Group Dynamics</h1>
         <p>Master the fundamentals of effective teamwork</p>
+        
+        <div className="gamification-section">
+          <h2>🏆 Achievement Medals</h2>
+          <div className="medals-container">
+            <div className="medal bronze">
+              <div className="medal-icon">🥉</div>
+              <div className="medal-info">
+                <h3>Bronze Medal</h3>
+                <p>Complete 100 questions</p>
+              </div>
+            </div>
+            <div className="medal silver">
+              <div className="medal-icon">🥈</div>
+              <div className="medal-info">
+                <h3>Silver Medal</h3>
+                <p>Complete 500 questions</p>
+              </div>
+            </div>
+            <div className="medal gold">
+              <div className="medal-icon">🥇</div>
+              <div className="medal-info">
+                <h3>Gold Medal</h3>
+                <p>Complete 1000 questions</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div className="chapter-list">
           <div className="chapter-divider">
             <span>Module 1: Group Psychology</span>
