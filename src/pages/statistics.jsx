@@ -102,12 +102,17 @@ function Statistics() {
     const totalCorrectFromAllAttempts = chapterProgress.reduce((sum, ch) => {
       return sum + (ch.attemptHistory?.reduce((attSum, att) => attSum + (att.score || 0), 0) || 0)
     }, 0)
+    // Calculate total questions attempted (sum of all questions in all attempts)
+    const totalQuestionsAttempted = chapterProgress.reduce((sum, ch) => {
+      return sum + (ch.attemptHistory?.length > 0 ? ch.attemptHistory.length * ch.total : 0)
+    }, 0)
 
     setStats({
       totalQuestions,
       completedQuestions,
       correctAnswers,
       totalCorrectFromAllAttempts,
+      totalQuestionsAttempted,
       chapterProgress
     })
   }
@@ -140,8 +145,8 @@ function Statistics() {
     ? ((stats.completedQuestions / stats.totalQuestions) * 100).toFixed(1)
     : 0
 
-  const accuracyPercentage = stats.completedQuestions > 0
-    ? ((stats.correctAnswers / stats.completedQuestions) * 100).toFixed(1)
+  const accuracyPercentage = stats.totalQuestionsAttempted > 0
+    ? ((stats.totalCorrectFromAllAttempts / stats.totalQuestionsAttempted) * 100).toFixed(1)
     : 0
 
   // Helper function to get gradient color based on percentage (red -> yellow -> green)
@@ -184,7 +189,7 @@ function Statistics() {
             <div className="stat-content">
               <div className="stat-value">{accuracyPercentage}%</div>
               <div className="stat-label">Accuracy</div>
-              <div className="stat-sublabel">{stats.correctAnswers} out of {stats.completedQuestions}</div>
+              <div className="stat-sublabel">{stats.totalCorrectFromAllAttempts} out of {stats.totalQuestionsAttempted}</div>
             </div>
           </div>
 
