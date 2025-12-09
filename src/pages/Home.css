@@ -649,7 +649,7 @@
 /* Gamification Wrapper - Home Page */
 .gamification-wrapper {
   display: flex;
-  gap: 1.5rem;
+  gap: 1.2rem;
   justify-content: center;
   align-items: flex-start;
   margin: 1rem 0 0rem 0;
@@ -670,9 +670,9 @@
 /* Medal Milestones Inline */
 .medal-milestones-inline {
   display: flex;
-  gap: 0.4rem;
+  gap: 0.25rem;
   justify-content: center;
-  margin: 1.5rem 0 0.5rem 0;
+  margin: 1rem 0 0.5rem 0;
   flex-wrap: nowrap;
   padding: 0.5rem 0;
 }
@@ -681,12 +681,12 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 0.35rem;
-  padding: 0.7rem 0.75rem;
+  gap: 0.25rem;
+  padding: 0.5rem 0.6rem;
   background: rgba(255, 255, 255, 0.03);
   border: 1.5px solid;
   border-radius: 8px;
-  min-width: 105px;
+  min-width: 90px;
   flex-shrink: 0;
   transition: all 0.3s ease;
 }
