@@ -61,6 +61,7 @@ function Statistics() {
 
       if (storedData) {
         const parsed = JSON.parse(storedData)
+        attempts = parsed.attempts || 0
         bestScore = parsed.bestScore || 0
         lastScore = parsed.lastScore || 0
         questionsAnswered = parsed.questionsAnswered || 0
@@ -68,10 +69,10 @@ function Statistics() {
         bestAccuracy = parsed.bestAccuracy || 0
         accuracy = parsed.accuracy || 0
         
-        // Only count attempts if questionsAnswered exists (new data format)
-        // This prevents showing old data that wasn't properly migrated
-        if (questionsAnswered > 0) {
-          attempts = parsed.attempts || 0
+        // If questionsAnswered is 0 but we have attempts, calculate from total
+        // This handles old data that doesn't have questionsAnswered
+        if (questionsAnswered === 0 && attempts > 0) {
+          questionsAnswered = chapter.total
         }
         
         // If lastScore is still 0 but we have attempt history, use the last attempt's score
