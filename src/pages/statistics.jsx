@@ -95,7 +95,7 @@ function Statistics() {
     })
 
     const totalQuestions = chapters.reduce((sum, ch) => sum + ch.total, 0)
-    const completedQuestions = chapterProgress.reduce((sum, ch) => sum + ch.questionsAnswered, 0)
+    const completedQuestions = chapterProgress.reduce((sum, ch) => sum + ch.attempts, 0)
     const correctAnswers = chapterProgress.reduce((sum, ch) => sum + ch.lastScore, 0)
     // Calculate total correct answers from ALL attempts across all quizzes
     const totalCorrectFromAllAttempts = chapterProgress.reduce((sum, ch) => {
