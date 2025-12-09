@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 1,
     "section": "2.1",
@@ -11,7 +11,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Performing-fasen oppstår når prosjektgruppen jobber effektivt mot målet.",
-    "explanation": "<strong>Performing-fasen (arbeidsfasen)</strong> der prosjektgruppen har etablert rutiner og samarbeider effektivt for å nå målet. Medlemmene stoler på hverandre. <strong>Utviklingsfaser:</strong> • <strong>Forming (orienteringsfasen):</strong> Medlemmer blir kjent, orienterer seg. • <strong>Storming (konfliktfasen):</strong> Konflikter og rolleavklaringer. • <strong>Norming (stabiliseringsfasen):</strong> Felles normer og arbeidsrutiner etableres. • <strong>Performing (arbeidsfasen):</strong> Effektivt arbeid med klare roller. • <strong>Adjourning (oppløsningsfasen):</strong> Prosjektet avsluttes og gruppen oppløses.",
+    "explanation": "Explanation:\n- **Performing-fasen (arbeidsfasen)** der prosjektgruppen har etablert rutiner og samarbeider effektivt for å nå målet. Medlemmene stoler på hverandre. **Utviklingsfaser:** • **Forming (orienteringsfasen):** Medlemmer blir kjent, orienterer seg. • **Storming (konfliktfasen):** Konflikter og rolleavklaringer. • **Norming (stabiliseringsfasen):** Felles normer og arbeidsrutiner etableres. • **Performing (arbeidsfasen):** Effektivt arbeid med klare roller. • **Adjourning (oppløsningsfasen):** Prosjektet avsluttes og gruppen oppløses.",
     "example": "Et IT-prosjektteam har jobbet sammen i 3 måneder. De kjenner hverandres styrker, har etablert daglige møter og kodestandarder. Nå leverer de features raskt og håndterer problemer effektivt sammen."
   },
   {
@@ -26,7 +26,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Unike leveranser betyr at prosjektet skaper noe nytt.",
-    "explanation": "Prosjekter kjennetegnes ved at de skal føre til et unikt resultat, som et nytt produkt, tjeneste eller løsning. Dette skiller prosjekter fra rutinearbeid.",
+    "explanation": "Explanation:\n- Prosjekter kjennetegnes ved at de skal føre til et unikt resultat, som et nytt produkt, tjeneste eller løsning. Dette skiller prosjekter fra rutinearbeid.",
     "example": "Et byggefirma tar på seg jobben med å bygge en helt ny skole. Dette er unikt fordi hver bygning er spesiell - annet enn rutinevedlikehold av eksisterende bygninger."
   },
   {
@@ -41,7 +41,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Norming-fasen handler om å finne felles arbeidsmåter og normer.",
-    "explanation": "<strong>Norming-fasen (stabiliseringsfasen)</strong> finner gruppen felles normer, regler og arbeidsmåter. Samholdet øker. <strong>Utviklingsfaser:</strong> • <strong>Forming (orienteringsfasen):</strong> Medlemmer blir kjent, orienterer seg. • <strong>Storming (konfliktfasen):</strong> Konflikter og rolleavklaringer. • <strong>Norming (stabiliseringsfasen):</strong> Felles normer og arbeidsrutiner etableres. • <strong>Performing (arbeidsfasen):</strong> Effektivt arbeid med klare roller. • <strong>Adjourning (oppløsningsfasen):</strong> Prosjektet avsluttes og gruppen oppløses.",
+    "explanation": "Explanation:\n- **Norming-fasen (stabiliseringsfasen)** finner gruppen felles normer, regler og arbeidsmåter. Samholdet øker. **Utviklingsfaser:** • **Forming (orienteringsfasen):** Medlemmer blir kjent, orienterer seg. • **Storming (konfliktfasen):** Konflikter og rolleavklaringer. • **Norming (stabiliseringsfasen):** Felles normer og arbeidsrutiner etableres. • **Performing (arbeidsfasen):** Effektivt arbeid med klare roller. • **Adjourning (oppløsningsfasen):** Prosjektet avsluttes og gruppen oppløses.",
     "example": "Etter diskusjoner om arbeidsstil bestemmer prosjektgruppen at alle skal gjøre daglige standups klokka 9, bruke samme dokumentmaler, og at beslutninger tas ved konsensus."
   },
   {
@@ -56,7 +56,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Storming-fasen oppstår når uenigheter og rolleavklaringer skjer.",
-    "explanation": "<strong>Storming-fasen (konfliktfasen)</strong> der uenigheter og rolleavklaringer oppstår. En naturlig fase som må håndteres. <strong>Utviklingsfaser:</strong> • <strong>Forming (orienteringsfasen):</strong> Medlemmer blir kjent, orienterer seg. • <strong>Storming (konfliktfasen):</strong> Konflikter og rolleavklaringer. • <strong>Norming (stabiliseringsfasen):</strong> Felles normer og arbeidsrutiner etableres. • <strong>Performing (arbeidsfasen):</strong> Effektivt arbeid med klare roller. • <strong>Adjourning (oppløsningsfasen):</strong> Prosjektet avsluttes og gruppen oppløses.",
+    "explanation": "Explanation:\n- **Storming-fasen (konfliktfasen)** der uenigheter og rolleavklaringer oppstår. En naturlig fase som må håndteres. **Utviklingsfaser:** • **Forming (orienteringsfasen):** Medlemmer blir kjent, orienterer seg. • **Storming (konfliktfasen):** Konflikter og rolleavklaringer. • **Norming (stabiliseringsfasen):** Felles normer og arbeidsrutiner etableres. • **Performing (arbeidsfasen):** Effektivt arbeid med klare roller. • **Adjourning (oppløsningsfasen):** Prosjektet avsluttes og gruppen oppløses.",
     "example": "To medlemmer uenige om teknologivalg: 'Vi burde bruke Python!' vs 'Java er bedre!'. Prosjektleder må mediere og avklare hvem som bestemmer og på hvilket grunnlag."
   },
   {
@@ -71,7 +71,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Tverrfaglighet betyr at flere fagdisipliner samarbeider i prosjektet.",
-    "explanation": "Prosjekter kjennetegnes ofte av tverrfaglig samarbeid, der personer fra ulike fagområder jobber sammen for å nå målet.",
+    "explanation": "Explanation:\n- Prosjekter kjennetegnes ofte av tverrfaglig samarbeid, der personer fra ulike fagområder jobber sammen for å nå målet.",
     "example": "Et sykehusprosjekt består av leger, sykepleiere, arkitekter, IT-spesialister og administratorer som jobber sammen for å bygge en ny avdeling."
   },
   {
@@ -86,7 +86,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Tidsavgrensning betyr at prosjektet har en klar start og slutt.",
-    "explanation": "Et prosjekt har en avgrenset tid, med en start- og sluttdato. Prosjektet eksisterer bare så lenge oppgaven pågår.",
+    "explanation": "Explanation:\n- Et prosjekt har en avgrenset tid, med en start- og sluttdato. Prosjektet eksisterer bare så lenge oppgaven pågår.",
     "example": "Et markedsføringskampanjekampanje startet 1. januar og skal avsluttes 31. mars. Etter 31. mars oppløses prosjektteamet og kampanjen blir ordinær drift."
   },
   {
@@ -101,7 +101,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "Interessenter er de som påvirker eller påvirkes av prosjektet.",
-    "explanation": "Interessenter er personer eller grupper som har interesse av prosjektet, og som enten påvirker eller blir påvirket av det. Dette kan være prosjektmedlemmer, ledelse, brukere eller eksterne parter.",
+    "explanation": "Explanation:\n- Interessenter er personer eller grupper som har interesse av prosjektet, og som enten påvirker eller blir påvirket av det. Dette kan være prosjektmedlemmer, ledelse, brukere eller eksterne parter.",
     "example": "I et webprosjekt er interessenter: utviklere, produktsjef, kunder, konkurrenter, supportteam og fremtidige brukere."
   },
   {
@@ -116,7 +116,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Forming-fasen oppstår når teamet blir kjent og orienterer seg.",
-    "explanation": "<strong>Forming-fasen (orienteringsfasen)</strong> der gruppen dannes og medlemmene blir kjent med oppgaven og roller. <strong>Utviklingsfaser:</strong> • <strong>Forming (orienteringsfasen):</strong> Medlemmer blir kjent, orienterer seg. • <strong>Storming (konfliktfasen):</strong> Konflikter og rolleavklaringer. • <strong>Norming (stabiliseringsfasen):</strong> Felles normer og arbeidsrutiner etableres. • <strong>Performing (arbeidsfasen):</strong> Effektivt arbeid med klare roller. • <strong>Adjourning (oppløsningsfasen):</strong> Prosjektet avsluttes og gruppen oppløses.",
+    "explanation": "Explanation:\n- **Forming-fasen (orienteringsfasen)** der gruppen dannes og medlemmene blir kjent med oppgaven og roller. **Utviklingsfaser:** • **Forming (orienteringsfasen):** Medlemmer blir kjent, orienterer seg. • **Storming (konfliktfasen):** Konflikter og rolleavklaringer. • **Norming (stabiliseringsfasen):** Felles normer og arbeidsrutiner etableres. • **Performing (arbeidsfasen):** Effektivt arbeid med klare roller. • **Adjourning (oppløsningsfasen):** Prosjektet avsluttes og gruppen oppløses.",
     "example": "Første møte for et nytt prosjektteam: medlemmer presenterer seg, prosjektleder presenterer målene, og alle er høflige og optimistiske men usikre på sin rolle."
   },
   {
@@ -131,7 +131,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Ressursrammer betyr at tid, budsjett og personell er fastsatt.",
-    "explanation": "Ressursrammer påvirker et prosjekt ved å bestemme hvor mye arbeid som kan gjøres, hvor raskt det kan gjennomføres og hvilken kvalitet som kan oppnås. Begrensninger i tid, penger eller bemanning gjør at prosjektet må prioritere og eventuelt redusere omfanget. Lav ressurstilgang øker risiko for forsinkelser, lavere kvalitet og mer press på prosjektgruppen. Gode ressursrammer gir bedre kvalitet, mer fleksibilitet og færre risikoer.",
+    "explanation": "Explanation:\n- Ressursrammer påvirker et prosjekt ved å bestemme hvor mye arbeid som kan gjøres, hvor raskt det kan gjennomføres og hvilken kvalitet som kan oppnås. Begrensninger i tid, penger eller bemanning gjør at prosjektet må prioritere og eventuelt redusere omfanget. Lav ressurstilgang øker risiko for forsinkelser, lavere kvalitet og mer press på prosjektgruppen. Gode ressursrammer gir bedre kvalitet, mer fleksibilitet og færre risikoer.",
     "example": "Et prosjekt har 6 måneder, 1 million kroner og 5 personer. Disse rammene bestemmer om vi kan lage en kompleks løsning (trolig nei) eller en enkel versjon (trolig ja)."
   },
   {
@@ -146,7 +146,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "Adjourning-fasen oppstår når prosjektet avsluttes og gruppen oppløses.",
-    "explanation": "<strong>Adjourning-fasen er oppløsningsfasen</strong> der prosjektet avsluttes og gruppen oppløses etter at målet er nådd. Det preges av stolthet, lettelse og vemod. <strong>Utviklingsfaser:</strong> • <strong>Forming:</strong> Medlemmer blir kjent, orienterer seg. • <strong>Storming:</strong> Konflikter og rolleavklaringer. • <strong>Norming:</strong> Felles normer og arbeidsrutiner etableres. • <strong>Performing:</strong> Effektivt arbeid med klare roller. • <strong>Adjourning:</strong> Prosjektet avsluttes og gruppen oppløses.",
+    "explanation": "Explanation:\n- **Adjourning-fasen er oppløsningsfasen** der prosjektet avsluttes og gruppen oppløses etter at målet er nådd. Det preges av stolthet, lettelse og vemod. **Utviklingsfaser:** • **Forming:** Medlemmer blir kjent, orienterer seg. • **Storming:** Konflikter og rolleavklaringer. • **Norming:** Felles normer og arbeidsrutiner etableres. • **Performing:** Effektivt arbeid med klare roller. • **Adjourning:** Prosjektet avsluttes og gruppen oppløses.",
     "example": "Prosjektet er ferdig. Teamet avholder avslutningsfeiring, dokumenterer erfaringer, og medlemmene returnerer til sine ordinære stillinger eller nye prosjekter."
   },
   {
@@ -161,7 +161,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Adjourning-fasen oppstår når prosjektet avsluttes og gruppen oppløses.",
-    "explanation": "<strong>Adjourning-fasen (oppløsningsfasen)</strong> der prosjektet avsluttes og gruppen oppløses etter at målet er nådd. Det preges av stolthet, lettelse og vemod. <strong>Utviklingsfaser:</strong> • <strong>Forming (orienteringsfasen):</strong> Medlemmer blir kjent, orienterer seg. • <strong>Storming (konfliktfasen):</strong> Konflikter og rolleavklaringer. • <strong>Norming (stabiliseringsfasen):</strong> Felles normer og arbeidsrutiner etableres. • <strong>Performing (arbeidsfasen):</strong> Effektivt arbeid med klare roller. • <strong>Adjourning (oppløsningsfasen):</strong> Prosjektet avsluttes og gruppen oppløses.",
+    "explanation": "Explanation:\n- **Adjourning-fasen (oppløsningsfasen)** der prosjektet avsluttes og gruppen oppløses etter at målet er nådd. Det preges av stolthet, lettelse og vemod. **Utviklingsfaser:** • **Forming (orienteringsfasen):** Medlemmer blir kjent, orienterer seg. • **Storming (konfliktfasen):** Konflikter og rolleavklaringer. • **Norming (stabiliseringsfasen):** Felles normer og arbeidsrutiner etableres. • **Performing (arbeidsfasen):** Effektivt arbeid med klare roller. • **Adjourning (oppløsningsfasen):** Prosjektet avsluttes og gruppen oppløses.",
     "example": "Etter 12 måneder er byggingen av det nye kontorbygget ferdig. Sluttmøte avholdes, godkjenning gis, og prosjektteamet oppløses. Bygget nå drifts av et fast team."
   },
   {
@@ -176,7 +176,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Den menneskelige faktoren handler om at mennesker er den viktigste ressursen i prosjekter.",
-    "explanation": "Den menneskelige faktoren handler om at mennesker er den viktigste ressursen i prosjektarbeid. Selv med gode planer, systemer og teknologi er det menneskene som avgjør om arbeidet lykkes. Dette inkluderer: motivasjon og engasjement, samarbeid og kommunikasjon, kompetanse og erfaring, trivsel og arbeidsmiljø, samt ledelse og tillit. Resultatet avhenger ikke bare av struktur og teknologi, men også av hvordan prosjektmedlemmene samarbeider, tar ansvar og bruker sin kompetanse.",
+    "explanation": "Explanation:\n- Den menneskelige faktoren handler om at mennesker er den viktigste ressursen i prosjektarbeid. Selv med gode planer, systemer og teknologi er det menneskene som avgjør om arbeidet lykkes. Dette inkluderer: motivasjon og engasjement, samarbeid og kommunikasjon, kompetanse og erfaring, trivsel og arbeidsmiljø, samt ledelse og tillit. Resultatet avhenger ikke bare av struktur og teknologi, men også av hvordan prosjektmedlemmene samarbeider, tar ansvar og bruker sin kompetanse.",
     "example": "Et prosjekt kan ha perfekt plan og moderne teknologi, men hvis teamet mangler motivasjon, liten tillit til lederen, eller dårlig kommunikasjon, vil prosjektet trolig mislykkes. Omvendt: et dedikert team med god kommunikasjon kan løse selv vanskelige utfordringer."
   },
   {
@@ -191,7 +191,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Prosjekter oppstår som midlertidige organisasjoner med klare mål.",
-    "explanation": "Prosjekter er midlertidige organisasjoner som opprettes for å løse en oppgave eller nå et konkret mål innenfor en tidsramme.",
+    "explanation": "Explanation:\n- Prosjekter er midlertidige organisasjoner som opprettes for å løse en oppgave eller nå et konkret mål innenfor en tidsramme.",
     "example": "Et prosjekt er oppgaven med å implementere et nytt kunderegister (midlertidig), ikke det daglige arbeidet med å vedlikeholde registeret (permanent)."
   },
   {
@@ -206,7 +206,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "Prosjektlederrollen handler om å koordinere, lede og følge opp prosjektet.",
-    "explanation": "Prosjektlederrollen innebærer å koordinere, lede og følge opp prosjektet, og sikre at målene nås innenfor ressursrammene.",
+    "explanation": "Explanation:\n- Prosjektlederrollen innebærer å koordinere, lede og følge opp prosjektet, og sikre at målene nås innenfor ressursrammene.",
     "example": "Prosjektledere planlegger milepæler, avholder statusmøter, koordinerer aktiviteter, løser problemer underveis, og sikrer at prosjektet avsluttes til rett tid og budsjett."
   },
   {
@@ -221,7 +221,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Oppgave-orientert arbeid handler om å løse oppgaver og nå mål.",
-    "explanation": "Oppgave-orientert arbeid fokuserer på gjennomføringen av prosjektet: å løse oppgaver, følge planer, nå mål og levere resultater til rett tid og innenfor ressursrammene. Det krever struktur, planlegging og tydelig ledelse.",
+    "explanation": "Explanation:\n- Oppgave-orientert arbeid fokuserer på gjennomføringen av prosjektet: å løse oppgaver, følge planer, nå mål og levere resultater til rett tid og innenfor ressursrammene. Det krever struktur, planlegging og tydelig ledelse.",
     "example": "Et prosjektteam fokuserer på å ferdigstille moduler på tid, følge budsjett, dokumentere kode og møte de tekniske kravene som ble avtalt ved prosjektstart."
   },
   {
@@ -236,7 +236,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Team-orientert arbeid handler om samspilling og samarbeid mellom medlemmer.",
-    "explanation": "Team-orientert arbeid handler om samspillingen mellom menneskene i prosjektet: kommunikasjon, tillit, samarbeid og engagement. Det fokuserer på å skape et godt arbeidsmiljø og fellesskap som igjen øker kvaliteten på arbeidet og medlemmenes motivasjon.",
+    "explanation": "Explanation:\n- Team-orientert arbeid handler om samspillingen mellom menneskene i prosjektet: kommunikasjon, tillit, samarbeid og engagement. Det fokuserer på å skape et godt arbeidsmiljø og fellesskap som igjen øker kvaliteten på arbeidet og medlemmenes motivasjon.",
     "example": "Teamet avholder retrospektiver for å reflektere sammen, støtter hverandre når noen sliter, deler kunnskap gjennom pair programming, og bygger tillitsfull kommunikasjon."
   }
 ]

@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 3,
     "section": "Kap5.3",
@@ -11,7 +11,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Styring handler om å oppdage avvik og justere for å sikre levering.",
-    "explanation": "Styring betyr å oppdage avvik fra fremdriftsplanen og iverksette tiltak for å sikre at prosjektet leverer som forventet. Det innebærer oppfølging, justering, koordinering og problemløsning. Styring handler ikke bare om kontroll, men også om læring, fordi informasjonen brukes til forbedring av prosessene og resultater."
+    "explanation": "Explanation:\n- Styring betyr å oppdage avvik fra fremdriftsplanen og iverksette tiltak for å sikre at prosjektet leverer som forventet. Det innebærer oppfølging, justering, koordinering og problemløsning. Styring handler ikke bare om kontroll, men også om læring, fordi informasjonen brukes til forbedring av prosessene og resultater."
   },
   {
     "id": 4,
@@ -25,7 +25,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Inputtkontroll fokuserer på ressursene som går inn i prosjektet.",
-    "explanation": "Inputtkontroll handler om fokus på ressursene som går inn i prosjektet: kompetanse, bemanning, teknologi, tid og penger. Den brukes når det er uklart hvordan oppgaven skal løses, men ressursene er kritiske. Ved å kontrollere og sikre tilstrekkelige og riktige ressurser fra start, kan prosjektet ha større sjanse for suksess."
+    "explanation": "Explanation:\n- Inputtkontroll handler om fokus på ressursene som går inn i prosjektet: kompetanse, bemanning, teknologi, tid og penger. Den brukes når det er uklart hvordan oppgaven skal løses, men ressursene er kritiske. Ved å kontrollere og sikre tilstrekkelige og riktige ressurser fra start, kan prosjektet ha større sjanse for suksess."
   },
   {
     "id": 5,
@@ -39,7 +39,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Resultatkontroll fokuserer på målebare mål og leveranser.",
-    "explanation": "Resultatkontroll handler om fokus på mål og målebare resultater: milepæler, tidsfrister, leveranser og indikatorer. Den passer for prosjekter med tydelige og klart definerte mål. Ved å sette klare målekriteria på forhånd, blir det mulig å objektivt vurdere om prosjektet presterer som forventet."
+    "explanation": "Explanation:\n- Resultatkontroll handler om fokus på mål og målebare resultater: milepæler, tidsfrister, leveranser og indikatorer. Den passer for prosjekter med tydelige og klart definerte mål. Ved å sette klare målekriteria på forhånd, blir det mulig å objektivt vurdere om prosjektet presterer som forventet."
   },
   {
     "id": 6,
@@ -53,7 +53,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Aktivitetskontroll fokuserer på arbeidsprosessene og hvordan arbeidet gjøres.",
-    "explanation": "Aktivitetskontroll (atferdskontroll) handler om fokus på handlinger og arbeidsprosesser: rapportering, møter, arbeidsrutiner og observasjon. Den brukes når det er viktig at arbeidet gjøres på en bestemt måte, ikke bare hva som oppnås. Dette er særlig viktig når prosessene selv er kritiske for kvalitet og sikkerhet."
+    "explanation": "Explanation:\n- Aktivitetskontroll (atferdskontroll) handler om fokus på handlinger og arbeidsprosesser: rapportering, møter, arbeidsrutiner og observasjon. Den brukes når det er viktig at arbeidet gjøres på en bestemt måte, ikke bare hva som oppnås. Dette er særlig viktig når prosessene selv er kritiske for kvalitet og sikkerhet."
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Klankontroll er desentralisert kontroll basert på felles kultur og tillit.",
-    "explanation": "Klankontroll er en desentralisert form for kontroll basert på felles kultur, tillit, uformelle normer og sosial kontroll. Den brukes når både mål og arbeidsprosesser er uklare, og teamet må løse ting selv. I denne form for kontroll blir medlemmene selv ansvarlige for å opprettholde standarder og normer fordi de deler en felles kultur og verdier."
+    "explanation": "Explanation:\n- Klankontroll er en desentralisert form for kontroll basert på felles kultur, tillit, uformelle normer og sosial kontroll. Den brukes når både mål og arbeidsprosesser er uklare, og teamet må løse ting selv. I denne form for kontroll blir medlemmene selv ansvarlige for å opprettholde standarder og normer fordi de deler en felles kultur og verdier."
   },
   {
     "id": 8,
@@ -81,7 +81,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "Operasjonell risiko handler om uforutsette problemer i gjennomføringen.",
-    "explanation": "Operasjonell risiko er uforutsette problemer i selve gjennomføringen av prosjektet, som forsinkelser, teknologiske utfordringer, eller sykdom blant medlemmene. Dette er risiko som oppstår direkte fra arbeidet som gjøres, i motsetning til relasjonell risiko som kommer fra forhold utenfor prosjektet. Å håndtere operasjonell risiko krever fleksibilitet og problemløsningskompetanse."
+    "explanation": "Explanation:\n- Operasjonell risiko er uforutsette problemer i selve gjennomføringen av prosjektet, som forsinkelser, teknologiske utfordringer, eller sykdom blant medlemmene. Dette er risiko som oppstår direkte fra arbeidet som gjøres, i motsetning til relasjonell risiko som kommer fra forhold utenfor prosjektet. Å håndtere operasjonell risiko krever fleksibilitet og problemløsningskompetanse."
   },
   {
     "id": 9,
@@ -95,7 +95,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Relasjonell risiko oppstår fra forhold utenfor prosjektet som påvirker det.",
-    "explanation": "Relasjonell risiko er usikkerthet knyttet til forhold utenfor prosjektet som kan påvirke det: politiske endringer, økonomiske svingninger, eller endringer hos interessenter (kunder, myndigheter, etc.). Dette er risiko som kommer fra prosjektets eksterne omgivelser, ikke fra det interne arbeidet. Håndtering av relasjonell risiko krever god kommunikasjon med eksterne aktører."
+    "explanation": "Explanation:\n- Relasjonell risiko er usikkerthet knyttet til forhold utenfor prosjektet som kan påvirke det: politiske endringer, økonomiske svingninger, eller endringer hos interessenter (kunder, myndigheter, etc.). Dette er risiko som kommer fra prosjektets eksterne omgivelser, ikke fra det interne arbeidet. Håndtering av relasjonell risiko krever god kommunikasjon med eksterne aktører."
   },
   {
     "id": 10,
@@ -109,7 +109,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Bemyndiggjøring gjør at teamet opplever kompetanse, autonomi og støtte.",
-    "explanation": "Bemyndiggjøring handler om at teamet opplever kompetanse, autonomi, støtte og tiltro til egen evne. Det skaper høy motivasjon, effektivitet, bedre samarbeid og mer læring. Dette forutsetter klare delegert myndighet, støtte fra organisasjon, trygghet og tillit, og relevant kompetanseutvikling. Når medlemmene får makt og frihet til å ta beslutninger, økes deres engasjement og ansvarsfølelse. (Se 'Bemyndiggjøring (empowerment) i prosjektteam' i notatene)"
+    "explanation": "Explanation:\n- Bemyndiggjøring handler om at teamet opplever kompetanse, autonomi, støtte og tiltro til egen evne. Det skaper høy motivasjon, effektivitet, bedre samarbeid og mer læring. Dette forutsetter klare delegert myndighet, støtte fra organisasjon, trygghet og tillit, og relevant kompetanseutvikling. Når medlemmene får makt og frihet til å ta beslutninger, økes deres engasjement og ansvarsfølelse. (Se 'Bemyndiggjøring (empowerment) i prosjektteam' i notatene)"
   },
   {
     "id": 11,
@@ -123,7 +123,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Gruppetenking oppstår når harmoni blir prioritert over kritisk vurdering.",
-    "explanation": "Gruppetenking oppstår når gruppen prioriterer harmoni og enighet over kritisk refleksjon. Dette fører til at alternative løsninger overses, risiko undervurderes, og feil beslutninger tas. Gruppetenking oppstår ofte i grupper med sterkt samhold og høyt press. Det er en alvorlig trussel mot beslutningskvalitet og må forhindres gjennom å oppfordre til konstruktiv uenighet og kritisk tenking. (Se 'Boundry spanning (Grense overvåkning)' i notatene)"
+    "explanation": "Explanation:\n- Gruppetenking oppstår når gruppen prioriterer harmoni og enighet over kritisk refleksjon. Dette fører til at alternative løsninger overses, risiko undervurderes, og feil beslutninger tas. Gruppetenking oppstår ofte i grupper med sterkt samhold og høyt press. Det er en alvorlig trussel mot beslutningskvalitet og må forhindres gjennom å oppfordre til konstruktiv uenighet og kritisk tenking. (Se 'Boundry spanning (Grense overvåkning)' i notatene)"
   },
   {
     "id": 12,
@@ -137,7 +137,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Lock-in oppstår når teamet blir låst til en løsning på grunn av tidligere valg.",
-    "explanation": "Lock-in (sti-avhengighet) oppstår når teamet låses til en løsning eller teknologi på grunn av tidligere investeringer, prestisjegrunner, tidsbruk eller lojalitet. Selv når det finnes bedre alternativer, blir det vanskelig å endre kurs fordi man har investert så mye allerede. Dette kan føre til at prosjektet fortsetter på en suboptimal vei selv når det burde endres. (Se 'Boundry spanning (Grense overvåkning)' i notatene)"
+    "explanation": "Explanation:\n- Lock-in (sti-avhengighet) oppstår når teamet låses til en løsning eller teknologi på grunn av tidligere investeringer, prestisjegrunner, tidsbruk eller lojalitet. Selv når det finnes bedre alternativer, blir det vanskelig å endre kurs fordi man har investert så mye allerede. Dette kan føre til at prosjektet fortsetter på en suboptimal vei selv når det burde endres. (Se 'Boundry spanning (Grense overvåkning)' i notatene)"
   },
   {
     "id": 13,
@@ -151,7 +151,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Eskalering oppstår når man fortsetter å investere i dårlige løsninger.",
-    "explanation": "Eskalering av feil kurs oppstår når teamet fortsetter å investere i et dødsdømt prosjekt fordi man vil rettferdigjøre tidligere valg, ikke vil 'tape ansikt', eller undervurderer risiko. Dette er en alvorlig trussel mot både økonomi og fremdrift. Det er viktig å ha mekanismer for å evaluere og eventuelt avbryte prosjekter som ikke lenger er levedyktige. (Se 'Boundry spanning (Grense overvåkning)' i notatene)"
+    "explanation": "Explanation:\n- Eskalering av feil kurs oppstår når teamet fortsetter å investere i et dødsdømt prosjekt fordi man vil rettferdigjøre tidligere valg, ikke vil 'tape ansikt', eller undervurderer risiko. Dette er en alvorlig trussel mot både økonomi og fremdrift. Det er viktig å ha mekanismer for å evaluere og eventuelt avbryte prosjekter som ikke lenger er levedyktige. (Se 'Boundry spanning (Grense overvåkning)' i notatene)"
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "Gode beslutninger krever klare mål, kontroll, tillit og kontinuerlig læring.",
-    "explanation": "For å få effektive prosjekter som leverer på tid, kostnad og kvalitet, må prosjektet ha klart definerte mål (når mulig), finne riktig kontrollform, integrere både tillit og styring, ha høy grad av kunnskapsdeling, unngå gruppetenking og lock-in, og jobbe aktivt med læring underveis. Dette sikrer at prosjektet ikke bare leverer, men også bygger kompetanse og organisasjonslæring."
+    "explanation": "Explanation:\n- For å få effektive prosjekter som leverer på tid, kostnad og kvalitet, må prosjektet ha klart definerte mål (når mulig), finne riktig kontrollform, integrere både tillit og styring, ha høy grad av kunnskapsdeling, unngå gruppetenking og lock-in, og jobbe aktivt med læring underveis. Dette sikrer at prosjektet ikke bare leverer, men også bygger kompetanse og organisasjonslæring."
   },
   {
     "id": 15,
@@ -179,7 +179,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Læring og kunnskapsdeling er kontinuerlig og essensielt for forbedring.",
-    "explanation": "Læring og kunnskapsdeling i prosjekter handler om en kontinuerlig prosess der erfaringer deles, reflekteres på og implementeres for forbedring. Dette skjer både underveis (formativ evaluering) og etter prosjektet (summativ evaluering). Gjennom aktiv læring kan organisasjonen bygge kunnskap som styrker fremtidige prosjekter og skaper en lærende organisasjon."
+    "explanation": "Explanation:\n- Læring og kunnskapsdeling i prosjekter handler om en kontinuerlig prosess der erfaringer deles, reflekteres på og implementeres for forbedring. Dette skjer både underveis (formativ evaluering) og etter prosjektet (summativ evaluering). Gjennom aktiv læring kan organisasjonen bygge kunnskap som styrker fremtidige prosjekter og skaper en lærende organisasjon."
   },
   {
     "id": 16,
@@ -193,7 +193,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Kunnskapsdeling krever åpen kommunikasjon og en læringskultur.",
-    "explanation": "Kunnskapsdeling sikres gjennom åpen kommunikasjon, dokumentasjon av erfaringer, konstruktiv tilbakemeldinger, og en organisasjonskultur som verdsetter læring og forbedring. Det krever både formelle mekanismer (møter, dokumenter) og uformelle prosesser (samtaler, observasjon). Når medlemmene opplever at deres kunnskap blir verdsatt og brukt, motiveres de til å dele mer."
+    "explanation": "Explanation:\n- Kunnskapsdeling sikres gjennom åpen kommunikasjon, dokumentasjon av erfaringer, konstruktiv tilbakemeldinger, og en organisasjonskultur som verdsetter læring og forbedring. Det krever både formelle mekanismer (møter, dokumenter) og uformelle prosesser (samtaler, observasjon). Når medlemmene opplever at deres kunnskap blir verdsatt og brukt, motiveres de til å dele mer."
   },
   {
     "id": 17,
@@ -207,7 +207,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Tillit er essensielt for at mennesker skal dele kunnskap og erfaring.",
-    "explanation": "Læring og kunnskapsdeling krever tillit. Mennesker deler bare kunnskap, innrømmer feil, og eksperimenterer når de føler seg trygge og tror at informasjonen vil bli brukt konstruktivt. Uten tillit vil mennesker holde tilbake informasjon av frykt for at det skal brukes mot dem, eller at de skal miste ansikt. Å bygge tillit er derfor en kritisk oppgave for prosjektleder."
+    "explanation": "Explanation:\n- Læring og kunnskapsdeling krever tillit. Mennesker deler bare kunnskap, innrømmer feil, og eksperimenterer når de føler seg trygge og tror at informasjonen vil bli brukt konstruktivt. Uten tillit vil mennesker holde tilbake informasjon av frykt for at det skal brukes mot dem, eller at de skal miste ansikt. Å bygge tillit er derfor en kritisk oppgave for prosjektleder."
   },
   {
     "id": 18,
@@ -221,7 +221,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "Risikohåndtering krever identifikasjon av både operasjonell og relasjonell risiko.",
-    "explanation": "Prosjekter kan håndtere risiko bedre ved å identifisere både operasjonell risiko (problemer i gjennomføringen) og relasjonell risiko (eksterne faktorer) tidlig i prosjektet, planlegge respons på disse, og monitorere dem løpende. Dette krever åpen kommunikasjon og er en del av den kontinuerlige styringen og læringen som utgjør en av de sentrale oppgavene i et prosjekt."
+    "explanation": "Explanation:\n- Prosjekter kan håndtere risiko bedre ved å identifisere både operasjonell risiko (problemer i gjennomføringen) og relasjonell risiko (eksterne faktorer) tidlig i prosjektet, planlegge respons på disse, og monitorere dem løpende. Dette krever åpen kommunikasjon og er en del av den kontinuerlige styringen og læringen som utgjør en av de sentrale oppgavene i et prosjekt."
   },
   {
     "id": 19,
@@ -235,7 +235,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Leder balanserer kontroll, støtte og forutsetninger for læring og autonomi.",
-    "explanation": "I performing-fasen skal lederen fortsatt være aktiv, men rollen endrer seg. Lederen må balansere mellom å gi nødvendig kontroll for å sikre at prosjektet leverer som forventet, å gi støtte når teamet møter utfordringer, og å legge til rette for læring og autonomi slik at medlemmene kan ta egne beslutninger. Dette krever både direktiv og delegatif ledelsesstil avhengig av situasjonen."
+    "explanation": "Explanation:\n- I performing-fasen skal lederen fortsatt være aktiv, men rollen endrer seg. Lederen må balansere mellom å gi nødvendig kontroll for å sikre at prosjektet leverer som forventet, å gi støtte når teamet møter utfordringer, og å legge til rette for læring og autonomi slik at medlemmene kan ta egne beslutninger. Dette krever både direktiv og delegatif ledelsesstil avhengig av situasjonen."
   },
   {
     "id": 20,
@@ -249,7 +249,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Vellykket ledelse krever klare mål, styring, læring og forbedring.",
-    "explanation": "Kjernen i vellykket prosjektledelse i performing-fasen er å kombinere klare mål, effektiv styring og kontroll, kontinuerlig læring og kunnskapsdeling, og evne til å justere kurs basert på erfaring. Det handler om å balansere resultatleveranse med organisasjonslæring og medlemmenes utvikling. Slik skapes prosjekter som ikke bare leverer på tid, kostnad og kvalitet, men også bygger kompetanse og innovasjon."
+    "explanation": "Explanation:\n- Kjernen i vellykket prosjektledelse i performing-fasen er å kombinere klare mål, effektiv styring og kontroll, kontinuerlig læring og kunnskapsdeling, og evne til å justere kurs basert på erfaring. Det handler om å balansere resultatleveranse med organisasjonslæring og medlemmenes utvikling. Slik skapes prosjekter som ikke bare leverer på tid, kostnad og kvalitet, men også bygger kompetanse og innovasjon."
   },
   {
     "id": 21,
@@ -263,7 +263,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "Resultatkontroll fokuserer på mål og målebare resultater.",
-    "explanation": "Resultatkontroll fokuserer på målene og det som skal leveres - milepæler, tidsfrister, leveranser og indikatorer for suksess. Denne kontrollformen passer godt for prosjekter med tydelige mål, fordi den gir fleksibilitet i HOW man løser oppgaven, samtidig som det er klart WHAT som skal leveres. Det gjør teamet i stand til å ta egne beslutninger mens lederen sikrer at resultatet blir som avtalt. (Se 'Resultatkontroll' i Kap 5)"
+    "explanation": "Explanation:\n- Resultatkontroll fokuserer på målene og det som skal leveres - milepæler, tidsfrister, leveranser og indikatorer for suksess. Denne kontrollformen passer godt for prosjekter med tydelige mål, fordi den gir fleksibilitet i HOW man løser oppgaven, samtidig som det er klart WHAT som skal leveres. Det gjør teamet i stand til å ta egne beslutninger mens lederen sikrer at resultatet blir som avtalt. (Se 'Resultatkontroll' i Kap 5)"
   },
   {
     "id": 22,
@@ -277,7 +277,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Aktivitetskontroll fokuserer på prosessen og måten arbeidet gjøres på.",
-    "explanation": "Aktivitetskontroll eller atferdskontroll fokuserer på HVORDAN arbeidet gjøres - gjennom rapportering, møter, arbeidsrutiner og observasjon. Denne kontrollformen brukes når det er viktig at arbeidet gjøres på en bestemt måte, for eksempel innen sikkerhet, kvalitetsstandard eller lovverk. Den krever mer oppfølging fra lederen enn resultatkontroll, men sikrer at prosessen følger Best Practice. (Se 'Aktivitetskontroll' i Kap 5)"
+    "explanation": "Explanation:\n- Aktivitetskontroll eller atferdskontroll fokuserer på HVORDAN arbeidet gjøres - gjennom rapportering, møter, arbeidsrutiner og observasjon. Denne kontrollformen brukes når det er viktig at arbeidet gjøres på en bestemt måte, for eksempel innen sikkerhet, kvalitetsstandard eller lovverk. Den krever mer oppfølging fra lederen enn resultatkontroll, men sikrer at prosessen følger Best Practice. (Se 'Aktivitetskontroll' i Kap 5)"
   },
   {
     "id": 24,
@@ -291,6 +291,6 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Gruppetenking oppstår når harmoni prioriteres over kritikk og alternativer.",
-    "explanation": "Gruppetenking oppstår når en gruppe med sterkt samhold og høyt press prioriterer harmoni og enighet over kritisk refleksjon. I slik situasjon overses alternative løsninger, risikoen undervurderes, og det tas feil beslutninger. Prosjektleder må aktivt motvirke dette ved å oppmuntre kritisk tenking, spørsmål og diverse perspektiver, selv når det skaper uenighet. (Se 'Groupthink' i Kap 5)"
+    "explanation": "Explanation:\n- Gruppetenking oppstår når en gruppe med sterkt samhold og høyt press prioriterer harmoni og enighet over kritisk refleksjon. I slik situasjon overses alternative løsninger, risikoen undervurderes, og det tas feil beslutninger. Prosjektleder må aktivt motvirke dette ved å oppmuntre kritisk tenking, spørsmål og diverse perspektiver, selv når det skaper uenighet. (Se 'Groupthink' i Kap 5)"
   }
 ]

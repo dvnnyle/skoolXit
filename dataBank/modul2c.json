@@ -39,7 +39,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "Psykologiske kontrakter handler om forventninger og gjensidighet.",
-    "explanation": "Psykologiske kontrakter utvikles mellom den enkelte og organisasjonen. De handler om personlige forventninger og rettferdighet, anerkjennelse og støtte. Når slike kontrakter oppfylles, øker motivasjonen og lojaliteten. Hvis de brytes, kan det skape misnøye og tillitsbrudd."
+    "explanation": "Explanation:\n- Psykologiske kontrakter utvikles mellom den enkelte og organisasjonen. De handler om personlige forventninger og rettferdighet, anerkjennelse og støtte. Når slike kontrakter oppfylles, øker motivasjonen og lojaliteten. Hvis de brytes, kan det skape misnøye og tillitsbrudd."
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Prosjektkultur er felles verdier og normer som styrer samarbeidet.",
-    "explanation": "En prosjektkultur er de felles verdiene, holdningene og normene som styrer hvordan teamet jobber sammen. Den oppstår gjennom erfaringer, interaksjon og ledelse, og blir synlig i måten gruppen løser problemer, kommuniserer og feirer resultater på. En sterk prosjektkultur fremmer felles målforståelse, åpen kommunikasjon, engasjement og tillit."
+    "explanation": "Explanation:\n- En prosjektkultur er de felles verdiene, holdningene og normene som styrer hvordan teamet jobber sammen. Den oppstår gjennom erfaringer, interaksjon og ledelse, og blir synlig i måten gruppen løser problemer, kommuniserer og feirer resultater på. En sterk prosjektkultur fremmer felles målforståelse, åpen kommunikasjon, engasjement og tillit."
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "Sosial kapital er tillit og felles normer i gruppen.",
-    "explanation": "Sosial kapital viser til graden av tillit og felles normer i gruppen. Høy sosial kapital gjør det lettere å koordinere oppgaver og løse problemer uten konflikt. Det oppstår når medlemmene samarbeider godt, deler informasjon åpent og har felles mål."
+    "explanation": "Explanation:\n- Sosial kapital viser til graden av tillit og felles normer i gruppen. Høy sosial kapital gjør det lettere å koordinere oppgaver og løse problemer uten konflikt. Det oppstår når medlemmene samarbeider godt, deler informasjon åpent og har felles mål."
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Fire normer: felles skjebne, samhold, engagement og tillit.",
-    "explanation": "Jacobsen beskriver fire sentrale normer som kjennetegner velfungerende prosjektgrupper: Felles skjebne (medlemmene forstår gjensidig avhengighet), Samhold (vi-følelse og inkludering), Engagement (emosjonell tilknytning til prosjektet), og Tillit (tro på at andre er kompetente og vil det beste). Disse normene må bygges bevisst gjennom kommunikasjon og felles opplevelser."
+    "explanation": "Explanation:\n- Jacobsen beskriver fire sentrale normer som kjennetegner velfungerende prosjektgrupper: Felles skjebne (medlemmene forstår gjensidig avhengighet), Samhold (vi-følelse og inkludering), Engagement (emosjonell tilknytning til prosjektet), og Tillit (tro på at andre er kompetente og vil det beste). Disse normene må bygges bevisst gjennom kommunikasjon og felles opplevelser."
   },
   {
     "id": 7,
@@ -109,7 +109,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "Oppstartstillit er umiddelbar tillit basert på rolle eller rykte.",
-    "explanation": "Oppstartstillit (initial trust) er den umiddelbare tilliten basert på andres rolle eller rykte. Den starter prosessen med tillit, men må senere støttes av systemtillit og interpersonlig tillit. Høy tillit fører til større åpenhet og lavere kontrollbehov, mens lav tillit kan skape mistenksomhet og defensiv atferd."
+    "explanation": "Explanation:\n- Oppstartstillit (initial trust) er den umiddelbare tilliten basert på andres rolle eller rykte. Den starter prosessen med tillit, men må senere støttes av systemtillit og interpersonlig tillit. Høy tillit fører til større åpenhet og lavere kontrollbehov, mens lav tillit kan skape mistenksomhet og defensiv atferd."
   },
   {
     "id": 9,
@@ -123,7 +123,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Systemtillit bygger på rettferdige prosedyrer og systemer.",
-    "explanation": "Systemtillit er tillit som bygger på prosedyrer og rettferdige systemer - for eksempel møterutiner og rapportering. Den signaliserer at den enkelte deltaker har mulighet til deltakelse og blir hørt. Prosjekter der kommunikasjon flyter fritt, utvikler ofte høyere grad av systemtillit."
+    "explanation": "Explanation:\n- Systemtillit er tillit som bygger på prosedyrer og rettferdige systemer - for eksempel møterutiner og rapportering. Den signaliserer at den enkelte deltaker har mulighet til deltakelse og blir hørt. Prosjekter der kommunikasjon flyter fritt, utvikler ofte høyere grad av systemtillit."
   },
   {
     "id": 10,
@@ -137,7 +137,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Interpersonlig tillit bygges gjennom direkte samarbeid over tid.",
-    "explanation": "Interpersonlig tillit er tillit som utvikler gjennom over tid gjennom direkte samarbeid og relasjoner. Det oppstår når medlemmene jobber sammen, lærer hverandres styrker og svakheter, og opplever gjensidighet og respekt. Små seire, felles opplevelser og sosiale aktiviteter styrker denne typen tillit."
+    "explanation": "Explanation:\n- Interpersonlig tillit er tillit som utvikler gjennom over tid gjennom direkte samarbeid og relasjoner. Det oppstår når medlemmene jobber sammen, lærer hverandres styrker og svakheter, og opplever gjensidighet og respekt. Små seire, felles opplevelser og sosiale aktiviteter styrker denne typen tillit."
   },
   {
     "id": 11,
@@ -165,7 +165,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Åpen kommunikasjon sikrer at alle har nødvendig informasjon.",
-    "explanation": "Åpen kommunikasjon og delt informasjon er avgjørende for godt samarbeid. Når alle har tilgang til nødvendig informasjon, reduseres misforståelser og konflikter. Prosjekter der kommunikasjonen flyter fritt, utvikler ofte høyere grad av systemtillit - tillit som bygger på prosedyrer og systemer som signaliserer at deltakerne blir hørt."
+    "explanation": "Explanation:\n- Åpen kommunikasjon og delt informasjon er avgjørende for godt samarbeid. Når alle har tilgang til nødvendig informasjon, reduseres misforståelser og konflikter. Prosjekter der kommunikasjonen flyter fritt, utvikler ofte høyere grad av systemtillit - tillit som bygger på prosedyrer og systemer som signaliserer at deltakerne blir hørt."
   },
   {
     "id": 13,
@@ -179,7 +179,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Tid gir rom for å bygge relasjon og erfaring sammen.",
-    "explanation": "Norming-fasen påvirkes av tid: tid gir mer rom for å bygge kjennskap og erfaring sammen. Mangfold av bakgrunner og perspektiver styrker prosjektet, men krever bevisst ledelse for å unngå misforståelser. God prosjektkultur bygger på inkludering og respekt for ulikheter, slik at alle føler eierskap til gruppens arbeid."
+    "explanation": "Explanation:\n- Norming-fasen påvirkes av tid: tid gir mer rom for å bygge kjennskap og erfaring sammen. Mangfold av bakgrunner og perspektiver styrker prosjektet, men krever bevisst ledelse for å unngå misforståelser. God prosjektkultur bygger på inkludering og respekt for ulikheter, slik at alle føler eierskap til gruppens arbeid."
   },
   {
     "id": 14,
@@ -207,7 +207,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Fra samordning til samarbeid betyr økt selvstyre og dialog.",
-    "explanation": "I begynnelsen kan gruppen trenge samordning - styring fra leder eller struktur. Etter hvert som tillit vokser, utvikles dette til samarbeid, der medlemmene selv koordinerer oppgaver gjennom dialog og gjensidig tilpasning. Denne overgangen markerer at gruppen har blitt selvregulerende, en forutsetning for høy ytelse i performing-fasen."
+    "explanation": "Explanation:\n- I begynnelsen kan gruppen trenge samordning - styring fra leder eller struktur. Etter hvert som tillit vokser, utvikles dette til samarbeid, der medlemmene selv koordinerer oppgaver gjennom dialog og gjensidig tilpasning. Denne overgangen markerer at gruppen har blitt selvregulerende, en forutsetning for høy ytelse i performing-fasen."
   },
   {
     "id": 16,
@@ -221,7 +221,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "Målforskyving oppstår når delmål overtar for hovedmålet.",
-    "explanation": "I prosjektets tidligere og midtre faser finnes flere potensielle fallgruver. Målforskyving er når delmål blir viktigere enn hovedmålet og helheten mistes av syne. Dette kan skje gradvis når gruppen fokuserer på å oppfylle delmål uten å reflektere over hvordan det tjener det større målet."
+    "explanation": "Explanation:\n- I prosjektets tidligere og midtre faser finnes flere potensielle fallgruver. Målforskyving er når delmål blir viktigere enn hovedmålet og helheten mistes av syne. Dette kan skje gradvis når gruppen fokuserer på å oppfylle delmål uten å reflektere over hvordan det tjener det større målet."
   },
   {
     "id": 17,
@@ -235,7 +235,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "Kontekstuell risiko er uventede ytre hendelser som påvirker prosjektet.",
-    "explanation": "Kontekstuell risiko er uventede hendelser i omgivelsen som påvirker fremdrift eller ressurser - for eksempel endringer i marked, lovgivning eller tilgjengelighet av ressurser. Bevissthet om denne risikoen gjør prosjektlederen bedre rustet til å tilpasse planene og bygge læringskultur."
+    "explanation": "Explanation:\n- Kontekstuell risiko er uventede hendelser i omgivelsen som påvirker fremdrift eller ressurser - for eksempel endringer i marked, lovgivning eller tilgjengelighet av ressurser. Bevissthet om denne risikoen gjør prosjektlederen bedre rustet til å tilpasse planene og bygge læringskultur."
   },
   {
     "id": 18,
@@ -249,7 +249,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "Tapt tillit oppstår når kontrakter brytes eller kommunikasjon svikter.",
-    "explanation": "Tapt tillit er en risiko som oppstår hvis psykologiske kontrakter brytes eller kommunikasjonen svikter. Dette kan skje når ledelsen ikke oppfyller sine løfter, når informasjon ikke deles åpent, eller når medlemmene føler seg urettferdig behandlet. Gjenoppretting av tillit krever bevisst arbeid og åpenhet."
+    "explanation": "Explanation:\n- Tapt tillit er en risiko som oppstår hvis psykologiske kontrakter brytes eller kommunikasjonen svikter. Dette kan skje når ledelsen ikke oppfyller sine løfter, når informasjon ikke deles åpent, eller når medlemmene føler seg urettferdig behandlet. Gjenoppretting av tillit krever bevisst arbeid og åpenhet."
   },
   {
     "id": 19,
@@ -263,7 +263,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Læringskultur gjør at gruppen lærer av erfaring og tilpasser seg.",
-    "explanation": "En læringskultur er viktig for å håndtere risiko og utfordringer. Den oppstår når gruppen reflekterer over erfaringer, deler lærdommer og tilpasser seg basert på det de lærer. Bevissthet om planleggingsfeller, kontekstuell risiko og tap av tillit gjør prosjektlederen bedre rustet til å bygge en slik kultur og opprettholde balanse."
+    "explanation": "Explanation:\n- En læringskultur er viktig for å håndtere risiko og utfordringer. Den oppstår når gruppen reflekterer over erfaringer, deler lærdommer og tilpasser seg basert på det de lærer. Bevissthet om planleggingsfeller, kontekstuell risiko og tap av tillit gjør prosjektlederen bedre rustet til å bygge en slik kultur og opprettholde balanse."
   },
   {
     "id": 20,
@@ -294,5 +294,3 @@
     "explanation": "Tillit i norming-fasen bygges gjennom åpen kommunikasjon, deling av informasjon og transparens. Ved å anerkjenne små seire, vise respekt for ulikheter og følge opp på det man sier, viser prosjektlederen og teamet at de er pålitelige. Tillit er fundamentet for all god samarbeid og utvikler seg gradvis gjennom konsekvent atferd over tid\n\nTuchmans fire faser i gruppeutvikling:\n- Forming: Medlemmer blir kjent, orienterer seg om oppgaver og roller. Usikkerhet er høy, men også optimisme.\n- Storming: Konflikter og maktkamp oppstår når medlemmer tester grenser. Rollene blir avklart gjennom diskusjon.\n- Norming: Gruppen etablerer felles normer, regler og arbeidsmåter. Samholdet øker og konflikter avtar.\n- Performing: Gruppen jobber effektivt med klare roller og rutiner. Energi brukes på oppgaven, ikke på problemer."
   }
 ]
-
-
