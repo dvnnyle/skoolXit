@@ -102,7 +102,7 @@ function Home() {
               </div>
               <h3>Module 1A</h3>
               <p>Gruppepsykologi og gruppedannelse</p>
-              <span className="question-count">30 questions</span>
+              <span className="question-count">39 questions</span>
             </Link>
             <Link to="/module1b" className="chapter-button starred" id="module1b">
               <div className="star-badge">
@@ -112,7 +112,7 @@ function Home() {
               </div>
               <h3>Module 1B</h3>
               <p>Prosjektarbeid og Teamutvikling</p>
-              <span className="question-count">30 questions</span>
+              <span className="question-count">16 questions</span>
             </Link>
           </div>
         </div>
@@ -130,7 +130,7 @@ function Home() {
               </div>
               <h3>Module 2A</h3>
               <p>Kommunikasjon i grupper</p>
-              <span className="question-count">20 questions</span>
+              <span className="question-count">24 questions</span>
             </Link>
             <Link to="/module2b" className="chapter-button starred" id="module2b">
               <div className="star-badge">
@@ -140,7 +140,7 @@ function Home() {
               </div>
               <h3>Module 2B</h3>
               <p>Relasjonsbygging og teambygging i prosjekter</p>
-              <span className="question-count">20 questions</span>
+              <span className="question-count">24 questions</span>
             </Link>
             <Link to="/module2c" className="chapter-button starred" id="module2c">
               <div className="star-badge">
@@ -150,7 +150,7 @@ function Home() {
               </div>
               <h3>Module 2C</h3>
               <p>Utvikling av prosjektkultur og tillit</p>
-              <span className="question-count">20 questions</span>
+              <span className="question-count">21 questions</span>
             </Link>
           </div>
         </div>
@@ -168,7 +168,7 @@ function Home() {
               </div>
               <h3>Module 3A</h3>
               <p>Arbeid i profesjonelle team og aksjonslæring</p>
-              <span className="question-count">20 questions</span>
+              <span className="question-count">22 questions</span>
             </Link>
             <Link to="/module3b" className="chapter-button starred" id="module3b">
               <div className="star-badge">
@@ -178,7 +178,7 @@ function Home() {
               </div>
               <h3>Module 3B</h3>
               <p>Læring og kunnskapsdeling i prosjekter</p>
-              <span className="question-count">20 questions</span>
+              <span className="question-count">21 questions</span>
             </Link>
             <Link to="/module3c" className="chapter-button starred" id="module3c">
               <div className="star-badge">
@@ -206,7 +206,7 @@ function Home() {
               </div>
               <h3>Module 4A</h3>
               <p>Dynamisk prosjektledelse</p>
-              <span className="question-count">20 questions</span>
+              <span className="question-count">19 questions</span>
             </Link>
             <Link to="/module4b" className="chapter-button starred" id="module4b">
               <div className="star-badge">
@@ -234,7 +234,7 @@ function Home() {
               </div>
               <h3>Module 5A</h3>
               <p>Konflikter i prosjekter</p>
-              <span className="question-count">20 questions</span>
+              <span className="question-count">25 questions</span>
             </Link>
             <Link to="/module5b" className="chapter-button starred" id="module5b">
               <div className="star-badge">
@@ -244,7 +244,7 @@ function Home() {
               </div>
               <h3>Module 5B</h3>
               <p>Psykologiske aspekter ved konflikter</p>
-              <span className="question-count">20 questions</span>
+              <span className="question-count">25 questions</span>
             </Link>
           </div>
         </div>
