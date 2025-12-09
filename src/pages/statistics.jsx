@@ -226,57 +226,57 @@ function Statistics() {
           <div className="medals-progress-right">
             <h3>🏆 Medal Progress</h3>
             <div className="medal-milestone">
-              <img src="/icons/bronze-medal.svg" alt="Bronze Medal" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 100 ? 'unlocked' : ''}`} />
+              <img src="/icons/bronze-medal.svg" alt="Bronze Medal" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 400 ? 'unlocked' : ''}`} />
               <div className="medal-milestone-info">
-                <p>Bronze: 100 correct answers</p>
+                <p>Bronze: 400 correct answers</p>
                 <div className="milestone-bar">
-                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 100) * 100, 100)}%` }}></div>
+                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 400) * 100, 100)}%` }}></div>
                 </div>
-                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 100)}/100</span>
+                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 400)}/400</span>
               </div>
             </div>
             
             <div className="medal-milestone">
-              <img src="/icons/silver-medal.svg" alt="Silver Medal" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 300 ? 'unlocked' : ''}`} />
+              <img src="/icons/silver-medal.svg" alt="Silver Medal" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 800 ? 'unlocked' : ''}`} />
               <div className="medal-milestone-info">
-                <p>Silver: 300 correct answers</p>
+                <p>Silver: 800 correct answers</p>
                 <div className="milestone-bar">
-                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 300) * 100, 100)}%` }}></div>
+                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 800) * 100, 100)}%` }}></div>
                 </div>
-                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 300)}/300</span>
+                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 800)}/800</span>
               </div>
             </div>
             
             <div className="medal-milestone">
-              <img src="/icons/gold-medal.svg" alt="Gold Medal" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 600 ? 'unlocked' : ''}`} />
+              <img src="/icons/gold-medal.svg" alt="Gold Medal" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 1200 ? 'unlocked' : ''}`} />
               <div className="medal-milestone-info">
-                <p>Gold: 600 correct answers</p>
+                <p>Gold: 1200 correct answers</p>
                 <div className="milestone-bar">
-                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 600) * 100, 100)}%` }}></div>
+                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 1200) * 100, 100)}%` }}></div>
                 </div>
-                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 600)}/600</span>
+                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 1200)}/1200</span>
               </div>
             </div>
             
             <div className="medal-milestone">
-              <img src="/icons/emerald.svg" alt="Emerald" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 1000 ? 'unlocked' : ''}`} />
+              <img src="/icons/emerald.svg" alt="Emerald" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 1600 ? 'unlocked' : ''}`} />
               <div className="medal-milestone-info">
-                <p>Emerald: 1000 correct answers</p>
+                <p>Emerald: 1600 correct answers</p>
                 <div className="milestone-bar">
-                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 1000) * 100, 100)}%` }}></div>
+                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 1600) * 100, 100)}%` }}></div>
                 </div>
-                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 1000)}/1000</span>
+                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 1600)}/1600</span>
               </div>
             </div>
             
             <div className="medal-milestone">
-              <img src="/icons/platinum.svg" alt="Platinum" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 1500 ? 'unlocked' : ''}`} />
+              <img src="/icons/platinum.svg" alt="Platinum" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 1800 ? 'unlocked' : ''}`} />
               <div className="medal-milestone-info">
-                <p>Platinum: 1500 correct answers</p>
+                <p>Platinum: 1800 correct answers</p>
                 <div className="milestone-bar">
-                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 1500) * 100, 100)}%` }}></div>
+                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 1800) * 100, 100)}%` }}></div>
                 </div>
-                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 1500)}/1500</span>
+                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 1800)}/1800</span>
               </div>
             </div>
             
