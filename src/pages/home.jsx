@@ -142,9 +142,9 @@ function Home() {
               <div className="medal-details">
                 <h4>Bronze</h4>
                 <div className="medal-progress-bar">
-                  <div className="medal-progress-fill" style={{ width: `${Math.min((stats.completedQuestions / 100) * 100, 100)}%` }}></div>
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions) / 100) * 100, 100)}%` }}></div>
                 </div>
-                <span className="medal-count">{stats.completedQuestions}/100</span>
+                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions), 100)}/100</span>
               </div>
             </div>
             
@@ -153,9 +153,9 @@ function Home() {
               <div className="medal-details">
                 <h4>Silver</h4>
                 <div className="medal-progress-bar">
-                  <div className="medal-progress-fill" style={{ width: `${Math.min((stats.completedQuestions / 500) * 100, 100)}%` }}></div>
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions - 100) / 400) * 100, 100)}%` }}></div>
                 </div>
-                <span className="medal-count">{stats.completedQuestions}/500</span>
+                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions - 100), 400)}/400</span>
               </div>
             </div>
             
@@ -164,9 +164,9 @@ function Home() {
               <div className="medal-details">
                 <h4>Gold</h4>
                 <div className="medal-progress-bar">
-                  <div className="medal-progress-fill" style={{ width: `${Math.min((stats.completedQuestions / 1000) * 100, 100)}%` }}></div>
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions - 500) / 500) * 100, 100)}%` }}></div>
                 </div>
-                <span className="medal-count">{stats.completedQuestions}/1000</span>
+                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions - 500), 500)}/500</span>
               </div>
             </div>
           </div>
