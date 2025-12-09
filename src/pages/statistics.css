@@ -388,7 +388,7 @@
 
 .medal-milestone .medal-icon-stats.unlocked {
   opacity: 1;
-  filter: drop-shadow(0 0 8px rgba(255, 215, 0, 0.5));
+  filter: drop-shadow(0 0 6px rgba(212, 166, 0, 0.3));
 }
 
 .medal-milestone-info {
