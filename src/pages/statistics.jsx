@@ -1,5 +1,8 @@
 import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
+import BronzeMedal from '../assets/icons/bronze-medal.svg'
+import SilverMedal from '../assets/icons/silver-medal.svg'
+import GoldMedal from '../assets/icons/gold-medal.svg'
 import NavigationMenu from '../pages/widget/navigationMenu'
 import Footer from '../pages/widget/footer'
 import './statistics.css'
@@ -154,6 +157,59 @@ function Statistics() {
               <div className="stat-value">{overallPercentage}%</div>
               <div className="stat-label">Overall Progress</div>
               <div className="stat-sublabel">Keep going!</div>
+            </div>
+          </div>
+        </div>
+
+        <div className="medals-progress-card">
+          <div className="medals-progress-left">
+            <div className="progress-stat">
+              <span className="progress-label">Questions Completed</span>
+              <span className="progress-value">{stats.completedQuestions}</span>
+            </div>
+            <div className="progress-stat">
+              <span className="progress-label">Correct Answers</span>
+              <span className="progress-value">{stats.correctAnswers}</span>
+            </div>
+            <div className="progress-stat">
+              <span className="progress-label">Overall Progress</span>
+              <span className="progress-value">{overallPercentage}%</span>
+            </div>
+          </div>
+          
+          <div className="medals-progress-right">
+            <h3>🏆 Medal Progress</h3>
+            <div className="medal-milestone">
+              <img src={BronzeMedal} alt="Bronze Medal" className={`medal-icon-stats ${stats.completedQuestions >= 100 ? 'unlocked' : ''}`} />
+              <div className="medal-milestone-info">
+                <p>Bronze: 100 questions</p>
+                <div className="milestone-bar">
+                  <div className="milestone-fill" style={{ width: `${Math.min((stats.completedQuestions / 100) * 100, 100)}%` }}></div>
+                </div>
+                <span className="milestone-text">{stats.completedQuestions}/100</span>
+              </div>
+            </div>
+            
+            <div className="medal-milestone">
+              <img src={SilverMedal} alt="Silver Medal" className={`medal-icon-stats ${stats.completedQuestions >= 500 ? 'unlocked' : ''}`} />
+              <div className="medal-milestone-info">
+                <p>Silver: 500 questions</p>
+                <div className="milestone-bar">
+                  <div className="milestone-fill" style={{ width: `${Math.min((stats.completedQuestions / 500) * 100, 100)}%` }}></div>
+                </div>
+                <span className="milestone-text">{stats.completedQuestions}/500</span>
+              </div>
+            </div>
+            
+            <div className="medal-milestone">
+              <img src={GoldMedal} alt="Gold Medal" className={`medal-icon-stats ${stats.completedQuestions >= 1000 ? 'unlocked' : ''}`} />
+              <div className="medal-milestone-info">
+                <p>Gold: 1000 questions</p>
+                <div className="milestone-bar">
+                  <div className="milestone-fill" style={{ width: `${Math.min((stats.completedQuestions / 1000) * 100, 100)}%` }}></div>
+                </div>
+                <span className="milestone-text">{stats.completedQuestions}/1000</span>
+              </div>
             </div>
           </div>
         </div>

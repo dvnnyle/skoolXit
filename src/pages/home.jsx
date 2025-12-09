@@ -1,6 +1,9 @@
 import { useEffect, useState } from 'react'
 import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
+import BronzeMedal from '../assets/icons/bronze-medal.svg'
+import SilverMedal from '../assets/icons/silver-medal.svg'
+import GoldMedal from '../assets/icons/gold-medal.svg'
 import '../App.css'
 import './Home.css'
 import NavigationMenu from './widget/navigationMenu'
@@ -9,6 +12,40 @@ import Footer from './widget/footer'
 
 function Home() {
   const [showScrollTop, setShowScrollTop] = useState(false)
+  const [stats, setStats] = useState({
+    completedQuestions: 0,
+    correctAnswers: 0,
+    totalQuestions: 251
+  })
+
+  useEffect(() => {
+    // Load stats from localStorage
+    const modules = [
+      'module1a', 'module1b', 'module2a', 'module2b', 'module2c',
+      'module3a', 'module3b', 'module3c', 'module4a', 'module4b',
+      'module5a', 'module5b'
+    ]
+    
+    let totalCompleted = 0
+    let totalCorrect = 0
+    
+    modules.forEach(moduleId => {
+      const storedData = localStorage.getItem(`quiz_${moduleId}`)
+      if (storedData) {
+        const parsed = JSON.parse(storedData)
+        if (parsed.attempts > 0) {
+          totalCompleted += parsed.lastScore || 0
+          totalCorrect += parsed.lastScore || 0
+        }
+      }
+    })
+    
+    setStats({
+      completedQuestions: totalCompleted,
+      correctAnswers: totalCorrect,
+      totalQuestions: 251
+    })
+  }, [])
 
   useEffect(() => {
     const handleScroll = () => {
@@ -90,28 +127,38 @@ function Home() {
         <h1 className="home-title">Teamwork & Group Dynamics</h1>
         <p>Master the fundamentals of effective teamwork</p>
         
-        <div className="gamification-section">
-          <h2>🏆 Achievement Medals</h2>
-          <div className="medals-container">
-            <div className="medal bronze">
-              <div className="medal-icon">🥉</div>
-              <div className="medal-info">
-                <h3>Bronze Medal</h3>
-                <p>Complete 100 questions</p>
+        <div className="gamification-wrapper">
+          <div className="medal-milestones-inline">
+            <div className="achievement-medal-item bronze" data-unlocked={stats.completedQuestions >= 100}>
+              <img src={BronzeMedal} alt="Bronze Medal" className="medal-icon bronze-icon" />
+              <div className="medal-details">
+                <h4>Bronze</h4>
+                <div className="medal-progress-bar">
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((stats.completedQuestions / 100) * 100, 100)}%` }}></div>
+                </div>
+                <span className="medal-count">{stats.completedQuestions}/100</span>
               </div>
             </div>
-            <div className="medal silver">
-              <div className="medal-icon">🥈</div>
-              <div className="medal-info">
-                <h3>Silver Medal</h3>
-                <p>Complete 500 questions</p>
+            
+            <div className="achievement-medal-item silver" data-unlocked={stats.completedQuestions >= 500}>
+              <img src={SilverMedal} alt="Silver Medal" className="medal-icon silver-icon" />
+              <div className="medal-details">
+                <h4>Silver</h4>
+                <div className="medal-progress-bar">
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((stats.completedQuestions / 500) * 100, 100)}%` }}></div>
+                </div>
+                <span className="medal-count">{stats.completedQuestions}/500</span>
               </div>
             </div>
-            <div className="medal gold">
-              <div className="medal-icon">🥇</div>
-              <div className="medal-info">
-                <h3>Gold Medal</h3>
-                <p>Complete 1000 questions</p>
+            
+            <div className="achievement-medal-item gold" data-unlocked={stats.completedQuestions >= 1000}>
+              <img src={GoldMedal} alt="Gold Medal" className="medal-icon gold-icon" />
+              <div className="medal-details">
+                <h4>Gold</h4>
+                <div className="medal-progress-bar">
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((stats.completedQuestions / 1000) * 100, 100)}%` }}></div>
+                </div>
+                <span className="medal-count">{stats.completedQuestions}/1000</span>
               </div>
             </div>
           </div>

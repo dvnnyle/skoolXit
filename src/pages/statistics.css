@@ -320,6 +320,117 @@
   border-color: #ef4444;
 }
 
+/* Medals Progress Card */
+.medals-progress-card {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+  background: #121212;
+  border: 1px solid rgba(100, 108, 255, 0.3);
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 3rem;
+}
+
+.medals-progress-left {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding-right: 2rem;
+  border-right: 1px solid rgba(100, 108, 255, 0.2);
+}
+
+.progress-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.progress-label {
+  font-size: 0.9rem;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.progress-value {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #646cff;
+}
+
+.medals-progress-right {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.medals-progress-right h3 {
+  margin: 0 0 0.5rem 0;
+  color: #646cff;
+  font-size: 1.3rem;
+}
+
+.medal-milestone {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.medal-milestone .medal-icon-stats {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  opacity: 0.4;
+  transition: opacity 0.3s ease, filter 0.3s ease;
+  flex-shrink: 0;
+}
+
+.medal-milestone .medal-icon-stats.unlocked {
+  opacity: 1;
+  filter: drop-shadow(0 0 8px rgba(255, 215, 0, 0.5));
+  animation: shimmer 2.5s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+.medal-milestone-info {
+  flex: 1;
+}
+
+.medal-milestone-info p {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.95rem;
+  color: #ccc;
+}
+
+.milestone-bar {
+  height: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 0.3rem;
+}
+
+.milestone-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #646cff, #a78bfa);
+  border-radius: 3px;
+  transition: width 0.3s ease;
+}
+
+.milestone-text {
+  font-size: 0.75rem;
+  color: #666;
+}
+
 @media (max-width: 768px) {
   .statistics-container {
     padding: 1rem;
@@ -343,5 +454,16 @@
 
   .stat-value {
     font-size: 2rem;
+  }
+
+  .medals-progress-card {
+    grid-template-columns: 1fr;
+  }
+
+  .medals-progress-left {
+    border-right: none;
+    border-bottom: 1px solid rgba(100, 108, 255, 0.2);
+    padding-right: 0;
+    padding-bottom: 1.5rem;
   }
 }
