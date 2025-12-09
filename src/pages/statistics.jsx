@@ -13,7 +13,7 @@ function Statistics() {
     chapterProgress: []
   })
 
-  useEffect(() => {
+  const loadStats = () => {
     // Load statistics from localStorage - organized by modules
     const quizCategories = {
       module1: [
@@ -94,6 +94,30 @@ function Statistics() {
       correctAnswers,
       chapterProgress
     })
+  }
+
+  useEffect(() => {
+    // Load stats on mount
+    loadStats()
+
+    // Listen for storage changes (from other tabs/windows)
+    const handleStorageChange = () => {
+      loadStats()
+    }
+    window.addEventListener('storage', handleStorageChange)
+
+    // Also listen for page visibility change to refresh when returning to tab
+    const handleVisibilityChange = () => {
+      if (document.visibilityState === 'visible') {
+        loadStats()
+      }
+    }
+    document.addEventListener('visibilitychange', handleVisibilityChange)
+
+    return () => {
+      window.removeEventListener('storage', handleStorageChange)
+      document.removeEventListener('visibilitychange', handleVisibilityChange)
+    }
   }, [])
 
   const overallPercentage = stats.totalQuestions > 0 

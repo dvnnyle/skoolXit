@@ -15,7 +15,7 @@ function Home() {
     totalQuestions: 251
   })
 
-  useEffect(() => {
+  const loadStats = () => {
     // Load stats from localStorage
     const modules = [
       { id: 'module1a', total: 39 },
@@ -53,6 +53,30 @@ function Home() {
       correctAnswers: totalCorrect,
       totalQuestions: 251
     })
+  }
+
+  useEffect(() => {
+    // Load stats on mount
+    loadStats()
+
+    // Listen for storage changes (from other tabs/windows)
+    const handleStorageChange = () => {
+      loadStats()
+    }
+    window.addEventListener('storage', handleStorageChange)
+
+    // Also listen for page visibility change to refresh when returning to tab
+    const handleVisibilityChange = () => {
+      if (document.visibilityState === 'visible') {
+        loadStats()
+      }
+    }
+    document.addEventListener('visibilitychange', handleVisibilityChange)
+
+    return () => {
+      window.removeEventListener('storage', handleStorageChange)
+      document.removeEventListener('visibilitychange', handleVisibilityChange)
+    }
   }, [])
 
   useEffect(() => {
