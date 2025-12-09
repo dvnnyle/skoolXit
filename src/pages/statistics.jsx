@@ -97,6 +97,7 @@ function Statistics() {
     const totalQuestions = chapters.reduce((sum, ch) => sum + ch.total, 0)
     const completedQuestions = chapterProgress.reduce((sum, ch) => sum + ch.attempts, 0)
     const correctAnswers = chapterProgress.reduce((sum, ch) => sum + ch.lastScore, 0)
+    const quizzesCompleted = chapterProgress.filter(ch => ch.attempts > 0).length
     // Calculate total correct answers from ALL attempts across all quizzes
     const totalCorrectFromAllAttempts = chapterProgress.reduce((sum, ch) => {
       return sum + (ch.attemptHistory?.reduce((attSum, att) => attSum + (att.score || 0), 0) || 0)
@@ -200,7 +201,7 @@ function Statistics() {
         <div className="medals-progress-card">
           <div className="medals-progress-left">
             <div className="progress-stat">
-              <span className="progress-label">Questions Completed</span>
+              <span className="progress-label">Attempts Completed All Time</span>
               <span className="progress-value">{stats.completedQuestions}</span>
             </div>
             <div className="progress-stat">
