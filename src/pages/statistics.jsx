@@ -1,8 +1,5 @@
 import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
-import BronzeMedal from '../assets/icons/bronze-medal.svg'
-import SilverMedal from '../assets/icons/silver-medal.svg'
-import GoldMedal from '../assets/icons/gold-medal.svg'
 import NavigationMenu from '../pages/widget/navigationMenu'
 import Footer from '../pages/widget/footer'
 import './statistics.css'
@@ -180,7 +177,7 @@ function Statistics() {
           <div className="medals-progress-right">
             <h3>🏆 Medal Progress</h3>
             <div className="medal-milestone">
-              <img src={BronzeMedal} alt="Bronze Medal" className={`medal-icon-stats ${stats.completedQuestions >= 100 ? 'unlocked' : ''}`} />
+              <img src="/icons/bronze-medal.svg" alt="Bronze Medal" className={`medal-icon-stats ${stats.completedQuestions >= 100 ? 'unlocked' : ''}`} />
               <div className="medal-milestone-info">
                 <p>Bronze: 100 questions</p>
                 <div className="milestone-bar">
@@ -191,7 +188,7 @@ function Statistics() {
             </div>
             
             <div className="medal-milestone">
-              <img src={SilverMedal} alt="Silver Medal" className={`medal-icon-stats ${stats.completedQuestions >= 500 ? 'unlocked' : ''}`} />
+              <img src="/icons/silver-medal.svg" alt="Silver Medal" className={`medal-icon-stats ${stats.completedQuestions >= 500 ? 'unlocked' : ''}`} />
               <div className="medal-milestone-info">
                 <p>Silver: 500 questions</p>
                 <div className="milestone-bar">
@@ -202,7 +199,7 @@ function Statistics() {
             </div>
             
             <div className="medal-milestone">
-              <img src={GoldMedal} alt="Gold Medal" className={`medal-icon-stats ${stats.completedQuestions >= 1000 ? 'unlocked' : ''}`} />
+              <img src="/icons/gold-medal.svg" alt="Gold Medal" className={`medal-icon-stats ${stats.completedQuestions >= 1000 ? 'unlocked' : ''}`} />
               <div className="medal-milestone-info">
                 <p>Gold: 1000 questions</p>
                 <div className="milestone-bar">

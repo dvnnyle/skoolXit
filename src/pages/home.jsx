@@ -1,9 +1,6 @@
 import { useEffect, useState } from 'react'
 import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
-import BronzeMedal from '../assets/icons/bronze-medal.svg'
-import SilverMedal from '../assets/icons/silver-medal.svg'
-import GoldMedal from '../assets/icons/gold-medal.svg'
 import '../App.css'
 import './Home.css'
 import NavigationMenu from './widget/navigationMenu'
@@ -130,7 +127,7 @@ function Home() {
         <div className="gamification-wrapper">
           <div className="medal-milestones-inline">
             <div className="achievement-medal-item bronze" data-unlocked={stats.completedQuestions >= 100}>
-              <img src={BronzeMedal} alt="Bronze Medal" className="medal-icon bronze-icon" />
+              <img src="/icons/bronze-medal.svg" alt="Bronze Medal" className="medal-icon bronze-icon" />
               <div className="medal-details">
                 <h4>Bronze</h4>
                 <div className="medal-progress-bar">
@@ -141,7 +138,7 @@ function Home() {
             </div>
             
             <div className="achievement-medal-item silver" data-unlocked={stats.completedQuestions >= 500}>
-              <img src={SilverMedal} alt="Silver Medal" className="medal-icon silver-icon" />
+              <img src="/icons/silver-medal.svg" alt="Silver Medal" className="medal-icon silver-icon" />
               <div className="medal-details">
                 <h4>Silver</h4>
                 <div className="medal-progress-bar">
@@ -152,7 +149,7 @@ function Home() {
             </div>
             
             <div className="achievement-medal-item gold" data-unlocked={stats.completedQuestions >= 1000}>
-              <img src={GoldMedal} alt="Gold Medal" className="medal-icon gold-icon" />
+              <img src="/icons/gold-medal.svg" alt="Gold Medal" className="medal-icon gold-icon" />
               <div className="medal-details">
                 <h4>Gold</h4>
                 <div className="medal-progress-bar">
