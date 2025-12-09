@@ -843,8 +843,8 @@
   background: rgba(255, 255, 255, 0.1);
   border-radius: 2px;
   overflow: hidden;
-  margin-bottom: 0.15rem;
-  width: 75px;
+  margin-bottom: 0.35rem;
+  width: 85px;
 }
 
 .medal-progress-fill {
