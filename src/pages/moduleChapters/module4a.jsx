@@ -73,7 +73,7 @@ function Module4a() {
         lastScore: finalScore,
         questionsAnswered: totalAnswered,
         completed: totalAnswered,
-        total: questions.length,
+        total: questionsData.length,
         bestScore: Math.max(finalScore, previousData.bestScore || 0),
         attempts: attemptHistory.length,
         totalQuestionsAnswered: (previousData.totalQuestionsAnswered || 0) + totalAnswered,
