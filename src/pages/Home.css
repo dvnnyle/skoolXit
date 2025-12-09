@@ -725,6 +725,18 @@
   box-shadow: 0 0 8px rgba(255, 237, 78, 0.15);
 }
 
+.achievement-medal-item.diamond {
+  border-color: rgba(173, 216, 230, 0.3);
+  color: #add8e6;
+}
+
+.achievement-medal-item.diamond[data-unlocked="true"] {
+  border-color: #00bfff;
+  color: #1e90ff;
+  background: rgba(30, 144, 255, 0.08);
+  box-shadow: 0 0 8px rgba(30, 144, 255, 0.15);
+}
+
 .medal-icon {
   width: 2.5rem;
   height: 2.5rem;
@@ -744,6 +756,10 @@
   filter: opacity(0.6);
 }
 
+.medal-icon.diamond-icon {
+  filter: opacity(0.6);
+}
+
 .achievement-medal-item.bronze[data-unlocked="true"] .medal-icon.bronze-icon {
   filter: opacity(1) drop-shadow(0 0 6px rgba(217, 153, 102, 0.3));
   transform: scale(1.05);
@@ -756,6 +772,11 @@
 
 .achievement-medal-item.gold[data-unlocked="true"] .medal-icon.gold-icon {
   filter: opacity(1) drop-shadow(0 0 6px rgba(212, 166, 0, 0.3));
+  transform: scale(1.05);
+}
+
+.achievement-medal-item.diamond[data-unlocked="true"] .medal-icon.diamond-icon {
+  filter: opacity(1) drop-shadow(0 0 8px rgba(30, 144, 255, 0.4));
   transform: scale(1.05);
 }
 
