@@ -69,9 +69,9 @@ function Statistics() {
         bestAccuracy = parsed.bestAccuracy || 0
         accuracy = parsed.accuracy || 0
         
-        // If questionsAnswered is 0 but we have attempts, calculate from total
-        // This handles old data that doesn't have questionsAnswered
-        if (questionsAnswered === 0 && attempts > 0) {
+        // If questionsAnswered field doesn't exist in old data but we have attempts, use total
+        // This handles old data that doesn't have questionsAnswered field
+        if (!parsed.questionsAnswered && attempts > 0) {
           questionsAnswered = chapter.total
         }
         
