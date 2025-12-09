@@ -350,20 +350,6 @@
     "explanation": "Explanation:\n- I symmetriske forhold har medlemmene omtrent lik innflytelse og ansvar for like viktige oppgaver. Dette kontrasterer med komplementære forhold hvor medlemmene har ulike styrker og dominerer på ulike områder. Symmetriske forhold kan skape likevekt men også konkurranse, mens komplementære forhold kan skape balanse eller konflikt."
   },
   {
-    "id": 29,
-    "section": "Kap2.9",
-    "question": "Hva innebærer sosial loffing?",
-    "options": [
-      "Når noen yter mindre i en gruppe fordi de føler at innsatsen deres ikke blir lagt merke til eller ansvaret er diffust",
-      "En ledelsesstrategi basert på å belønne de mest produktive medlemmene",
-      "En positiv gruppeeffekt der alle presterer bedre sammen enn individuelt",
-      "Når medlemmer får lønn basert på gruppens totale produksjon"
-    ],
-    "answerIndex": 0,
-    "shortExplanation": "Sosial loffing oppstår når noen yter mindre på grunn av uklart ansvar.",
-    "explanation": "Explanation:\n- Sosial loffing oppstår når enkeltpersoner bidrar mindre til gruppens arbeid enn de ville gjort alene, ofte fordi de tror andre vil ta ansvar eller at deres innsats ikke blir lagt merke til eller at ansvaret er diffust. Dette fenomenet kan svekke gruppens effektivitet og engasjement."
-  },
-  {
     "id": 30,
     "section": "Kap2.10",
     "question": "Hvorfor danner mennesker grupper?",
@@ -496,21 +482,6 @@
     "shortExplanation": "Grupper fungerer gjennom dynamiske prosesser med samspill og kommunikasjon.",
     "explanation": "Explanation:\n- **Hvordan grupper fungerer** handler om gruppedynamikken - de løpende endringene og prosessene i gruppen. Grupper fungerer gjennom: **Samspill** (hvordan medlemmene interagerer), **Kommunikasjon** (utveksling av informasjon og mening), **Roller** (funksjoner og forventninger), og **Normer** (uskrevne regler). Grupper er i stadig utvikling og tilpasser seg utfordringer, mål og medlemmer. Dette kalles gruppedynamikk. Gruppen påvirker individet, og individene påvirker gruppen gjennom sine handlinger og holdninger.",
     "example": "En gruppe som starter med usikkerhet og høflighet (forming) går gjennom konflikter (storming), etablerer rutiner (norming), og til slutt jobber effektivt sammen (performing). Hele prosessen påvirkes av medlemmenes personlighet og de eksterne forhold rundt gruppen."
-  },
-  {
-    "id": 39,
-    "section": "Kap1.9",
-    "question": "Hva er gruppetenking?",
-    "options": [
-      "En positiv form for samarbeid der alle medlemmene har samme mening om løsninger",
-      "En tendens der medlemmene undertrykker kritiske meninger for å bevare enighet og unngå konflikter",
-      "En prosess der gruppen utvikler innovative ideer gjennom åpen diskusjon",
-      "En ledelsesteknikk for å få alle medlemmene til å følge samme strategi"
-    ],
-    "answerIndex": 1,
-    "shortExplanation": "Gruppetenking oppstår når medlemmene undertrykker kritikk for å bevare enighet.",
-    "explanation": "Explanation:\n- **Gruppetenking** oppstår når medlemmer i en gruppe undertrykker kritiske meninger, alternative perspektiver og dissenterende synspunkter for å bevare enighet og unngå konflikter. Dette kan føre til dårlige beslutninger fordi viktige innvendinger ikke blir hørt. Gruppetenking hemmer kreativ problemløsning og kritisk vurdering. Det oppstår ofte i grupper med sterk samhørighet eller autoritær ledelse, hvor medlemmene frykteter å bryte enigheten.",
-    "example": "En prosjektgruppe er enig om en strategi, men noen medlemmer har stille reservasjoner. Istedenfor å dele sine bekymringer og teste planene grundig, sier de ikke noe for å ikke skape konflikt. Resultatet blir at gruppen velger en dårlig strategi fordi kritikken aldri ble hørt."
   },
   {
     "id": 40,

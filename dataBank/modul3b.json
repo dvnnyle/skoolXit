@@ -278,19 +278,5 @@
     "answerIndex": 2,
     "shortExplanation": "Aktivitetskontroll fokuserer på prosessen og måten arbeidet gjøres på.",
     "explanation": "Explanation:\n- Aktivitetskontroll eller atferdskontroll fokuserer på HVORDAN arbeidet gjøres - gjennom rapportering, møter, arbeidsrutiner og observasjon. Denne kontrollformen brukes når det er viktig at arbeidet gjøres på en bestemt måte, for eksempel innen sikkerhet, kvalitetsstandard eller lovverk. Den krever mer oppfølging fra lederen enn resultatkontroll, men sikrer at prosessen følger Best Practice. (Se 'Aktivitetskontroll' i Kap 5)"
-  },
-  {
-    "id": 24,
-    "section": "Kap5.6",
-    "question": "Hva handler groupthink eller gruppetenking om?",
-    "options": [
-      "En styrke som oppstår når teamet har høyt samhold og morale",
-      "En naturlig utvikling som sikrer at grupper tar rasjonelle valg",
-      "Når gruppen prioriterer harmoni og enighet over kritisk refleksjon og alternative løsninger",
-      "En åpen og transparentdiskusjonskultur uten hierarki"
-    ],
-    "answerIndex": 2,
-    "shortExplanation": "Gruppetenking oppstår når harmoni prioriteres over kritikk og alternativer.",
-    "explanation": "Explanation:\n- Gruppetenking oppstår når en gruppe med sterkt samhold og høyt press prioriterer harmoni og enighet over kritisk refleksjon. I slik situasjon overses alternative løsninger, risikoen undervurderes, og det tas feil beslutninger. Prosjektleder må aktivt motvirke dette ved å oppmuntre kritisk tenking, spørsmål og diverse perspektiver, selv når det skaper uenighet. (Se 'Groupthink' i Kap 5)"
   }
 ]
