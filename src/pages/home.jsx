@@ -18,20 +18,31 @@ function Home() {
   useEffect(() => {
     // Load stats from localStorage
     const modules = [
-      'module1a', 'module1b', 'module2a', 'module2b', 'module2c',
-      'module3a', 'module3b', 'module3c', 'module4a', 'module4b',
-      'module5a', 'module5b'
+      { id: 'module1a', total: 39 },
+      { id: 'module1b', total: 16 },
+      { id: 'module2a', total: 24 },
+      { id: 'module2b', total: 24 },
+      { id: 'module2c', total: 21 },
+      { id: 'module3a', total: 22 },
+      { id: 'module3b', total: 21 },
+      { id: 'module3c', total: 20 },
+      { id: 'module4a', total: 19 },
+      { id: 'module4b', total: 20 },
+      { id: 'module5a', total: 25 },
+      { id: 'module5b', total: 25 }
     ]
     
     let totalCompleted = 0
     let totalCorrect = 0
     
-    modules.forEach(moduleId => {
-      const storedData = localStorage.getItem(`quiz_${moduleId}`)
+    modules.forEach(module => {
+      const storedData = localStorage.getItem(`quiz_${module.id}`)
       if (storedData) {
         const parsed = JSON.parse(storedData)
         if (parsed.attempts > 0) {
-          totalCompleted += parsed.lastScore || 0
+          // Count total questions in module as completed
+          totalCompleted += module.total
+          // Count correct answers from lastScore
           totalCorrect += parsed.lastScore || 0
         }
       }
