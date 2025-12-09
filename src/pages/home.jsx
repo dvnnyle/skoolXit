@@ -170,14 +170,14 @@ function Home() {
               </div>
             </div>
             
-            <div className="achievement-medal-item diamond" data-unlocked={stats.completedQuestions >= 1350}>
+            <div className="achievement-medal-item diamond" data-unlocked={stats.completedQuestions >= 1000}>
               <img src="/icons/diamond.svg" alt="Diamond" className="medal-icon diamond-icon" />
               <div className="medal-details">
                 <h4>Diamond</h4>
                 <div className="medal-progress-bar">
-                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions - 850) / 500) * 100, 100)}%` }}></div>
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions - 850) / 150) * 100, 100)}%` }}></div>
                 </div>
-                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions - 850), 500)}/500</span>
+                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions - 850), 150)}/150</span>
               </div>
             </div>
           </div>
