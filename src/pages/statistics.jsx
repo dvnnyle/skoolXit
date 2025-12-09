@@ -181,9 +181,9 @@ function Statistics() {
           <div className="stat-card">
             <div className="stat-icon">✅</div>
             <div className="stat-content">
-              <div className="stat-value">{stats.correctAnswers}</div>
-              <div className="stat-label">Correct Answers</div>
-              <div className="stat-sublabel">{accuracyPercentage}% accuracy</div>
+              <div className="stat-value">{accuracyPercentage}%</div>
+              <div className="stat-label">Accuracy</div>
+              <div className="stat-sublabel">{stats.correctAnswers} out of {stats.completedQuestions}</div>
             </div>
           </div>
 
@@ -204,12 +204,12 @@ function Statistics() {
               <span className="progress-value">{stats.completedQuestions}</span>
             </div>
             <div className="progress-stat">
-              <span className="progress-label">Correct Answers</span>
-              <span className="progress-value">{stats.correctAnswers}</span>
+              <span className="progress-label">All-Time Correct Answer</span>
+              <span className="progress-value">{stats.totalCorrectFromAllAttempts}</span>
             </div>
             <div className="progress-stat">
-              <span className="progress-label">Total Correct (All Attempts)</span>
-              <span className="progress-value">{stats.totalCorrectFromAllAttempts}</span>
+              <span className="progress-label">Accuracy</span>
+              <span className="progress-value">{accuracyPercentage}%</span>
             </div>
             <div className="progress-stat">
               <span className="progress-label">Overall Progress</span>
