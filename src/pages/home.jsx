@@ -39,8 +39,17 @@ function Home() {
       const storedData = localStorage.getItem(`quiz_${module.id}`)
       if (storedData) {
         const parsed = JSON.parse(storedData)
+        let questionsAnswered = parsed.questionsAnswered || 0
+        const attempts = parsed.attempts || 0
+        
+        // If questionsAnswered field doesn't exist in old data but we have attempts, use total
+        // This handles old data that doesn't have questionsAnswered field
+        if (!parsed.questionsAnswered && attempts > 0) {
+          questionsAnswered = module.total
+        }
+        
         // Use actual questionsAnswered instead of assuming entire module is completed
-        totalCompleted += parsed.questionsAnswered || 0
+        totalCompleted += questionsAnswered
         // Count correct answers from lastScore
         totalCorrect += parsed.lastScore || 0
       }
