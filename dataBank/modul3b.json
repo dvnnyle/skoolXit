@@ -88,14 +88,14 @@
     "section": "Kap5.9",
     "question": "Hva er relasjonell risiko?",
     "options": [
-      "Intern operasjonell risiko for sykdom, fravær og personlige utfordringer blant prosjektmedlemmer som påvirker kapasitet",
-      "Intern risiko for samarbeidsproblemer, miskommunikasjon og interpersonale spenninger som oppstår innenfor selve teamet",
-      "Teknisk risiko for systemfeil, teknologiske svikt og problemer i verktøyene og systemene som brukes i prosjektet",
-      "Ekstern usikkerthet knyttet til forhold og faktorer utenfor prosjektet: politiske endringer, økonomiske svingninger, endringer hos interessenter"
+      "Operasjonell risiko for teknologiske svikt, systemfeil og problemer i verktøyene og systemene som brukes i arbeidet",
+      "Ekstern usikkerthet knyttet til forhold og faktorer utenfor prosjektet: politiske endringer, økonomiske svingninger, interessentendringer",
+      "Intern operasjonell risiko for sykdom, fravær og personlige helseutfordringer blant prosjektmedlemmer som påvirker deres kapasitet",
+      "Usikkerhet knyttet til samarbeid og tillit mellom mennesker involvert i prosjektet: relasjoner, kommunikasjon og forventninger som kan skape misforståelser, konflikter eller manglende samarbeid"
     ],
     "answerIndex": 3,
-    "shortExplanation": "Relasjonell risiko oppstår fra forhold utenfor prosjektet som påvirker det.",
-    "explanation": "Relasjonell risiko er usikkerthet knyttet til forhold utenfor prosjektet som kan påvirke det: politiske endringer, økonomiske svingninger, eller endringer hos interessenter (kunder, myndigheter, etc.). Dette er risiko som kommer fra prosjektets eksterne omgivelser, ikke fra det interne arbeidet. Håndtering av relasjonell risiko krever god kommunikasjon med eksterne aktører."
+    "shortExplanation": "Relasjonell risiko handler om usikkerhet i samarbeid og tillit mellom mennesker.",
+    "explanation": "Relasjonell risiko handler om usikkerhet knyttet til samarbeid og tillit mellom mennesker som er involvert i prosjektet. Risikoen oppstår når relasjoner, kommunikasjon eller forventninger mellom aktører kan skape misforståelser, konflikter eller manglende samarbeid. Dette er risiko som kommer fra det interpersonale og relasjonelle domenet, ikke fra eksterne faktorer eller teknologiske problemer."
   },
   {
     "id": 10,
