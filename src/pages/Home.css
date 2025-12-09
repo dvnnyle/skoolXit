@@ -652,7 +652,7 @@
   gap: 1.5rem;
   justify-content: center;
   align-items: flex-start;
-  margin: 1.5rem 0 2rem 0;
+  margin: 1rem 0 0rem 0;
   flex-wrap: wrap;
 }
 
@@ -672,7 +672,7 @@
   display: flex;
   gap: 0.4rem;
   justify-content: center;
-  margin: 1.5rem 0 2rem 0;
+  margin: 1.5rem 0 0.5rem 0;
   flex-wrap: nowrap;
   padding: 0.5rem 0;
 }
@@ -728,15 +728,15 @@
 }
 
 .achievement-medal-item.diamond {
-  border-color: rgba(173, 216, 230, 0.3);
-  color: #add8e6;
+  border-color: rgba(147, 112, 219, 0.3);
+  color: #9370db;
 }
 
 .achievement-medal-item.diamond[data-unlocked="true"] {
-  border-color: #00bfff;
-  color: #1e90ff;
-  background: rgba(30, 144, 255, 0.08);
-  box-shadow: 0 0 8px rgba(30, 144, 255, 0.15);
+  border-color: #9370db;
+  color: #b19cd9;
+  background: rgba(147, 112, 219, 0.08);
+  box-shadow: 0 0 8px rgba(147, 112, 219, 0.15);
 }
 
 .achievement-medal-item.emerald {
@@ -752,15 +752,15 @@
 }
 
 .achievement-medal-item.platinum {
-  border-color: rgba(230, 230, 250, 0.3);
-  color: #e6e6fa;
+  border-color: rgba(59, 130, 246, 0.3);
+  color: #3b82f6;
 }
 
 .achievement-medal-item.platinum[data-unlocked="true"] {
-  border-color: #f0f0ff;
-  color: #d8d8f0;
-  background: rgba(230, 230, 250, 0.08);
-  box-shadow: 0 0 8px rgba(230, 230, 250, 0.15);
+  border-color: #60a5fa;
+  color: #93c5fd;
+  background: rgba(59, 130, 246, 0.08);
+  box-shadow: 0 0 8px rgba(59, 130, 246, 0.15);
 }
 
 .medal-icon {
@@ -810,7 +810,7 @@
 }
 
 .achievement-medal-item.diamond[data-unlocked="true"] .medal-icon.diamond-icon {
-  filter: opacity(1) drop-shadow(0 0 8px rgba(30, 144, 255, 0.4));
+  filter: opacity(1) drop-shadow(0 0 8px rgba(147, 112, 219, 0.4));
   transform: scale(1.05);
 }
 
@@ -820,7 +820,7 @@
 }
 
 .achievement-medal-item.platinum[data-unlocked="true"] .medal-icon.platinum-icon {
-  filter: opacity(1) drop-shadow(0 0 8px rgba(230, 230, 250, 0.4));
+  filter: opacity(1) drop-shadow(0 0 8px rgba(59, 130, 246, 0.4));
   transform: scale(1.05);
 }
 

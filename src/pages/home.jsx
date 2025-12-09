@@ -148,58 +148,58 @@ function Home() {
               </div>
             </div>
             
-            <div className="achievement-medal-item silver" data-unlocked={stats.completedQuestions >= 350}>
+            <div className="achievement-medal-item silver" data-unlocked={stats.completedQuestions >= 250}>
               <img src="/icons/silver-medal.svg" alt="Silver Medal" className="medal-icon silver-icon" />
               <div className="medal-details">
                 <h4>Silver</h4>
                 <div className="medal-progress-bar">
-                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions - 100) / 250) * 100, 100)}%` }}></div>
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions) / 250) * 100, 100)}%` }}></div>
                 </div>
-                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions - 100), 250)}/250</span>
+                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions), 250)}/250</span>
               </div>
             </div>
             
-            <div className="achievement-medal-item gold" data-unlocked={stats.completedQuestions >= 850}>
+            <div className="achievement-medal-item gold" data-unlocked={stats.completedQuestions >= 500}>
               <img src="/icons/gold-medal.svg" alt="Gold Medal" className="medal-icon gold-icon" />
               <div className="medal-details">
                 <h4>Gold</h4>
                 <div className="medal-progress-bar">
-                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions - 350) / 500) * 100, 100)}%` }}></div>
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions) / 500) * 100, 100)}%` }}></div>
                 </div>
-                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions - 350), 500)}/500</span>
+                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions), 500)}/500</span>
               </div>
             </div>
             
-            <div className="achievement-medal-item diamond" data-unlocked={stats.completedQuestions >= 1000}>
-              <img src="/icons/diamond.svg" alt="Diamond" className="medal-icon diamond-icon" />
-              <div className="medal-details">
-                <h4>Diamond</h4>
-                <div className="medal-progress-bar">
-                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions - 850) / 150) * 100, 100)}%` }}></div>
-                </div>
-                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions - 850), 150)}/150</span>
-              </div>
-            </div>
-            
-            <div className="achievement-medal-item emerald" data-unlocked={stats.completedQuestions >= 1000}>
+            <div className="achievement-medal-item emerald" data-unlocked={stats.completedQuestions >= 750}>
               <img src="/icons/emerald.svg" alt="Emerald" className="medal-icon emerald-icon" />
               <div className="medal-details">
                 <h4>Emerald</h4>
                 <div className="medal-progress-bar">
-                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions - 1000) / 150) * 100, 100)}%` }}></div>
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions) / 750) * 100, 100)}%` }}></div>
                 </div>
-                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions - 1000), 150)}/150</span>
+                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions), 750)}/750</span>
               </div>
             </div>
             
-            <div className="achievement-medal-item platinum" data-unlocked={stats.completedQuestions >= 1150}>
+            <div className="achievement-medal-item platinum" data-unlocked={stats.completedQuestions >= 1000}>
               <img src="/icons/platinum.svg" alt="Platinum" className="medal-icon platinum-icon" />
               <div className="medal-details">
                 <h4>Platinum</h4>
                 <div className="medal-progress-bar">
-                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions - 1150) / 100) * 100, 100)}%` }}></div>
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions) / 1000) * 100, 100)}%` }}></div>
                 </div>
-                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions - 1150), 100)}/100</span>
+                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions), 1000)}/1000</span>
+              </div>
+            </div>
+            
+            <div className="achievement-medal-item diamond" data-unlocked={stats.completedQuestions >= 1234}>
+              <img src="/icons/diamond.svg" alt="Diamond" className="medal-icon diamond-icon" />
+              <div className="medal-details">
+                <h4>Diamond</h4>
+                <div className="medal-progress-bar">
+                  <div className="medal-progress-fill" style={{ width: `${Math.min((Math.max(0, stats.completedQuestions) / 1234) * 100, 100)}%` }}></div>
+                </div>
+                <span className="medal-count">{Math.min(Math.max(0, stats.completedQuestions), 1234)}/1234</span>
               </div>
             </div>
           </div>
