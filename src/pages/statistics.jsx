@@ -69,12 +69,6 @@ function Statistics() {
         bestAccuracy = parsed.bestAccuracy || 0
         accuracy = parsed.accuracy || 0
         
-        // If questionsAnswered is 0 but we have attempts, calculate from total
-        // This handles old data that doesn't have questionsAnswered
-        if (questionsAnswered === 0 && attempts > 0) {
-          questionsAnswered = chapter.total
-        }
-        
         // If lastScore is still 0 but we have attempt history, use the last attempt's score
         if (lastScore === 0 && attemptHistory.length > 0) {
           lastScore = attemptHistory[attemptHistory.length - 1].score || 0
