@@ -60,7 +60,7 @@ function Module4a() {
       setAnsweredQuestions(answeredQuestions + 1)
     } else {
       const finalScore = score + (currentQuestion.answerIndex === selectedAnswer ? 1 : 0)
-      const totalAnswered = answeredQuestions + 1
+      const totalAnswered = questionsData.length // All questions answered when quiz is completed
       
       // Save to localStorage
       const existingData = localStorage.getItem('quiz_module4a')
