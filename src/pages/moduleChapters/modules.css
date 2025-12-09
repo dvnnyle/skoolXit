@@ -228,6 +228,32 @@
   margin-top: 0.5rem;
 }
 
+.explanation-text ul,
+.explanation-text ol {
+  margin: 0.75rem 0;
+  padding-left: 2rem;
+  color: #ddd;
+}
+
+.explanation-text ul {
+  list-style-type: disc;
+}
+
+.explanation-text ol {
+  list-style-type: decimal;
+}
+
+.explanation-text li {
+  margin: 0.5rem 0;
+  line-height: 1.5;
+}
+
+.explanation-text li strong {
+  display: inline;
+  margin: 0;
+  color: #fff;
+}
+
 .navigation-buttons {
   display: flex;
   gap: 0.75rem;
