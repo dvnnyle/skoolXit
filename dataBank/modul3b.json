@@ -1,13 +1,13 @@
-﻿[
+[
   {
     "id": 3,
     "section": "Kap5.3",
     "question": "Hva betyr styring i prosjekter?",
     "options": [
-      "Å fokusere kun på kostnader og ignorere kvalitet og fremdrift",
-      "Å unngå all form for kontroll for at teamet skal være fritt",
-      "At leder tar alle beslutninger uten innspill fra teamet",
-      "Å oppdage avvik fra planen og iverksette tiltak for å sikre korrekt levering"
+      "Å fokusere på å minimere kostnader gjennom streng budsjettkontroll og å ignorere kvalitet og fremdrift som sekundære faktorer",
+      "Å unngå all form for kontroll og overvåking for å gi teamet maksimal frihet og selvstendighet uten ledelsesintervensjon",
+      "At leder tar alle operative beslutninger selv uten å høre på eller få innspill fra teamets medlemmer om deres perspektiver",
+      "Å oppdage avvik fra fremdriftsplanen og iverksette tiltak for å sikre at prosjektet leverer som forventet gjennom oppfølging og justering"
     ],
     "answerIndex": 3,
     "shortExplanation": "Styring handler om å oppdage avvik og justere for å sikre levering.",
@@ -18,10 +18,10 @@
     "section": "Kap5.4",
     "question": "Hva er inputtkontroll i prosjektarbeid?",
     "options": [
-      "Evaluering av teammedlemmers personlige bakgrunn og utdanning",
-      "Dokumentasjon av prosjektmål og milepæler etter lansering",
-      "Fokus på ressursene som går inn i prosjektet: kompetanse, bemanning, teknologi, tid og penger",
-      "Overvåking av møter og rapporter gjennom hele prosjektet"
+      "Systematisk evaluering av teammedlemmers personlige bakgrunn, utdanning og tidligere arbeidserfaring for å bestemme riktig rolle",
+      "Detaljert dokumentasjon av prosjektmål, milepæler og leveranser etter at prosjektet har blitt lansert og arbeidet har startet",
+      "Fokus på ressursene som går inn i prosjektet fra starten: kompetanse, bemanning, teknologi, tid og penger for å sikre suksess",
+      "Kontinuerlig overvåking av møter, rapporter og kommunikasjon gjennom hele prosjektets levetid for dokumentasjon"
     ],
     "answerIndex": 2,
     "shortExplanation": "Inputtkontroll fokuserer på ressursene som går inn i prosjektet.",
@@ -32,10 +32,10 @@
     "section": "Kap5.5",
     "question": "Hva er resultatkontroll?",
     "options": [
-      "Kontroll av medlemmenes personlighet og fagbakgrunn",
-      "Kontroll av hvordan medlemmene oppfører seg på jobben",
-      "En prosess for å evaluere hvor godt lederen gjør jobben sin",
-      "Fokus på mål og målebare resultater som milepæler, tidsfrister og leveranser"
+      "En form for personlig vurdering av medlemmenes karaktertrekk, personlighet og faglig bakgrunn for rolletildeling",
+      "Detaljert kontroll av hvordan medlemmene oppfører seg og handler på jobben gjennom observasjon og rapportering av atferd",
+      "En evaluerings- og tilbakemeldingsprosess for å vurdere hvor godt lederen eller ledergruppen gjør sin egen lederjobb og gjennomfører ansvar",
+      "Fokus på klart definerte mål og målebare resultater som milepæler, tidsfrister, leveranser og indikatorer for prosjektsuksess"
     ],
     "answerIndex": 3,
     "shortExplanation": "Resultatkontroll fokuserer på målebare mål og leveranser.",
@@ -46,10 +46,10 @@
     "section": "Kap5.6",
     "question": "Hva er aktivitetskontroll (atferdskontroll)?",
     "options": [
-      "Vurdering av medlemmenes personlige preferanser og bakgrunn",
-      "Fokus på handlinger og arbeidsprosesser: rapportering, møter, rutiner og observasjon",
-      "Evaluering av sluttresultater ved prosjektets avslutning",
-      "Måling av teammedlemmers personlige trivsel og jobbtilfredshet"
+      "Vurdering av medlemmenes personlige preferanser, arbeidsstil og kulturell bakgrunn for å tilpasse oppgaver",
+      "Fokus på handlinger og arbeidsprosesser gjennom rapportering, møter, arbeidsmønstre, rutiner og observasjon av daglig arbeid",
+      "Omfattende evaluering av sluttresultater, produktivitet og måloppnåelse ved prosjektets avslutning og oppgjør",
+      "Systematisk måling av teammedlemmers personlige trivsel, jobbtilfredshet og psykologisk velvære i arbeidsomgivelsene"
     ],
     "answerIndex": 1,
     "shortExplanation": "Aktivitetskontroll fokuserer på arbeidsprosessene og hvordan arbeidet gjøres.",
@@ -60,10 +60,10 @@
     "section": "Kap5.7",
     "question": "Hva er klankontroll?",
     "options": [
-      "Kontroll ved hjelp av digitale systemer og elektronisk overvåking",
-      "Streng kontroll fra leder som ikke tillater medlemmene noen frihet",
-      "Kontroll som kun fokuserer på økonomisk resultat",
-      "Kontroll basert på felles kultur, tillit, uformelle normer og sosial kontroll"
+      "Implementering av kontroll ved hjelp av digitale systemer, elektronisk overvåking og automatiserte rapporteringssystemer for sporbarhet",
+      "Streng og detaljert kontroll fra leder som ikke tillater medlemmene noen frihet eller autonomi i arbeidsprosessene",
+      "Finansiell kontroll som kun fokuserer på økonomiske resultater og kostnadsreduksjon som eneste målestokk for suksess",
+      "Desentralisert kontroll basert på felles kultur, tillit, uformelle normer, verdier og sosial kontroll innad i gruppen"
     ],
     "answerIndex": 3,
     "shortExplanation": "Klankontroll er desentralisert kontroll basert på felles kultur og tillit.",
@@ -74,10 +74,10 @@
     "section": "Kap5.8",
     "question": "Hva er operasjonell risiko i prosjekter?",
     "options": [
-      "Risiko for uforutsette problemer i selve gjennomføringen: forsinkelser, teknologiske utfordringer, sykdom",
-      "Risiko for budsjettoverskridelse og økte kostnader fra leverandører",
-      "Risiko knyttet til makroøkonomiske endringer og markedsbetingelser",
-      "Risiko for personlige konflikter og uenigheter innenfor teamet"
+      "Risiko for uforutsette og uplanlagte problemer som oppstår direkte i selve gjennomføringen: forsinkelser, teknologiske utfordringer, sykdom",
+      "Økonomisk risiko for budsjettoverskridelse, kostnadsoverskridelse og økte kostnader fra leverandører og eksterne aktører",
+      "Eksterne risiko knyttet til makroøkonomiske endringer, markedsbetingelser og globale økonomiske bevegelser",
+      "Relasjonell risiko for personlige konflikter, interpersonale spenninger og uenigheter innenfor teamet som påvirker samarbeid"
     ],
     "answerIndex": 0,
     "shortExplanation": "Operasjonell risiko handler om uforutsette problemer i gjennomføringen.",
@@ -88,10 +88,10 @@
     "section": "Kap5.9",
     "question": "Hva er relasjonell risiko?",
     "options": [
-      "Risiko for sykdom og fravær blant prosjektmedlemmer",
-      "Risiko for samarbeidsproblemer og miskommunikasjon internt i teamet",
-      "Risiko for tekniske svikt i systemer og verktøy som brukes",
-      "Usikkerthet knyttet til forhold utenfor prosjektet: politiske endringer, økonomiske svingninger, endringer hos interessenter"
+      "Intern operasjonell risiko for sykdom, fravær og personlige utfordringer blant prosjektmedlemmer som påvirker kapasitet",
+      "Intern risiko for samarbeidsproblemer, miskommunikasjon og interpersonale spenninger som oppstår innenfor selve teamet",
+      "Teknisk risiko for systemfeil, teknologiske svikt og problemer i verktøyene og systemene som brukes i prosjektet",
+      "Ekstern usikkerthet knyttet til forhold og faktorer utenfor prosjektet: politiske endringer, økonomiske svingninger, endringer hos interessenter"
     ],
     "answerIndex": 3,
     "shortExplanation": "Relasjonell risiko oppstår fra forhold utenfor prosjektet som påvirker det.",
@@ -102,10 +102,10 @@
     "section": "Kap5.10",
     "question": "Hva innebærer bemyndiggjøring (empowerment) i prosjektteam?",
     "options": [
-      "At medlemmene må be om tillatelse før de gjør noe",
-      "At det ikke finnes noen form for struktur eller retningslinjer",
-      "At teamet opplever kompetanse, autonomi, støtte og tiltro til egen evne",
-      "At leder tar all makt og kontroll over teamet"
+      "En ledelsespraksis hvor medlemmene kontinuerlig må be om tillatelse før de gjør noe selv når det er innenfor deres ansvarsområde",
+      "En organisasjonsform hvor det ikke finnes noen som helst form for struktur, retningslinjer eller klare rammer for arbeid",
+      "At teamet opplever kompetanse, autonomi, støtte og tiltro til egen evne for å ta beslutninger og ta initiativ",
+      "En ledelsesstil hvor leder tar all makt og kontroll over teamet uten å dele ansvar eller delegere oppgaver"
     ],
     "answerIndex": 2,
     "shortExplanation": "Bemyndiggjøring gjør at teamet opplever kompetanse, autonomi og støtte.",
@@ -116,10 +116,10 @@
     "section": "Kap5.11",
     "question": "Hva er gruppetenking?",
     "options": [
-      "En form for lederskap som er veldig effektiv",
-      "Når gruppen prioriterer harmoni og enighet over kritisk refleksjon og risikoevaluering",
-      "En positiv effekt der alle medlemmene blir enige om de beste løsningene",
-      "En prosess for å dele kunnskap mellom medlemmene"
+      "En meget effektiv og positiv lederstil som er basert på sterkt samhold og høy grad av enighet mellom alle medlemmene",
+      "En negativ gruppeprosess hvor gruppen prioriterer harmoni og enighet over kritisk refleksjon, analyse og risikoevaluering",
+      "En positiv og konstruktiv effekt der alle medlemmene i gruppen blir enige om de beste og mest optimale løsningene for oppgaven",
+      "En kontinuerlig organisasjonsprosess for å dele kunnskap, erfaring og læring mellom alle medlemmene i gruppen"
     ],
     "answerIndex": 1,
     "shortExplanation": "Gruppetenking oppstår når harmoni blir prioritert over kritisk vurdering.",
@@ -130,10 +130,10 @@
     "section": "Kap5.12",
     "question": "Hva er lock-in (sti-avhengighet)?",
     "options": [
-      "Fysisk isolasjon av teamet fra eksterne påvirkninger",
-      "Kryssfunksjonell enighet som kreves før implementering av endringer",
-      "Sikkerhetsprotokoller som begrenser tilgang til systemer og data",
-      "Når teamet låses til en løsning eller teknologi på grunn av tidligere investeringer eller prestisjegrunner"
+      "Fysisk isolasjon og segregering av teamet fra eksterne påvirkninger, stakeholders og relevant informasjon fra omgivelsene",
+      "Kryssfunksjonell enighet og konsensus som kreves før implementering av enhver endring eller justering av strategi",
+      "Strenge sikkerhetsprotokoller som begrenser og kontrollerer tilgang til systemer, data og informasjon innenfor organisasjonen",
+      "Situasjonen hvor teamet låses til en valgt løsning eller teknologi på grunn av tidligere investeringer, prestisjegrunner eller tidsbruk"
     ],
     "answerIndex": 3,
     "shortExplanation": "Lock-in oppstår når teamet blir låst til en løsning på grunn av tidligere valg.",
@@ -144,10 +144,10 @@
     "section": "Kap5.13",
     "question": "Hva er eskalering av feil kurs?",
     "options": [
-      "En akselerert tidsplan for å redusere prosjektets varighet",
-      "Når teamet fortsetter å investere i et dødsdømt prosjekt fordi man vil rettferdigjøre tidligere valg",
-      "Økt finansiering til prosjektet som respons på ressursmangel",
-      "En naturlig og positiv del av prosjektadaptasjon over tid"
+      "En akselerert og intensivisert tidsplan for å redusere prosjektets totale varighet og påkrevde ressursforbruk",
+      "Situasjonen hvor teamet fortsetter å investere ressurser i et dødsdømt prosjekt for å rettferdigjøre tidligere valg og investeringer",
+      "Prosessen med økt finansiering, ressursallokering og økonomisk tilførsel til prosjektet som respons på påvisbar ressursmangel",
+      "En naturlig, forventet og positiv del av den graduelle prosjektadaptasjonen og læringen over tid gjennom livssyklusen"
     ],
     "answerIndex": 1,
     "shortExplanation": "Eskalering oppstår når man fortsetter å investere i dårlige løsninger.",
@@ -158,10 +158,10 @@
     "section": "Kap5.14",
     "question": "Hva er viktig for å unngå dårlige beslutninger i prosjekter?",
     "options": [
-      "Å ha klart definerte mål, riktig kontrollform, tillit og styring, kunnskapsdeling og læring",
-      "Å minimere møter og diskusjoner for å spare tid og ressurser",
-      "Å konsentrere beslutningsmakten hos ledelsen for raskere prosesser",
-      "Å redusere informasjonsstrømmen og fokusere kun på kritiske meldinger"
+      "Å ha klart definerte mål, finne riktig kontrollform, integrere tillit og styring, kunnskapsdeling og kontinuerlig aktiv læring underveis",
+      "Å minimere antall møter og redusere diskusjoner for å spare tid og ressurser og å akselerere beslutningsprosessen",
+      "Å konsentrere all beslutningsmakten hos ledelsen og seniorgruppen for å sikre raskere prosesser og enhetlige avgjørelser",
+      "Å redusere og kontrollere informasjonsstrømmen og fokusere kun på kritiske meldinger for å unngå informasjonsoverbytelse"
     ],
     "answerIndex": 0,
     "shortExplanation": "Gode beslutninger krever klare mål, kontroll, tillit og kontinuerlig læring.",
@@ -172,10 +172,10 @@
     "section": "Kap5.15",
     "question": "Hva er læring og kunnskapsdeling i prosjekter?",
     "options": [
-      "En praksis som kun utøves av prosjektledere og senior sjefskap",
-      "En effektivitetsfaktor som bør minimeres for å maksimere produktivitet",
-      "En kontinuerlig prosess der erfaringer deles og reflekteres på for forbedring",
-      "En summativ evaluering som gjennomføres utelukkende etter prosjektslutt"
+      "En praksis og aktivitet som kun utøves av prosjektledere, seniorledere og den øverste sjefskapen i organisasjonen",
+      "En effektivitetsfaktor som bør minimeres og begrenses for å maksimere produktivitet og hurtig gjennomføring av oppgaver",
+      "En kontinuerlig prosess hvor erfaringer deles, reflekteres på og implementeres for forbedring både under og etter prosjektet",
+      "En summativ evaluering som gjennomføres utelukkende etter prosjektslutt og avslutning for å dokumentere læring"
     ],
     "answerIndex": 2,
     "shortExplanation": "Læring og kunnskapsdeling er kontinuerlig og essensielt for forbedring.",
@@ -186,10 +186,10 @@
     "section": "Kap5.16",
     "question": "Hvordan sikres kunnskapsdeling mellom medlemmer?",
     "options": [
-      "Gjennom uformell og spontan utveksling av informasjon",
-      "Ved å ha klare grenser på hvor mye som skal deles for å opprettholde fokus",
-      "Kun ved at leder distribuerer informasjon fra toppen og ned",
-      "Gjennom åpen kommunikasjon, dokumentasjon, tilbakemeldinger og en kultur som verdsetter læring"
+      "Gjennom uformell og spontan utveksling av informasjon som oppstår naturlig uten planlegging eller struktur",
+      "Ved å ha klare og restriktive grenser på hvor mye som skal deles for å opprettholde fokus og effektivitet",
+      "Utelukkende ved at leder distribuerer informasjon fra toppen og ned til alle medlemmene i en hierarkisk struktur",
+      "Gjennom åpen kommunikasjon, dokumentasjon av erfaringer, konstruktiv tilbakemelding og en kultur som verdsetter læring"
     ],
     "answerIndex": 3,
     "shortExplanation": "Kunnskapsdeling krever åpen kommunikasjon og en læringskultur.",
@@ -200,10 +200,10 @@
     "section": "Kap5.17",
     "question": "Hva er betydningen av tillit for kunnskapsdeling?",
     "options": [
-      "Tillit hindrer kunnskapsdeling fordi det skaper usikkerhet",
-      "Tillit er mindre viktig fordi mennesker deler kunnskap naturlig",
-      "Tillit er essensiell fordi mennesker bare deler når de føler seg trygge",
-      "Tillit er bare relevant mellom venner, ikke i arbeidsteam"
+      "Tillit hindrer og reduserer kunnskapsdeling fordi det skaper usikkerhet og gjør mennesker mer forsiktige",
+      "Tillit er mindre viktig fordi mennesker deler kunnskap og erfaring naturlig og automatisk uavhengig av kontekst",
+      "Tillit er essensiell fordi mennesker bare deler kunnskap, innrømmer feil og eksperimenterer når de føler seg trygge",
+      "Tillit er bare relevant og betydningsfullt mellom personlige venner, ikke i professionelle arbeidsteam eller organisasjoner"
     ],
     "answerIndex": 2,
     "shortExplanation": "Tillit er essensielt for at mennesker skal dele kunnskap og erfaring.",
@@ -214,10 +214,10 @@
     "section": "Kap5.18",
     "question": "Hvordan kan prosjekter håndtere risiko bedre?",
     "options": [
-      "Gjennom å identifisere både operasjonell og relasjonell risiko tidlig og planlegge håndtering",
-      "Ved at leder alene bærer all ansvaret for risikovurdering",
-      "Ved å akseptere risiko som naturlig og håpe det løses underveis",
-      "Ved å implementere streng kontroll som hindrer enhver eksperimentering"
+      "Gjennom å identifisere og analysere både operasjonell og relasjonell risiko tidlig og planlegge konkret håndtering",
+      "Ved at leder alene bærer og tar alt ansvar for risikovurdering, analyse og beslutninger uten involvering av teamet",
+      "Ved å akseptere risiko som en naturlig og unngåelig situasjon og håpe at det blir løst på en eller annen måte underveis",
+      "Ved å implementere og iverksette meget streng og detaljert kontroll som hindrer enhver form for eksperimentering eller utprøving"
     ],
     "answerIndex": 0,
     "shortExplanation": "Risikohåndtering krever identifikasjon av både operasjonell og relasjonell risiko.",
@@ -228,10 +228,10 @@
     "section": "Kap5.19",
     "question": "Hva er rollen til leder i performing-fasen?",
     "options": [
-      "Å øke kontrollen for å sikre at alt gjøres nøyaktig som planlagt",
-      "Å balansere mellom kontroll, støtte og å legge til rette for læring og autonomi",
-      "Å tre seg tilbake helt fordi teamet ikke lenger trenger ledelse",
-      "Å ignorere teamet og fokusere kun på kommunikasjon med ledelse"
+      "Å øke og styrke kontrollen betydelig for å sikre at alt gjøres nøyaktig som opprinnelig planlagt uten avvik",
+      "Å balansere mellom å gi nødvendig kontroll, støtte til teamet og å legge til rette for læring og autonomi",
+      "Å tre seg helt tilbake og gi teamet fullstendig ansvar fordi teamet ikke lenger trenger noen form for ledelse",
+      "Å ignorere teamet og fokusere utelukkende på kommunikasjon med ledelse og eksterne interessenter"
     ],
     "answerIndex": 1,
     "shortExplanation": "Leder balanserer kontroll, støtte og forutsetninger for læring og autonomi.",
@@ -242,10 +242,10 @@
     "section": "Kap5.20",
     "question": "Hva er kjernen i vellykket prosjektledelse i performing-fasen?",
     "options": [
-      "Å sikre at alle arbeider så fort som mulig uavhengig av kvalitet",
-      "Å unngå alle former for refleksjon og fokusere kun på levering",
-      "Å minimere kommunikasjon for å spare tid",
-      "Å kombinere klare mål, god styring, læring og kontinuerlig forbedring"
+      "Å sikre at alle arbeider så raskt som mulig uavhengig av kvalitet, sikkerhet eller læring underveis",
+      "Å unngå alle former for refleksjon, evaluering og læring og fokusere utelukkende på rask levering av resultater",
+      "Å minimere og redusere all kommunikasjon mellom medlemmene for å spare tid og ressurser i arbeidet",
+      "Å kombinere klare mål, effektiv styring, kontinuerlig læring og evne til å justere kurs basert på erfaring"
     ],
     "answerIndex": 3,
     "shortExplanation": "Vellykket ledelse krever klare mål, styring, læring og forbedring.",
@@ -256,10 +256,10 @@
     "section": "Kap5.3",
     "question": "Hva fokuserer resultatkontroll på?",
     "options": [
-      "Mål og målebare resultater som milepæler, tidsfrister og leveranser",
-      "Kun på menneskets følelser, ikke på resultater",
-      "Detaljert overvåking av hver enkelt handling medlemmene gjør",
-      "Å unngå alle former for måling"
+      "Mål og målebare resultater som milepæler, tidsfrister, leveranser og indikatorer for prosjektsuksess som gir fleksibilitet i prosessen",
+      "Utelukkende på menneskets personlige følelser, motivasjon og psykologiske tilstand uten fokus på konkrete, målbare leveranser",
+      "Detaljert overåking av hver enkelt handling og oppgave som medlemmene gjør for å sikre at prosessen følges nøyaktig",
+      "Å unngå og eliminere alle former for måling og evaluering og la teamet helt selv bestemme hva som skal regnes som suksess"
     ],
     "answerIndex": 0,
     "shortExplanation": "Resultatkontroll fokuserer på mål og målebare resultater.",
@@ -270,10 +270,10 @@
     "section": "Kap5.4",
     "question": "Hva betyr aktivitetskontroll eller atferdskontroll?",
     "options": [
-      "Å unngå alle møter og rapportering",
-      "Fokus på resultater uten å bry seg om hvordan de oppnås",
-      "Fokus på handlinger og arbeidsprosesser - rapportering, møter, arbeidsrutiner",
-      "En form for kontroll som ikke krever noen oppfølging"
+      "Å unngå og eliminere alle møter, rapportering og dokumentasjon som kan oppfattes som byrkratisk eller ineffektiv",
+      "Fokus på resultater og hva som leveres uten å vurdere eller bry seg om hvordan eller på hvilken måte de oppnås",
+      "Fokus på handlinger og arbeidsprosesser gjennom rapportering, møter, arbeidsrutiner og observasjon av hvordan arbeidet gjøres",
+      "En form for kontroll som ikke krever noen oppfølging, evaluering eller aktiv tilsyn fra ledelsen av arbeidsprosessene"
     ],
     "answerIndex": 2,
     "shortExplanation": "Aktivitetskontroll fokuserer på prosessen og måten arbeidet gjøres på.",
