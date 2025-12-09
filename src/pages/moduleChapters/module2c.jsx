@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 import NavigationMenu from '../widget/navigationMenu'
 import CelebrationBackground from '../../components/CelebrationBackground'
 import questionsData from '../../../dataBank/modul2c.json'
+import { formatExplanation } from './formatExplanation'
 import './modules.css'
 
 
@@ -170,7 +171,8 @@ function Module2c() {
                     </div>
                     
                     <div className="review-explanation">
-                      <strong>Explanation:</strong> {question.explanation}
+                      <strong>Explanation:</strong> 
+                      <div dangerouslySetInnerHTML={{ __html: formatExplanation(question.explanation) }} />
                     </div>
                   </div>
                 )
@@ -293,20 +295,14 @@ function Module2c() {
                 <p 
                   className="short-explanation"
                   dangerouslySetInnerHTML={{ 
-                    __html: currentQuestion.shortExplanation.replace(
-                      /'([^']+)'/g, 
-                      "<span class='highlight'>$1</span>"
-                    )
+                    __html: formatExplanation(currentQuestion.shortExplanation)
                   }}
                 />
               )}
               <p 
                 className="explanation-text"
                 dangerouslySetInnerHTML={{ 
-                  __html: currentQuestion.explanation.replace(
-                    /'([^']+)'/g, 
-                    "<span class='highlight'>$1</span>"
-                  )
+                  __html: formatExplanation(currentQuestion.explanation)
                 }}
               />
             </div>

@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 import NavigationMenu from '../widget/navigationMenu'
 import CelebrationBackground from '../../components/CelebrationBackground'
 import questionsData from '../../../dataBank/modul1a.json'
+import { formatExplanation } from './formatExplanation'
 import './modules.css'
 
 const shuffleArray = (array) => {
@@ -169,7 +170,8 @@ function Module1a() {
                     </div>
                     
                     <div className="review-explanation">
-                      <strong>Explanation:</strong> {question.explanation}
+                      <strong>Explanation:</strong> 
+                      <div dangerouslySetInnerHTML={{ __html: formatExplanation(question.explanation) }} />
                     </div>
                   </div>
                 )
@@ -292,20 +294,14 @@ function Module1a() {
                 <p 
                   className="short-explanation"
                   dangerouslySetInnerHTML={{ 
-                    __html: currentQuestion.shortExplanation.replace(
-                      /'([^']+)'/g, 
-                      "<span class='highlight'>$1</span>"
-                    )
+                    __html: formatExplanation(currentQuestion.shortExplanation)
                   }}
                 />
               )}
               <div 
                 className="explanation-text"
                 dangerouslySetInnerHTML={{ 
-                  __html: currentQuestion.explanation.replace(
-                    /'([^']+)'/g, 
-                    "<span class='highlight'>$1</span>"
-                  )
+                  __html: formatExplanation(currentQuestion.explanation)
                 }}
               />
             </div>

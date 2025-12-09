@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 import NavigationMenu from '../widget/navigationMenu'
 import CelebrationBackground from '../../components/CelebrationBackground'
 import questionsData from '../../../dataBank/modul1b.json'
+import { formatExplanation } from './formatExplanation'
 import './modules.css'
 
 
@@ -289,20 +290,14 @@ function Module1b() {
                 <p 
                   className="short-explanation"
                   dangerouslySetInnerHTML={{ 
-                    __html: currentQuestion.shortExplanation.replace(
-                      /'([^']+)'/g, 
-                      "<span class='highlight'>$1</span>"
-                    )
+                    __html: formatExplanation(currentQuestion.shortExplanation)
                   }}
                 />
               )}
-              <div 
+              <p 
                 className="explanation-text"
                 dangerouslySetInnerHTML={{ 
-                  __html: currentQuestion.explanation.replace(
-                    /'([^']+)'/g, 
-                    "<span class='highlight'>$1</span>"
-                  )
+                  __html: formatExplanation(currentQuestion.explanation)
                 }}
               />
             </div>
