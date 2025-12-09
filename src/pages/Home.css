@@ -827,6 +827,9 @@
 .medal-details {
   text-align: center;
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .medal-details h4 {
@@ -840,8 +843,8 @@
   background: rgba(255, 255, 255, 0.1);
   border-radius: 2px;
   overflow: hidden;
-  margin-bottom: 0.2rem;
-  width: 70px;
+  margin-bottom: 0.15rem;
+  width: 60px;
 }
 
 .medal-progress-fill {
