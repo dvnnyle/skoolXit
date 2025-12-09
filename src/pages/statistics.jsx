@@ -237,42 +237,31 @@ function Statistics() {
             </div>
             
             <div className="medal-milestone">
-              <img src="/icons/silver-medal.svg" alt="Silver Medal" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 250 ? 'unlocked' : ''}`} />
+              <img src="/icons/silver-medal.svg" alt="Silver Medal" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 300 ? 'unlocked' : ''}`} />
               <div className="medal-milestone-info">
-                <p>Silver: 250 correct answers</p>
+                <p>Silver: 300 correct answers</p>
                 <div className="milestone-bar">
-                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 250) * 100, 100)}%` }}></div>
+                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 300) * 100, 100)}%` }}></div>
                 </div>
-                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 250)}/250</span>
+                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 300)}/300</span>
               </div>
             </div>
             
             <div className="medal-milestone">
-              <img src="/icons/gold-medal.svg" alt="Gold Medal" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 500 ? 'unlocked' : ''}`} />
+              <img src="/icons/gold-medal.svg" alt="Gold Medal" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 600 ? 'unlocked' : ''}`} />
               <div className="medal-milestone-info">
-                <p>Gold: 500 correct answers</p>
+                <p>Gold: 600 correct answers</p>
                 <div className="milestone-bar">
-                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 500) * 100, 100)}%` }}></div>
+                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 600) * 100, 100)}%` }}></div>
                 </div>
-                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 500)}/500</span>
+                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 600)}/600</span>
               </div>
             </div>
             
             <div className="medal-milestone">
-              <img src="/icons/emerald.svg" alt="Emerald" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 750 ? 'unlocked' : ''}`} />
+              <img src="/icons/emerald.svg" alt="Emerald" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 1000 ? 'unlocked' : ''}`} />
               <div className="medal-milestone-info">
-                <p>Emerald: 750 correct answers</p>
-                <div className="milestone-bar">
-                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 750) * 100, 100)}%` }}></div>
-                </div>
-                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 750)}/750</span>
-              </div>
-            </div>
-            
-            <div className="medal-milestone">
-              <img src="/icons/platinum.svg" alt="Platinum" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 1000 ? 'unlocked' : ''}`} />
-              <div className="medal-milestone-info">
-                <p>Platinum: 1000 correct answers</p>
+                <p>Emerald: 1000 correct answers</p>
                 <div className="milestone-bar">
                   <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 1000) * 100, 100)}%` }}></div>
                 </div>
@@ -281,13 +270,24 @@ function Statistics() {
             </div>
             
             <div className="medal-milestone">
-              <img src="/icons/diamond.svg" alt="Diamond" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 1234 ? 'unlocked' : ''}`} />
+              <img src="/icons/platinum.svg" alt="Platinum" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 1500 ? 'unlocked' : ''}`} />
               <div className="medal-milestone-info">
-                <p>Diamond: 1234 correct answers</p>
+                <p>Platinum: 1500 correct answers</p>
                 <div className="milestone-bar">
-                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 1234) * 100, 100)}%` }}></div>
+                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 1500) * 100, 100)}%` }}></div>
                 </div>
-                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 1234)}/1234</span>
+                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 1500)}/1500</span>
+              </div>
+            </div>
+            
+            <div className="medal-milestone">
+              <img src="/icons/diamond.svg" alt="Diamond" className={`medal-icon-stats ${stats.totalCorrectFromAllAttempts >= 2000 ? 'unlocked' : ''}`} />
+              <div className="medal-milestone-info">
+                <p>Diamond: 2000 correct answers</p>
+                <div className="milestone-bar">
+                  <div className="milestone-fill" style={{ width: `${Math.min((Math.max(0, stats.totalCorrectFromAllAttempts) / 2000) * 100, 100)}%` }}></div>
+                </div>
+                <span className="milestone-text">{Math.min(Math.max(0, stats.totalCorrectFromAllAttempts), 2000)}/2000</span>
               </div>
             </div>
           </div>
