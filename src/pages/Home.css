@@ -795,7 +795,7 @@
 }
 
 .achievement-medal-item.bronze[data-unlocked="true"] .medal-icon.bronze-icon {
-  filter: opacity(1) drop-shadow(0 0 6px rgba(217, 153, 102, 0.3));
+  filter: opacity(1) drop-shadow(0 0 8px rgba(217, 153, 102, 0.4));
   transform: scale(1.05);
 }
 
@@ -805,7 +805,7 @@
 }
 
 .achievement-medal-item.gold[data-unlocked="true"] .medal-icon.gold-icon {
-  filter: opacity(1) drop-shadow(0 0 6px rgba(212, 166, 0, 0.3));
+  filter: opacity(1) drop-shadow(0 0 8px rgba(212, 166, 0, 0.4));
   transform: scale(1.05);
 }
 
