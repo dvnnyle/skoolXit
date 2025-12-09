@@ -18,7 +18,7 @@ function Statistics() {
     // Load statistics from localStorage - organized by modules
     const quizCategories = {
       module1: [
-        { id: 'module1a', name: 'Module 1A', total: 39 },
+        { id: 'module1a', name: 'Module 1A', total: 37 },
         { id: 'module1b', name: 'Module 1B', total: 16 }
       ],
       module2: [
@@ -28,7 +28,7 @@ function Statistics() {
       ],
       module3: [
         { id: 'module3a', name: 'Module 3A', total: 22 },
-        { id: 'module3b', name: 'Module 3B', total: 21 },
+        { id: 'module3b', name: 'Module 3B', total: 20 },
         { id: 'module3c', name: 'Module 3C', total: 20 }
       ],
       module4: [
@@ -36,7 +36,7 @@ function Statistics() {
         { id: 'module4b', name: 'Module 4B', total: 20 }
       ],
       module5: [
-        { id: 'module5a', name: 'Module 5A', total: 25 },
+        { id: 'module5a', name: 'Module 5A', total: 24 },
         { id: 'module5b', name: 'Module 5B', total: 25 }
       ]
     }

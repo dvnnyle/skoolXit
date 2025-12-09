@@ -10,26 +10,24 @@ import Footer from './widget/footer'
 function Home() {
   const [showScrollTop, setShowScrollTop] = useState(false)
   const [stats, setStats] = useState({
-    completedQuestions: 0,
-    correctAnswers: 0,
-    totalCorrectFromAllAttempts: 0,
-    totalQuestions: 251
-  })
-
-  const loadStats = () => {
+      completedQuestions: 0,
+      correctAnswers: 0,
+      totalCorrectFromAllAttempts: 0,
+      totalQuestions: 272
+    })  const loadStats = () => {
     // Load stats from localStorage
     const modules = [
-      { id: 'module1a', total: 39 },
+      { id: 'module1a', total: 37 },
       { id: 'module1b', total: 16 },
       { id: 'module2a', total: 24 },
       { id: 'module2b', total: 24 },
       { id: 'module2c', total: 21 },
       { id: 'module3a', total: 22 },
-      { id: 'module3b', total: 21 },
+      { id: 'module3b', total: 20 },
       { id: 'module3c', total: 20 },
       { id: 'module4a', total: 19 },
       { id: 'module4b', total: 20 },
-      { id: 'module5a', total: 25 },
+      { id: 'module5a', total: 24 },
       { id: 'module5b', total: 25 }
     ]
     
@@ -254,7 +252,7 @@ function Home() {
               </div>
               <h3>Module 1A</h3>
               <p>Gruppepsykologi og gruppedannelse</p>
-              <span className="question-count">39 questions</span>
+              <span className="question-count">37 questions</span>
             </Link>
             <Link to="/module1b" className="chapter-button starred" id="module1b">
               <div className="star-badge">
@@ -330,7 +328,7 @@ function Home() {
               </div>
               <h3>Module 3B</h3>
               <p>Læring og kunnskapsdeling i prosjekter</p>
-              <span className="question-count">21 questions</span>
+              <span className="question-count">20 questions</span>
             </Link>
             <Link to="/module3c" className="chapter-button starred" id="module3c">
               <div className="star-badge">
@@ -386,7 +384,7 @@ function Home() {
               </div>
               <h3>Module 5A</h3>
               <p>Konflikter i prosjekter</p>
-              <span className="question-count">25 questions</span>
+              <span className="question-count">24 questions</span>
             </Link>
             <Link to="/module5b" className="chapter-button starred" id="module5b">
               <div className="star-badge">
