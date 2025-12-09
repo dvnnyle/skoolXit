@@ -26,14 +26,13 @@ export const formatExplanation = (text) => {
   }
   
   // Handle bullet points starting with - 
-  const bulletPattern = /^-\s+(.+)$/gm;
-  if (bulletPattern.test(result)) {
-    result = result.replace(/^-\s+(.+)$/gm, '<li>$1</li>');
-    // Wrap consecutive <li> items in <ul>
-    result = result.replace(/(<li>.*?<\/li>)/s, (match) => {
-      return '<ul>' + match + '</ul>';
-    });
-  }
+  // First, convert individual bullets to <li> tags
+  result = result.replace(/^-\s+(.+)$/gm, '<li>$1</li>');
+  
+  // Wrap consecutive <li> items in <ul>
+  result = result.replace(/(<li>[\s\S]+?<\/li>\n?)+/g, (match) => {
+    return '<ul>' + match.trim() + '</ul>';
+  });
   
   // Handle line breaks and paragraph breaks
   result = result
