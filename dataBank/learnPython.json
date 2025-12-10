@@ -221,7 +221,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "If-setning sjekker betingelse og kjører kode.",
-    "explanation": "**If-setninger** brukes for å sjekke en betingelse. Hvis betingelsen er sann (True), kjører Python koden som står innenfor if-blokken.\n\n**Regler for if-setninger:**\n- Må alltid ende med kolon (:)\n- Koden inni må være innrykket (4 mellomrom eller tab)\n- Betingelsen må gi True eller False\n\n**Eksempel:**\nif alder >= 18:\n    print('Du er voksen')\n\nDenne koden kjører bare hvis alder er 18 eller høyere. Hvis betingelsen er False, hoppes koden over."
+    "explanation": "**En if-setning (if statement)** er en kontrollstruktur som lar programmet ta beslutninger basert på om en betingelse er sann eller usann.\n\n**Hva den gjør:**\nIf-setninger sjekker en betingelse. Hvis betingelsen er sann (True), kjører Python koden som står innenfor if-blokken.\n\n**Regler for if-setninger:**\n- Må alltid ende med kolon (:)\n- Koden inni må være innrykket (4 mellomrom eller tab)\n- Betingelsen må gi True eller False\n\n**Eksempel:**\n```python\nif alder >= 18:\n    print('Du er voksen')\n```\n\nDenne koden kjører bare hvis alder er 18 eller høyere. Hvis betingelsen er False, hoppes koden over."
   },
   {
     "id": 17,
@@ -235,7 +235,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "elif gir nye valg, else er siste alternativ.",
-    "explanation": "**elif** (ellers hvis) brukes for å sjekke flere betingelser i rekkefølge. **else** brukes når ingen av betingelsene stemmer.\n\n**Regler:**\n- 'elif' må ha en betingelse etter seg\n- 'else' trenger ingen betingelse\n- 'else' kommer alltid sist\n- Du kan ha mange 'elif', men kun én 'else'\n\n**Eksempel:**\nif alder >= 18:\n    print('Voksen')\nelif alder > 12:\n    print('Tenåring')\nelse:\n    print('Barn')\n\nDette gir tre forskjellige utfall basert på alderen. Python sjekker betingelsene ovenfra og ned, og kjører kun den første som stemmer."
+    "explanation": "**elif (else if)** og **else** er utvidelser av if-setninger som håndterer flere alternative betingelser.\n\n**Hva de er:**\n- **elif** (ellers hvis) er en kontrollstruktur som sjekker nye betingelser hvis den forrige if/elif var False\n- **else** er en kontrollstruktur som kjører når ingen av betingelsene over stemmer\n\n**Regler:**\n- 'elif' må ha en betingelse etter seg\n- 'else' trenger ingen betingelse\n- 'else' kommer alltid sist\n- Du kan ha mange 'elif', men kun én 'else'\n\n**Eksempel:**\n```python\nif alder >= 18:\n    print('Voksen')\nelif alder > 12:\n    print('Tenåring')\nelse:\n    print('Barn')\n```\n\nDette gir tre forskjellige utfall basert på alderen. Python sjekker betingelsene ovenfra og ned, og kjører kun den første som stemmer."
   },
   {
     "id": 18,
@@ -277,7 +277,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Prosedyrer returnerer ikke verdi, funksjoner gjør det.",
-    "explanation": "En **prosedyre (procedure)** er en del av koden som utfører en oppgave, men som ikke returnerer en verdi. I Python er dette funksjoner uten 'return'. En **funksjon (function)** ligner på en prosedyre, men returnerer en verdi som kan brukes videre i programmet."
+    "explanation": "**En prosedyre (procedure)** er et navngitt stykke kode som utfører en oppgave, men som ikke returnerer en verdi. **En funksjon (function)** er også et navngitt stykke kode, men den returnerer en verdi.\n\n**Forskjellen:**\n- **Prosedyre**: Utfører handlinger, men gir ingen verdi tilbake (ingen `return`)\n- **Funksjon**: Utfører handlinger OG returnerer en verdi med `return`\n\nI Python er dette teknisk sett begge funksjoner, men vi skiller mellom dem basert på om de returnerer noe eller ikke."
   },
   {
     "id": 21,
@@ -319,7 +319,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "En liste samler flere verdier i én variabel.",
-    "explanation": "Lister er samlinger av flere verdier i én variabel. Du kan lagre mange elementer sammen, for eksempel: frukt = ['eple', 'banan', 'pære']. Dette gjør det enkelt å håndtere grupper av data."
+    "explanation": "**En liste (list)** er en datastruktur som samler flere verdier i én variabel, i en bestemt rekkefølge.\n\n**Hva det er:**\nLister er samlinger av flere verdier som holdes sammen. Du kan lagre mange elementer sammen, for eksempel: `frukt = ['eple', 'banan', 'pære']`. Dette gjør det enkelt å håndtere grupper av relatert data.\n\n**Egenskaper:**\n- Ordnet (rekkefølgen bevares)\n- Kan endres (mutable)\n- Kan inneholde forskjellige datatyper\n- Bruker indekser fra 0"
   },
   {
     "id": 24,
@@ -347,7 +347,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Ordbøker bruker nøkkel : verdi par.",
-    "explanation": "Ordbøker lagrer data som nøkkel : verdi par. For eksempel: person = {'navn': 'Sara', 'alder': 15}. Du henter verdier ved å bruke nøkkelen: person['navn'] gir 'Sara'. Dette gjør det enkelt å organisere relatert informasjon sammen."
+    "explanation": "**En ordbok (dictionary)** er en datastruktur som lagrer informasjon som nøkkel-verdi par, der hver nøkkel peker til en verdi.\n\n**Hva det er:**\nOrdbøker lagrer data som nøkkel : verdi par. For eksempel: `person = {'navn': 'Sara', 'alder': 15}`. Du henter verdier ved å bruke nøkkelen: `person['navn']` gir 'Sara'.\n\n**Hvorfor bruke det:**\nOrdbøker gjør det enkelt å organisere relatert informasjon sammen ved å bruke beskrivende nøkler i stedet for tall-indekser."
   },
   {
     "id": 26,
