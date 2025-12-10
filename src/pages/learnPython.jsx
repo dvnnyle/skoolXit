@@ -235,7 +235,7 @@ function LearnPython() {
       <NavigationMenu />
       <div className="quiz-container">
         <div className="quiz-header">
-          <h2>Intro to Python: Grunnleggende Konsepter</h2>
+          <h2>📚 Intro to Python</h2>
           <div className="progress-info">
             <div style={{ display: 'flex', alignItems: 'center', width: '100%' }}>
               <span>Question {currentQuestionIndex + 1} of {questions.length}</span>
@@ -255,12 +255,11 @@ function LearnPython() {
         </div>
 
         <div className="question-card">
-          <div className="section-badge">Section {currentQuestion.section}</div>
+          <div className="section-badge">{currentQuestion.section}</div>
           <h3 className="question-text">
             {currentQuestion.question.split('```')[0].trim()}
           </h3>
           
-          {/* Code snippet card */}
           {currentQuestion.question.includes('```python') && (
             <div className="code-snippet-card">
               <div className="code-header">Python</div>
@@ -305,37 +304,30 @@ function LearnPython() {
               <div className="correct-answer">
                 The correct answer is: {currentQuestion.options[currentQuestion.answerIndex]}
               </div>
-              {currentQuestion.shortExplanation && (
-                <p 
-                  className="short-explanation"
-                  dangerouslySetInnerHTML={{ 
-                    __html: formatExplanation(currentQuestion.shortExplanation)
-                  }}
-                />
-              )}
               <div 
                 className="explanation-text"
-                dangerouslySetInnerHTML={{ 
-                  __html: formatExplanation(currentQuestion.explanation)
-                }}
+                dangerouslySetInnerHTML={{ __html: formatExplanation(currentQuestion.explanation) }}
               />
             </div>
           )}
+        </div>
 
-          <div className="navigation-buttons">
-            {currentQuestionIndex > 0 && (
-              <button onClick={handlePrevious} className="previous-button">
-                Previous
-              </button>
-            )}
-            <button 
-              onClick={handleNext} 
-              className="next-button"
-              disabled={selectedAnswer === null}
-            >
-              {selectedAnswer === null ? '🔒 Select an answer' : (currentQuestionIndex < questions.length - 1 ? 'Next Question' : 'See Results')}
-            </button>
-          </div>
+        <div className="navigation-buttons">
+          <button 
+            onClick={handlePrevious} 
+            className="previous-button"
+            disabled={currentQuestionIndex === 0}
+          >
+            ← Previous
+          </button>
+          <button 
+            onClick={handleNext} 
+            className="next-button"
+            disabled={selectedAnswer === null}
+          >
+            {currentQuestionIndex === questions.length - 1 ? 'Finish' : 'Next →'}
+          </button>
+        </div>
         </div>
       </div>
     </motion.div>

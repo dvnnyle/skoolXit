@@ -4,12 +4,12 @@
     "section": "Kap1.1",
     "question": "Hva er programmering?",
     "options": [
-      "Å designe grafiske brukergrensesnitt for apper",
-      "Å gi datamaskiner instrukser slik at de kan gjøre oppgaver for oss",
+      "Å reparere datamaskiner når de går i stykker",
       "Å installere programmer på datamaskinen",
-      "Å reparere datamaskiner når de går i stykker"
+      "Å designe grafiske brukergrensesnitt for apper",
+      "Å gi datamaskiner instrukser slik at de kan gjøre oppgaver for oss"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "Programmering er å gi datamaskiner instrukser.",
     "explanation": "Programmering handler om å skrive kode som datamaskinen kan følge steg for steg. Vi gir datamaskinen instrukser om hva den skal gjøre, og den utfører oppgavene for oss. Dette gjøres ved å skrive algoritmer i et programmeringsspråk som maskinen forstår."
   },
@@ -19,11 +19,11 @@
     "question": "Hva er en algoritme?",
     "options": [
       "Et avansert programmeringsspråk brukt av eksperter",
-      "En oppskrift eller plan for hvordan et problem skal løses",
       "Et verktøy for å debugge kode",
-      "En type datamaskin som brukes til kunstig intelligens"
+      "En type datamaskin som brukes til kunstig intelligens",
+      "En oppskrift eller plan for hvordan et problem skal løses"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "shortExplanation": "En algoritme er en oppskrift for å løse et problem.",
     "explanation": "En algoritme er en systematisk oppskrift eller plan som beskriver hvordan et problem skal løses. Programmering handler om å skrive denne algoritmen i et språk som datamaskinen forstår, slik at den kan følge stegene og løse problemet automatisk."
   },
@@ -32,12 +32,12 @@
     "section": "Kap1.2.1",
     "question": "Hvorfor er Python et populært programmeringsspråk?",
     "options": [
-      "Det er det raskeste programmeringsspråket som finnes",
       "Det er lett å lære, lett å lese, og brukes i mange ulike områder",
-      "Det er det eldste programmeringsspråket i bruk",
-      "Det krever minst lagringsplass på datamaskinen"
+      "Det krever minst lagringsplass på datamaskinen",
+      "Det er det raskeste programmeringsspråket som finnes",
+      "Det er det eldste programmeringsspråket i bruk"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Python er enkelt, lesbart og allsidig.",
     "explanation": "Python er populært fordi det er lett å lære og lett å lese. Det passer for både nybegynnere og eksperter, og kan brukes til alt fra spill og nettsider til roboter, kunstig intelligens og dataanalyse. Dette gjør Python til et svært allsidig verktøy."
   },
@@ -48,8 +48,8 @@
     "options": [
       "Å skrive kode som kun kan kjøres på mobile enheter",
       "Å organisere kode i objekter med egenskaper og funksjoner",
-      "Å optimalisere kode for raskere kjøring",
-      "Å lage grafikk og animasjoner i programmer"
+      "Å lage grafikk og animasjoner i programmer",
+      "Å optimalisere kode for raskere kjøring"
     ],
     "answerIndex": 1,
     "shortExplanation": "OOP organiserer kode i objekter med data og handlinger.",
@@ -60,12 +60,12 @@
     "section": "Kap2.3",
     "question": "Hvilket programmeringsspråk introduserte først objektorientert programmering?",
     "options": [
-      "Simula 67, utviklet i Norge",
-      "Python, utviklet i Nederland",
+      "Java, utviklet i USA",
       "C++, utviklet i USA",
-      "Java, utviklet i USA"
+      "Simula 67, utviklet i Norge",
+      "Python, utviklet i Nederland"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "shortExplanation": "Simula 67 var det første OOP-språket.",
     "explanation": "Simula 67, utviklet i Norge, var det første programmeringsspråket som introduserte objektorientert programmering. Dette la grunnlaget for moderne språk som Python, Java og C#, som alle bruker OOP-prinsipper i dag."
   },
@@ -74,12 +74,12 @@
     "section": "Kap4.1",
     "question": "Hva er et utsagn i programmering?",
     "options": [
-      "En enkelt linje kode som utfører en handling",
+      "En feilmelding som vises når programmet krasjer",
       "En kommentar som forklarer hva koden gjør",
       "En variabel som lagrer tekst",
-      "En feilmelding som vises når programmet krasjer"
+      "En enkelt linje kode som utfører en handling"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "Et utsagn er en kodelinje som utfører en handling.",
     "explanation": "Et **utsagn (statement)** er en enkelt linje kode som utfører en spesifikk handling. Dette kan for eksempel være å skrive noe på skjermen med 'print()', endre en verdi i en variabel, eller utføre en beregning. Utsagn er byggesteinene i et program."
   },
@@ -89,11 +89,11 @@
     "question": "I hvilken rekkefølge kjøres kode i Python?",
     "options": [
       "Tilfeldig rekkefølge bestemt av datamaskinen",
-      "Nedenfra og opp, baklens",
       "Alle linjer kjøres samtidig",
-      "Ovenfra og ned, linje for linje"
+      "Ovenfra og ned, linje for linje",
+      "Nedenfra og opp, baklens"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Kode kjøres ovenfra og ned.",
     "explanation": "Python-kode kjøres ovenfra og ned, linje for linje, i den rekkefølgen du skriver den. Dette kalles sekvensiell kjøring. Datamaskinen leser første linje, utfører den, går videre til neste linje, og så videre til programmet er ferdig."
   },
@@ -103,11 +103,11 @@
     "question": "Hva er en variabel?",
     "options": [
       "En funksjon som gjør beregninger",
+      "En feilmelding i koden",
       "Et navn som lagrer en verdi som kan brukes senere",
-      "En type loop som gjentar kode",
-      "En feilmelding i koden"
+      "En type loop som gjentar kode"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "En variabel lagrer en verdi med et navn.",
     "explanation": "En **variabel (variable)** er et navn som lagrer en verdi, som et lite datasett du kan bruke senere i programmet. For eksempel kan du lagre en alder i variabelen 'alder' eller et navn i variabelen 'navn'. Dette gjør det lett å jobbe med data i koden."
   },
@@ -117,9 +117,9 @@
     "question": "Hvilket eksempel viser korrekt deklarasjon og tilordning av en variabel?",
     "options": [
       "alder == 15",
-      "variabel alder 15",
+      "15 = alder",
       "alder = 15",
-      "15 = alder"
+      "variabel alder 15"
     ],
     "answerIndex": 2,
     "shortExplanation": "Variabelnavn kommer til venstre, verdi til høyre.",
@@ -130,12 +130,12 @@
     "section": "Kap4.3.1",
     "question": "Hvilken datatype brukes for å lagre tekst?",
     "options": [
-      "String (tekst i anførselstegn)",
-      "Float (desimaltall)",
       "Integer (heltall)",
-      "Boolean (sannhetsverdi)"
+      "Boolean (sannhetsverdi)",
+      "Float (desimaltall)",
+      "String (tekst i anførselstegn)"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "shortExplanation": "String er for tekst.",
     "explanation": "**Tekst (string)** brukes for ord og setninger i Python. Tekst skrives alltid med anførselstegn, enten enkle eller doble: 'navn = \"Kevin\"'. String er den vanligste datatypen for å håndtere tekstdata."
   },
@@ -144,12 +144,12 @@
     "section": "Kap4.3.2",
     "question": "Hva er forskjellen mellom int og float?",
     "options": [
-      "Int er små tall, float er store tall",
+      "Int er tekst, float er tall",
       "Int er positive tall, float er negative tall",
-      "Int er heltall, float er desimaltall",
-      "Int er tekst, float er tall"
+      "Int er små tall, float er store tall",
+      "Int er heltall, float er desimaltall"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "shortExplanation": "Int er heltall, float er desimaltall.",
     "explanation": "Int (integer) brukes for heltall som 1, 5, 20. Float (floating-point) brukes for desimaltall som 3.14, 2.5. Hvis du trenger tall med desimaler, må du bruke float. For hele tall uten desimaler, bruker du int."
   },
@@ -158,12 +158,12 @@
     "section": "Kap4.3.3",
     "question": "Hvilke verdier kan en boolean (sannhetsverdi) ha?",
     "options": [
-      "On eller Off",
-      "1 eller 0",
       "Ja eller Nei",
-      "True eller False"
+      "True eller False",
+      "1 eller 0",
+      "On eller Off"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "shortExplanation": "Boolean kan være True eller False.",
     "explanation": "En sannhetsverdi (bool/boolean) er enten True eller False. Dette brukes ofte i betingelser for å avgjøre hva programmet skal gjøre. For eksempel: er_student = True eller har_bestått = False."
   },
@@ -172,12 +172,12 @@
     "section": "Kap5.1",
     "question": "Hva er forskjellen mellom output og input?",
     "options": [
-      "Output er for tall, input er for tekst",
-      "Output er raskere enn input",
       "Output lagrer data, input sletter data",
-      "Output viser noe på skjermen, input tar imot brukerinndata"
+      "Output er raskere enn input",
+      "Output viser noe på skjermen, input tar imot brukerinndata",
+      "Output er for tall, input er for tekst"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "Output viser data, input mottar data.",
     "explanation": "Output betyr å vise noe på skjermen, for eksempel med print(). Input betyr at brukeren skriver inn noe, som du henter med input(). Output sender informasjon ut, mens input tar imot informasjon inn."
   },
@@ -186,12 +186,12 @@
     "section": "Kap5.1.1",
     "question": "Hva er typecasting?",
     "options": [
-      "Å formatere tekst med spesielle tegn",
-      "Å skrive raskere kode",
+      "Å finne feil i programmet",
       "Å gjøre om en verdi til en annen datatype",
-      "Å finne feil i programmet"
+      "Å skrive raskere kode",
+      "Å formatere tekst med spesielle tegn"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "shortExplanation": "Typecasting endrer datatype på en verdi.",
     "explanation": "Typecasting betyr å gjøre om en verdi til en annen datatype. For eksempel: int('5') gjør teksten '5' om til heltallet 5, og float('3.14') gjør teksten '3.14' om til desimaltallet 3.14. Dette er nyttig når du får input som tekst, men trenger det som tall."
   },
@@ -200,12 +200,12 @@
     "section": "Kap5.2.1",
     "question": "Hvilken operator brukes for å sjekke om to verdier er like?",
     "options": [
-      "== (dobbel likhetstegn)",
       "!= (ikke lik)",
       "= (enkelt likhetstegn)",
+      "== (dobbel likhetstegn)",
       "<> (større eller mindre)"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "shortExplanation": "== sjekker om verdier er like.",
     "explanation": "== (dobbel likhetstegn) brukes for å sammenligne om to verdier er like. For eksempel: alder == 18 sjekker om alder er lik 18. Ikke forveksle med = (enkelt likhetstegn) som brukes for tilordning av verdier."
   },
@@ -214,12 +214,12 @@
     "section": "Kap5.2.2",
     "question": "Hva gjør en if-setning?",
     "options": [
-      "Sjekker en betingelse og kjører kode hvis den er sann",
-      "Skriver ut tekst på skjermen",
       "Gjentar kode flere ganger",
+      "Skriver ut tekst på skjermen",
+      "Sjekker en betingelse og kjører kode hvis den er sann",
       "Lagrer en verdi i en variabel"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "shortExplanation": "If-setning sjekker betingelse og kjører kode.",
     "explanation": "**If-setninger** brukes for å sjekke en betingelse. Hvis betingelsen er sann (True), kjører Python koden som står innenfor if-blokken.\n\n**Regler for if-setninger:**\n- Må alltid ende med kolon (:)\n- Koden inni må være innrykket (4 mellomrom eller tab)\n- Betingelsen må gi True eller False\n\n**Eksempel:**\nif alder >= 18:\n    print('Du er voksen')\n\nDenne koden kjører bare hvis alder er 18 eller høyere. Hvis betingelsen er False, hoppes koden over."
   },
@@ -228,12 +228,12 @@
     "section": "Kap5.2.3",
     "question": "Hva er forskjellen mellom elif og else?",
     "options": [
-      "elif sjekker en ny betingelse, else kjører når ingen betingelser stemmer",
-      "elif brukes for tall, else for tekst",
       "elif er raskere enn else",
-      "elif og else er helt identiske"
+      "elif sjekker en ny betingelse, else kjører når ingen betingelser stemmer",
+      "elif og else er helt identiske",
+      "elif brukes for tall, else for tekst"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "shortExplanation": "elif gir nye valg, else er siste alternativ.",
     "explanation": "**elif** (ellers hvis) brukes for å sjekke flere betingelser i rekkefølge. **else** brukes når ingen av betingelsene stemmer.\n\n**Regler:**\n- 'elif' må ha en betingelse etter seg\n- 'else' trenger ingen betingelse\n- 'else' kommer alltid sist\n- Du kan ha mange 'elif', men kun én 'else'\n\n**Eksempel:**\nif alder >= 18:\n    print('Voksen')\nelif alder > 12:\n    print('Tenåring')\nelse:\n    print('Barn')\n\nDette gir tre forskjellige utfall basert på alderen. Python sjekker betingelsene ovenfra og ned, og kjører kun den første som stemmer."
   },
@@ -243,9 +243,9 @@
     "question": "Hva betyr det å evaluere et uttrykk?",
     "options": [
       "At Python sjekker om det er feil i koden",
-      "At Python lagrer uttrykket i minnet",
+      "At Python skriver ut uttrykket på skjermen",
       "At Python regner ut eller tolker uttrykket for å finne resultatet",
-      "At Python skriver ut uttrykket på skjermen"
+      "At Python lagrer uttrykket i minnet"
     ],
     "answerIndex": 2,
     "shortExplanation": "Evaluering betyr å regne ut resultatet.",
@@ -256,12 +256,12 @@
     "section": "Kap6.1.2",
     "question": "Hva er et funksjonskall?",
     "options": [
-      "Å slette en funksjon fra programmet",
       "Å bruke en funksjon slik at Python kjører koden inni den",
-      "Å definere en ny funksjon",
-      "Å endre navnet på en funksjon"
+      "Å endre navnet på en funksjon",
+      "Å slette en funksjon fra programmet",
+      "Å definere en ny funksjon"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Funksjonskall betyr å bruke en funksjon.",
     "explanation": "Et funksjonskall betyr å bruke en funksjon. Python kjører koden inni funksjonen og gir eventuelt et resultat tilbake. For eksempel: print('Hei') kaller print-funksjonen, og int('5') kaller int()-funksjonen for å gjøre tekst om til tall."
   },
@@ -271,8 +271,8 @@
     "question": "Hva er forskjellen mellom en prosedyre og en funksjon?",
     "options": [
       "En prosedyre og en funksjon er nøyaktig det samme",
-      "En prosedyre er raskere enn en funksjon",
       "En prosedyre brukes for tall, en funksjon for tekst",
+      "En prosedyre er raskere enn en funksjon",
       "En prosedyre returnerer ikke en verdi, en funksjon gjør det"
     ],
     "answerIndex": 3,
@@ -284,12 +284,12 @@
     "section": "Kap7.1.3",
     "question": "Hva er en parameter i en funksjon?",
     "options": [
-      "Verdien som funksjonen returnerer",
       "En feil som oppstår i funksjonen",
-      "Informasjon som sendes inn til funksjonen slik at den kan tilpasses",
-      "Navnet på funksjonen"
+      "Navnet på funksjonen",
+      "Verdien som funksjonen returnerer",
+      "Informasjon som sendes inn til funksjonen slik at den kan tilpasses"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "shortExplanation": "En parameter er inndata til funksjonen.",
     "explanation": "En **parameter (parameter)** er informasjon som sendes inn til funksjonen slik at den kan tilpasses. For eksempel: 'def hils(navn): print(\"Hei,\", navn)' - her er 'navn' en parameter som lar funksjonen hilse på forskjellige personer."
   },
@@ -298,9 +298,9 @@
     "section": "Kap7.3",
     "question": "Hva er forskjellen mellom en lokal og en global variabel?",
     "options": [
-      "Lokal variabel er raskere enn global variabel",
-      "Lokal og global variabel er det samme",
       "Lokal variabel brukes for tall, global for tekst",
+      "Lokal og global variabel er det samme",
+      "Lokal variabel er raskere enn global variabel",
       "Lokal variabel finnes bare inne i en funksjon, global kan brukes overalt"
     ],
     "answerIndex": 3,
@@ -312,12 +312,12 @@
     "section": "Kap8.1",
     "question": "Hva er en liste i Python?",
     "options": [
-      "En funksjon som sorterer tall",
       "En samling av flere verdier i én variabel",
-      "En betingelse som sjekker verdier",
-      "En type loop som gjentar kode"
+      "En type loop som gjentar kode",
+      "En funksjon som sorterer tall",
+      "En betingelse som sjekker verdier"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "En liste samler flere verdier i én variabel.",
     "explanation": "Lister er samlinger av flere verdier i én variabel. Du kan lagre mange elementer sammen, for eksempel: frukt = ['eple', 'banan', 'pære']. Dette gjør det enkelt å håndtere grupper av data."
   },
@@ -326,12 +326,12 @@
     "section": "Kap8.1.1",
     "question": "Hvordan legger du til et element i en liste?",
     "options": [
-      "Med insert()-funksjonen",
       "Med append()-metoden",
       "Med plus-operatoren",
-      "Med add()-metoden"
+      "Med add()-metoden",
+      "Med insert()-funksjonen"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "append() legger til element i liste.",
     "explanation": "For å legge til et element i en liste bruker du append()-metoden. For eksempel: frukt.append('appelsin') legger til 'appelsin' på slutten av listen. Du kan også bruke remove() for å fjerne elementer: frukt.remove('banan')."
   },
@@ -340,10 +340,10 @@
     "section": "Kap8.2",
     "question": "Hvordan fungerer en ordbok (dictionary) i Python?",
     "options": [
-      "Den lagrer data i en liste",
       "Den lagrer data i alfabetisk rekkefølge",
+      "Den lagrer bare tall, ikke tekst",
       "Den lagrer data som nøkkel : verdi par",
-      "Den lagrer bare tall, ikke tekst"
+      "Den lagrer data i en liste"
     ],
     "answerIndex": 2,
     "shortExplanation": "Ordbøker bruker nøkkel : verdi par.",
@@ -354,12 +354,12 @@
     "section": "Code1",
     "question": "Hva vil denne koden skrive ut?\n\n```python\nx = 10\ny = 5\nprint(x + y)\n```",
     "options": [
-      "10 5",
-      "105",
       "15",
-      "Error"
+      "105",
+      "Error",
+      "10 5"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "shortExplanation": "Python regner ut x + y som gir 10 + 5 = 15.",
     "explanation": "Koden deklarerer to variabler: x = 10 og y = 5. Når vi skriver print(x + y), regner Python ut summen av de to tallene og skriver ut resultatet: 15. Plus-operatoren (+) brukes til addisjon når den brukes med tall."
   },
@@ -369,11 +369,11 @@
     "question": "Hva blir resultatet av denne koden?\n\n```python\nnavn = 'Anna'\nalder = 17\nif alder >= 18:\n    print('Voksen')\nelse:\n    print('Barn')\n```",
     "options": [
       "Error",
-      "17",
+      "Barn",
       "Voksen",
-      "Barn"
+      "17"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "shortExplanation": "Siden 17 < 18, går koden til else-blokken.",
     "explanation": "Koden sjekker om alder >= 18. Siden alder er 17, som er mindre enn 18, er betingelsen False. Da kjører else-blokken, og programmet skriver ut 'Barn'. If-else strukturen brukes for å ta beslutninger basert på betingelser."
   },
@@ -382,12 +382,12 @@
     "section": "Code3",
     "question": "Hva er verdien av 'tekst' etter denne koden?\n\n```python\ntekst = 'Hei '\ntekst = tekst + 'verden'\nprint(tekst)\n```",
     "options": [
-      "Hei  verden",
       "Hei verden",
-      "verden",
-      "Hei"
+      "Hei  verden",
+      "Hei",
+      "verden"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Plus-operator kombinerer to tekststrenger.",
     "explanation": "Når vi bruker + med tekststrenger (strings), kombinerer Python dem. Først er tekst = 'Hei ', så legger vi til 'verden' med tekst = tekst + 'verden'. Dette gir resultatet 'Hei verden'. Dette kalles string concatenation (sammenslåing av tekst)."
   },
@@ -396,12 +396,12 @@
     "section": "Code4",
     "question": "Hva skriver denne koden ut?\n\n```python\nfor i in range(3):\n    print(i)\n```",
     "options": [
-      "1, 2, 3 (på separate linjer)",
       "3",
-      "0, 1, 2, 3 (på separate linjer)",
-      "0, 1, 2 (på separate linjer)"
+      "1, 2, 3 (på separate linjer)",
+      "0, 1, 2 (på separate linjer)",
+      "0, 1, 2, 3 (på separate linjer)"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "range(3) genererer tallene 0, 1, 2.",
     "explanation": "En for-loop med range(3) itererer gjennom tallene fra 0 til 2 (range stopper før tallet du oppgir). Hver gang gjennom loopen får variabelen i en ny verdi (0, deretter 1, deretter 2), og print(i) skriver ut denne verdien. Resultatet blir:\n\n0\n1\n2"
   },
@@ -410,12 +410,12 @@
     "section": "Code5",
     "question": "Hva blir output av denne koden?\n\n```python\ndef dobbel(tall):\n    return tall * 2\n\nresultat = dobbel(7)\nprint(resultat)\n```",
     "options": [
-      "7",
       "14",
       "Error",
+      "7",
       "77"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "shortExplanation": "Funksjonen ganger tallet med 2.",
     "explanation": "Funksjonen dobbel() tar inn et tall som parameter og returnerer tallet multiplisert med 2. Når vi kaller dobbel(7), får vi 7 * 2 = 14 tilbake. Dette lagres i variabelen resultat, som deretter skrives ut med print()."
   },
@@ -424,12 +424,12 @@
     "section": "Code6",
     "question": "Hvilken verdi har 'frukt[1]' i denne koden?\n\n```python\nfrukt = ['eple', 'banan', 'pære']\nprint(frukt[1])\n```",
     "options": [
-      "pære",
-      "banan",
+      "Error",
       "eple",
-      "Error"
+      "banan",
+      "pære"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "shortExplanation": "Lister bruker 0-indeksering, så indeks 1 er det andre elementet.",
     "explanation": "I Python starter lister med indeks 0. Det betyr at frukt[0] er 'eple', frukt[1] er 'banan', og frukt[2] er 'pære'. Når vi skriver frukt[1], får vi det andre elementet i listen, som er 'banan'."
   },
@@ -438,8 +438,8 @@
     "section": "Code7",
     "question": "Hva blir resultatet av denne koden?\n\n```python\nx = '5'\ny = '3'\nprint(x + y)\n```",
     "options": [
-      "8",
       "Error",
+      "8",
       "53",
       "5 3"
     ],
@@ -452,12 +452,12 @@
     "section": "Code8",
     "question": "Hva skriver denne koden ut?\n\n```python\nperson = {'navn': 'Sara', 'alder': 15}\nprint(person['navn'])\n```",
     "options": [
-      "Sara",
       "15",
-      "{'navn': 'Sara', 'alder': 15}",
-      "navn"
+      "navn",
+      "Sara",
+      "{'navn': 'Sara', 'alder': 15}"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "shortExplanation": "person['navn'] henter verdien knyttet til nøkkelen 'navn'.",
     "explanation": "I en ordbok (dictionary) bruker vi nøkler for å hente verdier. person['navn'] ber om verdien som er lagret med nøkkelen 'navn'. Dette gir oss 'Sara'. Ordbøker er nyttige for å lagre relatert informasjon sammen med beskrivende nøkler."
   },
@@ -467,11 +467,11 @@
     "question": "Hva blir output?\n\n```python\ntall = 10\nif tall > 5:\n    print('Stort')\nif tall > 15:\n    print('Veldig stort')\n```",
     "options": [
       "Stort\nVeldig stort",
-      "Ingenting",
+      "Stort",
       "Veldig stort",
-      "Stort"
+      "Ingenting"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "shortExplanation": "Kun første betingelse er sann.",
     "explanation": "Den første if-setningen sjekker om tall > 5. Siden 10 > 5, skriver den ut 'Stort'. Den andre if-setningen sjekker om tall > 15. Siden 10 ikke er større enn 15, kjører ikke denne koden. Resultatet blir kun 'Stort'."
   },
@@ -480,12 +480,12 @@
     "section": "Code10",
     "question": "Hva vil denne koden skrive ut?\n\n```python\nliste = [1, 2, 3]\nliste.append(4)\nprint(len(liste))\n```",
     "options": [
-      "[1, 2, 3, 4]",
       "3",
       "Error",
-      "4"
+      "4",
+      "[1, 2, 3, 4]"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "shortExplanation": "len() returnerer antall elementer i listen.",
     "explanation": "Koden starter med en liste med 3 elementer: [1, 2, 3]. 'append(4)' legger til elementet 4 på slutten, så listen blir [1, 2, 3, 4]. 'len(liste)' returnerer antall elementer i listen, som nå er 4.\n\n**Om len():**\nlen() er en innebygd funksjon som teller lengden på samlinger:\n- Lister: len([1, 2, 3]) gir 3\n- Strings: len('hei') gir 3\n- Ordbøker: len({'a': 1, 'b': 2}) gir 2\n\nDette er en av de mest brukte funksjonene i Python for å sjekke størrelsen på data."
   }
