@@ -81,7 +81,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "Et utsagn er en kodelinje som utfører en handling.",
-    "explanation": "Et utsagn er en enkelt linje kode som utfører en spesifikk handling. Dette kan for eksempel være å skrive noe på skjermen med print(), endre en verdi i en variabel, eller utføre en beregning. Utsagn er byggesteinene i et program."
+    "explanation": "Et **utsagn (statement)** er en enkelt linje kode som utfører en spesifikk handling. Dette kan for eksempel være å skrive noe på skjermen med 'print()', endre en verdi i en variabel, eller utføre en beregning. Utsagn er byggesteinene i et program."
   },
   {
     "id": 7,
@@ -109,7 +109,7 @@
     ],
     "answerIndex": 1,
     "shortExplanation": "En variabel lagrer en verdi med et navn.",
-    "explanation": "En variabel er et navn som lagrer en verdi, som et lite datasett du kan bruke senere i programmet. For eksempel kan du lagre en alder i variabelen 'alder' eller et navn i variabelen 'navn'. Dette gjør det lett å jobbe med data i koden."
+    "explanation": "En **variabel (variable)** er et navn som lagrer en verdi, som et lite datasett du kan bruke senere i programmet. For eksempel kan du lagre en alder i variabelen 'alder' eller et navn i variabelen 'navn'. Dette gjør det lett å jobbe med data i koden."
   },
   {
     "id": 9,
@@ -123,7 +123,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "Variabelnavn kommer til venstre, verdi til høyre.",
-    "explanation": "Å deklarere betyr å lage variabelen, og tilordning betyr å gi den en verdi. I Python bruker vi = for tilordning. Variabelnavnet står til venstre, og verdien til høyre: alder = 15. Dette lagrer verdien 15 i variabelen alder."
+    "explanation": "Å **deklarere (declare)** betyr å lage variabelen, og **tilordning (assignment)** betyr å gi den en verdi. I Python bruker vi = for tilordning. Variabelnavnet står til venstre, og verdien til høyre: 'alder = 15'. Dette lagrer verdien 15 i variabelen alder."
   },
   {
     "id": 10,
@@ -136,8 +136,8 @@
       "Boolean (sannhetsverdi)"
     ],
     "answerIndex": 0,
-    "shortExplanation": "String brukes for tekst.",
-    "explanation": "Tekst (string) brukes for ord og setninger i Python. Tekst skrives alltid med anførselstegn, enten enkle eller doble: navn = 'Kevin' eller navn = \"Kevin\". String er den vanligste datatypen for å håndtere tekstdata."
+    "shortExplanation": "String er for tekst.",
+    "explanation": "**Tekst (string)** brukes for ord og setninger i Python. Tekst skrives alltid med anførselstegn, enten enkle eller doble: 'navn = \"Kevin\"'. String er den vanligste datatypen for å håndtere tekstdata."
   },
   {
     "id": 11,
@@ -221,7 +221,18 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "If-setning sjekker betingelse og kjører kode.",
-    "explanation": "if brukes for å sjekke en betingelse. Hvis betingelsen er sann (True), kjører Python koden som står innenfor if-blokken. For eksempel: if alder >= 18: print('Du er voksen') - denne koden kjører bare hvis alder er 18 eller høyere."
+    "explanation": "**If-setninger** brukes for å sjekke en betingelse. Hvis betingelsen er sann (True), kjører Python koden som står innenfor if-blokken.
+
+**Regler for if-setninger:**
+- Må alltid ende med kolon (:)
+- Koden inni må være innrykket (4 mellomrom eller tab)
+- Betingelsen må gi True eller False
+
+**Eksempel:**
+if alder >= 18:
+    print('Du er voksen')
+
+Denne koden kjører bare hvis alder er 18 eller høyere. Hvis betingelsen er False, hoppes koden over."
   },
   {
     "id": 17,
@@ -235,7 +246,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "elif gir nye valg, else er siste alternativ.",
-    "explanation": "elif (ellers hvis) brukes for å sjekke flere betingelser i rekkefølge. else brukes når ingen av betingelsene stemmer, som et siste alternativ. For eksempel: if alder >= 18: ... elif alder > 12: ... else: ... Dette gir tre forskjellige utfall basert på alderen."
+    "explanation": "**elif** (ellers hvis) brukes for å sjekke flere betingelser i rekkefølge. **else** brukes når ingen av betingelsene stemmer.\n\n**Regler:**\n- 'elif' må ha en betingelse etter seg\n- 'else' trenger ingen betingelse\n- 'else' kommer alltid sist\n- Du kan ha mange 'elif', men kun én 'else'\n\n**Eksempel:**\nif alder >= 18:\n    print('Voksen')\nelif alder > 12:\n    print('Tenåring')\nelse:\n    print('Barn')\n\nDette gir tre forskjellige utfall basert på alderen. Python sjekker betingelsene ovenfra og ned, og kjører kun den første som stemmer."
   },
   {
     "id": 18,
@@ -277,7 +288,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Prosedyrer returnerer ikke verdi, funksjoner gjør det.",
-    "explanation": "En prosedyre er en del av koden som utfører en oppgave, men som ikke returnerer en verdi. I Python er dette funksjoner uten return. En funksjon ligner på en prosedyre, men returnerer en verdi som kan brukes videre i programmet."
+    "explanation": "En **prosedyre (procedure)** er en del av koden som utfører en oppgave, men som ikke returnerer en verdi. I Python er dette funksjoner uten 'return'. En **funksjon (function)** ligner på en prosedyre, men returnerer en verdi som kan brukes videre i programmet."
   },
   {
     "id": 21,
@@ -291,7 +302,7 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "En parameter er inndata til funksjonen.",
-    "explanation": "En parameter er informasjon som sendes inn til funksjonen slik at den kan tilpasses. For eksempel: def hils(navn): print('Hei,', navn) - her er 'navn' en parameter som lar funksjonen hilse på forskjellige personer."
+    "explanation": "En **parameter (parameter)** er informasjon som sendes inn til funksjonen slik at den kan tilpasses. For eksempel: 'def hils(navn): print(\"Hei,\", navn)' - her er 'navn' en parameter som lar funksjonen hilse på forskjellige personer."
   },
   {
     "id": 22,
@@ -305,7 +316,7 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "Lokal er begrenset til funksjon, global er tilgjengelig overalt.",
-    "explanation": "Skop (scope) handler om hvor i programmet en variabel er tilgjengelig. En lokal variabel finnes bare inne i funksjonen den er definert i. En global variabel kan brukes i hele programmet. Dette styrer hvor verdier er synlige og kan endres."
+    "explanation": "**Skop (scope)** handler om hvor i programmet en variabel er tilgjengelig.\n\n**Lokal variabel:**\n- Finnes bare inne i funksjonen den er definert i\n- Forsvinner når funksjonen er ferdig\n- Eksempel: def test(): y = 5 # y er lokal\n\n**Global variabel:**\n- Kan brukes i hele programmet\n- Definert utenfor alle funksjoner\n- Eksempel: x = 10 # x er global\n\nSkop styrer hvor verdier er synlige og kan endres. Dette forhindrer at variabler i én funksjon utilsiktet påvirker andre deler av programmet."
   },
   {
     "id": 23,
@@ -487,6 +498,6 @@
     ],
     "answerIndex": 3,
     "shortExplanation": "len() returnerer antall elementer i listen.",
-    "explanation": "Koden starter med en liste med 3 elementer: [1, 2, 3]. append(4) legger til elementet 4 på slutten, så listen blir [1, 2, 3, 4]. len(liste) returnerer antall elementer i listen, som nå er 4. len() er en innebygd funksjon som teller lengden på lister, strings og andre samlinger."
+    "explanation": "Koden starter med en liste med 3 elementer: [1, 2, 3]. 'append(4)' legger til elementet 4 på slutten, så listen blir [1, 2, 3, 4]. 'len(liste)' returnerer antall elementer i listen, som nå er 4.\n\n**Om len():**\nlen() er en innebygd funksjon som teller lengden på samlinger:\n- Lister: len([1, 2, 3]) gir 3\n- Strings: len('hei') gir 3\n- Ordbøker: len({'a': 1, 'b': 2}) gir 2\n\nDette er en av de mest brukte funksjonene i Python for å sjekke størrelsen på data."
   }
 ]

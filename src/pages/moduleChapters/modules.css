@@ -101,6 +101,7 @@
   font-size: 0.95em;
   line-height: 1.6;
   color: #d4d4d4;
+  text-align: left;
 }
 
 .code-display code {
@@ -111,6 +112,8 @@
   font-family: inherit;
   font-size: inherit;
   white-space: pre;
+  display: block;
+  text-align: left;
 }
 
 .options-list {
@@ -299,12 +302,13 @@
 .review-explanation code,
 .question-text code {
   background: #1e1e1e;
-  color: #d4d4d4;
+  color: #dcdcaa;
   padding: 0.2rem 0.4rem;
   border-radius: 3px;
   font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
   font-size: 0.9em;
   border: 1px solid #333;
+  font-weight: 500;
 }
 
 .explanation-text pre,
