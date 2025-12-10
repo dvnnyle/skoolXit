@@ -16,6 +16,7 @@ import Module5a from './pages/moduleChapters/module5a'
 import Module5b from './pages/moduleChapters/module5b'
 import LearnPython from './pages/learnPython'
 import PythonCode from './pages/pythonCode'
+import PythonIntro from './pages/pythonIntro'
 
 function App() {
   return (
@@ -37,6 +38,7 @@ function App() {
         <Route path="/module5b" element={<Module5b />} />
         <Route path="/learnPython" element={<LearnPython />} />
         <Route path="/pythonCode" element={<PythonCode />} />
+        <Route path="/pythonIntro" element={<PythonIntro />} />
       </Routes>
     </BrowserRouter>
   )

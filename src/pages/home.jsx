@@ -31,6 +31,7 @@ function Home() {
       { id: 'module4b', total: 20 },
       { id: 'module5a', total: 24 },
       { id: 'module5b', total: 25 },
+      { id: 'pythonIntro', total: 30 },
       { id: 'learnPython', total: 35 },
       { id: 'pythonCode', total: 30 }
     ]
@@ -65,7 +66,7 @@ function Home() {
       completedQuestions: totalCompleted,
       correctAnswers: totalCorrect,
       totalCorrectFromAllAttempts: totalCorrectAllAttempts,
-      totalQuestions: 251
+      totalQuestions: 281
     })
   }
 
@@ -408,13 +409,23 @@ function Home() {
           <h2>🐍 Python Programming</h2>
           <p className="section-description">Learn the basics of Python programming</p>
           <div className="chapters-grid">
+            <Link to="/pythonIntro" className="chapter-button starred">
+              <div className="star-badge">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="#ffd700">
+                  <polygon points="12,2 15,10 23,10 17,15 19,23 12,18 5,23 7,15 1,10 9,10" />
+                </svg>
+              </div>
+              <h3>🎯 Python Basics Quiz</h3>
+              <p>If/Else, Loops, Lists, Functions & More</p>
+              <span className="question-count">30 questions</span>
+            </Link>
             <Link to="/learnPython" className="chapter-button starred">
               <div className="star-badge">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="#ffd700">
                   <polygon points="12,2 15,10 23,10 17,15 19,23 12,18 5,23 7,15 1,10 9,10" />
                 </svg>
               </div>
-              <h3>Intro to Python</h3>
+              <h3>📚 Intro to Python</h3>
               <p>Grunnleggende konsepter og syntaks</p>
               <span className="question-count">35 questions</span>
             </Link>

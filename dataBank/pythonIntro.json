@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "section": "Basics1",
+    "question": "Hva er et statement (utsagn) i Python?",
+    "options": [
+      "En linje kode som utfører en instruksjon",
+      "En feilmelding fra Python",
+      "En kommentar i koden",
+      "Et tall eller tekst"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Et statement er en instruksjon Python kan utføre.",
+    "explanation": "Et **statement (utsagn)** er en enkelt instruksjon som Python utfører. Eksempler:\n\n'print(\"Hei\")' - skriver ut tekst\n'x = 5' - lagrer verdi\n'if x > 0:' - sjekker betingelse\n\nHvert statement gjør noe spesifikt, og programmer bygges opp av mange statements etter hverandre."
+  },
+  {
+    "id": 2,
+    "section": "Basics2",
+    "question": "Hva er forskjellen på '=' og '=='?",
+    "options": [
+      "= brukes for tilordning, == brukes for sammenligning",
+      "De betyr nøyaktig det samme",
+      "= er for tall, == er for tekst",
+      "== er raskere enn ="
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "= lagrer verdi, == sammenligner verdier.",
+    "explanation": "**= (assignment)** brukes for å lagre en verdi:\n'x = 5' → x får verdien 5\n\n**== (comparison)** brukes for å sammenligne:\n'x == 5' → sjekker om x er lik 5 (gir True eller False)\n\nForveksling av disse er en vanlig feil!"
+  },
+  {
+    "id": 3,
+    "section": "Basics3",
+    "question": "Hva skriver 'print()' ut?\n\n```python\nx = 10\ny = 20\nprint(x + y)\n```",
+    "options": [
+      "30",
+      "x + y",
+      "1020",
+      "Error"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "print() viser resultatet av x + y.",
+    "explanation": "**print()** er en funksjon som viser output på skjermen.\n\nHer beregnes først 'x + y' → 10 + 20 = 30\nDeretter vises resultatet: 30\n\n'print()' kan vise tall, tekst, beregninger og mer. Den er en av de mest brukte funksjonene i Python."
+  },
+  {
+    "id": 4,
+    "section": "Basics4",
+    "question": "Hva er 'input()' brukt til?",
+    "options": [
+      "Å hente data fra brukeren",
+      "Å skrive ut tekst på skjermen",
+      "Å lagre data i en fil",
+      "Å beregne matematikk"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "input() lar brukeren skrive inn data.",
+    "explanation": "**input()** stopper programmet og lar brukeren skrive inn noe:\n\n'navn = input(\"Hva heter du? \")'\n\nProgrammet venter til brukeren skriver noe og trykker Enter. Det brukeren skrev lagres i variabelen.\n\n**Viktig:** 'input()' gir alltid tekst (string), selv om brukeren skriver tall!"
+  },
+  {
+    "id": 5,
+    "section": "IfElse1",
+    "question": "Hva skjer hvis betingelsen i en if-setning er False?",
+    "options": [
+      "Koden inne i if-blokken hoppes over",
+      "Programmet krasjer",
+      "Koden kjøres allikevel",
+      "Python gir en feilmelding"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Hvis False, kjøres ikke if-blokken.",
+    "explanation": "**if-setninger** sjekker en betingelse:\n\n- Hvis **True** → koden inni kjøres\n- Hvis **False** → koden hoppes over\n\nEksempel:\n'if alder < 18:'\n'    print(\"Barn\")'\n\nHvis alder er 20, er betingelsen False, så 'print()' kjøres ikke."
+  },
+  {
+    "id": 6,
+    "section": "IfElse2",
+    "question": "Hva er forskjellen på 'elif' og 'else'?",
+    "options": [
+      "elif sjekker ny betingelse, else kjører uten betingelse",
+      "De er identiske",
+      "elif er raskere",
+      "else kan brukes flere ganger, elif kun én gang"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "elif = ny sjekk, else = siste valg.",
+    "explanation": "**elif** (else if) legger til flere betingelser:\n'if x > 10:'\n'    print(\"Høyt\")'\n'elif x > 5:'\n'    print(\"Middels\")'\n'else:'\n'    print(\"Lavt\")'\n\n- 'elif' krever en betingelse\n- 'else' kjører hvis ingen betingelser stemmer\n- Du kan ha mange 'elif', men kun én 'else'"
+  },
+  {
+    "id": 7,
+    "section": "Logic1",
+    "question": "Hva returnerer 'True and False'?",
+    "options": [
+      "False",
+      "True",
+      "None",
+      "Error"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "and krever begge True, så resultatet er False.",
+    "explanation": "**Logiske operatorer (logical operators):**\n\n**and** → begge må være True\n- True and True = True\n- True and False = False\n- False and False = False\n\n**or** → minst én må være True\n**not** → snur verdien\n\nDisse brukes for å kombinere betingelser."
+  },
+  {
+    "id": 8,
+    "section": "Logic2",
+    "question": "Hva betyr '5 > 3 or 2 > 10'?",
+    "options": [
+      "True (fordi 5 > 3 er sant)",
+      "False (fordi 2 > 10 er usant)",
+      "Error",
+      "None"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "or trenger kun én True, og 5 > 3 er True.",
+    "explanation": "**or** returnerer True hvis **minst én** betingelse er sann:\n\n'5 > 3' → True ✓\n'2 > 10' → False ✗\n\nTrue or False = **True**\n\nMed 'or' holder det at én betingelse stemmer. Med 'and' må begge stemme."
+  },
+  {
+    "id": 9,
+    "section": "Logic3",
+    "question": "Hva er 'not True'?",
+    "options": [
+      "False",
+      "True",
+      "0",
+      "Error"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "not snur verdien, så not True blir False.",
+    "explanation": "**not** snur en boolean-verdi:\n\n- 'not True' → False\n- 'not False' → True\n\nEksempel:\n'if not ferdig:'\n'    print(\"Fortsett\")'\n\nDette kjører hvis 'ferdig' er False."
+  },
+  {
+    "id": 10,
+    "section": "TrueFalse1",
+    "question": "Hvilken datatype er 'True' og 'False'?",
+    "options": [
+      "Boolean (bool)",
+      "String (str)",
+      "Integer (int)",
+      "Float"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "True og False er boolean-verdier.",
+    "explanation": "**Boolean (bool)** har kun to verdier:\n- 'True' (sant)\n- 'False' (usant)\n\nDisse brukes i:\n- if-setninger\n- while-løkker\n- Sammenligninger ('>', '<', '==', '!=')\n\n**Viktig:** Skrives med stor forbokstav i Python!"
+  },
+  {
+    "id": 11,
+    "section": "Variables1",
+    "question": "Hva er scope (skop)?",
+    "options": [
+      "Hvor i programmet en variabel er tilgjengelig",
+      "Hvor raskt programmet kjører",
+      "Antall linjer i programmet",
+      "Typen data variabelen lagrer"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Scope definerer hvor variabelen kan brukes.",
+    "explanation": "**Scope (skop)** bestemmer hvor en variabel kan brukes:\n\n**Global scope:**\n'x = 10  # kan brukes overalt'\n\n**Local scope:**\n'def test():'\n'    y = 5  # finnes kun inne i funksjonen'\n\nVariabler utenfor funksjoner er globale. Variabler inne i funksjoner er lokale og forsvinner når funksjonen er ferdig."
+  },
+  {
+    "id": 12,
+    "section": "Variables2",
+    "question": "Hva skjer med lokale variabler når funksjonen er ferdig?",
+    "options": [
+      "De forsvinner og kan ikke brukes lenger",
+      "De blir globale",
+      "De lagres i minnet for alltid",
+      "De konverteres til tekst"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Lokale variabler slettes når funksjonen er ferdig.",
+    "explanation": "**Lokale variabler (local variables):**\n\n'def beregn():'\n'    resultat = 10 * 5'\n'    return resultat'\n\nNår 'beregn()' er ferdig, forsvinner 'resultat'. Den finnes kun i funksjonen.\n\n**Fordel:** Variabler i ulike funksjoner kan ha samme navn uten konflikt."
+  },
+  {
+    "id": 13,
+    "section": "Functions1",
+    "question": "Hva er en parameter (parameter)?",
+    "options": [
+      "En verdi som sendes inn til en funksjon",
+      "Det funksjonen returnerer",
+      "En feilmelding",
+      "En global variabel"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Parameter er input til funksjonen.",
+    "explanation": "**Parameter** er variabler i funksjonsdefinisjonen:\n\n'def hils(navn, alder):  # navn og alder er parametere'\n'    print(f\"Hei {navn}, du er {alder} år\")'\n\n'hils(\"Sara\", 15)  # \"Sara\" og 15 er argumenter'\n\nParametere lar funksjonen motta data og tilpasse seg. Uten parametere ville funksjonen gjøre det samme hver gang."
+  },
+  {
+    "id": 14,
+    "section": "Functions2",
+    "question": "Hva er forskjellen på en prosedyre og en funksjon?",
+    "options": [
+      "Prosedyre returnerer ikke verdi, funksjon gjør det",
+      "De er identiske",
+      "Prosedyre er raskere",
+      "Funksjon kan ikke ha parametere"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Funksjon bruker return, prosedyre gjør ikke det.",
+    "explanation": "**Prosedyre (procedure):**\n'def skriv_hilsen():'\n'    print(\"Hei!\")  # gjør noe, men returnerer ikke'\n\n**Funksjon (function):**\n'def sum(a, b):'\n'    return a + b  # returnerer et resultat'\n\nI Python er begge teknisk sett funksjoner, men uten 'return' fungerer de som prosedyrer."
+  },
+  {
+    "id": 15,
+    "section": "Lists1",
+    "question": "Hvordan lager du en liste?",
+    "options": [
+      "frukt = [\"eple\", \"banan\", \"pære\"]",
+      "frukt = (\"eple\", \"banan\", \"pære\")",
+      "frukt = {\"eple\", \"banan\", \"pære\"}",
+      "liste frukt = eple, banan, pære"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Lister bruker hakeparenteser [].",
+    "explanation": "**Liste (list)** lages med **hakeparenteser []**:\n\n'frukt = [\"eple\", \"banan\", \"pære\"]'\n'tall = [1, 2, 3, 4, 5]'\n'blandet = [\"hei\", 42, True]'\n\nLister kan inneholde mange verdier og ulike datatyper. Du kan legge til ('append()'), fjerne ('remove()'), og endre elementer."
+  },
+  {
+    "id": 16,
+    "section": "Lists2",
+    "question": "Hvordan får du det første elementet i en liste?",
+    "options": [
+      "liste[0]",
+      "liste[1]",
+      "liste.first()",
+      "liste.get(0)"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Python bruker 0-indeksering, så første element er [0].",
+    "explanation": "**Indeksering (indexing)** starter på 0 i Python:\n\n'frukt = [\"eple\", \"banan\", \"pære\"]'\n'frukt[0]' → \"eple\" (første)\n'frukt[1]' → \"banan\" (andre)\n'frukt[2]' → \"pære\" (tredje)\n'frukt[-1]' → \"pære\" (siste)\n\nNegative indekser teller baklengs!"
+  },
+  {
+    "id": 17,
+    "section": "Lists3",
+    "question": "Hva gjør 'append()' med en liste?",
+    "options": [
+      "Legger til et element på slutten",
+      "Fjerner det siste elementet",
+      "Sorterer listen",
+      "Tømmer hele listen"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "append() legger til element på slutten av listen.",
+    "explanation": "**append()** er en metode for å legge til elementer:\n\n'tall = [1, 2, 3]'\n'tall.append(4)'\n'print(tall)' → [1, 2, 3, 4]\n\nAndre nyttige metoder:\n- 'remove(x)' → fjerner første x\n- 'pop()' → fjerner siste element\n- 'len(liste)' → teller elementer"
+  },
+  {
+    "id": 18,
+    "section": "Dict1",
+    "question": "Hvordan lager du en ordbok (dictionary)?",
+    "options": [
+      "person = {\"navn\": \"Sara\", \"alder\": 15}",
+      "person = [\"navn\", \"Sara\", \"alder\", 15]",
+      "person = (\"navn\": \"Sara\", \"alder\": 15)",
+      "dict person = navn Sara, alder 15"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Ordbøker bruker krøllparenteser {} med nøkkel:verdi.",
+    "explanation": "**Ordbok (dictionary)** bruker **krøllparenteser {}** med nøkkel:verdi-par:\n\n'person = {\"navn\": \"Sara\", \"alder\": 15, \"by\": \"Oslo\"}'\n\nOrdbøker er perfekte for å lagre relatert informasjon. Hver nøkkel (key) har en verdi (value)."
+  },
+  {
+    "id": 19,
+    "section": "Dict2",
+    "question": "Hvordan henter du verdien til 'navn' fra ordboken?\n\n```python\nperson = {\"navn\": \"Sara\", \"alder\": 15}\n```",
+    "options": [
+      "person[\"navn\"]",
+      "person.navn",
+      "person(\"navn\")",
+      "person[0]"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Bruk nøkkelen i hakeparenteser.",
+    "explanation": "**Tilgang til ordbok** bruker nøkkelen:\n\n'person[\"navn\"]' → \"Sara\"\n'person[\"alder\"]' → 15\n\nDu kan også:\n- Legge til: 'person[\"hobby\"] = \"fotball\"'\n- Endre: 'person[\"alder\"] = 16'\n- Slette: 'del person[\"by\"]'"
+  },
+  {
+    "id": 20,
+    "section": "Dict3",
+    "question": "Hva skjer hvis du prøver å hente en nøkkel som ikke finnes?\n\n```python\nperson = {\"navn\": \"Sara\"}\nprint(person[\"alder\"])\n```",
+    "options": [
+      "KeyError - Python gir en feilmelding",
+      "Returnerer None",
+      "Returnerer 0",
+      "Lager nøkkelen automatisk"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Manglende nøkkel gir KeyError.",
+    "explanation": "**KeyError** oppstår når nøkkelen ikke finnes i ordboken.\n\n**Tryggere alternativer:**\n'person.get(\"alder\")' → returnerer None hvis ikke funnet\n'person.get(\"alder\", 0)' → returnerer 0 hvis ikke funnet\n\n'get()' er tryggere enn '[]' når du er usikker på om nøkkelen finnes."
+  },
+  {
+    "id": 21,
+    "section": "Errors1",
+    "question": "Hva er en SyntaxError?",
+    "options": [
+      "Feil i hvordan koden er skrevet",
+      "Programmet bruker for mye minne",
+      "En logisk feil i programmet",
+      "Internettforbindelse mangler"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "SyntaxError = feil grammatikk i koden.",
+    "explanation": "**SyntaxError** betyr at Python ikke forstår koden:\n\nVanlige årsaker:\n- Manglende kolon: 'if x > 5  # Trenger :'\n- Feil innrykk: 'print(\"hei\")  # Ikke riktig innrykk'\n- Glemte parenteser: 'print \"hei\"  # Trenger ()'\n\nPython finner disse **før** programmet kjører."
+  },
+  {
+    "id": 22,
+    "section": "Errors2",
+    "question": "Hva er en logisk feil (logical error)?",
+    "options": [
+      "Programmet kjører, men gir feil resultat",
+      "Python kan ikke starte programmet",
+      "Datamaskinen krasjer",
+      "En syntax-feil"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Logisk feil = feil logikk, ikke feil kode.",
+    "explanation": "**Logisk feil** er når programmet kjører uten feilmeldinger, men gjør feil ting:\n\nEksempel:\n'alder = int(input(\"Alder: \"))'\n'if alder > 18:  # Skulle vært >='\n'    print(\"Voksen\")'\n\nEn 18-åring regnes ikke som voksen her - det er logisk feil, ikke syntax-feil. Disse er vanseligst å finne!"
+  },
+  {
+    "id": 23,
+    "section": "Errors3",
+    "question": "Hva betyr denne feilmeldingen?\n\n'NameError: name 'x' is not defined'",
+    "options": [
+      "Variabelen x er brukt uten å være definert først",
+      "x har feil datatype",
+      "x er for langt variabelnavn",
+      "Python støtter ikke bokstaven x"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "NameError = variabel brukt før den er definert.",
+    "explanation": "**NameError** oppstår når du bruker en variabel som ikke eksisterer:\n\n'print(resultat)  # resultat finnes ikke'\n\n**Løsning:**\n'resultat = 10'\n'print(resultat)'\n\nVariabler må defineres (få en verdi) før de kan brukes."
+  },
+  {
+    "id": 24,
+    "section": "Errors4",
+    "question": "Hva er TypeError?",
+    "options": [
+      "Du bruker feil datatype i en operasjon",
+      "En stavefeil i koden",
+      "Programmet tar for lang tid",
+      "Manglende internett"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "TypeError = feil kombinasjon av datatyper.",
+    "explanation": "**TypeError** skjer når du kombinerer inkompatible typer:\n\n'x = \"5\" + 3  # Kan ikke legge sammen string og int'\n\n**Løsning:**\n'x = int(\"5\") + 3  # Konverter til samme type'\n'x = \"5\" + str(3)  # Eller konverter til string'\n\nAlltid pass på at datatyper matcher!"
+  },
+  {
+    "id": 25,
+    "section": "Length1",
+    "question": "Hva gjør 'len()' funksjonen?",
+    "options": [
+      "Teller antall elementer i en samling",
+      "Legger til elementer i en liste",
+      "Fjerner elementer fra en liste",
+      "Sorterer en liste"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "len() returnerer lengden/antall elementer.",
+    "explanation": "**len()** er en innebygd funksjon som teller:\n\n'len([1, 2, 3])' → 3\n'len(\"Hei\")' → 3\n'len({\"a\": 1, \"b\": 2})' → 2\n\nFungerer på:\n- Lister\n- Strings\n- Ordbøker\n- Tupler\n- Og mer!"
+  },
+  {
+    "id": 26,
+    "section": "Mixed1",
+    "question": "Hva skriver dette ut?\n\n```python\nx = 5\nif x > 3:\n    print(\"A\")\nif x > 7:\n    print(\"B\")\nelse:\n    print(\"C\")\n```",
+    "options": [
+      "A\nC",
+      "A\nB",
+      "C",
+      "A"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "Første if kjører (A), andre if er False så else kjører (C).",
+    "explanation": "**To separate if-setninger:**\n\nFørste sjekk: 'x > 3' → True → skriver \"A\"\nAndre sjekk: 'x > 7' → False → hopper til 'else' → skriver \"C\"\n\nResultat: A og C\n\n**Viktig:** Dette er to forskjellige if-setninger, ikke elif!"
+  },
+  {
+    "id": 27,
+    "section": "Mixed2",
+    "question": "Hva returnerer denne funksjonen?\n\n```python\ndef test(x, y):\n    resultat = x * 2 + y\n    return resultat\n\nprint(test(3, 4))\n```",
+    "options": [
+      "10",
+      "14",
+      "34",
+      "Error"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "3 * 2 + 4 = 6 + 4 = 10.",
+    "explanation": "**Steg-for-steg:**\n\n1. Funksjonen kalles med x=3, y=4\n2. 'resultat = 3 * 2 + 4'\n3. Først: 3 * 2 = 6\n4. Deretter: 6 + 4 = 10\n5. 'return 10'\n6. 'print(10)' → skriver ut 10\n\nParametere 'x' og 'y' får verdiene 3 og 4."
+  },
+  {
+    "id": 28,
+    "section": "Mixed3",
+    "question": "Hva er verdien av 'liste' etter denne koden?\n\n```python\nliste = [1, 2, 3]\nliste.append(4)\nliste.remove(2)\n```",
+    "options": [
+      "[1, 3, 4]",
+      "[1, 2, 3, 4]",
+      "[1, 3]",
+      "[2, 3, 4]"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "append(4) legger til 4, remove(2) fjerner 2.",
+    "explanation": "**Steg-for-steg:**\n\n1. Start: [1, 2, 3]\n2. 'append(4)': [1, 2, 3, 4]\n3. 'remove(2)': [1, 3, 4]\n\nSluttresultat: [1, 3, 4]\n\n'remove()' fjerner første forekomst av verdien."
+  },
+  {
+    "id": 29,
+    "section": "Mixed4",
+    "question": "Hva blir output?\n\n```python\nfor i in range(3):\n    if i == 1:\n        continue\n    print(i)\n```",
+    "options": [
+      "0\n2",
+      "0\n1\n2",
+      "1",
+      "Error"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "continue hopper over print når i=1.",
+    "explanation": "**continue** hopper til neste iterasjon:\n\ni=0: ingen continue, print(0)\ni=1: 'continue' kjører, hopper over print\ni=2: ingen continue, print(2)\n\nResultat: 0 og 2\n\n'continue' brukes for å hoppe over deler av en løkke."
+  },
+  {
+    "id": 30,
+    "section": "Mixed5",
+    "question": "Hva returnerer 'len()' for denne ordboken?\n\n```python\ndata = {\"navn\": \"Ole\", \"alder\": 20, \"by\": \"Oslo\"}\nprint(len(data))\n```",
+    "options": [
+      "3",
+      "12",
+      "6",
+      "Error"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "len() teller antall nøkler i ordboken.",
+    "explanation": "For ordbøker teller 'len()' antall nøkkel-verdi-par:\n\nOrdboken har 3 nøkler:\n1. \"navn\"\n2. \"alder\"\n3. \"by\"\n\n'len(data)' → 3\n\nFor lister teller 'len()' elementer, for strings teller den tegn."
+  }
+]
