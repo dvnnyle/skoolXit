@@ -487,6 +487,104 @@
     ],
     "answerIndex": 2,
     "shortExplanation": "len() returnerer antall elementer i listen.",
-    "explanation": "Koden starter med en liste med 3 elementer: [1, 2, 3]. 'append(4)' legger til elementet 4 på slutten, så listen blir [1, 2, 3, 4]. 'len(liste)' returnerer antall elementer i listen, som nå er 4.\n\n**Om len():**\nlen() er en innebygd funksjon som teller lengden på samlinger:\n- Lister: len([1, 2, 3]) gir 3\n- Strings: len('hei') gir 3\n- Ordbøker: len({'a': 1, 'b': 2}) gir 2\n\nDette er en av de mest brukte funksjonene i Python for å sjekke størrelsen på data."
+    "explanation": "Koden starter med en liste med 3 elementer: [1, 2, 3]. 'append(4)' legger til elementet 4 på slutten, så listen blir [1, 2, 3, 4]. 'len(liste)' returnerer antall elementer i listen, som nå er 4.\n\n**Om len():**\n`len()` er en innebygd funksjon som teller lengden på samlinger:\n- Lister: `len([1, 2, 3])` gir 3\n- Strings: `len('hei')` gir 3\n- Ordbøker: `len({'a': 1, 'b': 2})` gir 2\n\nDette er en av de mest brukte funksjonene i Python for å sjekke størrelsen på data."
+  },
+  {
+    "id": 36,
+    "section": "Def1",
+    "question": "Hva er en variabel (variable)?",
+    "options": [
+      "En feilmelding som vises når koden ikke fungerer",
+      "Et navn som lagrer en verdi som kan brukes senere i programmet",
+      "En funksjon som utfører beregninger",
+      "En type loop som gjentar kode flere ganger"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "En variabel lagrer data med et navn.",
+    "explanation": "En **variabel (variable)** er et navn som lagrer en verdi, som et lite lager for data du kan bruke senere i programmet.\n\n**Eksempler:**\n- `alder = 17` - lagrer tallet 17 i variabelen alder\n- `navn = 'Sara'` - lagrer teksten 'Sara' i variabelen navn\n- `er_student = True` - lagrer sannhetsverdien True\n\nVariabler gjør det mulig å jobbe med data på en fleksibel måte - du kan endre verdien, bruke den i beregninger, eller sende den til funksjoner."
+  },
+  {
+    "id": 37,
+    "section": "Def2",
+    "question": "Hva er skop (scope)?",
+    "options": [
+      "En måte å skrive kommentarer i koden på",
+      "Området i programmet der en variabel er tilgjengelig og kan brukes",
+      "En type feilmelding som oppstår ved kjøring",
+      "En funksjon som organiserer kode i blokker"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Skop er området der en variabel kan brukes.",
+    "explanation": "**Skop (scope)** definerer hvor i programmet en variabel er tilgjengelig og kan brukes.\n\n**To typer skop:**\n\n**Lokalt skop:**\n- Variabler inne i en funksjon\n- Kan bare brukes inni den funksjonen\n- Forsvinner når funksjonen er ferdig\n```python\ndef test():\n    x = 5  # x har lokalt skop\n    print(x)  # Fungerer\n# print(x)  # Gir feil - x finnes ikke her\n```\n\n**Globalt skop:**\n- Variabler utenfor alle funksjoner\n- Kan brukes overalt i programmet\n```python\ny = 10  # y har globalt skop\ndef test():\n    print(y)  # Fungerer - y er global\n```\n\nSkop forhindrer at variabler fra én funksjon utilsiktet påvirker andre deler av programmet."
+  },
+  {
+    "id": 38,
+    "section": "Def3",
+    "question": "Hva er if-elif-else setninger?",
+    "options": [
+      "Funksjoner som returnerer verdier til hovedprogrammet",
+      "Strukturer som lar programmet ta beslutninger basert på betingelser",
+      "Loops som gjentar kode et bestemt antall ganger",
+      "Variabler som lagrer flere verdier samtidig"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "if-elif-else brukes for å ta beslutninger i koden.",
+    "explanation": "**if-elif-else** er strukturer som lar programmet ta beslutninger og velge hvilken kode som skal kjøres basert på betingelser.\n\n**Hvordan det fungerer:**\n- **if**: Sjekker den første betingelsen\n- **elif** (else if): Sjekker alternative betingelser hvis if er False\n- **else**: Kjører hvis ingen betingelser er True\n\n**Eksempel:**\n```python\nkarakter = 85\nif karakter >= 90:\n    print('A')  # Kjører hvis >= 90\nelif karakter >= 80:\n    print('B')  # Kjører hvis >= 80 men < 90\nelif karakter >= 70:\n    print('C')  # Kjører hvis >= 70 men < 80\nelse:\n    print('F')  # Kjører hvis < 70\n```\n\nPython sjekker betingelsene ovenfra og ned, og kjører kun den første som stemmer."
+  },
+  {
+    "id": 39,
+    "section": "Def4",
+    "question": "Hva er en funksjon (function)?",
+    "options": [
+      "En variabel som kan lagre flere verdier",
+      "Et navngitt stykke kode som kan gjenbrukes og eventuelt returnere en verdi",
+      "En type loop som gjentar kode",
+      "En betingelse som sjekker om noe er sant eller usant"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "En funksjon er gjenbrukbar kode med et navn.",
+    "explanation": "En **funksjon (function)** er et navngitt stykke kode som utfører en bestemt oppgave. Funksjoner kan ta imot data (parametere), utføre operasjoner, og returnere resultater.\n\n**Hvorfor bruke funksjoner:**\n- Gjenbruk av kode - skriv én gang, bruk mange ganger\n- Organisering - deler opp store programmer i mindre deler\n- Lettere å teste og vedlikeholde\n\n**Eksempel:**\n```python\ndef beregn_areal(lengde, bredde):\n    areal = lengde * bredde\n    return areal\n\nresultat = beregn_areal(5, 3)  # returnerer 15\n```\n\n**Deler av en funksjon:**\n- **def**: Nøkkelord for å definere funksjon\n- **Funksjonsnavn**: beregn_areal\n- **Parametere**: lengde, bredde (inndata)\n- **return**: Sender verdi tilbake\n- **Funksjonskall**: beregn_areal(5, 3) (bruker funksjonen)"
+  },
+  {
+    "id": 40,
+    "section": "Def5",
+    "question": "Hva er en parameter (parameter)?",
+    "options": [
+      "En feilmelding som vises i konsollen",
+      "Informasjon som sendes inn til en funksjon når den kalles",
+      "En type variabel som kun kan lagre tall",
+      "En loop som gjentar kode"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "En parameter er inndata til en funksjon.",
+    "explanation": "En **parameter (parameter)** er informasjon som sendes inn til en funksjon slik at funksjonen kan tilpasses forskjellige situasjoner.\n\n**Eksempel:**\n```python\ndef hils(navn, alder):\n    print(f'Hei {navn}, du er {alder} år!')\n\nhils('Sara', 17)  # navn='Sara', alder=17\nhils('Jonas', 19)  # navn='Jonas', alder=19\n```\n\n**Viktige begreper:**\n- **Parametere**: Variabler i funksjonsdefinisjonen (navn, alder)\n- **Argumenter**: Verdiene du sender inn ('Sara', 17)\n\n**Fordeler med parametere:**\n- Gjør funksjoner fleksible og gjenbrukbare\n- Samme funksjon kan brukes med forskjellige data\n- Funksjonen trenger ikke å vite verdiene på forhånd\n\n**Eksempel uten parametere:**\n```python\ndef si_hei():\n    print('Hei!')  # Skriver alltid det samme\n```\n\n**Med parametere:**\n```python\ndef si_hei(navn):\n    print(f'Hei {navn}!')  # Kan hilse på hvem som helst\n```"
+  },
+  {
+    "id": 41,
+    "section": "Def6",
+    "question": "Hva er en liste (list)?",
+    "options": [
+      "En funksjon som sorterer data",
+      "En samling av flere verdier lagret i én variabel, i en bestemt rekkefølge",
+      "En type loop for å gjenta kode",
+      "En betingelse som sjekker om verdier er like"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "En liste samler flere verdier i rekkefølge.",
+    "explanation": "En **liste (list)** er en samling av flere verdier lagret i én variabel. Lister holder verdiene i en bestemt rekkefølge og kan endres underveis.\n\n**Opprette en liste:**\n```python\nfrukt = ['eple', 'banan', 'pære']\ntall = [1, 2, 3, 4, 5]\nblandet = ['tekst', 42, True, 3.14]\n```\n\n**Hente verdier (indeksering):**\n```python\nprint(frukt[0])  # 'eple' (første element)\nprint(frukt[1])  # 'banan' (andre element)\nprint(frukt[-1])  # 'pære' (siste element)\n```\n\n**Endre lister:**\n- `frukt.append('appelsin')` - legg til på slutten\n- `frukt.remove('banan')` - fjern element\n- `frukt[0] = 'mango'` - endre element\n- `len(frukt)` - antall elementer\n\n**Hvorfor bruke lister:**\n- Lagre mange relaterte verdier sammen\n- Holde styr på rekkefølge\n- Lett å legge til eller fjerne elementer\n- Kan loope gjennom alle verdiene"
+  },
+  {
+    "id": 42,
+    "section": "Def7",
+    "question": "Hva er en ordbok/dictionary?",
+    "options": [
+      "En liste som automatisk sorterer verdier alfabetisk",
+      "En samling av nøkkel-verdi par for å lagre relatert informasjon",
+      "En funksjon som oversetter tekst mellom språk",
+      "En type loop for å iterere gjennom data"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "En ordbok lagrer nøkkel-verdi par.",
+    "explanation": "En **ordbok (dictionary)** er en samling av **nøkkel-verdi par** som lar deg organisere relatert informasjon sammen.\n\n**Opprette ordbok:**\n```python\nperson = {\n    'navn': 'Sara',\n    'alder': 17,\n    'by': 'Oslo'\n}\n```\n\n**Hente verdier:**\n```python\nprint(person['navn'])  # 'Sara'\nprint(person['alder'])  # 17\n```\n\n**Legge til eller endre:**\n```python\nperson['epost'] = 'sara@mail.com'  # Ny nøkkel\nperson['alder'] = 18  # Endre eksisterende\n```\n\n**Forskjell fra lister:**\n\n**Liste:**\n- Bruker tall-indekser (0, 1, 2...)\n- `frukt[0]` gir første element\n- Rekkefølge er viktig\n\n**Ordbok:**\n- Bruker beskrivende nøkler ('navn', 'alder')\n- `person['navn']` gir verdien for navn\n- Nøklene beskriver hva dataen betyr\n\n**Når bruke ordbok:**\n- Når data hører sammen (person-info, innstillinger)\n- Når du vil bruke beskrivende navn i stedet for tall\n- Når du trenger rask oppslag av verdier"
   }
 ]

@@ -13,7 +13,7 @@ function Home() {
       completedQuestions: 0,
       correctAnswers: 0,
       totalCorrectFromAllAttempts: 0,
-      totalQuestions: 272
+      totalQuestions: 288
     })
 
   const loadStats = () => {
@@ -32,7 +32,7 @@ function Home() {
       { id: 'module5a', total: 24 },
       { id: 'module5b', total: 25 },
       { id: 'pythonIntro', total: 30 },
-      { id: 'learnPython', total: 35 },
+      { id: 'learnPython', total: 42 },
       { id: 'pythonCode', total: 30 }
     ]
     
@@ -66,7 +66,7 @@ function Home() {
       completedQuestions: totalCompleted,
       correctAnswers: totalCorrect,
       totalCorrectFromAllAttempts: totalCorrectAllAttempts,
-      totalQuestions: 281
+      totalQuestions: 288
     })
   }
 
