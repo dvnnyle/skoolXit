@@ -328,7 +328,6 @@ function LearnPython() {
             {currentQuestionIndex === questions.length - 1 ? 'Finish' : 'Next →'}
           </button>
         </div>
-        </div>
       </div>
     </motion.div>
   )
