@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "section": "Output1",
+    "question": "Hva blir output av denne koden?\n\n```python\nx = 5\ny = 2\nresultat = x ** y\nprint(resultat)\n```",
+    "options": [
+      "10",
+      "25",
+      "32",
+      "7"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "** er potensoperatoren i Python.",
+    "explanation": "Operatoren ** brukes for potensregning i Python. Her regnes 5 ** 2, som betyr 5 opphøyd i 2 (5²). Resultatet blir 5 * 5 = 25."
+  },
+  {
+    "id": 2,
+    "section": "Output2",
+    "question": "Hva skrives ut?\n\n```python\ntall = 15\nif tall % 2 == 0:\n    print('Partall')\nelse:\n    print('Oddetall')\n```",
+    "options": [
+      "Oddetall",
+      "15",
+      "Error",
+      "Partall"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "15 % 2 gir rest 1, som ikke er lik 0.",
+    "explanation": "Modulo-operatoren (%) gir resten ved divisjon. 15 % 2 gir 1 (fordi 15 = 7 * 2 + 1). Siden 1 != 0, er betingelsen False, og else-blokken kjører. Programmet skriver ut 'Oddetall'."
+  },
+  {
+    "id": 3,
+    "section": "Output3",
+    "question": "Hva blir resultatet?\n\n```python\nliste = [10, 20, 30, 40]\nprint(liste[-1])\n```",
+    "options": [
+      "10",
+      "40",
+      "Error",
+      "-1"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Negativ indeks teller baklengs fra slutten.",
+    "explanation": "I Python kan du bruke negativ indeksering for å få tak i elementer fra slutten av en liste. liste[-1] gir det siste elementet, liste[-2] gir nest siste, osv. Her er det siste elementet 40."
+  },
+  {
+    "id": 4,
+    "section": "Output4",
+    "question": "Hva skrives ut?\n\n```python\nfor i in range(1, 4):\n    print(i * 2)\n```",
+    "options": [
+      "0\n2\n4",
+      "2\n4\n6\n8",
+      "2\n4\n6",
+      "1\n2\n3"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "range(1, 4) gir 1, 2, 3. Hver ganges med 2.",
+    "explanation": "range(1, 4) genererer tallene 1, 2, 3 (stopper før 4). For hver verdi ganges den med 2 og skrives ut:\n- 1 * 2 = 2\n- 2 * 2 = 4\n- 3 * 2 = 6"
+  },
+  {
+    "id": 5,
+    "section": "Output5",
+    "question": "Hva blir verdien av 'tekst'?\n\n```python\ntekst = 'Python'\nprint(tekst[0] + tekst[-1])\n```",
+    "options": [
+      "Pn",
+      "Py",
+      "on",
+      "Python"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "tekst[0] er 'P', tekst[-1] er 'n'.",
+    "explanation": "String-indeksering lar oss hente enkeltbokstaver. tekst[0] gir første bokstav 'P', og tekst[-1] gir siste bokstav 'n'. Når vi legger sammen to strings med +, får vi 'Pn'."
+  },
+  {
+    "id": 6,
+    "section": "Output6",
+    "question": "Hva skrives ut?\n\n```python\ndef multipliser(a, b=3):\n    return a * b\n\nprint(multipliser(4))\n```",
+    "options": [
+      "4",
+      "7",
+      "Error",
+      "12"
+    ],
+    "answerIndex": 3,
+    "shortExplanation": "b har standardverdi 3.",
+    "explanation": "Funksjonen har en parameter med standardverdi: b=3. Når vi kun sender inn ett argument (4), brukes standardverdien for b. Derfor regnes 4 * 3 = 12."
+  },
+  {
+    "id": 7,
+    "section": "Output7",
+    "question": "Hva blir output?\n\n```python\nliste = [1, 2, 3]\nliste.extend([4, 5])\nprint(len(liste))\n```",
+    "options": [
+      "[1, 2, 3, 4, 5]",
+      "5",
+      "2",
+      "3"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "extend() legger til alle elementene fra den andre listen.",
+    "explanation": "extend() legger til alle elementene fra en annen liste. Listen starter med [1, 2, 3], så legger vi til [4, 5]. Listen blir [1, 2, 3, 4, 5], som har 5 elementer. len() returnerer antallet."
+  },
+  {
+    "id": 8,
+    "section": "Output8",
+    "question": "Hva skrives ut?\n\n```python\nx = 10\ny = 20\nx, y = y, x\nprint(x, y)\n```",
+    "options": [
+      "30 30",
+      "Error",
+      "10 20",
+      "20 10"
+    ],
+    "answerIndex": 3,
+    "shortExplanation": "Python bytter verdiene på x og y.",
+    "explanation": "Dette er Pythons elegante måte å bytte verdier på. Uttrykket x, y = y, x bytter verdiene. x får verdien av y (20), og y får verdien av x (10). Resultatet skrives ut som '20 10'."
+  },
+  {
+    "id": 9,
+    "section": "Output9",
+    "question": "Hva blir resultatet?\n\n```python\nord = 'programmering'\nprint(ord[3:7])\n```",
+    "options": [
+      "ramm",
+      "prog",
+      "gram",
+      "programming"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Slicing fra indeks 3 til 7 (ikke inkludert).",
+    "explanation": "String slicing bruker syntaksen [start:slutt]. ord[3:7] henter bokstavene fra indeks 3 til 6 (7 er ikke inkludert). I 'programmering' er:\n- Indeks 3: 'g'\n- Indeks 4: 'r'\n- Indeks 5: 'a'\n- Indeks 6: 'm'\nResultatet blir 'gram'."
+  },
+  {
+    "id": 10,
+    "section": "Output10",
+    "question": "Hva skrives ut?\n\n```python\nliste = [5, 2, 8, 1, 9]\nprint(max(liste) - min(liste))\n```",
+    "options": [
+      "9",
+      "14",
+      "1",
+      "8"
+    ],
+    "answerIndex": 3,
+    "shortExplanation": "max() finner 9, min() finner 1. Differansen er 8.",
+    "explanation": "max(liste) finner det største tallet i listen (9), og min(liste) finner det minste (1). Differansen mellom dem er 9 - 1 = 8."
+  },
+  {
+    "id": 11,
+    "section": "Output11",
+    "question": "Hva blir output?\n\n```python\ntall = 7\nresultat = tall > 5 and tall < 10\nprint(resultat)\n```",
+    "options": [
+      "False",
+      "Error",
+      "7",
+      "True"
+    ],
+    "answerIndex": 3,
+    "shortExplanation": "Begge betingelsene er sanne.",
+    "explanation": "tall > 5 er True (7 > 5), og tall < 10 er også True (7 < 10). Når begge betingelsene i en 'and'-operasjon er sanne, blir hele uttrykket True."
+  },
+  {
+    "id": 12,
+    "section": "Output12",
+    "question": "Hva skrives ut?\n\n```python\nfor i in range(3):\n    if i == 1:\n        continue\n    print(i)\n```",
+    "options": [
+      "0\n1\n2",
+      "2",
+      "1",
+      "0\n2"
+    ],
+    "answerIndex": 3,
+    "shortExplanation": "continue hopper over når i er 1.",
+    "explanation": "continue-kommandoen hopper over resten av loopen for den gjeldende iterasjonen. Når i = 0, skrives 0 ut. Når i = 1, hopper continue over print(i). Når i = 2, skrives 2 ut."
+  },
+  {
+    "id": 13,
+    "section": "Output13",
+    "question": "Hva blir resultatet?\n\n```python\nbok = {'tittel': 'Python', 'sider': 200}\nbok['forfatter'] = 'Anna'\nprint(len(bok))\n```",
+    "options": [
+      "200",
+      "2",
+      "3",
+      "Error"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Ordboken har nå 3 nøkkel-verdi par.",
+    "explanation": "Ordboken starter med 2 nøkkel-verdi par ('tittel' og 'sider'). Vi legger til et nytt par 'forfatter': 'Anna'. len() på en ordbok returnerer antall nøkler, som nå er 3."
+  },
+  {
+    "id": 14,
+    "section": "Output14",
+    "question": "Hva skrives ut?\n\n```python\ntekst = '  Python  '\nprint(len(tekst.strip()))\n```",
+    "options": [
+      "10",
+      "6",
+      "Error",
+      "8"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "strip() fjerner mellomrom, 'Python' har 6 bokstaver.",
+    "explanation": "strip() fjerner whitespace (mellomrom, tabs, newlines) fra start og slutt av en string. Teksten '  Python  ' har 10 tegn totalt, men strip() gir 'Python' som er 6 tegn. len() returnerer 6."
+  },
+  {
+    "id": 15,
+    "section": "Output15",
+    "question": "Hva blir output?\n\n```python\nliste = [1, 2, 3, 4, 5]\nprint(liste[1:4])\n```",
+    "options": [
+      "[2, 3, 4, 5]",
+      "[1, 2, 3]",
+      "[1, 2, 3, 4]",
+      "[2, 3, 4]"
+    ],
+    "answerIndex": 3,
+    "shortExplanation": "Slicing fra indeks 1 til 4 (ikke inkludert).",
+    "explanation": "Liste-slicing [1:4] henter elementer fra indeks 1 til 3 (4 er ikke inkludert). Fra listen [1, 2, 3, 4, 5]:\n- Indeks 1: 2\n- Indeks 2: 3\n- Indeks 3: 4\nResultatet blir [2, 3, 4]."
+  },
+  {
+    "id": 16,
+    "section": "Output16",
+    "question": "Hva skrives ut?\n\n```python\ndef test():\n    x = 5\n    return x * 2\n\nprint(test() + 3)\n```",
+    "options": [
+      "10",
+      "13",
+      "8",
+      "Error"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "test() returnerer 10, så 10 + 3 = 13.",
+    "explanation": "Funksjonen test() multipliserer 5 med 2 og returnerer 10. Dette resultatet legges sammen med 3: 10 + 3 = 13."
+  },
+  {
+    "id": 17,
+    "section": "Output17",
+    "question": "Hva blir resultatet?\n\n```python\ntall = [1, 2, 3]\ntall.insert(1, 10)\nprint(tall)\n```",
+    "options": [
+      "[1, 2, 3, 10]",
+      "[10, 1, 2, 3]",
+      "[1, 10, 2, 3]",
+      "[1, 2, 10, 3]"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "insert(1, 10) setter inn 10 på indeks 1.",
+    "explanation": "insert(index, element) setter inn et element på angitt posisjon. insert(1, 10) setter inn 10 på indeks 1, som skyver de eksisterende elementene oppover. Listen blir [1, 10, 2, 3]."
+  },
+  {
+    "id": 18,
+    "section": "Output18",
+    "question": "Hva skrives ut?\n\n```python\ntekst = 'hallo'\nprint(tekst.upper())\nprint(tekst)\n```",
+    "options": [
+      "hallo\nHALLO",
+      "hallo\nhallo",
+      "HALLO\nHALLO",
+      "HALLO\nhallo"
+    ],
+    "answerIndex": 3,
+    "shortExplanation": "upper() endrer ikke originalen, returnerer ny string.",
+    "explanation": "Strings er immutable (uforanderlige) i Python. upper() returnerer en ny string med store bokstaver, men endrer ikke den originale variabelen 'tekst'. Derfor skrives først 'HALLO' ut, deretter 'hallo'."
+  },
+  {
+    "id": 19,
+    "section": "Output19",
+    "question": "Hva blir output?\n\n```python\nx = [1, 2, 3]\ny = x\ny.append(4)\nprint(x)\n```",
+    "options": [
+      "Error",
+      "[1, 2, 3]",
+      "[1, 2, 3, 4]",
+      "[4]"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "x og y peker til samme liste.",
+    "explanation": "Når vi skriver y = x, kopierer vi ikke listen - både x og y peker til samme liste i minnet. Når vi endrer listen via y (append(4)), påvirkes også x siden de peker til samme objekt."
+  },
+  {
+    "id": 20,
+    "section": "Output20",
+    "question": "Hva skrives ut?\n\n```python\nresultat = 'Python' in 'Jeg liker Python'\nprint(resultat)\n```",
+    "options": [
+      "Error",
+      "Python",
+      "True",
+      "False"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "in-operatoren sjekker om substring finnes.",
+    "explanation": "in-operatoren brukes for å sjekke om en substring finnes i en string. 'Python' finnes i 'Jeg liker Python', så uttrykket evaluerer til True."
+  },
+  {
+    "id": 21,
+    "section": "Output21",
+    "question": "Hva blir resultatet?\n\n```python\nliste = [5, 10, 15, 20]\nsum_tall = sum(liste)\nprint(sum_tall / len(liste))\n```",
+    "options": [
+      "10",
+      "12.5",
+      "50",
+      "4"
+    ],
+    "answerIndex": 1,
+    "shortExplanation": "Gjennomsnittet: summen (50) delt på antallet (4).",
+    "explanation": "sum(liste) beregner summen av alle tall: 5 + 10 + 15 + 20 = 50. len(liste) gir antall elementer: 4. Gjennomsnittet blir 50 / 4 = 12.5."
+  },
+  {
+    "id": 22,
+    "section": "Output22",
+    "question": "Hva skrives ut?\n\n```python\nfor i in range(5, 0, -1):\n    if i == 3:\n        break\n    print(i)\n```",
+    "options": [
+      "1\n2",
+      "5\n4\n3",
+      "5\n4",
+      "5\n4\n3\n2\n1"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "break stopper loopen når i er 3.",
+    "explanation": "range(5, 0, -1) teller baklengs fra 5 til 1. Loopen skriver ut 5, deretter 4. Når i = 3, utføres break som avslutter hele loopen. Derfor skrives bare 5 og 4 ut."
+  },
+  {
+    "id": 23,
+    "section": "Output23",
+    "question": "Hva blir output?\n\n```python\ndata = {'a': 1, 'b': 2, 'c': 3}\nprint('b' in data)\n```",
+    "options": [
+      "True",
+      "2",
+      "False",
+      "Error"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "in sjekker om nøkkelen finnes i ordboken.",
+    "explanation": "Når vi bruker in med en ordbok, sjekker Python om nøkkelen finnes (ikke verdien). 'b' er en nøkkel i data, så uttrykket returnerer True."
+  },
+  {
+    "id": 24,
+    "section": "Output24",
+    "question": "Hva skrives ut?\n\n```python\ntekst = 'Python'\nprint(tekst * 3)\n```",
+    "options": [
+      "PythonPythonPython",
+      "PPPyyyтттhhhooonnn",
+      "Error",
+      "Python3"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "* med string gjentar strengen.",
+    "explanation": "Multiplikasjonsoperatoren (*) med en string gjentar strengen det angitte antall ganger. 'Python' * 3 gir 'PythonPythonPython' - tre kopier av 'Python' etter hverandre."
+  },
+  {
+    "id": 25,
+    "section": "Output25",
+    "question": "Hva blir resultatet?\n\n```python\nliste = [10, 20, 30, 40, 50]\nprint(liste[::2])\n```",
+    "options": [
+      "[10, 30, 50]",
+      "[10, 20]",
+      "[20, 40]",
+      "[10, 20, 30]"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "[::2] tar hvert andre element.",
+    "explanation": "Slicing-syntaksen [start:slutt:steg] kan ha et steg-argument. [::2] betyr: fra start til slutt, med steg 2 (ta hvert andre element). Fra [10, 20, 30, 40, 50] får vi [10, 30, 50]."
+  },
+  {
+    "id": 26,
+    "section": "Output26",
+    "question": "Hva skrives ut?\n\n```python\ndef sjekk(x):\n    if x % 3 == 0:\n        return 'Tre'\n    return 'Ikke tre'\n\nprint(sjekk(9))\n```",
+    "options": [
+      "True",
+      "9",
+      "Ikke tre",
+      "Tre"
+    ],
+    "answerIndex": 3,
+    "shortExplanation": "9 % 3 er 0, så funksjonen returnerer 'Tre'.",
+    "explanation": "9 % 3 gir 0 (9 er delelig med 3). Siden betingelsen er sann, returneres 'Tre' og funksjonen avsluttes. Den andre return-setningen kjøres aldri."
+  },
+  {
+    "id": 27,
+    "section": "Output27",
+    "question": "Hva blir output?\n\n```python\nliste = []\nif liste:\n    print('Har innhold')\nelse:\n    print('Tom')\n```",
+    "options": [
+      "Har innhold",
+      "False",
+      "[]",
+      "Tom"
+    ],
+    "answerIndex": 3,
+    "shortExplanation": "Tom liste evaluerer til False.",
+    "explanation": "I Python evaluerer en tom liste ([]) til False i en boolean-kontekst. Siden listen er tom, går programmet til else-blokken og skriver ut 'Tom'."
+  },
+  {
+    "id": 28,
+    "section": "Output28",
+    "question": "Hva skrives ut?\n\n```python\ntall = [1, 2, 2, 3, 3, 3]\nunik = list(set(tall))\nprint(len(unik))\n```",
+    "options": [
+      "3",
+      "6",
+      "[1, 2, 3]",
+      "Error"
+    ],
+    "answerIndex": 0,
+    "shortExplanation": "set() fjerner duplikater, vi har 3 unike tall.",
+    "explanation": "set(tall) konverterer listen til et sett, som automatisk fjerner duplikater. Fra [1, 2, 2, 3, 3, 3] får vi {1, 2, 3}. list() konverterer tilbake til liste, og len() gir antallet unike elementer: 3."
+  },
+  {
+    "id": 29,
+    "section": "Output29",
+    "question": "Hva blir resultatet?\n\n```python\na = 5\nb = 10\nprint(a if a > b else b)\n```",
+    "options": [
+      "False",
+      "5",
+      "10",
+      "True"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "Ternary operator: siden 5 ikke er større enn 10, returneres b.",
+    "explanation": "Dette er en ternary (betinget) operator: verdi_hvis_sant if betingelse else verdi_hvis_usann. Siden 5 > 10 er False, returneres verdien etter else, som er b (10)."
+  },
+  {
+    "id": 30,
+    "section": "Output30",
+    "question": "Hva skrives ut?\n\n```python\nliste = [1, 2, 3, 4, 5]\nliste.reverse()\nprint(liste[0])\n```",
+    "options": [
+      "[5, 4, 3, 2, 1]",
+      "1",
+      "5",
+      "Error"
+    ],
+    "answerIndex": 2,
+    "shortExplanation": "reverse() snur listen, første element blir 5.",
+    "explanation": "reverse() snur rekkefølgen på elementene i listen. [1, 2, 3, 4, 5] blir [5, 4, 3, 2, 1]. liste[0] gir det første elementet i den snudde listen, som er 5."
+  }
+]

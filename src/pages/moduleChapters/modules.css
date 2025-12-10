@@ -74,6 +74,45 @@
   line-height: 1.5;
 }
 
+.code-snippet-card {
+  background: #1e1e1e;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.code-header {
+  background: #252526;
+  color: #cccccc;
+  padding: 0.5rem 1rem;
+  font-size: 0.75em;
+  border-bottom: 1px solid #1a1a1a;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+.code-display {
+  background: #1e1e1e;
+  margin: 0;
+  padding: 1.5rem;
+  overflow-x: auto;
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  font-size: 0.95em;
+  line-height: 1.6;
+  color: #d4d4d4;
+}
+
+.code-display code {
+  background: transparent;
+  color: #d4d4d4;
+  padding: 0;
+  border: none;
+  font-family: inherit;
+  font-size: inherit;
+  white-space: pre;
+}
+
 .options-list {
   display: flex;
   flex-direction: column;
@@ -252,6 +291,135 @@
   display: inline;
   margin: 0;
   color: #fff;
+}
+
+/* VS Code style code blocks */
+.explanation-text code,
+.explanation-box code,
+.review-explanation code,
+.question-text code {
+  background: #1e1e1e;
+  color: #d4d4d4;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  font-size: 0.9em;
+  border: 1px solid #333;
+}
+
+.explanation-text pre,
+.explanation-box pre,
+.review-explanation pre,
+.question-text pre {
+  background: #1e1e1e;
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 0;
+  margin: 1rem 0;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.explanation-text pre code,
+.explanation-box pre code,
+.review-explanation pre code,
+.question-text pre code {
+  background: transparent;
+  padding: 3rem 1.5rem 1.5rem 3rem;
+  border: none;
+  display: block;
+  color: #d4d4d4;
+  line-height: 1.8;
+  font-size: 0.95em;
+  overflow-x: auto;
+  counter-reset: line;
+  position: relative;
+}
+
+/* Line numbers styling */
+.line-number {
+  display: inline-block;
+  width: 2.5rem;
+  margin-right: 1rem;
+  margin-left: -3rem;
+  padding-left: 0.5rem;
+  color: #858585;
+  text-align: right;
+  user-select: none;
+  background: #252526;
+  border-right: 1px solid #3e3e42;
+}
+
+/* Python syntax highlighting */
+.explanation-text pre code .keyword,
+.explanation-box pre code .keyword,
+.review-explanation pre code .keyword,
+.question-text pre code .keyword {
+  color: #569cd6; /* Blue for keywords like def, if, for, return */
+}
+
+.explanation-text pre code .string,
+.explanation-box pre code .string,
+.review-explanation pre code .string,
+.question-text pre code .string {
+  color: #ce9178; /* Orange for strings */
+}
+
+.explanation-text pre code .number,
+.explanation-box pre code .number,
+.review-explanation pre code .number,
+.question-text pre code .number {
+  color: #b5cea8; /* Light green for numbers */
+}
+
+.explanation-text pre code .function,
+.explanation-box pre code .function,
+.review-explanation pre code .function,
+.question-text pre code .function {
+  color: #dcdcaa; /* Yellow for functions */
+}
+
+.explanation-text pre code .comment,
+.explanation-box pre code .comment,
+.review-explanation pre code .comment,
+.question-text pre code .comment {
+  color: #6a9955; /* Green for comments */
+  font-style: italic;
+}
+
+/* Add VS Code tab bar effect */
+.explanation-text pre::before,
+.explanation-box pre::before,
+.review-explanation pre::before,
+.question-text pre::before {
+  content: '● Python';
+  display: block;
+  background: #252526;
+  color: #cccccc;
+  padding: 0.6rem 1rem;
+  margin: 0;
+  border-bottom: 1px solid #1a1a1a;
+  font-size: 0.8em;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  border-radius: 8px 8px 0 0;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+/* Add VS Code window controls */
+.explanation-text pre::after,
+.explanation-box pre::after,
+.review-explanation pre::after,
+.question-text pre::after {
+  content: '⚊ ⚋ ✕';
+  position: absolute;
+  top: 0.6rem;
+  right: 1rem;
+  color: #858585;
+  font-size: 0.75em;
+  letter-spacing: 0.5em;
+  font-weight: 300;
 }
 
 .navigation-buttons {

@@ -30,7 +30,9 @@ function Home() {
       { id: 'module4a', total: 19 },
       { id: 'module4b', total: 20 },
       { id: 'module5a', total: 24 },
-      { id: 'module5b', total: 25 }
+      { id: 'module5b', total: 25 },
+      { id: 'learnPython', total: 35 },
+      { id: 'pythonCode', total: 30 }
     ]
     
     let totalCompleted = 0
@@ -165,6 +167,7 @@ function Home() {
           <a href="#module4b" className="toc-link">Module 4B</a>
           <a href="#module5a" className="toc-link">Module 5A</a>
           <a href="#module5b" className="toc-link">Module 5B</a>
+          <a href="#learnPython" className="toc-link">Learn Python</a>
         </nav>
       </aside>
       <div className="home-content">
@@ -397,6 +400,33 @@ function Home() {
               <h3>Module 5B</h3>
               <p>Psykologiske aspekter ved konflikter</p>
               <span className="question-count">25 questions</span>
+            </Link>
+          </div>
+        </div>
+
+        <div className="chapter-section" id="learnPython">
+          <h2>🐍 Python Programming</h2>
+          <p className="section-description">Learn the basics of Python programming</p>
+          <div className="chapters-grid">
+            <Link to="/learnPython" className="chapter-button starred">
+              <div className="star-badge">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="#ffd700">
+                  <polygon points="12,2 15,10 23,10 17,15 19,23 12,18 5,23 7,15 1,10 9,10" />
+                </svg>
+              </div>
+              <h3>Intro to Python</h3>
+              <p>Grunnleggende konsepter og syntaks</p>
+              <span className="question-count">35 questions</span>
+            </Link>
+            <Link to="/pythonCode" className="chapter-button starred">
+              <div className="star-badge">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="#ffd700">
+                  <polygon points="12,2 15,10 23,10 17,15 19,23 12,18 5,23 7,15 1,10 9,10" />
+                </svg>
+              </div>
+              <h3>💻 Python Code Challenge</h3>
+              <p>Løs kodeoppgaver og forstå output</p>
+              <span className="question-count">30 questions</span>
             </Link>
           </div>
         </div>
