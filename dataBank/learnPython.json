@@ -221,18 +221,7 @@
     ],
     "answerIndex": 0,
     "shortExplanation": "If-setning sjekker betingelse og kjører kode.",
-    "explanation": "**If-setninger** brukes for å sjekke en betingelse. Hvis betingelsen er sann (True), kjører Python koden som står innenfor if-blokken.
-
-**Regler for if-setninger:**
-- Må alltid ende med kolon (:)
-- Koden inni må være innrykket (4 mellomrom eller tab)
-- Betingelsen må gi True eller False
-
-**Eksempel:**
-if alder >= 18:
-    print('Du er voksen')
-
-Denne koden kjører bare hvis alder er 18 eller høyere. Hvis betingelsen er False, hoppes koden over."
+    "explanation": "**If-setninger** brukes for å sjekke en betingelse. Hvis betingelsen er sann (True), kjører Python koden som står innenfor if-blokken.\n\n**Regler for if-setninger:**\n- Må alltid ende med kolon (:)\n- Koden inni må være innrykket (4 mellomrom eller tab)\n- Betingelsen må gi True eller False\n\n**Eksempel:**\nif alder >= 18:\n    print('Du er voksen')\n\nDenne koden kjører bare hvis alder er 18 eller høyere. Hvis betingelsen er False, hoppes koden over."
   },
   {
     "id": 17,
